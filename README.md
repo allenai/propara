@@ -1,5 +1,5 @@
 # ProPara
-A repository of the state change prediction models used for evaluation in the "Tracking State Changes in Procedural Text: A Challenge Dataset and Models for Process Paragraph Comprehension" paper accepted to NAACL'18. It contains
+A repository of the state change prediction models used for evaluation in the __Tracking State Changes in Procedural Text: A Challenge Dataset and Models for Process Paragraph Comprehension__ paper accepted to NAACL'18. It contains
 two models built using the PyTorch-based deep-learning NLP library, [AllenNLP](http://allennlp.org/).
 
  * ProLocal: A simple local model that takes a sentence and entity as input and predicts state changes happening to the entity. 
