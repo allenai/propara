@@ -61,5 +61,5 @@ If you find these models helpful in your work, please cite:
      Year = {2018}
 }
 
-** Bhavana Davli and Lifu Huang contributed equally to this work.
+** Bhavana Dalvi and Lifu Huang contributed equally to this work.
 ```
