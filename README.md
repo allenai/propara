@@ -55,7 +55,7 @@ You can download the dataset used in the NAACL'18 paper from
 If you find these models helpful in your work, please cite:
 ```
 @inproceedings{proparNaacl2018,
-     Author = {Bhavana Dalvi, Lifu Huang, Niket Tandon, Wen-tau Yih, Peter Clark},
+     Author = { {Bhavana Dalvi, Lifu Huang}, Niket Tandon, Wen-tau Yih, Peter Clark},
      Booktitle = {NAACL},
      Title = {Tracking State Changes in Procedural Text: A Challenge Dataset and Models for Process Paragraph Comprehension},
      Year = {2018}
