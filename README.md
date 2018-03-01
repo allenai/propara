@@ -60,4 +60,6 @@ If you find these models helpful in your work, please cite:
      Title = {Tracking State Changes in Procedural Text: A Challenge Dataset and Models for Process Paragraph Comprehension},
      Year = {2018}
 }
+
+** Bhavana Davli and Lifu Huang contributed equally to this work.
 ```
