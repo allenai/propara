@@ -1,0 +1,48 @@
+{
+  "dataset_reader":{"type":"ProLocalDatasetReader"},
+  "train_data_path": "tests/fixtures/prolocal_toy_data.tsv",
+  "validation_data_path": "tests/fixtures/prolocal_toy_data.tsv",
+    "model": {
+    "type": "ProLocalModel",
+    "text_field_embedder": {
+      "tokens": {
+        "type": "embedding",
+        "embedding_dim": 100,
+        "trainable": true
+      }
+    },
+    "seq2seq_encoder": {
+      "type": "lstm",
+      "bidirectional": true,
+      "input_size": 102,
+      "hidden_size": 50,
+      "num_layers": 2,
+      "dropout": 0.2
+    },
+    "seq2vec_encoder": {
+      "type": "lstm",
+      "bidirectional": true,
+      "input_size": 102,
+      "hidden_size": 50,
+      "num_layers": 2,
+      "dropout": 0.3
+    }
+  },
+  "iterator": {
+    "type": "bucket",
+    "sorting_keys": [["tokens", "num_tokens"]],
+    "batch_size" : 128
+  },
+
+  "trainer": {
+    "num_epochs": 20,
+    "grad_clipping": 1.0,
+    "patience": 20,
+    "validation_metric": "-loss",
+    "cuda_device": -1,
+    "optimizer": {
+      "type": "adadelta",
+      "rho": 0.95
+    }
+  }
+}

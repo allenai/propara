@@ -1,0 +1,2 @@
+Plants####absorb####water####from####the####soil    0,1,0,0,0,0 0,0,1,0,0,0 MOVE    B-LOC-TO,O,O,O,B-LOC-FROM,I-LOC-FROM
+Rocks####in####the####shore####break 0,0,0,0,1   1,0,0,0,0   DESTROY O,O,B-LOC-FROM,I-LOC-FROM,O
