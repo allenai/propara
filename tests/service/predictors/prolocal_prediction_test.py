@@ -14,5 +14,4 @@ class TestStateChangePredictor(TestCase):
         archive = load_archive('tests/fixtures/prolocal_toy_model.tar.gz')
         predictor = Predictor.from_archive(archive, 'prolocal-prediction')
         result = predictor.predict_json(inputs)
-
-        print(result)
+        assert(len(result) > 0)
