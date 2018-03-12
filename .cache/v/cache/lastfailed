@@ -1,0 +1,4 @@
+{
+  "tests/data/proglobal_dataset_reader_test.py": true, 
+  "tests/models/proglobal_model_test.py": true
+}
