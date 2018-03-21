@@ -5,7 +5,6 @@ from overrides import overrides
 import tqdm
 
 from allennlp.common import Params
-from allennlp.common.checks import ConfigurationError
 from allennlp.common.file_utils import cached_path
 from allennlp.data.dataset_readers.dataset_reader import DatasetReader
 from allennlp.data.instance import Instance
@@ -38,7 +37,9 @@ class ProLocalDatasetReader(DatasetReader):
     """
 
     def __init__(self,
-                 token_indexers: Dict[str, TokenIndexer] = None) -> None:
+                 token_indexers: Dict[str, TokenIndexer] = None,
+                 lazy: bool = False) -> None:
+        super().__init__(lazy)
         self._token_indexers = token_indexers or {'tokens': SingleIdTokenIndexer()}
 
     @overrides
