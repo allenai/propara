@@ -67,8 +67,9 @@ class ProLocalModel(Model):
             Attention(similarity_function=BilinearSimilarity(2 * seq2seq_encoder.get_output_dim(),
                                                              seq2seq_encoder.get_output_dim()), normalize=True)
 
+        self.num_types = self.vocab.get_vocab_size("state_change_type_labels")
         self.aggregate_feedforward = Linear(seq2seq_encoder.get_output_dim(),
-                                            self.vocab.get_vocab_size("state_change_type_labels"))
+                                            self.num_types)
 
         self.span_metric = SpanBasedF1Measure(vocab,
                                               tag_namespace="state_change_tags")  # by default "O" is ignored in metric computation
@@ -163,11 +164,11 @@ class ProLocalModel(Model):
         # Layer 5 = Dense softmax layer to pick one state change type per datapoint,
         # and one tag per word in the sentence
         type_logits = self.aggregate_feedforward(attention_output_vector)
-        type_probs = torch.nn.functional.softmax(type_logits)
+        type_probs = torch.nn.functional.softmax(type_logits, dim=-1)
 
         tags_logits = self.tag_projection_layer(context_positional_tags)
         reshaped_log_probs = tags_logits.view(-1, self.num_tags)
-        tags_class_probabilities = F.softmax(reshaped_log_probs).view([batch_size, sequence_length, self.num_tags])
+        tags_class_probabilities = F.softmax(reshaped_log_probs, dim=-1).view([batch_size, sequence_length, self.num_tags])
 
         # Create output dictionary for the trainer
         # Compute loss and epoch metrics

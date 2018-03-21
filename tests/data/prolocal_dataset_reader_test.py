@@ -1,5 +1,6 @@
 # pylint: disable=no-self-use,invalid-name
 from allennlp.common.testing import AllenNlpTestCase
+from allennlp.common.util import ensure_list
 
 from propara.data.prolocal_dataset_reader import ProLocalDatasetReader
 
@@ -7,8 +8,8 @@ from propara.data.prolocal_dataset_reader import ProLocalDatasetReader
 class TestStateChangeDatasetReader(AllenNlpTestCase):
     def test_read_from_file(self):
         sc_reader = ProLocalDatasetReader()
-        dataset = sc_reader.read('tests/fixtures/prolocal_toy_data.tsv')
-        instances = dataset.instances
+        instances = sc_reader.read('tests/fixtures/prolocal_toy_data.tsv')
+        instances = ensure_list(instances)
 
         # read first instance
         fields = instances[0].fields

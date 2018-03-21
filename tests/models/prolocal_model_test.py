@@ -5,9 +5,9 @@ from flaky import flaky
 from propara.data.prolocal_dataset_reader import ProLocalDatasetReader
 from propara.models.prolocal_model import ProLocalModel
 
-class StateChangeAttentionModelTest(ModelTestCase):
+class ProLocalModelTest(ModelTestCase):
     def setUp(self):
-        super(StateChangeAttentionModelTest, self).setUp()
+        super(ProLocalModelTest, self).setUp()
         self.set_up_model('tests/fixtures/prolocal_params.json', 'tests/fixtures/prolocal_toy_data.tsv')
 
     def test_state_change_model_can_train_save_and_load(self):

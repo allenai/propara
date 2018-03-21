@@ -7,7 +7,6 @@ import tqdm
 from allennlp.common import Params
 from allennlp.common.checks import ConfigurationError
 from allennlp.common.file_utils import cached_path
-from allennlp.data.dataset import Dataset
 from allennlp.data.dataset_readers.dataset_reader import DatasetReader
 from allennlp.data.instance import Instance
 from allennlp.data.token_indexers import TokenIndexer, SingleIdTokenIndexer
@@ -43,7 +42,7 @@ class ProLocalDatasetReader(DatasetReader):
         self._token_indexers = token_indexers or {'tokens': SingleIdTokenIndexer()}
 
     @overrides
-    def read(self, file_path: str):
+    def _read(self, file_path: str):
         # if `file_path` is a URL, redirect to the cache
         file_path = cached_path(file_path)
 
@@ -64,15 +63,12 @@ class ProLocalDatasetReader(DatasetReader):
                 state_change_tags = parts[4].split(",")
 
                 # create instance
-                instances.append(self.text_to_instance(sentence_tokens=sentence_tokens,
+                yield self.text_to_instance(sentence_tokens=sentence_tokens,
                                                        verb_vector=verb_vector,
                                                        entity_vector=entity_vector,
                                                        state_change_types=state_change_types,
-                                                       state_change_tags=state_change_tags))
-        if not instances:
-            raise ConfigurationError("No instances were read from the given filepath {}. "
-                                     "Is the path correct?".format(file_path))
-        return Dataset(instances)
+                                                       state_change_tags=state_change_tags)
+
 
     @overrides
     def text_to_instance(self,  # type: ignore
