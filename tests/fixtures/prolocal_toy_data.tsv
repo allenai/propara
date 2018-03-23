@@ -1,2 +1,4 @@
-Plants####absorb####water####from####the####soil    0,1,0,0,0,0 0,0,1,0,0,0 MOVE    B-LOC-TO,O,O,O,B-LOC-FROM,I-LOC-FROM
+Green####plants####absorb####water####from####the####soil    0,0,1,0,0,0,0 0,0,0,1,0,0,0 MOVE    B-LOC-TO,I-LOC-TO,O,O,O,B-LOC-FROM,I-LOC-FROM
 Rocks####in####the####shore####break 0,0,0,0,1   1,0,0,0,0   DESTROY O,O,B-LOC-FROM,I-LOC-FROM,O
+Rocks####in####the####shore####break 0,0,0,0,1   0,0,1,1,0   NONE	O,O,O,O,O
+Plants####produce####sugar####at####leaf 0,1,0,0,0   0,0,1,0,0   CREATE O,O,O,O,B-LOC-FROM

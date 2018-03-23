@@ -1,3 +1,3 @@
-git+https://github.com/allenai/allennlp.git@69134a251a68e8975e1216fce84f18fe32db2b31#egg=allennlp
+allennlp==0.4.0
 pytest
 flaky

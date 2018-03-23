@@ -27,11 +27,12 @@ These models can be trained and evaluated as described below.
   sh scripts/install_requirements.sh
   ```
 
-4. Install pytorch as per instructions on <http://pytorch.org/>. Commands as of Nov. 22, 2017:
+4. Install pytorch version torch (0.3.1) as per instructions on <http://pytorch.org/>. 
+   Commands as of Mar. 20, 2018:
 
-  Linux/Mac (no CUDA): `conda install pytorch torchvision -c soumith`
+  Mac (no CUDA): `pip3 install http://download.pytorch.org/whl/torch-0.3.1-cp36-cp36m-macosx_10_7_x86_64.whl`
 
-  Linux   (with CUDA): `conda install pytorch torchvision cuda80 -c soumith`
+  Linux   (no CUDA): `pip3 install http://download.pytorch.org/whl/cpu/torch-0.3.1-cp36-cp36m-linux_x86_64.whl `
 
 
 6. Test installation
