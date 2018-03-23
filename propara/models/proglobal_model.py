@@ -163,7 +163,8 @@ class ProGlobal(Model):
                                 input_sent_pos_embedding_paragraph], dim=-1)
 
         # batchsize * listLength * paragraphSize,  this mask is shared with the text fields and sequence label fields
-        para_mask = util.get_text_field_mask(tokens_list).float()
+        para_mask = util.get_text_field_mask(tokens_list, num_wrapping_dims=1).float()
+
         # batchsize * listLength ,  this mask is shared with the index fields
         para_index_mask, para_index_mask_indices = torch.max(para_mask, 2)
 
@@ -365,7 +366,7 @@ class ProGlobal(Model):
 
         output_dict = {}
         output_dict["best_span"] = merged_sys_span.view(1, merged_sys_span.size(0)*merged_sys_span.size(1))
-        output_dict["true_span"] = merged_gold_span.view(1, merged_sys_span.size(0)*merged_sys_span.size(1))
+        output_dict["true_span"] = merged_gold_span.view(1, merged_gold_span.size(0)*merged_gold_span.size(1))
         output_dict["loss"] = loss
         return output_dict
 

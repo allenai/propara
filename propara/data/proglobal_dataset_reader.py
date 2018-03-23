@@ -6,7 +6,6 @@ from allennlp.common import Params
 from allennlp.data.dataset_readers.dataset_reader import DatasetReader
 from allennlp.common.checks import ConfigurationError
 from allennlp.common.file_utils import cached_path
-from allennlp.data.dataset import Dataset
 from allennlp.data.instance import Instance
 from allennlp.data.fields.field import Field
 from allennlp.data.token_indexers import TokenIndexer, SingleIdTokenIndexer
@@ -46,11 +45,10 @@ class ProGlobalDatasetReader(DatasetReader):
         self._sent_position_indexers = sent_position_indexers or {'sent_positions_list': SingleIdTokenIndexer()}
 
     @overrides
-    def read(self, file_path: str):
+    def _read(self, file_path: str):
         file_path = cached_path(file_path)
         tokenizer = JustSpacesWordSplitter()
 
-        instances = []
         with open(file_path, 'r') as f:
             while True:
                 headline = f.readline()
@@ -156,16 +154,12 @@ class ProGlobalDatasetReader(DatasetReader):
                     after_category_mask_list.append(after_category_mask)
                     after_loc_start_list.append(after_loc_start)
                     after_loc_end_list.append(after_loc_end)
-                instances.append(self.text_to_instance([sents_list, sents_anno_list, word_pos_list, part_mask_list,
+                yield self.text_to_instance([sents_list, sents_anno_list, word_pos_list, part_mask_list,
                                                         before_category_status_list, before_category_mask_list,
                                                         before_loc_start_list, before_loc_end_list,
                                                         after_category_status_list, after_category_mask_list,
-                                                        after_loc_start_list, after_loc_end_list]))
-            if not instances:
-                raise ConfigurationError("No instances were read from the given filepath {}. "
-                                         "Is the path correct?".format(file_path))
+                                                        after_loc_start_list, after_loc_end_list])
 
-        return Dataset(instances)
 
     @overrides
     def text_to_instance(self, inputs):
