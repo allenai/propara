@@ -4,12 +4,11 @@ from overrides import overrides
 
 from allennlp.common import Params
 from allennlp.data.dataset_readers.dataset_reader import DatasetReader
-from allennlp.common.checks import ConfigurationError
 from allennlp.common.file_utils import cached_path
 from allennlp.data.instance import Instance
 from allennlp.data.fields.field import Field
 from allennlp.data.token_indexers import TokenIndexer, SingleIdTokenIndexer
-from allennlp.data.fields import TextField, IndexField, LabelField, SequenceField, ListField, SequenceLabelField, MetadataField
+from allennlp.data.fields import TextField, IndexField, LabelField, ListField, SequenceLabelField
 from allennlp.data.tokenizers.word_splitter import JustSpacesWordSplitter
 
 @DatasetReader.register("ProGlobalDatasetReader")
