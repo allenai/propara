@@ -48,9 +48,10 @@ You can download the dataset used in the NAACL'18 paper from
    http://data.allenai.org/propara/
   ``` 
 
-# Evaluate the models on ProPara dataset
+# Evaluate the models on ProPara dataset.
+Example command to run eval script:
    ```
-     python eval/evalQA.py  data/para_ids.txt  data/gold_labels.test.tsv   <model-predictions-file-path>
+     python propara/eval/evalQA.py tests/fixtures/eval/para_id.test.txt tests/fixtures/eval/gold_labels.test.tsv tests/fixtures/eval/sample.model.test_predictions.tsv
    ```
 
 If you find these models helpful in your work, please cite:

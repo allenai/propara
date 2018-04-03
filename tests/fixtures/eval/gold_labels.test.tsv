@@ -1,0 +1,3640 @@
+927	1	rain	before	unk	1.0
+927	1	rain	after	unk	0.8	ground	0.2
+927	2	rain	before	unk	0.8	ground	0.2
+927	2	rain	after	null	1.0
+927	3	rain	before	null	1.0
+927	3	rain	after	null	1.0
+927	4	rain	before	null	1.0
+927	4	rain	after	null	1.0
+927	5	rain	before	null	1.0
+927	5	rain	after	null	1.0
+927	6	rain	before	null	1.0
+927	6	rain	after	null	1.0
+927	1	plants	before	unk	0.4	land	0.2	ground	0.4
+927	1	plants	after	unk	0.4	land	0.2	ground	0.4
+927	2	plants	before	unk	0.4	land	0.2	ground	0.4
+927	2	plants	after	unk	0.4	land	0.2	ground	0.4
+927	3	plants	before	unk	0.4	land	0.2	ground	0.4
+927	3	plants	after	unk	0.4	land	0.2	ground	0.4
+927	4	plants	before	unk	0.4	land	0.2	ground	0.4
+927	4	plants	after	unk	0.4	land	0.2	ground	0.4
+927	5	plants	before	unk	0.4	land	0.2	ground	0.4
+927	5	plants	after	null	1.0
+927	6	plants	before	null	1.0
+927	6	plants	after	null	1.0
+927	1	land	before	unk	0.8	ground	0.2
+927	1	land	after	unk	0.8	ground	0.2
+927	2	land	before	unk	0.8	ground	0.2
+927	2	land	after	unk	0.8	ground	0.2
+927	3	land	before	unk	0.8	ground	0.2
+927	3	land	after	unk	0.8	ground	0.2
+927	4	land	before	unk	0.8	ground	0.2
+927	4	land	after	unk	0.8	ground	0.2
+927	5	land	before	unk	0.8	ground	0.2
+927	5	land	after	null	1.0
+927	6	land	before	null	1.0
+927	6	land	after	null	1.0
+927	1	rain water	before	null	1.0
+927	1	rain water	after	null	1.0
+927	2	rain water	before	null	1.0
+927	2	rain water	after	unk	0.1	ground	0.9
+927	3	rain water	before	unk	0.1	ground	0.9
+927	3	rain water	after	unk	0.2	ground	0.7	soil	0.1
+927	4	rain water	before	unk	0.2	ground	0.7	soil	0.1
+927	4	rain water	after	unk	0.1	ground	0.9
+927	5	rain water	before	unk	0.1	ground	0.9
+927	5	rain water	after	unk	0.2	ground	0.8
+927	6	rain water	before	unk	0.2	ground	0.8
+927	6	rain water	after	unk	0.2	ground	0.8
+927	1	water	before	null	1.0
+927	1	water	after	null	1.0
+927	2	water	before	null	1.0
+927	2	water	after	unk	0.1	ground	0.9
+927	3	water	before	unk	0.1	ground	0.9
+927	3	water	after	unk	0.2	ground	0.7	soil	0.1
+927	4	water	before	unk	0.2	ground	0.7	soil	0.1
+927	4	water	after	unk	0.1	ground	0.9
+927	5	water	before	unk	0.1	ground	0.9
+927	5	water	after	unk	0.2	ground	0.8
+927	6	water	before	unk	0.2	ground	0.8
+927	6	water	after	unk	0.2	ground	0.8
+927	1	trees	before	unk	0.4	land	0.2	ground	0.4
+927	1	trees	after	unk	0.4	land	0.2	ground	0.4
+927	2	trees	before	unk	0.4	land	0.2	ground	0.4
+927	2	trees	after	unk	0.4	land	0.2	ground	0.4
+927	3	trees	before	unk	0.4	land	0.2	ground	0.4
+927	3	trees	after	unk	0.4	land	0.2	ground	0.4
+927	4	trees	before	unk	0.4	land	0.2	ground	0.4
+927	4	trees	after	unk	0.4	land	0.2	ground	0.4
+927	5	trees	before	unk	0.4	land	0.2	ground	0.4
+927	5	trees	after	null	1.0
+927	6	trees	before	null	1.0
+927	6	trees	after	null	1.0
+1240	1	heat	before	unk	0.6	air	0.4
+1240	1	heat	after	unk	0.6	air	0.4
+1240	2	heat	before	unk	0.6	air	0.4
+1240	2	heat	after	coil	0.4	refrigerant	0.6
+1240	3	heat	before	coil	0.4	refrigerant	0.6
+1240	3	heat	after	coil	0.4	gas	0.2	refrigerant	0.4
+1240	4	heat	before	coil	0.4	gas	0.2	refrigerant	0.4
+1240	4	heat	after	coil	0.4	gas	0.2	refrigerant	0.4
+1240	5	heat	before	coil	0.4	gas	0.2	refrigerant	0.4
+1240	5	heat	after	coil	0.4	gas	0.2	refrigerant	0.4
+1240	6	heat	before	coil	0.4	gas	0.2	refrigerant	0.4
+1240	6	heat	after	null	1.0
+1240	7	heat	before	null	1.0
+1240	7	heat	after	null	1.0
+1240	8	heat	before	null	1.0
+1240	8	heat	after	null	1.0
+1240	1	liquid	before	null	1.0
+1240	1	liquid	after	null	1.0
+1240	2	liquid	before	null	1.0
+1240	2	liquid	after	null	1.0
+1240	3	liquid	before	null	1.0
+1240	3	liquid	after	null	1.0
+1240	4	liquid	before	null	1.0
+1240	4	liquid	after	null	1.0
+1240	5	liquid	before	null	1.0
+1240	5	liquid	after	unk	0.5	condenser	0.5
+1240	6	liquid	before	unk	0.5	condenser	0.5
+1240	6	liquid	after	evaporator	0.125	condenser	0.875
+1240	7	liquid	before	evaporator	0.125	condenser	0.875
+1240	7	liquid	after	evaporator	0.14285714285714285	condenser	0.8571428571428571
+1240	8	liquid	before	evaporator	0.14285714285714285	condenser	0.8571428571428571
+1240	8	liquid	after	evaporator	1.0
+1240	1	air	before	fan	0.2	unk	0.8
+1240	1	air	after	coil	0.3	unk	0.1	evaporator 's coil	0.6
+1240	2	air	before	coil	0.3	unk	0.1	evaporator 's coil	0.6
+1240	2	air	after	coil	0.2	unk	0.3	evaporator 's coil	0.5
+1240	3	air	before	coil	0.2	unk	0.3	evaporator 's coil	0.5
+1240	3	air	after	coil	0.2	unk	0.4	evaporator 's coil	0.4
+1240	4	air	before	coil	0.2	unk	0.4	evaporator 's coil	0.4
+1240	4	air	after	coil	0.2	unk	0.4	evaporator 's coil	0.2	compressor	0.2
+1240	5	air	before	coil	0.2	unk	0.4	evaporator 's coil	0.2	compressor	0.2
+1240	5	air	after	coil	0.2	unk	0.4	evaporator 's coil	0.2	condenser	0.2
+1240	6	air	before	coil	0.2	unk	0.4	evaporator 's coil	0.2	condenser	0.2
+1240	6	air	after	coil	0.2	unk	0.4	evaporator 's coil	0.2	condenser	0.2
+1240	7	air	before	coil	0.2	unk	0.4	evaporator 's coil	0.2	condenser	0.2
+1240	7	air	after	coil	0.2	unk	0.4	evaporator 's coil	0.2	condenser	0.2
+1240	8	air	before	coil	0.2	unk	0.4	evaporator 's coil	0.2	condenser	0.2
+1240	8	air	after	coil	0.2	unk	0.4	evaporator 's coil	0.2	condenser	0.2
+932	1	rocks	before	unk	0.8	water	0.2
+932	1	rocks	after	unk	0.8	water	0.2
+932	2	rocks	before	unk	0.8	water	0.2
+932	2	rocks	after	unk	0.8	water	0.2
+932	3	rocks	before	unk	0.8	water	0.2
+932	3	rocks	after	unk	0.8	water	0.2
+932	4	rocks	before	unk	0.8	water	0.2
+932	4	rocks	after	unk	0.8	water	0.2
+932	5	rocks	before	unk	0.8	water	0.2
+932	5	rocks	after	unk	0.8	water	0.2
+932	6	rocks	before	unk	0.8	water	0.2
+932	6	rocks	after	unk	0.8	water	0.2
+932	1	water	before	rock	0.2	unk	0.8
+932	1	water	after	rock	0.8	unk	0.2
+932	2	water	before	rock	0.8	unk	0.2
+932	2	water	after	rock	0.8	unk	0.2
+932	3	water	before	rock	0.8	unk	0.2
+932	3	water	after	rock	0.7	unk	0.3
+932	4	water	before	rock	0.7	unk	0.3
+932	4	water	after	rock	0.6	unk	0.4
+932	5	water	before	rock	0.6	unk	0.4
+932	5	water	after	rock	0.6	unk	0.4
+932	6	water	before	rock	0.6	unk	0.4
+932	6	water	after	rock	0.6	unk	0.4
+932	1	chemicals	before	unk	0.4	water	0.6
+932	1	chemicals	after	unk	0.3	water	0.7
+932	2	chemicals	before	unk	0.3	water	0.7
+932	2	chemicals	after	unk	0.2	water	0.8
+932	3	chemicals	before	unk	0.2	water	0.8
+932	3	chemicals	after	rock	0.3	unk	0.3	water	0.4
+932	4	chemicals	before	rock	0.3	unk	0.3	water	0.4
+932	4	chemicals	after	rock	0.2	unk	0.4	water	0.4
+932	5	chemicals	before	rock	0.2	unk	0.4	water	0.4
+932	5	chemicals	after	rock	0.2	unk	0.4	water	0.4
+932	6	chemicals	before	rock	0.2	unk	0.4	water	0.4
+932	6	chemicals	after	rock	0.2	unk	0.4	water	0.4
+932	1	oxygen	before	unk	0.4	air	0.6
+932	1	oxygen	after	unk	0.4	air	0.6
+932	2	oxygen	before	unk	0.4	air	0.6
+932	2	oxygen	after	unk	0.4	air	0.6
+932	3	oxygen	before	unk	0.4	air	0.6
+932	3	oxygen	after	unk	0.4	air	0.6
+932	4	oxygen	before	unk	0.4	air	0.6
+932	4	oxygen	after	unk	0.4	air	0.6
+932	5	oxygen	before	unk	0.4	air	0.6
+932	5	oxygen	after	rock	0.2	unk	0.4	air	0.4
+932	6	oxygen	before	rock	0.2	unk	0.4	air	0.4
+932	6	oxygen	after	rock	0.2	unk	0.4	air	0.4
+933	1	rock	before	unk	0.8	mineral base material	0.2
+933	1	rock	after	unk	0.8	mineral base material	0.2
+933	2	rock	before	unk	0.8	mineral base material	0.2
+933	2	rock	after	unk	0.8	mineral base material	0.2
+933	3	rock	before	unk	0.8	mineral base material	0.2
+933	3	rock	after	unk	0.8	mineral base material	0.2
+933	4	rock	before	unk	0.8	mineral base material	0.2
+933	4	rock	after	unk	0.8	mineral base material	0.2
+933	5	rock	before	unk	0.8	mineral base material	0.2
+933	5	rock	after	unk	0.8	mineral base material	0.2
+933	1	carbon dioxide	before	unk	1.0
+933	1	carbon dioxide	after	unk	0.8	water	0.2
+933	2	carbon dioxide	before	unk	0.8	water	0.2
+933	2	carbon dioxide	after	unk	0.8	water	0.2
+933	3	carbon dioxide	before	unk	0.8	water	0.2
+933	3	carbon dioxide	after	rock	0.2	unk	0.4	mineral base material	0.2	water	0.2
+933	4	carbon dioxide	before	rock	0.2	unk	0.4	mineral base material	0.2	water	0.2
+933	4	carbon dioxide	after	rock	0.4	unk	0.5	water	0.1
+933	5	carbon dioxide	before	rock	0.4	unk	0.5	water	0.1
+933	5	carbon dioxide	after	rock	0.4	unk	0.6
+933	1	mineral based material	before	unk	1.0
+933	1	mineral based material	after	unk	1.0
+933	2	mineral based material	before	unk	1.0
+933	2	mineral based material	after	unk	1.0
+933	3	mineral based material	before	unk	1.0
+933	3	mineral based material	after	unk	1.0
+933	4	mineral based material	before	unk	1.0
+933	4	mineral based material	after	unk	1.0
+933	5	mineral based material	before	unk	1.0
+933	5	mineral based material	after	unk	1.0
+933	1	water	before	carbon dioxide	0.2	unk	0.8
+933	1	water	after	carbon dioxide	0.2	unk	0.8
+933	2	water	before	carbon dioxide	0.2	unk	0.8
+933	2	water	after	carbon dioxide	0.2	unk	0.8
+933	3	water	before	carbon dioxide	0.2	unk	0.8
+933	3	water	after	rock	0.2	unk	0.1	mineral base material	0.7
+933	4	water	before	rock	0.2	unk	0.1	mineral base material	0.7
+933	4	water	after	rock	0.4	unk	0.3	mineral base material	0.3
+933	5	water	before	rock	0.4	unk	0.3	mineral base material	0.3
+933	5	water	after	rock	0.4	unk	0.4	mineral base material	0.2
+1033	1	rock	before	null	1.0
+1033	1	rock	after	null	1.0
+1033	2	rock	before	null	1.0
+1033	2	rock	after	null	1.0
+1033	3	rock	before	null	1.0
+1033	3	rock	after	null	1.0
+1033	4	rock	before	null	1.0
+1033	4	rock	after	around the skeleton	0.4	unk	0.6
+1033	5	rock	before	around the skeleton	0.4	unk	0.6
+1033	5	rock	after	around the skeleton	0.4	unk	0.6
+1033	6	rock	before	around the skeleton	0.4	unk	0.6
+1033	6	rock	after	around the skeleton	0.4	unk	0.6
+1033	1	skeleton	before	null	1.0
+1033	1	skeleton	after	null	1.0
+1033	2	skeleton	before	null	1.0
+1033	2	skeleton	after	null	1.0
+1033	3	skeleton	before	null	1.0
+1033	3	skeleton	after	unk	0.1	mud	0.9
+1033	4	skeleton	before	unk	0.1	mud	0.9
+1033	4	skeleton	after	rock	0.4	unk	0.2	mud	0.2	inside rock	0.2
+1033	5	skeleton	before	rock	0.4	unk	0.2	mud	0.2	inside rock	0.2
+1033	5	skeleton	after	null	1.0
+1033	6	skeleton	before	null	1.0
+1033	6	skeleton	after	null	1.0
+1033	1	animal	before	unk	1.0
+1033	1	animal	after	unk	0.8	mud	0.2
+1033	2	animal	before	unk	0.8	mud	0.2
+1033	2	animal	after	mud	1.0
+1033	3	animal	before	mud	1.0
+1033	3	animal	after	null	1.0
+1033	4	animal	before	null	1.0
+1033	4	animal	after	null	1.0
+1033	5	animal	before	null	1.0
+1033	5	animal	after	null	1.0
+1033	6	animal	before	null	1.0
+1033	6	animal	after	null	1.0
+1033	1	mold	before	null	1.0
+1033	1	mold	after	null	1.0
+1033	2	mold	before	null	1.0
+1033	2	mold	after	null	1.0
+1033	3	mold	before	null	1.0
+1033	3	mold	after	null	1.0
+1033	4	mold	before	null	1.0
+1033	4	mold	after	null	1.0
+1033	5	mold	before	null	1.0
+1033	5	mold	after	unk	0.3	mud	0.7
+1033	6	mold	before	unk	0.3	mud	0.7
+1033	6	mold	after	mud	1.0
+1032	1	rock	before	null	1.0
+1032	1	rock	after	null	1.0
+1032	2	rock	before	null	1.0
+1032	2	rock	after	null	1.0
+1032	3	rock	before	null	1.0
+1032	3	rock	after	null	1.0
+1032	4	rock	before	null	1.0
+1032	4	rock	after	null	1.0
+1032	5	rock	before	null	1.0
+1032	5	rock	after	null	1.0
+1032	6	rock	before	null	1.0
+1032	6	rock	after	rock	0.2	remains	0.4	mud	0.2	sediment	0.2
+1032	1	plants	before	wet environment .	0.2	unk	0.2	wet environment	0.6
+1032	1	plants	after	wet environment .	0.2	wet environment	0.8
+1032	2	plants	before	wet environment .	0.2	wet environment	0.8
+1032	2	plants	after	mud .	0.1	mud	0.9
+1032	3	plants	before	mud .	0.1	mud	0.9
+1032	3	plants	after	null	1.0
+1032	4	plants	before	null	1.0
+1032	4	plants	after	null	1.0
+1032	5	plants	before	null	1.0
+1032	5	plants	after	null	1.0
+1032	6	plants	before	null	1.0
+1032	6	plants	after	null	1.0
+1032	1	remains	before	null	1.0
+1032	1	remains	after	null	1.0
+1032	2	remains	before	null	1.0
+1032	2	remains	after	null	1.0
+1032	3	remains	before	null	1.0
+1032	3	remains	after	mud	1.0
+1032	4	remains	before	mud	1.0
+1032	4	remains	after	mud .	0.1	mud	0.8	sediment	0.1
+1032	5	remains	before	mud .	0.1	mud	0.8	sediment	0.1
+1032	5	remains	after	null	1.0
+1032	6	remains	before	null	1.0
+1032	6	remains	after	null	1.0
+1032	1	animals	before	wet environment .	0.2	unk	0.2	wet environment	0.6
+1032	1	animals	after	wet environment .	0.2	wet environment	0.8
+1032	2	animals	before	wet environment .	0.2	wet environment	0.8
+1032	2	animals	after	mud .	0.1	mud	0.9
+1032	3	animals	before	mud .	0.1	mud	0.9
+1032	3	animals	after	null	1.0
+1032	4	animals	before	null	1.0
+1032	4	animals	after	null	1.0
+1032	5	animals	before	null	1.0
+1032	5	animals	after	null	1.0
+1032	6	animals	before	null	1.0
+1032	6	animals	after	null	1.0
+1032	1	bones and hard tissues	before	null	1.0
+1032	1	bones and hard tissues	after	null	1.0
+1032	2	bones and hard tissues	before	null	1.0
+1032	2	bones and hard tissues	after	null	1.0
+1032	3	bones and hard tissues	before	null	1.0
+1032	3	bones and hard tissues	after	mud	1.0
+1032	4	bones and hard tissues	before	mud	1.0
+1032	4	bones and hard tissues	after	mud .	0.1	mud	0.8	sediment	0.1
+1032	5	bones and hard tissues	before	mud .	0.1	mud	0.8	sediment	0.1
+1032	5	bones and hard tissues	after	null	1.0
+1032	6	bones and hard tissues	before	null	1.0
+1032	6	bones and hard tissues	after	null	1.0
+1032	1	sediment	before	null	1.0
+1032	1	sediment	after	null	1.0
+1032	2	sediment	before	null	1.0
+1032	2	sediment	after	null	1.0
+1032	3	sediment	before	null	1.0
+1032	3	sediment	after	null	1.0
+1032	4	sediment	before	null	1.0
+1032	4	sediment	after	null	1.0
+1032	5	sediment	before	null	1.0
+1032	5	sediment	after	remains	0.6	mud	0.2	sediment	0.2
+1032	6	sediment	before	remains	0.6	mud	0.2	sediment	0.2
+1032	6	sediment	after	null	1.0
+1031	1	rock	before	null	1.0
+1031	1	rock	after	null	1.0
+1031	2	rock	before	null	1.0
+1031	2	rock	after	null	1.0
+1031	3	rock	before	null	1.0
+1031	3	rock	after	null	1.0
+1031	4	rock	before	null	1.0
+1031	4	rock	after	rock	0.1	unk	0.4	mud	0.2	sediment	0.2	mud or soil	0.1
+1031	5	rock	before	rock	0.1	unk	0.4	mud	0.2	sediment	0.2	mud or soil	0.1
+1031	5	rock	after	null	1.0
+1031	1	bones	before	null	1.0
+1031	1	bones	after	animal	0.1	mud	0.1	mud or soil	0.8
+1031	2	bones	before	animal	0.1	mud	0.1	mud or soil	0.8
+1031	2	bones	after	animal	0.1	mud	0.1	mud or soil	0.7	sediment	0.1
+1031	3	bones	before	animal	0.1	mud	0.1	mud or soil	0.7	sediment	0.1
+1031	3	bones	after	null	1.0
+1031	4	bones	before	null	1.0
+1031	4	bones	after	null	1.0
+1031	5	bones	before	null	1.0
+1031	5	bones	after	null	1.0
+1031	1	plant or animal	before	unk	0.2	mud or soil	0.8
+1031	1	plant or animal	after	null	1.0
+1031	2	plant or animal	before	null	1.0
+1031	2	plant or animal	after	null	1.0
+1031	3	plant or animal	before	null	1.0
+1031	3	plant or animal	after	null	1.0
+1031	4	plant or animal	before	null	1.0
+1031	4	plant or animal	after	null	1.0
+1031	5	plant or animal	before	null	1.0
+1031	5	plant or animal	after	null	1.0
+1031	1	fossil	before	null	1.0
+1031	1	fossil	after	null	1.0
+1031	2	fossil	before	null	1.0
+1031	2	fossil	after	null	1.0
+1031	3	fossil	before	null	1.0
+1031	3	fossil	after	null	1.0
+1031	4	fossil	before	null	1.0
+1031	4	fossil	after	null	1.0
+1031	5	fossil	before	null	1.0
+1031	5	fossil	after	rock	0.6	unk	0.2	mud	0.2
+1031	1	sediment	before	null	1.0
+1031	1	sediment	after	null	1.0
+1031	2	sediment	before	null	1.0
+1031	2	sediment	after	null	1.0
+1031	3	sediment	before	null	1.0
+1031	3	sediment	after	unk	0.2	mud	0.2	mud or soil	0.6
+1031	4	sediment	before	unk	0.2	mud	0.2	mud or soil	0.6
+1031	4	sediment	after	null	1.0
+1031	5	sediment	before	null	1.0
+1031	5	sediment	after	null	1.0
+1147	1	hydrogen atoms	before	star	1.0
+1147	1	hydrogen atoms	after	null	1.0
+1147	2	hydrogen atoms	before	null	1.0
+1147	2	hydrogen atoms	after	null	1.0
+1147	3	hydrogen atoms	before	null	1.0
+1147	3	hydrogen atoms	after	null	1.0
+1147	4	hydrogen atoms	before	null	1.0
+1147	4	hydrogen atoms	after	null	1.0
+1147	5	hydrogen atoms	before	null	1.0
+1147	5	hydrogen atoms	after	null	1.0
+1147	6	hydrogen atoms	before	null	1.0
+1147	6	hydrogen atoms	after	null	1.0
+1147	1	star	before	unk	0.8	star	0.2
+1147	1	star	after	unk	0.8	star	0.2
+1147	2	star	before	unk	0.8	star	0.2
+1147	2	star	after	unk	0.8	star	0.2
+1147	3	star	before	unk	0.8	star	0.2
+1147	3	star	after	unk	0.8	star	0.2
+1147	4	star	before	unk	0.8	star	0.2
+1147	4	star	after	unk	0.8	star	0.2
+1147	5	star	before	unk	0.8	star	0.2
+1147	5	star	after	unk	0.8	star	0.2
+1147	6	star	before	unk	0.8	star	0.2
+1147	6	star	after	unk	0.8	star	0.2
+1147	1	carbon atoms	before	null	1.0
+1147	1	carbon atoms	after	null	1.0
+1147	2	carbon atoms	before	null	1.0
+1147	2	carbon atoms	after	null	1.0
+1147	3	carbon atoms	before	null	1.0
+1147	3	carbon atoms	after	null	1.0
+1147	4	carbon atoms	before	null	1.0
+1147	4	carbon atoms	after	star	1.0
+1147	5	carbon atoms	before	star	1.0
+1147	5	carbon atoms	after	star	1.0
+1147	6	carbon atoms	before	star	1.0
+1147	6	carbon atoms	after	red giant	0.2	star	0.8
+1147	1	helium atoms	before	null	1.0
+1147	1	helium atoms	after	star	1.0
+1147	2	helium atoms	before	star	1.0
+1147	2	helium atoms	after	star	1.0
+1147	3	helium atoms	before	star	1.0
+1147	3	helium atoms	after	unk	0.1	star	0.9
+1147	4	helium atoms	before	unk	0.1	star	0.9
+1147	4	helium atoms	after	unk	0.2	star	0.8
+1147	5	helium atoms	before	unk	0.2	star	0.8
+1147	5	helium atoms	after	unk	0.2	star	0.8
+1147	6	helium atoms	before	unk	0.2	star	0.8
+1147	6	helium atoms	after	red giant	0.2	unk	0.2	star	0.6
+1147	1	hydrogen	before	unk	0.2	star	0.8
+1147	1	hydrogen	after	unk	0.1	star	0.9
+1147	2	hydrogen	before	unk	0.1	star	0.9
+1147	2	hydrogen	after	null	1.0
+1147	3	hydrogen	before	null	1.0
+1147	3	hydrogen	after	null	1.0
+1147	4	hydrogen	before	null	1.0
+1147	4	hydrogen	after	null	1.0
+1147	5	hydrogen	before	null	1.0
+1147	5	hydrogen	after	null	1.0
+1147	6	hydrogen	before	null	1.0
+1147	6	hydrogen	after	null	1.0
+1147	1	helium	before	null	1.0
+1147	1	helium	after	null	1.0
+1147	2	helium	before	null	1.0
+1147	2	helium	after	star	1.0
+1147	3	helium	before	star	1.0
+1147	3	helium	after	unk	0.1	star	0.9
+1147	4	helium	before	unk	0.1	star	0.9
+1147	4	helium	after	null	1.0
+1147	5	helium	before	null	1.0
+1147	5	helium	after	null	1.0
+1147	6	helium	before	null	1.0
+1147	6	helium	after	null	1.0
+1146	1	star	before	space	1.0
+1146	1	star	after	null	1.0
+1146	2	star	before	null	1.0
+1146	2	star	after	null	1.0
+1146	3	star	before	null	1.0
+1146	3	star	after	null	1.0
+1146	4	star	before	null	1.0
+1146	4	star	after	null	1.0
+1146	5	star	before	null	1.0
+1146	5	star	after	null	1.0
+1146	6	star	before	null	1.0
+1146	6	star	after	null	1.0
+1146	7	star	before	null	1.0
+1146	7	star	after	null	1.0
+1146	8	star	before	null	1.0
+1146	8	star	after	null	1.0
+1146	9	star	before	null	1.0
+1146	9	star	after	null	1.0
+1146	10	star	before	null	1.0
+1146	10	star	after	null	1.0
+1146	1	carbon atoms	before	null	1.0
+1146	1	carbon atoms	after	null	1.0
+1146	2	carbon atoms	before	null	1.0
+1146	2	carbon atoms	after	null	1.0
+1146	3	carbon atoms	before	null	1.0
+1146	3	carbon atoms	after	null	1.0
+1146	4	carbon atoms	before	null	1.0
+1146	4	carbon atoms	after	null	1.0
+1146	5	carbon atoms	before	null	1.0
+1146	5	carbon atoms	after	null	1.0
+1146	6	carbon atoms	before	null	1.0
+1146	6	carbon atoms	after	null	1.0
+1146	7	carbon atoms	before	null	1.0
+1146	7	carbon atoms	after	star	1.0
+1146	8	carbon atoms	before	star	1.0
+1146	8	carbon atoms	after	star	1.0
+1146	9	carbon atoms	before	star	1.0
+1146	9	carbon atoms	after	star	1.0
+1146	10	carbon atoms	before	star	1.0
+1146	10	carbon atoms	after	star	1.0
+1146	1	hydrogen fuel	before	star	1.0
+1146	1	hydrogen fuel	after	star	1.0
+1146	2	hydrogen fuel	before	star	1.0
+1146	2	hydrogen fuel	after	null	1.0
+1146	3	hydrogen fuel	before	null	1.0
+1146	3	hydrogen fuel	after	null	1.0
+1146	4	hydrogen fuel	before	null	1.0
+1146	4	hydrogen fuel	after	null	1.0
+1146	5	hydrogen fuel	before	null	1.0
+1146	5	hydrogen fuel	after	null	1.0
+1146	6	hydrogen fuel	before	null	1.0
+1146	6	hydrogen fuel	after	null	1.0
+1146	7	hydrogen fuel	before	null	1.0
+1146	7	hydrogen fuel	after	null	1.0
+1146	8	hydrogen fuel	before	null	1.0
+1146	8	hydrogen fuel	after	null	1.0
+1146	9	hydrogen fuel	before	null	1.0
+1146	9	hydrogen fuel	after	null	1.0
+1146	10	hydrogen fuel	before	null	1.0
+1146	10	hydrogen fuel	after	null	1.0
+1146	1	hydrogen	before	star	1.0
+1146	1	hydrogen	after	star	1.0
+1146	2	hydrogen	before	star	1.0
+1146	2	hydrogen	after	unk	0.2	star	0.8
+1146	3	hydrogen	before	unk	0.2	star	0.8
+1146	3	hydrogen	after	null	1.0
+1146	4	hydrogen	before	null	1.0
+1146	4	hydrogen	after	null	1.0
+1146	5	hydrogen	before	null	1.0
+1146	5	hydrogen	after	null	1.0
+1146	6	hydrogen	before	null	1.0
+1146	6	hydrogen	after	null	1.0
+1146	7	hydrogen	before	null	1.0
+1146	7	hydrogen	after	null	1.0
+1146	8	hydrogen	before	null	1.0
+1146	8	hydrogen	after	null	1.0
+1146	9	hydrogen	before	null	1.0
+1146	9	hydrogen	after	null	1.0
+1146	10	hydrogen	before	null	1.0
+1146	10	hydrogen	after	null	1.0
+1146	1	helium	before	null	1.0
+1146	1	helium	after	null	1.0
+1146	2	helium	before	null	1.0
+1146	2	helium	after	null	1.0
+1146	3	helium	before	null	1.0
+1146	3	helium	after	star	1.0
+1146	4	helium	before	star	1.0
+1146	4	helium	after	star	1.0
+1146	5	helium	before	star	1.0
+1146	5	helium	after	star	1.0
+1146	6	helium	before	star	1.0
+1146	6	helium	after	star	1.0
+1146	7	helium	before	star	1.0
+1146	7	helium	after	null	1.0
+1146	8	helium	before	null	1.0
+1146	8	helium	after	null	1.0
+1146	9	helium	before	null	1.0
+1146	9	helium	after	null	1.0
+1146	10	helium	before	null	1.0
+1146	10	helium	after	null	1.0
+1146	1	energy	before	star	1.0
+1146	1	energy	after	star	1.0
+1146	2	energy	before	star	1.0
+1146	2	energy	after	star	1.0
+1146	3	energy	before	star	1.0
+1146	3	energy	after	star	1.0
+1146	4	energy	before	star	1.0
+1146	4	energy	after	null	1.0
+1146	5	energy	before	null	1.0
+1146	5	energy	after	null	1.0
+1146	6	energy	before	null	1.0
+1146	6	energy	after	null	1.0
+1146	7	energy	before	null	1.0
+1146	7	energy	after	null	1.0
+1146	8	energy	before	null	1.0
+1146	8	energy	after	null	1.0
+1146	9	energy	before	null	1.0
+1146	9	energy	after	null	1.0
+1146	10	energy	before	null	1.0
+1146	10	energy	after	null	1.0
+600	1	hot gas	before	null	1.0
+600	1	hot gas	after	null	1.0
+600	2	hot gas	before	null	1.0
+600	2	hot gas	after	unk	0.2	engine	0.8
+600	3	hot gas	before	unk	0.2	engine	0.8
+600	3	hot gas	after	unk	0.2	engine	0.7	piston	0.1
+600	4	hot gas	before	unk	0.2	engine	0.7	piston	0.1
+600	4	hot gas	after	unk	0.4	engine	0.6
+600	5	hot gas	before	unk	0.4	engine	0.6
+600	5	hot gas	after	unk	0.4	engine	0.6
+600	6	hot gas	before	unk	0.4	engine	0.6
+600	6	hot gas	after	unk	0.4	engine	0.6
+600	1	petrol	before	unk	0.4	engine	0.6
+600	1	petrol	after	unk	0.3	car engine	0.1	engine	0.6
+600	2	petrol	before	unk	0.3	car engine	0.1	engine	0.6
+600	2	petrol	after	null	1.0
+600	3	petrol	before	null	1.0
+600	3	petrol	after	null	1.0
+600	4	petrol	before	null	1.0
+600	4	petrol	after	null	1.0
+600	5	petrol	before	null	1.0
+600	5	petrol	after	null	1.0
+600	6	petrol	before	null	1.0
+600	6	petrol	after	null	1.0
+600	1	fuel	before	unk	0.4	engine	0.6
+600	1	fuel	after	unk	0.3	car engine	0.1	engine	0.6
+600	2	fuel	before	unk	0.3	car engine	0.1	engine	0.6
+600	2	fuel	after	null	1.0
+600	3	fuel	before	null	1.0
+600	3	fuel	after	null	1.0
+600	4	fuel	before	null	1.0
+600	4	fuel	after	null	1.0
+600	5	fuel	before	null	1.0
+600	5	fuel	after	null	1.0
+600	6	fuel	before	null	1.0
+600	6	fuel	after	null	1.0
+600	1	air	before	unk	0.4	engine	0.6
+600	1	air	after	unk	0.4	engine	0.6
+600	2	air	before	unk	0.4	engine	0.6
+600	2	air	after	null	1.0
+600	3	air	before	null	1.0
+600	3	air	after	null	1.0
+600	4	air	before	null	1.0
+600	4	air	after	null	1.0
+600	5	air	before	null	1.0
+600	5	air	after	null	1.0
+600	6	air	before	null	1.0
+600	6	air	after	null	1.0
+600	1	energy	before	null	1.0
+600	1	energy	after	null	1.0
+600	2	energy	before	null	1.0
+600	2	energy	after	unk	0.2	engine	0.6	piston	0.2
+600	3	energy	before	unk	0.2	engine	0.6	piston	0.2
+600	3	energy	after	unk	0.2	engine	0.2	piston	0.6
+600	4	energy	before	unk	0.2	engine	0.2	piston	0.6
+600	4	energy	after	crankshaft	0.6	unk	0.2	engine	0.2
+600	5	energy	before	crankshaft	0.6	unk	0.2	engine	0.2
+600	5	energy	after	unk	0.2	engine	0.2	gear	0.6
+600	6	energy	before	unk	0.2	engine	0.2	gear	0.6
+600	6	energy	after	unk	0.2	engine	0.2	wheel	0.4	gear	0.2
+1145	1	hydrogen atoms	before	star	0.8	red giant star	0.2
+1145	1	hydrogen atoms	after	star	0.8	red giant star	0.2
+1145	2	hydrogen atoms	before	star	0.8	red giant star	0.2
+1145	2	hydrogen atoms	after	star	0.8	red giant star	0.2
+1145	3	hydrogen atoms	before	star	0.8	red giant star	0.2
+1145	3	hydrogen atoms	after	null	1.0
+1145	4	hydrogen atoms	before	null	1.0
+1145	4	hydrogen atoms	after	null	1.0
+1145	5	hydrogen atoms	before	null	1.0
+1145	5	hydrogen atoms	after	null	1.0
+1145	1	red giant star	before	null	1.0
+1145	1	red giant star	after	null	1.0
+1145	2	red giant star	before	null	1.0
+1145	2	red giant star	after	null	1.0
+1145	3	red giant star	before	null	1.0
+1145	3	red giant star	after	null	1.0
+1145	4	red giant star	before	null	1.0
+1145	4	red giant star	after	null	1.0
+1145	5	red giant star	before	null	1.0
+1145	5	red giant star	after	unk	1.0
+1145	1	hydrogen fuel	before	star	0.8	red giant star	0.2
+1145	1	hydrogen fuel	after	star	0.8	red giant star	0.2
+1145	2	hydrogen fuel	before	star	0.8	red giant star	0.2
+1145	2	hydrogen fuel	after	null	1.0
+1145	3	hydrogen fuel	before	null	1.0
+1145	3	hydrogen fuel	after	null	1.0
+1145	4	hydrogen fuel	before	null	1.0
+1145	4	hydrogen fuel	after	null	1.0
+1145	5	hydrogen fuel	before	null	1.0
+1145	5	hydrogen fuel	after	null	1.0
+1145	1	helium atoms	before	null	1.0
+1145	1	helium atoms	after	null	1.0
+1145	2	helium atoms	before	null	1.0
+1145	2	helium atoms	after	null	1.0
+1145	3	helium atoms	before	null	1.0
+1145	3	helium atoms	after	star	0.8	red giant star	0.2
+1145	4	helium atoms	before	star	0.8	red giant star	0.2
+1145	4	helium atoms	after	star	0.7	red giant star	0.2	starstar	0.1
+1145	5	helium atoms	before	star	0.7	red giant star	0.2	starstar	0.1
+1145	5	helium atoms	after	star	0.8	red giant star	0.2
+725	1	rock	before	null	1.0
+725	1	rock	after	null	1.0
+725	2	rock	before	null	1.0
+725	2	rock	after	null	1.0
+725	3	rock	before	null	1.0
+725	3	rock	after	unk	0.4	top	0.2	bone or shell	0.2	sediment	0.2
+725	4	rock	before	unk	0.4	top	0.2	bone or shell	0.2	sediment	0.2
+725	4	rock	after	unk	0.4	top	0.2	bone or shell	0.2	sediment	0.2
+725	5	rock	before	unk	0.4	top	0.2	bone or shell	0.2	sediment	0.2
+725	5	rock	after	unk	0.4	top	0.2	bone or shell	0.2	sediment	0.2
+725	6	rock	before	unk	0.4	top	0.2	bone or shell	0.2	sediment	0.2
+725	6	rock	after	unk	0.4	top	0.2	bone or shell	0.2	sediment	0.2
+725	1	minerals	before	unk	0.4	watery environment	0.2	sediment	0.2	mud and silt	0.2
+725	1	minerals	after	unk	0.4	watery environment	0.2	sediment	0.2	mud and silt	0.2
+725	2	minerals	before	unk	0.4	watery environment	0.2	sediment	0.2	mud and silt	0.2
+725	2	minerals	after	unk	0.4	watery environment	0.2	sediment	0.2	mud and silt	0.2
+725	3	minerals	before	unk	0.4	watery environment	0.2	sediment	0.2	mud and silt	0.2
+725	3	minerals	after	rock	0.1	unk	0.4	watery environment	0.2	sediment	0.1	mud and silt	0.2
+725	4	minerals	before	rock	0.1	unk	0.4	watery environment	0.2	sediment	0.1	mud and silt	0.2
+725	4	minerals	after	rock	0.2	void	0.2	unk	0.4	encased bone	0.2
+725	5	minerals	before	rock	0.2	void	0.2	unk	0.4	encased bone	0.2
+725	5	minerals	after	rock	0.2	void	0.2	unk	0.4	encased bone	0.2
+725	6	minerals	before	rock	0.2	void	0.2	unk	0.4	encased bone	0.2
+725	6	minerals	after	void	0.2	unk	0.4	encased bone	0.2	void leave behind	0.2
+725	1	soft tissues	before	unk	0.6	mud and silt	0.4
+725	1	soft tissues	after	unk	0.3	decompose	0.1	watery environment	0.2	mud and silt	0.4
+725	2	soft tissues	before	unk	0.3	decompose	0.1	watery environment	0.2	mud and silt	0.4
+725	2	soft tissues	after	null	1.0
+725	3	soft tissues	before	null	1.0
+725	3	soft tissues	after	null	1.0
+725	4	soft tissues	before	null	1.0
+725	4	soft tissues	after	null	1.0
+725	5	soft tissues	before	null	1.0
+725	5	soft tissues	after	null	1.0
+725	6	soft tissues	before	null	1.0
+725	6	soft tissues	after	null	1.0
+725	1	bones	before	unk	0.4	watery environment	0.4	mud and silt	0.2
+725	1	bones	after	unk	0.4	watery environment	0.2	mud and silt	0.4
+725	2	bones	before	unk	0.4	watery environment	0.2	mud and silt	0.4
+725	2	bones	after	unk	0.4	watery environment	0.2	mud and silt	0.4
+725	3	bones	before	unk	0.4	watery environment	0.2	mud and silt	0.4
+725	3	bones	after	rock	0.3	unk	0.4	sediment	0.1	mud and silt	0.2
+725	4	bones	before	rock	0.3	unk	0.4	sediment	0.1	mud and silt	0.2
+725	4	bones	after	null	1.0
+725	5	bones	before	null	1.0
+725	5	bones	after	null	1.0
+725	6	bones	before	null	1.0
+725	6	bones	after	null	1.0
+725	1	plant	before	unk	0.4	watery environment	0.4	mud and silt	0.2
+725	1	plant	after	unk	0.1	watery environment	0.2	mud and silt	0.7
+725	2	plant	before	unk	0.1	watery environment	0.2	mud and silt	0.7
+725	2	plant	after	null	1.0
+725	3	plant	before	null	1.0
+725	3	plant	after	null	1.0
+725	4	plant	before	null	1.0
+725	4	plant	after	null	1.0
+725	5	plant	before	null	1.0
+725	5	plant	after	null	1.0
+725	6	plant	before	null	1.0
+725	6	plant	after	null	1.0
+725	1	stone replica	before	null	1.0
+725	1	stone replica	after	null	1.0
+725	2	stone replica	before	null	1.0
+725	2	stone replica	after	null	1.0
+725	3	stone replica	before	null	1.0
+725	3	stone replica	after	null	1.0
+725	4	stone replica	before	null	1.0
+725	4	stone replica	after	null	1.0
+725	5	stone replica	before	null	1.0
+725	5	stone replica	after	null	1.0
+725	6	stone replica	before	null	1.0
+725	6	stone replica	after	void	0.25	unk	0.25	void leave behind	0.25	mud and silt	0.25
+725	1	animal	before	unk	0.4	watery environment	0.4	mud and silt	0.2
+725	1	animal	after	unk	0.1	watery environment	0.2	mud and silt	0.7
+725	2	animal	before	unk	0.1	watery environment	0.2	mud and silt	0.7
+725	2	animal	after	null	1.0
+725	3	animal	before	null	1.0
+725	3	animal	after	null	1.0
+725	4	animal	before	null	1.0
+725	4	animal	after	null	1.0
+725	5	animal	before	null	1.0
+725	5	animal	after	null	1.0
+725	6	animal	before	null	1.0
+725	6	animal	after	null	1.0
+725	1	fossil	before	null	1.0
+725	1	fossil	after	null	1.0
+725	2	fossil	before	null	1.0
+725	2	fossil	after	null	1.0
+725	3	fossil	before	null	1.0
+725	3	fossil	after	null	1.0
+725	4	fossil	before	null	1.0
+725	4	fossil	after	null	1.0
+725	5	fossil	before	null	1.0
+725	5	fossil	after	null	1.0
+725	6	fossil	before	null	1.0
+725	6	fossil	after	void	0.25	unk	0.25	void leave behind	0.25	mud and silt	0.25
+725	1	sediment	before	unk	0.6	mud and silt	0.4
+725	1	sediment	after	unk	0.6	mud and silt	0.4
+725	2	sediment	before	unk	0.6	mud and silt	0.4
+725	2	sediment	after	unk	0.4	top	0.2	bone or shell	0.1	mud and silt	0.3
+725	3	sediment	before	unk	0.4	top	0.2	bone or shell	0.1	mud and silt	0.3
+725	3	sediment	after	null	1.0
+725	4	sediment	before	null	1.0
+725	4	sediment	after	null	1.0
+725	5	sediment	before	null	1.0
+725	5	sediment	after	null	1.0
+725	6	sediment	before	null	1.0
+725	6	sediment	after	null	1.0
+726	1	rock	before	null	1.0
+726	1	rock	after	null	1.0
+726	2	rock	before	null	1.0
+726	2	rock	after	null	1.0
+726	3	rock	before	null	1.0
+726	3	rock	after	null	1.0
+726	4	rock	before	null	1.0
+726	4	rock	after	null	1.0
+726	5	rock	before	null	1.0
+726	5	rock	after	null	1.0
+726	6	rock	before	null	1.0
+726	6	rock	after	null	1.0
+726	7	rock	before	null	1.0
+726	7	rock	after	null	1.0
+726	8	rock	before	null	1.0
+726	8	rock	after	skeleton	0.2	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2
+726	9	rock	before	skeleton	0.2	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2
+726	9	rock	after	skeleton	0.2	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2
+726	10	rock	before	skeleton	0.2	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2
+726	10	rock	after	skeleton	0.2	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2
+726	1	hole	before	null	1.0
+726	1	hole	after	null	1.0
+726	2	hole	before	null	1.0
+726	2	hole	after	null	1.0
+726	3	hole	before	null	1.0
+726	3	hole	after	null	1.0
+726	4	hole	before	null	1.0
+726	4	hole	after	null	1.0
+726	5	hole	before	null	1.0
+726	5	hole	after	null	1.0
+726	6	hole	before	null	1.0
+726	6	hole	after	null	1.0
+726	7	hole	before	null	1.0
+726	7	hole	after	null	1.0
+726	8	hole	before	null	1.0
+726	8	hole	after	null	1.0
+726	9	hole	before	null	1.0
+726	9	hole	after	rock	0.6	unk	0.4
+726	10	hole	before	rock	0.6	unk	0.4
+726	10	hole	after	rock	0.8	unk	0.2
+726	1	sand	before	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	1	sand	after	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	2	sand	before	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	2	sand	after	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	3	sand	before	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	3	sand	after	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	4	sand	before	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	4	sand	after	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	5	sand	before	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	5	sand	after	skeleton	0.2	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2
+726	6	sand	before	skeleton	0.2	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2
+726	6	sand	after	skeleton	0.2	unk	0.1	bottom of a ocean	0.4	m of a ocean	0.2	onto skeleton	0.1
+726	7	sand	before	skeleton	0.2	unk	0.1	bottom of a ocean	0.4	m of a ocean	0.2	onto skeleton	0.1
+726	7	sand	after	skeleton	0.2	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2
+726	8	sand	before	skeleton	0.2	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2
+726	8	sand	after	null	1.0
+726	9	sand	before	null	1.0
+726	9	sand	after	null	1.0
+726	10	sand	before	null	1.0
+726	10	sand	after	null	1.0
+726	1	animal	before	unk	1.0
+726	1	animal	after	unk	1.0
+726	2	animal	before	unk	1.0
+726	2	animal	after	unk	1.0
+726	3	animal	before	unk	1.0
+726	3	animal	after	null	1.0
+726	4	animal	before	null	1.0
+726	4	animal	after	null	1.0
+726	5	animal	before	null	1.0
+726	5	animal	after	null	1.0
+726	6	animal	before	null	1.0
+726	6	animal	after	null	1.0
+726	7	animal	before	null	1.0
+726	7	animal	after	null	1.0
+726	8	animal	before	null	1.0
+726	8	animal	after	null	1.0
+726	9	animal	before	null	1.0
+726	9	animal	after	null	1.0
+726	10	animal	before	null	1.0
+726	10	animal	after	null	1.0
+726	1	animal's skeleton	before	unk	0.6	animal	0.4
+726	1	animal's skeleton	after	unk	0.6	animal	0.4
+726	2	animal's skeleton	before	unk	0.6	animal	0.4
+726	2	animal's skeleton	after	unk	0.6	animal	0.4
+726	3	animal's skeleton	before	unk	0.6	animal	0.4
+726	3	animal's skeleton	after	unk	0.6	animal	0.4
+726	4	animal's skeleton	before	unk	0.6	animal	0.4
+726	4	animal's skeleton	after	unk	0.1	bottom of a ocean	0.7	m of a ocean	0.1	bottom of ocean	0.1
+726	5	animal's skeleton	before	unk	0.1	bottom of a ocean	0.7	m of a ocean	0.1	bottom of ocean	0.1
+726	5	animal's skeleton	after	burry by mud	0.1	unk	0.1	bottom of a ocean	0.4	m of a ocean	0.2	mud	0.2
+726	6	animal's skeleton	before	burry by mud	0.1	unk	0.1	bottom of a ocean	0.4	m of a ocean	0.2	mud	0.2
+726	6	animal's skeleton	after	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2	mud	0.2
+726	7	animal's skeleton	before	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2	mud	0.2
+726	7	animal's skeleton	after	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2	mud	0.2
+726	8	animal's skeleton	before	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2	mud	0.2
+726	8	animal's skeleton	after	rock	0.2	unk	0.1	bottom of a ocean	0.4	m of a ocean	0.2	dissolve in water	0.1
+726	9	animal's skeleton	before	rock	0.2	unk	0.1	bottom of a ocean	0.4	m of a ocean	0.2	dissolve in water	0.1
+726	9	animal's skeleton	after	null	1.0
+726	10	animal's skeleton	before	null	1.0
+726	10	animal's skeleton	after	null	1.0
+726	1	mud	before	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	1	mud	after	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	2	mud	before	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	2	mud	after	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	3	mud	before	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	3	mud	after	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	4	mud	before	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	4	mud	after	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	5	mud	before	unk	0.4	bottom of a ocean	0.4	m of a ocean	0.2
+726	5	mud	after	skeleton	0.2	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2
+726	6	mud	before	skeleton	0.2	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2
+726	6	mud	after	skeleton	0.2	unk	0.1	bottom of a ocean	0.4	m of a ocean	0.2	onto skeleton	0.1
+726	7	mud	before	skeleton	0.2	unk	0.1	bottom of a ocean	0.4	m of a ocean	0.2	onto skeleton	0.1
+726	7	mud	after	skeleton	0.2	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2
+726	8	mud	before	skeleton	0.2	unk	0.2	bottom of a ocean	0.4	m of a ocean	0.2
+726	8	mud	after	null	1.0
+726	9	mud	before	null	1.0
+726	9	mud	after	null	1.0
+726	10	mud	before	null	1.0
+726	10	mud	after	null	1.0
+727	1	rock	before	null	1.0
+727	1	rock	after	null	1.0
+727	2	rock	before	null	1.0
+727	2	rock	after	null	1.0
+727	3	rock	before	null	1.0
+727	3	rock	after	null	1.0
+727	4	rock	before	null	1.0
+727	4	rock	after	null	1.0
+727	5	rock	before	null	1.0
+727	5	rock	after	null	1.0
+727	6	rock	before	null	1.0
+727	6	rock	after	unk	0.4	bone	0.2	watery environment	0.4
+727	7	rock	before	unk	0.4	bone	0.2	watery environment	0.4
+727	7	rock	after	unk	0.4	bone	0.2	watery environment	0.4
+727	8	rock	before	unk	0.4	bone	0.2	watery environment	0.4
+727	8	rock	after	unk	0.4	bone	0.2	watery environment	0.4
+727	9	rock	before	unk	0.4	bone	0.2	watery environment	0.4
+727	9	rock	after	unk	0.4	bone	0.2	watery environment	0.4
+727	10	rock	before	unk	0.4	bone	0.2	watery environment	0.4
+727	10	rock	after	unk	0.4	bone	0.2	watery environment	0.4
+727	1	minerals	before	unk	0.6	watery environment	0.2	mud and silt	0.2
+727	1	minerals	after	unk	0.6	watery environment	0.2	mud and silt	0.2
+727	2	minerals	before	unk	0.6	watery environment	0.2	mud and silt	0.2
+727	2	minerals	after	unk	0.6	watery environment	0.2	mud and silt	0.2
+727	3	minerals	before	unk	0.6	watery environment	0.2	mud and silt	0.2
+727	3	minerals	after	unk	0.6	watery environment	0.2	mud and silt	0.2
+727	4	minerals	before	unk	0.6	watery environment	0.2	mud and silt	0.2
+727	4	minerals	after	unk	0.6	watery environment	0.2	mud and silt	0.2
+727	5	minerals	before	unk	0.6	watery environment	0.2	mud and silt	0.2
+727	5	minerals	after	unk	0.6	watery environment	0.2	mud and silt	0.2
+727	6	minerals	before	unk	0.6	watery environment	0.2	mud and silt	0.2
+727	6	minerals	after	rock	0.2	unk	0.6	watery environment	0.2
+727	7	minerals	before	rock	0.2	unk	0.6	watery environment	0.2
+727	7	minerals	after	rock	0.2	unk	0.6	watery environment	0.2
+727	8	minerals	before	rock	0.2	unk	0.6	watery environment	0.2
+727	8	minerals	after	rock	0.4	bone	0.6
+727	9	minerals	before	rock	0.4	bone	0.6
+727	9	minerals	after	rock	0.4	bone	0.4	fossil	0.2
+727	10	minerals	before	rock	0.4	bone	0.4	fossil	0.2
+727	10	minerals	after	rock	0.4	bone	0.2	fossil	0.4
+727	1	soft tissues	before	animal	1.0
+727	1	soft tissues	after	animal	1.0
+727	2	soft tissues	before	animal	1.0
+727	2	soft tissues	after	animal	1.0
+727	3	soft tissues	before	animal	1.0
+727	3	soft tissues	after	null	1.0
+727	4	soft tissues	before	null	1.0
+727	4	soft tissues	after	null	1.0
+727	5	soft tissues	before	null	1.0
+727	5	soft tissues	after	null	1.0
+727	6	soft tissues	before	null	1.0
+727	6	soft tissues	after	null	1.0
+727	7	soft tissues	before	null	1.0
+727	7	soft tissues	after	null	1.0
+727	8	soft tissues	before	null	1.0
+727	8	soft tissues	after	null	1.0
+727	9	soft tissues	before	null	1.0
+727	9	soft tissues	after	null	1.0
+727	10	soft tissues	before	null	1.0
+727	10	soft tissues	after	null	1.0
+727	1	bones	before	animal	1.0
+727	1	bones	after	animal	1.0
+727	2	bones	before	animal	1.0
+727	2	bones	after	animal	1.0
+727	3	bones	before	animal	1.0
+727	3	bones	after	animal	0.8	watery environment	0.2
+727	4	bones	before	animal	0.8	watery environment	0.2
+727	4	bones	after	animal	0.2	watery environment	0.8
+727	5	bones	before	animal	0.2	watery environment	0.8
+727	5	bones	after	animal	0.2	watery environment	0.2	mud and silt	0.6
+727	6	bones	before	animal	0.2	watery environment	0.2	mud and silt	0.6
+727	6	bones	after	rock	0.8	animal	0.2
+727	7	bones	before	rock	0.8	animal	0.2
+727	7	bones	after	null	1.0
+727	8	bones	before	null	1.0
+727	8	bones	after	null	1.0
+727	9	bones	before	null	1.0
+727	9	bones	after	null	1.0
+727	10	bones	before	null	1.0
+727	10	bones	after	null	1.0
+727	1	animal	before	unk	0.8	watery environment	0.2
+727	1	animal	after	unk	0.8	watery environment	0.2
+727	2	animal	before	unk	0.8	watery environment	0.2
+727	2	animal	after	watery environment	1.0
+727	3	animal	before	watery environment	1.0
+727	3	animal	after	null	1.0
+727	4	animal	before	null	1.0
+727	4	animal	after	null	1.0
+727	5	animal	before	null	1.0
+727	5	animal	after	null	1.0
+727	6	animal	before	null	1.0
+727	6	animal	after	null	1.0
+727	7	animal	before	null	1.0
+727	7	animal	after	null	1.0
+727	8	animal	before	null	1.0
+727	8	animal	after	null	1.0
+727	9	animal	before	null	1.0
+727	9	animal	after	null	1.0
+727	10	animal	before	null	1.0
+727	10	animal	after	null	1.0
+727	1	silt	before	unk	0.4	v	0.2	watery environment	0.4
+727	1	silt	after	unk	0.6	watery environment	0.4
+727	2	silt	before	unk	0.6	watery environment	0.4
+727	2	silt	after	unk	0.6	watery environment	0.4
+727	3	silt	before	unk	0.6	watery environment	0.4
+727	3	silt	after	unk	0.6	watery environment	0.4
+727	4	silt	before	unk	0.6	watery environment	0.4
+727	4	silt	after	unk	0.6	watery environment	0.4
+727	5	silt	before	unk	0.6	watery environment	0.4
+727	5	silt	after	unk	0.2	bone	0.2	watery environment	0.6
+727	6	silt	before	unk	0.2	bone	0.2	watery environment	0.6
+727	6	silt	after	null	1.0
+727	7	silt	before	null	1.0
+727	7	silt	after	null	1.0
+727	8	silt	before	null	1.0
+727	8	silt	after	null	1.0
+727	9	silt	before	null	1.0
+727	9	silt	after	null	1.0
+727	10	silt	before	null	1.0
+727	10	silt	after	null	1.0
+727	1	fossil	before	null	1.0
+727	1	fossil	after	null	1.0
+727	2	fossil	before	null	1.0
+727	2	fossil	after	null	1.0
+727	3	fossil	before	null	1.0
+727	3	fossil	after	null	1.0
+727	4	fossil	before	null	1.0
+727	4	fossil	after	null	1.0
+727	5	fossil	before	null	1.0
+727	5	fossil	after	null	1.0
+727	6	fossil	before	null	1.0
+727	6	fossil	after	null	1.0
+727	7	fossil	before	null	1.0
+727	7	fossil	after	null	1.0
+727	8	fossil	before	null	1.0
+727	8	fossil	after	null	1.0
+727	9	fossil	before	null	1.0
+727	9	fossil	after	null	1.0
+727	10	fossil	before	null	1.0
+727	10	fossil	after	rock	0.6	unk	0.2	watery environment	0.2
+727	1	mud	before	unk	0.4	v	0.2	watery environment	0.4
+727	1	mud	after	unk	0.6	watery environment	0.4
+727	2	mud	before	unk	0.6	watery environment	0.4
+727	2	mud	after	unk	0.6	watery environment	0.4
+727	3	mud	before	unk	0.6	watery environment	0.4
+727	3	mud	after	unk	0.6	watery environment	0.4
+727	4	mud	before	unk	0.6	watery environment	0.4
+727	4	mud	after	unk	0.6	watery environment	0.4
+727	5	mud	before	unk	0.6	watery environment	0.4
+727	5	mud	after	unk	0.2	bone	0.2	watery environment	0.6
+727	6	mud	before	unk	0.2	bone	0.2	watery environment	0.6
+727	6	mud	after	null	1.0
+727	7	mud	before	null	1.0
+727	7	mud	after	null	1.0
+727	8	mud	before	null	1.0
+727	8	mud	after	null	1.0
+727	9	mud	before	null	1.0
+727	9	mud	after	null	1.0
+727	10	mud	before	null	1.0
+727	10	mud	after	null	1.0
+502	1	diesel	before	combustion chamber	0.8	burn	0.2
+502	1	diesel	after	null	1.0
+502	2	diesel	before	null	1.0
+502	2	diesel	after	null	1.0
+502	3	diesel	before	null	1.0
+502	3	diesel	after	null	1.0
+502	4	diesel	before	null	1.0
+502	4	diesel	after	null	1.0
+502	5	diesel	before	null	1.0
+502	5	diesel	after	null	1.0
+502	1	rotary motion	before	null	1.0
+502	1	rotary motion	after	null	1.0
+502	2	rotary motion	before	null	1.0
+502	2	rotary motion	after	null	1.0
+502	3	rotary motion	before	null	1.0
+502	3	rotary motion	after	crankshaft and axle	0.3	unk	0.4	axle	0.3
+502	4	rotary motion	before	crankshaft and axle	0.3	unk	0.4	axle	0.3
+502	4	rotary motion	after	unk	0.6	wheel	0.2	axle	0.2
+502	5	rotary motion	before	unk	0.6	wheel	0.2	axle	0.2
+502	5	rotary motion	after	unk	0.6	wheel	0.2	axle	0.2
+502	1	petrol	before	combustion chamber	0.8	burn	0.2
+502	1	petrol	after	null	1.0
+502	2	petrol	before	null	1.0
+502	2	petrol	after	null	1.0
+502	3	petrol	before	null	1.0
+502	3	petrol	after	null	1.0
+502	4	petrol	before	null	1.0
+502	4	petrol	after	null	1.0
+502	5	petrol	before	null	1.0
+502	5	petrol	after	null	1.0
+502	1	car	before	unk	1.0
+502	1	car	after	unk	1.0
+502	2	car	before	unk	1.0
+502	2	car	after	unk	1.0
+502	3	car	before	unk	1.0
+502	3	car	after	unk	1.0
+502	4	car	before	unk	1.0
+502	4	car	after	unk	0.9	move forward	0.1
+502	5	car	before	unk	0.9	move forward	0.1
+502	5	car	after	unk	0.8	forward	0.2
+502	1	piston motion	before	null	1.0
+502	1	piston motion	after	unk	0.6	piston	0.4
+502	2	piston motion	before	unk	0.6	piston	0.4
+502	2	piston motion	after	rotary motion	0.1	unk	0.4	piston	0.4	crankshaft and anxle	0.1
+502	3	piston motion	before	rotary motion	0.1	unk	0.4	piston	0.4	crankshaft and anxle	0.1
+502	3	piston motion	after	null	1.0
+502	4	piston motion	before	null	1.0
+502	4	piston motion	after	null	1.0
+502	5	piston motion	before	null	1.0
+502	5	piston motion	after	null	1.0
+502	1	pistons	before	combustion chamber	0.2	unk	0.8
+502	1	pistons	after	combustion chamber	0.2	unk	0.8
+502	2	pistons	before	combustion chamber	0.2	unk	0.8
+502	2	pistons	after	combustion chamber	0.2	transfer	0.1	unk	0.6	piston motion	0.1
+502	3	pistons	before	combustion chamber	0.2	transfer	0.1	unk	0.6	piston motion	0.1
+502	3	pistons	after	combustion chamber	0.25	unk	0.75
+502	4	pistons	before	combustion chamber	0.25	unk	0.75
+502	4	pistons	after	combustion chamber	0.25	unk	0.75
+502	5	pistons	before	combustion chamber	0.25	unk	0.75
+502	5	pistons	after	combustion chamber	0.25	unk	0.75
+502	1	energy	before	null	1.0
+502	1	energy	after	combustion chamber	0.4	burn	0.1	transfer	0.1	unk	0.1	piston	0.3
+502	2	energy	before	combustion chamber	0.4	burn	0.1	transfer	0.1	unk	0.1	piston	0.3
+502	2	energy	after	unk	0.4	piston	0.2	piston motion	0.4
+502	3	energy	before	unk	0.4	piston	0.2	piston motion	0.4
+502	3	energy	after	rotary motion	0.4	unk	0.4	axle	0.2
+502	4	energy	before	rotary motion	0.4	unk	0.4	axle	0.2
+502	4	energy	after	rotary motion	0.4	unk	0.4	wheel	0.2
+502	5	energy	before	rotary motion	0.4	unk	0.4	wheel	0.2
+502	5	energy	after	rotary motion	0.4	unk	0.4	wheel	0.2
+503	1	crankshaft	before	unk	0.2	car	0.8
+503	1	crankshaft	after	unk	0.2	car	0.8
+503	2	crankshaft	before	unk	0.2	car	0.8
+503	2	crankshaft	after	unk	0.1111111111111111	car	0.8888888888888888
+503	3	crankshaft	before	unk	0.1111111111111111	car	0.8888888888888888
+503	3	crankshaft	after	unk	0.2	car	0.8
+503	4	crankshaft	before	unk	0.2	car	0.8
+503	4	crankshaft	after	unk	0.2	car	0.8
+503	5	crankshaft	before	unk	0.2	car	0.8
+503	5	crankshaft	after	unk	0.2	car	0.8
+503	6	crankshaft	before	unk	0.2	car	0.8
+503	6	crankshaft	after	unk	0.2	car	0.8
+503	7	crankshaft	before	unk	0.2	car	0.8
+503	7	crankshaft	after	unk	0.2	car	0.8
+503	8	crankshaft	before	unk	0.2	car	0.8
+503	8	crankshaft	after	unk	0.2	car	0.8
+503	9	crankshaft	before	unk	0.2	car	0.8
+503	9	crankshaft	after	unk	0.2	car	0.8
+503	1	car	before	unk	1.0
+503	1	car	after	unk	1.0
+503	2	car	before	unk	1.0
+503	2	car	after	unk	1.0
+503	3	car	before	unk	1.0
+503	3	car	after	unk	1.0
+503	4	car	before	unk	1.0
+503	4	car	after	unk	1.0
+503	5	car	before	unk	1.0
+503	5	car	after	unk	1.0
+503	6	car	before	unk	1.0
+503	6	car	after	unk	1.0
+503	7	car	before	unk	1.0
+503	7	car	after	unk	1.0
+503	8	car	before	unk	1.0
+503	8	car	after	unk	1.0
+503	9	car	before	unk	1.0
+503	9	car	after	unk	1.0
+503	1	spark	before	null	1.0
+503	1	spark	after	null	1.0
+503	2	spark	before	null	1.0
+503	2	spark	after	null	1.0
+503	3	spark	before	null	1.0
+503	3	spark	after	unk	0.1	car	0.6	battery	0.3
+503	4	spark	before	unk	0.1	car	0.6	battery	0.3
+503	4	spark	after	unk	0.3	car	0.4	gas	0.1	battery	0.2
+503	5	spark	before	unk	0.3	car	0.4	gas	0.1	battery	0.2
+503	5	spark	after	unk	0.6	car	0.2	battery	0.2
+503	6	spark	before	unk	0.6	car	0.2	battery	0.2
+503	6	spark	after	unk	0.6	car	0.2	battery	0.2
+503	7	spark	before	unk	0.6	car	0.2	battery	0.2
+503	7	spark	after	unk	0.6	car	0.2	battery	0.2
+503	8	spark	before	unk	0.6	car	0.2	battery	0.2
+503	8	spark	after	unk	0.6	car	0.2	battery	0.2
+503	9	spark	before	unk	0.6	car	0.2	battery	0.2
+503	9	spark	after	unk	0.6	car	0.2	battery	0.2
+503	1	piston	before	unk	0.2	car	0.8
+503	1	piston	after	unk	0.2	car	0.8
+503	2	piston	before	unk	0.2	car	0.8
+503	2	piston	after	unk	0.1111111111111111	car	0.8888888888888888
+503	3	piston	before	unk	0.1111111111111111	car	0.8888888888888888
+503	3	piston	after	unk	0.2	car	0.8
+503	4	piston	before	unk	0.2	car	0.8
+503	4	piston	after	unk	0.2	car	0.8
+503	5	piston	before	unk	0.2	car	0.8
+503	5	piston	after	unk	0.2	car	0.8
+503	6	piston	before	unk	0.2	car	0.8
+503	6	piston	after	crankshaft	0.1	unk	0.1	car	0.8
+503	7	piston	before	crankshaft	0.1	unk	0.1	car	0.8
+503	7	piston	after	crankshaft	0.2	car	0.8
+503	8	piston	before	crankshaft	0.2	car	0.8
+503	8	piston	after	crankshaft	0.2	car	0.8
+503	9	piston	before	crankshaft	0.2	car	0.8
+503	9	piston	after	crankshaft	0.2	car	0.8
+503	1	wheel	before	unk	0.2	car	0.8
+503	1	wheel	after	unk	0.2	car	0.8
+503	2	wheel	before	unk	0.2	car	0.8
+503	2	wheel	after	unk	0.1111111111111111	car	0.8888888888888888
+503	3	wheel	before	unk	0.1111111111111111	car	0.8888888888888888
+503	3	wheel	after	unk	0.2	car	0.8
+503	4	wheel	before	unk	0.2	car	0.8
+503	4	wheel	after	unk	0.2	car	0.8
+503	5	wheel	before	unk	0.2	car	0.8
+503	5	wheel	after	unk	0.2	car	0.8
+503	6	wheel	before	unk	0.2	car	0.8
+503	6	wheel	after	unk	0.2	car	0.8
+503	7	wheel	before	unk	0.2	car	0.8
+503	7	wheel	after	unk	0.2	car	0.8
+503	8	wheel	before	unk	0.2	car	0.8
+503	8	wheel	after	unk	0.2	car	0.8
+503	9	wheel	before	unk	0.2	car	0.8
+503	9	wheel	after	unk	0.2	car	0.8
+503	1	gas	before	unk	1.0
+503	1	gas	after	car	0.9	gasoline	0.1
+503	2	gas	before	car	0.9	gasoline	0.1
+503	2	gas	after	car	1.0
+503	3	gas	before	car	1.0
+503	3	gas	after	car	1.0
+503	4	gas	before	car	1.0
+503	4	gas	after	car	1.0
+503	5	gas	before	car	1.0
+503	5	gas	after	car	1.0
+503	6	gas	before	car	1.0
+503	6	gas	after	car	1.0
+503	7	gas	before	car	1.0
+503	7	gas	after	car	1.0
+503	8	gas	before	car	1.0
+503	8	gas	after	car	1.0
+503	9	gas	before	car	1.0
+503	9	gas	after	car	1.0
+503	1	gasoline	before	unk	1.0
+503	1	gasoline	after	car	0.9	gasoline	0.1
+503	2	gasoline	before	car	0.9	gasoline	0.1
+503	2	gasoline	after	car	1.0
+503	3	gasoline	before	car	1.0
+503	3	gasoline	after	car	1.0
+503	4	gasoline	before	car	1.0
+503	4	gasoline	after	car	1.0
+503	5	gasoline	before	car	1.0
+503	5	gasoline	after	car	1.0
+503	6	gasoline	before	car	1.0
+503	6	gasoline	after	car	1.0
+503	7	gasoline	before	car	1.0
+503	7	gasoline	after	car	1.0
+503	8	gasoline	before	car	1.0
+503	8	gasoline	after	car	1.0
+503	9	gasoline	before	car	1.0
+503	9	gasoline	after	car	1.0
+503	1	battery	before	unk	0.2	car	0.8
+503	1	battery	after	unk	0.2	car	0.8
+503	2	battery	before	unk	0.2	car	0.8
+503	2	battery	after	car	1.0
+503	3	battery	before	car	1.0
+503	3	battery	after	car	1.0
+503	4	battery	before	car	1.0
+503	4	battery	after	car	1.0
+503	5	battery	before	car	1.0
+503	5	battery	after	car	1.0
+503	6	battery	before	car	1.0
+503	6	battery	after	car	1.0
+503	7	battery	before	car	1.0
+503	7	battery	after	car	1.0
+503	8	battery	before	car	1.0
+503	8	battery	after	car	1.0
+503	9	battery	before	car	1.0
+503	9	battery	after	car	1.0
+1190	1	oxygenated blood	before	null	1.0
+1190	1	oxygenated blood	after	null	1.0
+1190	2	oxygenated blood	before	null	1.0
+1190	2	oxygenated blood	after	null	1.0
+1190	3	oxygenated blood	before	null	1.0
+1190	3	oxygenated blood	after	null	1.0
+1190	4	oxygenated blood	before	null	1.0
+1190	4	oxygenated blood	after	null	1.0
+1190	5	oxygenated blood	before	null	1.0
+1190	5	oxygenated blood	after	null	1.0
+1190	6	oxygenated blood	before	null	1.0
+1190	6	oxygenated blood	after	lung	0.6666666666666666	unk	0.3333333333333333
+1190	7	oxygenated blood	before	lung	0.6666666666666666	unk	0.3333333333333333
+1190	7	oxygenated blood	after	unk	0.1	left atrium	0.7	atrium	0.2
+1190	8	oxygenated blood	before	unk	0.1	left atrium	0.7	atrium	0.2
+1190	8	oxygenated blood	after	unk	0.2	left ventricle	0.6	atrium	0.2
+1190	9	oxygenated blood	before	unk	0.2	left ventricle	0.6	atrium	0.2
+1190	9	oxygenated blood	after	unk	0.2	aorta	0.2	body	0.4	atrium	0.2
+1190	10	oxygenated blood	before	unk	0.2	aorta	0.2	body	0.4	atrium	0.2
+1190	10	oxygenated blood	after	null	1.0
+1190	1	deoxygenated blood	before	unk	0.4	two large vein	0.2	body	0.2	heart	0.2
+1190	1	deoxygenated blood	after	unk	0.2	right atrium	0.1	heart	0.7
+1190	2	deoxygenated blood	before	unk	0.2	right atrium	0.1	heart	0.7
+1190	2	deoxygenated blood	after	unk	0.2	right atrium	0.6	heart	0.2
+1190	3	deoxygenated blood	before	unk	0.2	right atrium	0.6	heart	0.2
+1190	3	deoxygenated blood	after	tricuspid valve	0.6	unk	0.2	heart	0.2
+1190	4	deoxygenated blood	before	tricuspid valve	0.6	unk	0.2	heart	0.2
+1190	4	deoxygenated blood	after	unk	0.2	right ventricle	0.6	heart	0.2
+1190	5	deoxygenated blood	before	unk	0.2	right ventricle	0.6	heart	0.2
+1190	5	deoxygenated blood	after	lung	0.4	pulmonary artery	0.2	unk	0.2	heart	0.2
+1190	6	deoxygenated blood	before	lung	0.4	pulmonary artery	0.2	unk	0.2	heart	0.2
+1190	6	deoxygenated blood	after	null	1.0
+1190	7	deoxygenated blood	before	null	1.0
+1190	7	deoxygenated blood	after	null	1.0
+1190	8	deoxygenated blood	before	null	1.0
+1190	8	deoxygenated blood	after	null	1.0
+1190	9	deoxygenated blood	before	null	1.0
+1190	9	deoxygenated blood	after	null	1.0
+1190	10	deoxygenated blood	before	null	1.0
+1190	10	deoxygenated blood	after	heart	1.0
+1190	1	oxygen	before	lung	0.25	unk	0.75
+1190	1	oxygen	after	lung	0.25	unk	0.75
+1190	2	oxygen	before	lung	0.25	unk	0.75
+1190	2	oxygen	after	lung	0.25	unk	0.75
+1190	3	oxygen	before	lung	0.25	unk	0.75
+1190	3	oxygen	after	lung	0.25	unk	0.75
+1190	4	oxygen	before	lung	0.25	unk	0.75
+1190	4	oxygen	after	lung	0.25	unk	0.75
+1190	5	oxygen	before	lung	0.25	unk	0.75
+1190	5	oxygen	after	lung	0.375	unk	0.5	blood	0.125
+1190	6	oxygen	before	lung	0.375	unk	0.5	blood	0.125
+1190	6	oxygen	after	null	1.0
+1190	7	oxygen	before	null	1.0
+1190	7	oxygen	after	null	1.0
+1190	8	oxygen	before	null	1.0
+1190	8	oxygen	after	null	1.0
+1190	9	oxygen	before	null	1.0
+1190	9	oxygen	after	null	1.0
+1190	10	oxygen	before	null	1.0
+1190	10	oxygen	after	null	1.0
+400	1	electricity	before	null	1.0
+400	1	electricity	after	null	1.0
+400	2	electricity	before	null	1.0
+400	2	electricity	after	null	1.0
+400	3	electricity	before	null	1.0
+400	3	electricity	after	null	1.0
+400	4	electricity	before	null	1.0
+400	4	electricity	after	null	1.0
+400	5	electricity	before	null	1.0
+400	5	electricity	after	unk	0.4	solar panel	0.4	conductor	0.2
+400	1	energy	before	null	1.0
+400	1	energy	after	null	1.0
+400	2	energy	before	null	1.0
+400	2	energy	after	null	1.0
+400	3	energy	before	null	1.0
+400	3	energy	after	null	1.0
+400	4	energy	before	null	1.0
+400	4	energy	after	unk	0.2	solar panel	0.4	conductor	0.2	element	0.2
+400	5	energy	before	unk	0.2	solar panel	0.4	conductor	0.2	element	0.2
+400	5	energy	after	null	1.0
+401	1	sunlight	before	null	1.0
+401	1	sunlight	after	null	1.0
+401	2	sunlight	before	null	1.0
+401	2	sunlight	after	solar panel	0.8	sun	0.2
+401	3	sunlight	before	solar panel	0.8	sun	0.2
+401	3	sunlight	after	solar panel	0.2	top half of the solar panel	0.8
+401	4	sunlight	before	solar panel	0.2	top half of the solar panel	0.8
+401	4	sunlight	after	bottom half of the solar panel	0.8	solar panel	0.2
+401	5	sunlight	before	bottom half of the solar panel	0.8	solar panel	0.2
+401	5	sunlight	after	null	1.0
+401	6	sunlight	before	null	1.0
+401	6	sunlight	after	null	1.0
+401	7	sunlight	before	null	1.0
+401	7	sunlight	after	null	1.0
+401	1	direct current	before	null	1.0
+401	1	direct current	after	null	1.0
+401	2	direct current	before	null	1.0
+401	2	direct current	after	null	1.0
+401	3	direct current	before	null	1.0
+401	3	direct current	after	null	1.0
+401	4	direct current	before	null	1.0
+401	4	direct current	after	null	1.0
+401	5	direct current	before	null	1.0
+401	5	direct current	after	bottom half of the solar panel	0.1	solar `` inverter ''	0.3	inverter	0.1	solar panel	0.5
+401	6	direct current	before	bottom half of the solar panel	0.1	solar `` inverter ''	0.3	inverter	0.1	solar panel	0.5
+401	6	direct current	after	null	1.0
+401	7	direct current	before	null	1.0
+401	7	direct current	after	null	1.0
+401	1	alternating current	before	null	1.0
+401	1	alternating current	after	null	1.0
+401	2	alternating current	before	null	1.0
+401	2	alternating current	after	null	1.0
+401	3	alternating current	before	null	1.0
+401	3	alternating current	after	null	1.0
+401	4	alternating current	before	null	1.0
+401	4	alternating current	after	null	1.0
+401	5	alternating current	before	null	1.0
+401	5	alternating current	after	null	1.0
+401	6	alternating current	before	null	1.0
+401	6	alternating current	after	solar `` inverter ''	0.4	inverter	0.2	solar panel	0.4
+401	7	alternating current	before	solar `` inverter ''	0.4	inverter	0.2	solar panel	0.4
+401	7	alternating current	after	power	0.2	house	0.6	use to power thing	0.2
+1189	1	chunks of rock	before	null	1.0
+1189	1	chunks of rock	after	atmosphere	0.6	unk	0.2	meteorite	0.2
+1189	2	chunks of rock	before	atmosphere	0.6	unk	0.2	meteorite	0.2
+1189	2	chunks of rock	after	atmosphere	1.0
+1189	3	chunks of rock	before	atmosphere	1.0
+1189	3	chunks of rock	after	atmosphere	0.9	earth	0.1
+1189	4	chunks of rock	before	atmosphere	0.9	earth	0.1
+1189	4	chunks of rock	after	null	1.0
+1189	5	chunks of rock	before	null	1.0
+1189	5	chunks of rock	after	null	1.0
+1189	6	chunks of rock	before	null	1.0
+1189	6	chunks of rock	after	null	1.0
+1189	1	crater	before	null	1.0
+1189	1	crater	after	null	1.0
+1189	2	crater	before	null	1.0
+1189	2	crater	after	null	1.0
+1189	3	crater	before	null	1.0
+1189	3	crater	after	null	1.0
+1189	4	crater	before	null	1.0
+1189	4	crater	after	null	1.0
+1189	5	crater	before	null	1.0
+1189	5	crater	after	earth	1.0
+1189	6	crater	before	earth	1.0
+1189	6	crater	after	earth	1.0
+1188	1	hole	before	null	1.0
+1188	1	hole	after	null	1.0
+1188	2	hole	before	null	1.0
+1188	2	hole	after	null	1.0
+1188	3	hole	before	null	1.0
+1188	3	hole	after	null	1.0
+1188	4	hole	before	null	1.0
+1188	4	hole	after	null	1.0
+1188	5	hole	before	null	1.0
+1188	5	hole	after	planet	1.0
+1188	1	comet	before	outer space	1.0
+1188	1	comet	after	outer space	1.0
+1188	2	comet	before	outer space	1.0
+1188	2	comet	after	close to a planet	1.0
+1188	3	comet	before	close to a planet	1.0
+1188	3	comet	after	planet 's atmosphere	1.0
+1188	4	comet	before	planet 's atmosphere	1.0
+1188	4	comet	after	null	1.0
+1188	5	comet	before	null	1.0
+1188	5	comet	after	null	1.0
+409	1	image	before	null	1.0
+409	1	image	after	null	1.0
+409	2	image	before	null	1.0
+409	2	image	after	null	1.0
+409	3	image	before	null	1.0
+409	3	image	after	null	1.0
+409	4	image	before	null	1.0
+409	4	image	after	retina	1.0
+409	5	image	before	retina	1.0
+409	5	image	after	null	1.0
+409	6	image	before	null	1.0
+409	6	image	after	null	1.0
+409	7	image	before	null	1.0
+409	7	image	after	null	1.0
+409	1	electrical impulses	before	null	1.0
+409	1	electrical impulses	after	null	1.0
+409	2	electrical impulses	before	null	1.0
+409	2	electrical impulses	after	null	1.0
+409	3	electrical impulses	before	null	1.0
+409	3	electrical impulses	after	null	1.0
+409	4	electrical impulses	before	null	1.0
+409	4	electrical impulses	after	null	1.0
+409	5	electrical impulses	before	null	1.0
+409	5	electrical impulses	after	retina	1.0
+409	6	electrical impulses	before	retina	1.0
+409	6	electrical impulses	after	brain	1.0
+409	7	electrical impulses	before	brain	1.0
+409	7	electrical impulses	after	brain	1.0
+410	1	electric signal	before	null	1.0
+410	1	electric signal	after	null	1.0
+410	2	electric signal	before	null	1.0
+410	2	electric signal	after	null	1.0
+410	3	electric signal	before	null	1.0
+410	3	electric signal	after	null	1.0
+410	4	electric signal	before	null	1.0
+410	4	electric signal	after	retina	1.0
+410	5	electric signal	before	retina	1.0
+410	5	electric signal	after	brain	1.0
+410	6	electric signal	before	brain	1.0
+410	6	electric signal	after	unk	0.2	brain	0.8
+410	1	light	before	unk	0.8	cornea	0.2
+410	1	light	after	iris	0.1	cornea	0.9
+410	2	light	before	iris	0.1	cornea	0.9
+410	2	light	after	iris	1.0
+410	3	light	before	iris	1.0
+410	3	light	after	eye	0.1	iris	0.4	retina	0.5
+410	4	light	before	eye	0.1	iris	0.4	retina	0.5
+410	4	light	after	null	1.0
+410	5	light	before	null	1.0
+410	5	light	after	null	1.0
+410	6	light	before	null	1.0
+410	6	light	after	null	1.0
+411	1	light	before	eye	0.2	retina	0.8
+411	1	light	after	retina	0.4	photoreceptor	0.1	photoreceptor cell	0.5
+411	2	light	before	retina	0.4	photoreceptor	0.1	photoreceptor cell	0.5
+411	2	light	after	null	1.0
+411	3	light	before	null	1.0
+411	3	light	after	null	1.0
+411	4	light	before	null	1.0
+411	4	light	after	null	1.0
+411	5	light	before	null	1.0
+411	5	light	after	null	1.0
+411	6	light	before	null	1.0
+411	6	light	after	null	1.0
+411	7	light	before	null	1.0
+411	7	light	after	null	1.0
+411	8	light	before	null	1.0
+411	8	light	after	null	1.0
+411	1	electrochemical signals	before	null	1.0
+411	1	electrochemical signals	after	null	1.0
+411	2	electrochemical signals	before	null	1.0
+411	2	electrochemical signals	after	retina	0.4	rod	0.1	photoreceptor	0.1	ganglion cell	0.2	photoreceptor cell	0.2
+411	3	electrochemical signals	before	retina	0.4	rod	0.1	photoreceptor	0.1	ganglion cell	0.2	photoreceptor cell	0.2
+411	3	electrochemical signals	after	unk	0.1	retina	0.4	cone	0.1	ganglion cell	0.2	photoreceptor cell	0.2
+411	4	electrochemical signals	before	unk	0.1	retina	0.4	cone	0.1	ganglion cell	0.2	photoreceptor cell	0.2
+411	4	electrochemical signals	after	unk	0.2	retina	0.4	ganglion cell	0.4
+411	5	electrochemical signals	before	unk	0.2	retina	0.4	ganglion cell	0.4
+411	5	electrochemical signals	after	cerebral cortex	0.1	unk	0.2	retina	0.3	optic nerve	0.2	ganglion cell	0.2
+411	6	electrochemical signals	before	cerebral cortex	0.1	unk	0.2	retina	0.3	optic nerve	0.2	ganglion cell	0.2
+411	6	electrochemical signals	after	cerebral cortex	0.4	unk	0.2	superior colliculus	0.1	brain	0.2	optic nerve	0.1
+411	7	electrochemical signals	before	cerebral cortex	0.4	unk	0.2	superior colliculus	0.1	brain	0.2	optic nerve	0.1
+411	7	electrochemical signals	after	cerebral cortex	0.1	unk	0.2	superior colliculus	0.3	brain	0.3	lateral geniculate nucleus	0.1
+411	8	electrochemical signals	before	cerebral cortex	0.1	unk	0.2	superior colliculus	0.3	brain	0.3	lateral geniculate nucleus	0.1
+411	8	electrochemical signals	after	unk	0.2	brain	0.4	lateral geniculate nucleus	0.4
+653	1	seed	before	unk	0.8	fruit	0.2
+653	1	seed	after	unk	1.0
+653	2	seed	before	unk	1.0
+653	2	seed	after	null	1.0
+653	3	seed	before	null	1.0
+653	3	seed	after	null	1.0
+653	4	seed	before	null	1.0
+653	4	seed	after	null	1.0
+653	5	seed	before	null	1.0
+653	5	seed	after	null	1.0
+653	6	seed	before	null	1.0
+653	6	seed	after	null	1.0
+653	1	fruit	before	null	1.0
+653	1	fruit	after	null	1.0
+653	2	fruit	before	null	1.0
+653	2	fruit	after	null	1.0
+653	3	fruit	before	null	1.0
+653	3	fruit	after	null	1.0
+653	4	fruit	before	null	1.0
+653	4	fruit	after	null	1.0
+653	5	fruit	before	null	1.0
+653	5	fruit	after	fruit	0.2	tree	0.8
+653	6	fruit	before	fruit	0.2	tree	0.8
+653	6	fruit	after	fruit	0.2	tree	0.8
+653	1	tree	before	null	1.0
+653	1	tree	after	null	1.0
+653	2	tree	before	null	1.0
+653	2	tree	after	null	1.0
+653	3	tree	before	null	1.0
+653	3	tree	after	unk	1.0
+653	4	tree	before	unk	1.0
+653	4	tree	after	unk	1.0
+653	5	tree	before	unk	1.0
+653	5	tree	after	unk	1.0
+653	6	tree	before	unk	1.0
+653	6	tree	after	unk	1.0
+653	1	flower	before	null	1.0
+653	1	flower	after	null	1.0
+653	2	flower	before	null	1.0
+653	2	flower	after	null	1.0
+653	3	flower	before	null	1.0
+653	3	flower	after	null	1.0
+653	4	flower	before	null	1.0
+653	4	flower	after	tree	1.0
+653	5	flower	before	tree	1.0
+653	5	flower	after	null	1.0
+653	6	flower	before	null	1.0
+653	6	flower	after	null	1.0
+533	1	seed	before	adult tree	0.4	tree	0.6
+533	1	seed	after	tree	0.2	soil	0.8
+533	2	seed	before	tree	0.2	soil	0.8
+533	2	seed	after	null	1.0
+533	3	seed	before	null	1.0
+533	3	seed	after	null	1.0
+533	4	seed	before	null	1.0
+533	4	seed	after	null	1.0
+533	5	seed	before	null	1.0
+533	5	seed	after	null	1.0
+533	6	seed	before	null	1.0
+533	6	seed	after	null	1.0
+533	7	seed	before	null	1.0
+533	7	seed	after	null	1.0
+533	1	sapling	before	null	1.0
+533	1	sapling	after	null	1.0
+533	2	sapling	before	null	1.0
+533	2	sapling	after	null	1.0
+533	3	sapling	before	null	1.0
+533	3	sapling	after	null	1.0
+533	4	sapling	before	null	1.0
+533	4	sapling	after	tree	0.2	soil	0.8
+533	5	sapling	before	tree	0.2	soil	0.8
+533	5	sapling	after	null	1.0
+533	6	sapling	before	null	1.0
+533	6	sapling	after	null	1.0
+533	7	sapling	before	null	1.0
+533	7	sapling	after	null	1.0
+533	1	tree	before	null	1.0
+533	1	tree	after	null	1.0
+533	2	tree	before	null	1.0
+533	2	tree	after	null	1.0
+533	3	tree	before	null	1.0
+533	3	tree	after	null	1.0
+533	4	tree	before	null	1.0
+533	4	tree	after	null	1.0
+533	5	tree	before	null	1.0
+533	5	tree	after	tree	0.2	soil	0.8
+533	6	tree	before	tree	0.2	soil	0.8
+533	6	tree	after	tree	0.2	soil	0.8
+533	7	tree	before	tree	0.2	soil	0.8
+533	7	tree	after	null	1.0
+533	1	sprouts	before	null	1.0
+533	1	sprouts	after	null	1.0
+533	2	sprouts	before	null	1.0
+533	2	sprouts	after	tree	0.1	soil	0.9
+533	3	sprouts	before	tree	0.1	soil	0.9
+533	3	sprouts	after	null	1.0
+533	4	sprouts	before	null	1.0
+533	4	sprouts	after	null	1.0
+533	5	sprouts	before	null	1.0
+533	5	sprouts	after	null	1.0
+533	6	sprouts	before	null	1.0
+533	6	sprouts	after	null	1.0
+533	7	sprouts	before	null	1.0
+533	7	sprouts	after	null	1.0
+654	1	tree	before	null	1.0
+654	1	tree	after	null	1.0
+654	2	tree	before	null	1.0
+654	2	tree	after	null	1.0
+654	3	tree	before	null	1.0
+654	3	tree	after	grow	0.1	unk	0.2	ground	0.6	nourishment	0.1
+654	4	tree	before	grow	0.1	unk	0.2	ground	0.6	nourishment	0.1
+654	4	tree	after	unk	0.25	ground	0.75
+654	5	tree	before	unk	0.25	ground	0.75
+654	5	tree	after	unk	0.2222222222222222	ground	0.6666666666666666	nourishment	0.1111111111111111
+654	6	tree	before	unk	0.2222222222222222	ground	0.6666666666666666	nourishment	0.1111111111111111
+654	6	tree	after	null	1.0
+654	1	root system	before	null	1.0
+654	1	root system	after	null	1.0
+654	2	root system	before	null	1.0
+654	2	root system	after	grow	0.1111111111111111	ground	0.8888888888888888
+654	3	root system	before	grow	0.1111111111111111	ground	0.8888888888888888
+654	3	root system	after	grow	0.1111111111111111	ground	0.8888888888888888
+654	4	root system	before	grow	0.1111111111111111	ground	0.8888888888888888
+654	4	root system	after	ground	0.8888888888888888	nourishment	0.1111111111111111
+654	5	root system	before	ground	0.8888888888888888	nourishment	0.1111111111111111
+654	5	root system	after	ground	0.8888888888888888	nourishment	0.1111111111111111
+654	6	root system	before	ground	0.8888888888888888	nourishment	0.1111111111111111
+654	6	root system	after	unk	0.2	mature	0.2	ground	0.6
+654	1	material for new growth	before	null	1.0
+654	1	material for new growth	after	null	1.0
+654	2	material for new growth	before	null	1.0
+654	2	material for new growth	after	null	1.0
+654	3	material for new growth	before	null	1.0
+654	3	material for new growth	after	null	1.0
+654	4	material for new growth	before	null	1.0
+654	4	material for new growth	after	null	1.0
+654	5	material for new growth	before	null	1.0
+654	5	material for new growth	after	null	1.0
+654	6	material for new growth	before	null	1.0
+654	6	material for new growth	after	ground	1.0
+896	1	oxygenated blood	before	null	1.0
+896	1	oxygenated blood	after	null	1.0
+896	2	oxygenated blood	before	null	1.0
+896	2	oxygenated blood	after	null	1.0
+896	3	oxygenated blood	before	null	1.0
+896	3	oxygenated blood	after	null	1.0
+896	4	oxygenated blood	before	null	1.0
+896	4	oxygenated blood	after	null	1.0
+896	5	oxygenated blood	before	null	1.0
+896	5	oxygenated blood	after	null	1.0
+896	6	oxygenated blood	before	null	1.0
+896	6	oxygenated blood	after	null	1.0
+896	7	oxygenated blood	before	null	1.0
+896	7	oxygenated blood	after	lung	0.9	unk	0.1
+896	8	oxygenated blood	before	lung	0.9	unk	0.1
+896	8	oxygenated blood	after	unk	0.1	left atrium	0.9
+896	9	oxygenated blood	before	unk	0.1	left atrium	0.9
+896	9	oxygenated blood	after	unk	0.2	body	0.6	throughout the body	0.2
+896	1	oxygen-depleted blood	before	unk	0.4	right atrium	0.2	body	0.4
+896	1	oxygen-depleted blood	after	right atrium .	0.2	unk	0.1	right atrium	0.3	heart	0.4
+896	2	oxygen-depleted blood	before	right atrium .	0.2	unk	0.1	right atrium	0.3	heart	0.4
+896	2	oxygen-depleted blood	after	right atrium .	0.2	unk	0.2	right atrium	0.2	heart	0.4
+896	3	oxygen-depleted blood	before	right atrium .	0.2	unk	0.2	right atrium	0.2	heart	0.4
+896	3	oxygen-depleted blood	after	unk	0.2	right ventricle	0.6	heart	0.2
+896	4	oxygen-depleted blood	before	unk	0.2	right ventricle	0.6	heart	0.2
+896	4	oxygen-depleted blood	after	unk	0.2	right ventricle	0.6	heart	0.2
+896	5	oxygen-depleted blood	before	unk	0.2	right ventricle	0.6	heart	0.2
+896	5	oxygen-depleted blood	after	pulmonary artery	0.1	unk	0.1	right ventricle	0.4	pulmonic valve	0.1	heart	0.3
+896	6	oxygen-depleted blood	before	pulmonary artery	0.1	unk	0.1	right ventricle	0.4	pulmonic valve	0.1	heart	0.3
+896	6	oxygen-depleted blood	after	lung	0.9	unk	0.1
+896	7	oxygen-depleted blood	before	lung	0.9	unk	0.1
+896	7	oxygen-depleted blood	after	null	1.0
+896	8	oxygen-depleted blood	before	null	1.0
+896	8	oxygen-depleted blood	after	null	1.0
+896	9	oxygen-depleted blood	before	null	1.0
+896	9	oxygen-depleted blood	after	null	1.0
+896	1	blood	before	null	1.0
+896	1	blood	after	null	1.0
+896	2	blood	before	null	1.0
+896	2	blood	after	null	1.0
+896	3	blood	before	null	1.0
+896	3	blood	after	null	1.0
+896	4	blood	before	null	1.0
+896	4	blood	after	null	1.0
+896	5	blood	before	null	1.0
+896	5	blood	after	null	1.0
+896	6	blood	before	null	1.0
+896	6	blood	after	null	1.0
+896	7	blood	before	null	1.0
+896	7	blood	after	lung	0.9	unk	0.1
+896	8	blood	before	lung	0.9	unk	0.1
+896	8	blood	after	unk	0.1	left atrium	0.9
+896	9	blood	before	unk	0.1	left atrium	0.9
+896	9	blood	after	unk	0.2	body	0.6	throughout the body	0.2
+534	1	flowers	before	null	1.0
+534	1	flowers	after	null	1.0
+534	2	flowers	before	null	1.0
+534	2	flowers	after	null	1.0
+534	3	flowers	before	null	1.0
+534	3	flowers	after	null	1.0
+534	4	flowers	before	null	1.0
+534	4	flowers	after	null	1.0
+534	5	flowers	before	null	1.0
+534	5	flowers	after	unk	0.1	tree	0.9
+534	6	flowers	before	unk	0.1	tree	0.9
+534	6	flowers	after	unk	0.4	tree	0.6
+534	7	flowers	before	unk	0.4	tree	0.6
+534	7	flowers	after	unk	0.4	tree	0.6
+534	1	seed	before	unk	1.0
+534	1	seed	after	unk	0.8	plant	0.2
+534	2	seed	before	unk	0.8	plant	0.2
+534	2	seed	after	null	1.0
+534	3	seed	before	null	1.0
+534	3	seed	after	null	1.0
+534	4	seed	before	null	1.0
+534	4	seed	after	null	1.0
+534	5	seed	before	null	1.0
+534	5	seed	after	null	1.0
+534	6	seed	before	null	1.0
+534	6	seed	after	null	1.0
+534	7	seed	before	null	1.0
+534	7	seed	after	null	1.0
+534	1	fruit	before	null	1.0
+534	1	fruit	after	null	1.0
+534	2	fruit	before	null	1.0
+534	2	fruit	after	null	1.0
+534	3	fruit	before	null	1.0
+534	3	fruit	after	null	1.0
+534	4	fruit	before	null	1.0
+534	4	fruit	after	unk	0.1	tree	0.9
+534	5	fruit	before	unk	0.1	tree	0.9
+534	5	fruit	after	unk	0.2	tree	0.8
+534	6	fruit	before	unk	0.2	tree	0.8
+534	6	fruit	after	unk	0.4	tree	0.6
+534	7	fruit	before	unk	0.4	tree	0.6
+534	7	fruit	after	unk	0.4	tree	0.6
+534	1	tree	before	null	1.0
+534	1	tree	after	null	1.0
+534	2	tree	before	null	1.0
+534	2	tree	after	unk	0.8	plant	0.2
+534	3	tree	before	unk	0.8	plant	0.2
+534	3	tree	after	unk	0.8	plant	0.2
+534	4	tree	before	unk	0.8	plant	0.2
+534	4	tree	after	unk	0.8	plant	0.2
+534	5	tree	before	unk	0.8	plant	0.2
+534	5	tree	after	unk	0.8	plant	0.2
+534	6	tree	before	unk	0.8	plant	0.2
+534	6	tree	after	unk	0.8	plant	0.2
+534	7	tree	before	unk	0.8	plant	0.2
+534	7	tree	after	null	1.0
+534	1	small tree	before	null	1.0
+534	1	small tree	after	null	1.0
+534	2	small tree	before	null	1.0
+534	2	small tree	after	unk	0.8	plant	0.2
+534	3	small tree	before	unk	0.8	plant	0.2
+534	3	small tree	after	unk	0.8	plant	0.2
+534	4	small tree	before	unk	0.8	plant	0.2
+534	4	small tree	after	unk	0.8	plant	0.2
+534	5	small tree	before	unk	0.8	plant	0.2
+534	5	small tree	after	unk	0.8	plant	0.2
+534	6	small tree	before	unk	0.8	plant	0.2
+534	6	small tree	after	unk	0.8	plant	0.2
+534	7	small tree	before	unk	0.8	plant	0.2
+534	7	small tree	after	null	1.0
+659	1	nitrogen	before	bacterium	0.2	unk	0.2	soil	0.6
+659	1	nitrogen	after	null	1.0
+659	2	nitrogen	before	null	1.0
+659	2	nitrogen	after	bacterium	0.2	soil	0.8
+659	3	nitrogen	before	bacterium	0.2	soil	0.8
+659	3	nitrogen	after	plant	1.0
+659	4	nitrogen	before	plant	1.0
+659	4	nitrogen	after	null	1.0
+659	5	nitrogen	before	null	1.0
+659	5	nitrogen	after	null	1.0
+659	6	nitrogen	before	null	1.0
+659	6	nitrogen	after	null	1.0
+659	1	plant	before	soil	1.0
+659	1	plant	after	soil	1.0
+659	2	plant	before	soil	1.0
+659	2	plant	after	soil	1.0
+659	3	plant	before	soil	1.0
+659	3	plant	after	soil	1.0
+659	4	plant	before	soil	1.0
+659	4	plant	after	null	1.0
+659	5	plant	before	null	1.0
+659	5	plant	after	null	1.0
+659	6	plant	before	null	1.0
+659	6	plant	after	null	1.0
+659	1	ammonium	before	null	1.0
+659	1	ammonium	after	bacterium	0.2	unk	0.2	soil	0.6
+659	2	ammonium	before	bacterium	0.2	unk	0.2	soil	0.6
+659	2	ammonium	after	null	1.0
+659	3	ammonium	before	null	1.0
+659	3	ammonium	after	null	1.0
+659	4	ammonium	before	null	1.0
+659	4	ammonium	after	unk	0.2	fungus and bacterium	0.1	soil	0.5	nitrate	0.2
+659	5	ammonium	before	unk	0.2	fungus and bacterium	0.1	soil	0.5	nitrate	0.2
+659	5	ammonium	after	unk	0.2	soil	0.4	air	0.2	nitrate	0.2
+659	6	ammonium	before	unk	0.2	soil	0.4	air	0.2	nitrate	0.2
+659	6	ammonium	after	unk	0.2	soil	0.4	air	0.2	nitrate	0.2
+659	1	extra nitrogen	before	unk	0.2	soil	0.8
+659	1	extra nitrogen	after	unk	0.2	soil	0.8
+659	2	extra nitrogen	before	unk	0.2	soil	0.8
+659	2	extra nitrogen	after	unk	0.1111111111111111	soil	0.8888888888888888
+659	3	extra nitrogen	before	unk	0.1111111111111111	soil	0.8888888888888888
+659	3	extra nitrogen	after	unk	0.2	root	0.1	plant	0.1	soil	0.6
+659	4	extra nitrogen	before	unk	0.2	root	0.1	plant	0.1	soil	0.6
+659	4	extra nitrogen	after	unk	0.2	soil	0.8
+659	5	extra nitrogen	before	unk	0.2	soil	0.8
+659	5	extra nitrogen	after	unk	0.2	soil	0.2	air	0.6
+659	6	extra nitrogen	before	unk	0.2	soil	0.2	air	0.6
+659	6	extra nitrogen	after	unk	0.2	soil	0.2	air	0.6
+659	1	nitrates	before	bacterium	0.2	unk	0.2	soil	0.6
+659	1	nitrates	after	null	1.0
+659	2	nitrates	before	null	1.0
+659	2	nitrates	after	bacterium	0.2	soil	0.8
+659	3	nitrates	before	bacterium	0.2	soil	0.8
+659	3	nitrates	after	plant	1.0
+659	4	nitrates	before	plant	1.0
+659	4	nitrates	after	null	1.0
+659	5	nitrates	before	null	1.0
+659	5	nitrates	after	null	1.0
+659	6	nitrates	before	null	1.0
+659	6	nitrates	after	null	1.0
+660	1	wastes	before	null	1.0
+660	1	wastes	after	null	1.0
+660	2	wastes	before	null	1.0
+660	2	wastes	after	null	1.0
+660	3	wastes	before	null	1.0
+660	3	wastes	after	null	1.0
+660	4	wastes	before	null	1.0
+660	4	wastes	after	null	1.0
+660	5	wastes	before	null	1.0
+660	5	wastes	after	unk	0.4	animal	0.1	soil	0.5
+660	6	wastes	before	unk	0.4	animal	0.1	soil	0.5
+660	6	wastes	after	unk	0.4	soil	0.6
+660	7	wastes	before	unk	0.4	soil	0.6
+660	7	wastes	after	unk	0.4	soil	0.6
+660	8	wastes	before	unk	0.4	soil	0.6
+660	8	wastes	after	unk	0.4	soil	0.6
+660	9	wastes	before	unk	0.4	soil	0.6
+660	9	wastes	after	unk	0.4	soil	0.6
+660	1	organic nitrogen	before	null	1.0
+660	1	organic nitrogen	after	bacterium	0.1	unk	0.2	plant	0.1	root	0.1	soil	0.5
+660	2	organic nitrogen	before	bacterium	0.1	unk	0.2	plant	0.1	root	0.1	soil	0.5
+660	2	organic nitrogen	after	plant	1.0
+660	3	organic nitrogen	before	plant	1.0
+660	3	organic nitrogen	after	unk	0.1	plant	0.5	animal	0.4
+660	4	organic nitrogen	before	unk	0.1	plant	0.5	animal	0.4
+660	4	organic nitrogen	after	waste	0.1	unk	0.2	plant	0.4	animal	0.3
+660	5	organic nitrogen	before	waste	0.1	unk	0.2	plant	0.4	animal	0.3
+660	5	organic nitrogen	after	waste	0.1	unk	0.3	fungus	0.3	plant	0.2	soil	0.1
+660	6	organic nitrogen	before	waste	0.1	unk	0.3	fungus	0.3	plant	0.2	soil	0.1
+660	6	organic nitrogen	after	null	1.0
+660	7	organic nitrogen	before	null	1.0
+660	7	organic nitrogen	after	null	1.0
+660	8	organic nitrogen	before	null	1.0
+660	8	organic nitrogen	after	null	1.0
+660	9	organic nitrogen	before	null	1.0
+660	9	organic nitrogen	after	null	1.0
+660	1	plants	before	unk	0.6	soil	0.4
+660	1	plants	after	unk	0.6	soil	0.4
+660	2	plants	before	unk	0.6	soil	0.4
+660	2	plants	after	unk	0.6	animal	0.1	soil	0.3
+660	3	plants	before	unk	0.6	animal	0.1	soil	0.3
+660	3	plants	after	unk	0.5	animal	0.3	soil	0.2
+660	4	plants	before	unk	0.5	animal	0.3	soil	0.2
+660	4	plants	after	null	1.0
+660	5	plants	before	null	1.0
+660	5	plants	after	null	1.0
+660	6	plants	before	null	1.0
+660	6	plants	after	null	1.0
+660	7	plants	before	null	1.0
+660	7	plants	after	null	1.0
+660	8	plants	before	null	1.0
+660	8	plants	after	null	1.0
+660	9	plants	before	null	1.0
+660	9	plants	after	null	1.0
+660	1	atmospheric nitrogen	before	atmosphere	0.4	bacterium	0.4	unk	0.2
+660	1	atmospheric nitrogen	after	null	1.0
+660	2	atmospheric nitrogen	before	null	1.0
+660	2	atmospheric nitrogen	after	null	1.0
+660	3	atmospheric nitrogen	before	null	1.0
+660	3	atmospheric nitrogen	after	null	1.0
+660	4	atmospheric nitrogen	before	null	1.0
+660	4	atmospheric nitrogen	after	null	1.0
+660	5	atmospheric nitrogen	before	null	1.0
+660	5	atmospheric nitrogen	after	null	1.0
+660	6	atmospheric nitrogen	before	null	1.0
+660	6	atmospheric nitrogen	after	null	1.0
+660	7	atmospheric nitrogen	before	null	1.0
+660	7	atmospheric nitrogen	after	null	1.0
+660	8	atmospheric nitrogen	before	null	1.0
+660	8	atmospheric nitrogen	after	null	1.0
+660	9	atmospheric nitrogen	before	null	1.0
+660	9	atmospheric nitrogen	after	null	1.0
+660	1	ammonium	before	null	1.0
+660	1	ammonium	after	null	1.0
+660	2	ammonium	before	null	1.0
+660	2	ammonium	after	null	1.0
+660	3	ammonium	before	null	1.0
+660	3	ammonium	after	null	1.0
+660	4	ammonium	before	null	1.0
+660	4	ammonium	after	null	1.0
+660	5	ammonium	before	null	1.0
+660	5	ammonium	after	null	1.0
+660	6	ammonium	before	null	1.0
+660	6	ammonium	after	bacterium	0.1	unk	0.2	fungus	0.1	soil	0.6
+660	7	ammonium	before	bacterium	0.1	unk	0.2	fungus	0.1	soil	0.6
+660	7	ammonium	after	null	1.0
+660	8	ammonium	before	null	1.0
+660	8	ammonium	after	null	1.0
+660	9	ammonium	before	null	1.0
+660	9	ammonium	after	null	1.0
+660	1	animals	before	unk	1.0
+660	1	animals	after	unk	1.0
+660	2	animals	before	unk	1.0
+660	2	animals	after	unk	1.0
+660	3	animals	before	unk	1.0
+660	3	animals	after	unk	1.0
+660	4	animals	before	unk	1.0
+660	4	animals	after	null	1.0
+660	5	animals	before	null	1.0
+660	5	animals	after	null	1.0
+660	6	animals	before	null	1.0
+660	6	animals	after	null	1.0
+660	7	animals	before	null	1.0
+660	7	animals	after	null	1.0
+660	8	animals	before	null	1.0
+660	8	animals	after	null	1.0
+660	9	animals	before	null	1.0
+660	9	animals	after	null	1.0
+660	1	nitrate	before	null	1.0
+660	1	nitrate	after	null	1.0
+660	2	nitrate	before	null	1.0
+660	2	nitrate	after	null	1.0
+660	3	nitrate	before	null	1.0
+660	3	nitrate	after	null	1.0
+660	4	nitrate	before	null	1.0
+660	4	nitrate	after	null	1.0
+660	5	nitrate	before	null	1.0
+660	5	nitrate	after	null	1.0
+660	6	nitrate	before	null	1.0
+660	6	nitrate	after	null	1.0
+660	7	nitrate	before	null	1.0
+660	7	nitrate	after	bacterium	0.2	unk	0.2	soil	0.6
+660	8	nitrate	before	bacterium	0.2	unk	0.2	soil	0.6
+660	8	nitrate	after	null	1.0
+660	9	nitrate	before	null	1.0
+660	9	nitrate	after	null	1.0
+660	1	nitrogen gas	before	null	1.0
+660	1	nitrogen gas	after	null	1.0
+660	2	nitrogen gas	before	null	1.0
+660	2	nitrogen gas	after	null	1.0
+660	3	nitrogen gas	before	null	1.0
+660	3	nitrogen gas	after	null	1.0
+660	4	nitrogen gas	before	null	1.0
+660	4	nitrogen gas	after	null	1.0
+660	5	nitrogen gas	before	null	1.0
+660	5	nitrogen gas	after	null	1.0
+660	6	nitrogen gas	before	null	1.0
+660	6	nitrogen gas	after	null	1.0
+660	7	nitrogen gas	before	null	1.0
+660	7	nitrogen gas	after	null	1.0
+660	8	nitrogen gas	before	null	1.0
+660	8	nitrogen gas	after	bacterium	0.1	unk	0.1	soil	0.8
+660	9	nitrogen gas	before	bacterium	0.1	unk	0.1	soil	0.8
+660	9	nitrogen gas	after	atmosphere	0.8	soil	0.2
+661	1	nitrogen	before	unk	0.8	soil	0.2
+661	1	nitrogen	after	null	1.0
+661	2	nitrogen	before	null	1.0
+661	2	nitrogen	after	null	1.0
+661	3	nitrogen	before	null	1.0
+661	3	nitrogen	after	null	1.0
+661	4	nitrogen	before	null	1.0
+661	4	nitrogen	after	null	1.0
+661	5	nitrogen	before	null	1.0
+661	5	nitrogen	after	amino acid , nucleic acid , and chlorophyll	0.25	unk	0.25	plant	0.25	root	0.25
+661	6	nitrogen	before	amino acid , nucleic acid , and chlorophyll	0.25	unk	0.25	plant	0.25	root	0.25
+661	6	nitrogen	after	amino acid , nucleic acid , and chlorophyll	0.25	unk	0.25	plant	0.25	root	0.25
+661	7	nitrogen	before	amino acid , nucleic acid , and chlorophyll	0.25	unk	0.25	plant	0.25	root	0.25
+661	7	nitrogen	after	null	1.0
+661	8	nitrogen	before	null	1.0
+661	8	nitrogen	after	null	1.0
+661	9	nitrogen	before	null	1.0
+661	9	nitrogen	after	null	1.0
+661	1	plant	before	unk	0.4	soil	0.6
+661	1	plant	after	unk	0.4	soil	0.6
+661	2	plant	before	unk	0.4	soil	0.6
+661	2	plant	after	unk	0.4	soil	0.6
+661	3	plant	before	unk	0.4	soil	0.6
+661	3	plant	after	unk	0.4	soil	0.6
+661	4	plant	before	unk	0.4	soil	0.6
+661	4	plant	after	unk	0.4	soil	0.6
+661	5	plant	before	unk	0.4	soil	0.6
+661	5	plant	after	unk	0.4	soil	0.6
+661	6	plant	before	unk	0.4	soil	0.6
+661	6	plant	after	unk	0.4	soil	0.6
+661	7	plant	before	unk	0.4	soil	0.6
+661	7	plant	after	null	1.0
+661	8	plant	before	null	1.0
+661	8	plant	after	null	1.0
+661	9	plant	before	null	1.0
+661	9	plant	after	null	1.0
+661	1	ammonium	before	null	1.0
+661	1	ammonium	after	unk	0.4	bactria	0.2	soil	0.4
+661	2	ammonium	before	unk	0.4	bactria	0.2	soil	0.4
+661	2	ammonium	after	null	1.0
+661	3	ammonium	before	null	1.0
+661	3	ammonium	after	null	1.0
+661	4	ammonium	before	null	1.0
+661	4	ammonium	after	null	1.0
+661	5	ammonium	before	null	1.0
+661	5	ammonium	after	null	1.0
+661	6	ammonium	before	null	1.0
+661	6	ammonium	after	null	1.0
+661	7	ammonium	before	null	1.0
+661	7	ammonium	after	unk	0.25	soil	0.5	nitrogen cycle	0.25
+661	8	ammonium	before	unk	0.25	soil	0.5	nitrogen cycle	0.25
+661	8	ammonium	after	unk	0.125	soil	0.125	air	0.5	nitrogen cycle	0.25
+661	9	ammonium	before	unk	0.125	soil	0.125	air	0.5	nitrogen cycle	0.25
+661	9	ammonium	after	unk	0.25	air	0.5	nitrogen cycle	0.25
+661	1	animal	before	unk	1.0
+661	1	animal	after	unk	1.0
+661	2	animal	before	unk	1.0
+661	2	animal	after	unk	1.0
+661	3	animal	before	unk	1.0
+661	3	animal	after	unk	1.0
+661	4	animal	before	unk	1.0
+661	4	animal	after	unk	1.0
+661	5	animal	before	unk	1.0
+661	5	animal	after	unk	1.0
+661	6	animal	before	unk	1.0
+661	6	animal	after	unk	1.0
+661	7	animal	before	unk	1.0
+661	7	animal	after	null	1.0
+661	8	animal	before	null	1.0
+661	8	animal	after	null	1.0
+661	9	animal	before	null	1.0
+661	9	animal	after	null	1.0
+661	1	nitrates	before	null	1.0
+661	1	nitrates	after	null	1.0
+661	2	nitrates	before	null	1.0
+661	2	nitrates	after	unk	0.4	bactria	0.2	soil	0.4
+661	3	nitrates	before	unk	0.4	bactria	0.2	soil	0.4
+661	3	nitrates	after	unk	0.1	plant	0.5	bactria	0.2	soil	0.2
+661	4	nitrates	before	unk	0.1	plant	0.5	bactria	0.2	soil	0.2
+661	4	nitrates	after	unk	0.2	plant	0.4	bactria	0.2	soil	0.2
+661	5	nitrates	before	unk	0.2	plant	0.4	bactria	0.2	soil	0.2
+661	5	nitrates	after	null	1.0
+661	6	nitrates	before	null	1.0
+661	6	nitrates	after	null	1.0
+661	7	nitrates	before	null	1.0
+661	7	nitrates	after	null	1.0
+661	8	nitrates	before	null	1.0
+661	8	nitrates	after	null	1.0
+661	9	nitrates	before	null	1.0
+661	9	nitrates	after	null	1.0
+429	1	waste	before	null	1.0
+429	1	waste	after	null	1.0
+429	2	waste	before	null	1.0
+429	2	waste	after	null	1.0
+429	3	waste	before	null	1.0
+429	3	waste	after	null	1.0
+429	4	waste	before	null	1.0
+429	4	waste	after	null	1.0
+429	5	waste	before	null	1.0
+429	5	waste	after	null	1.0
+429	6	waste	before	null	1.0
+429	6	waste	after	unk	0.4	animal	0.3	soil	0.3
+429	7	waste	before	unk	0.4	animal	0.3	soil	0.3
+429	7	waste	after	unk	0.6	soil	0.4
+429	8	waste	before	unk	0.6	soil	0.4
+429	8	waste	after	unk	0.6	soil	0.4
+429	9	waste	before	unk	0.6	soil	0.4
+429	9	waste	after	null	1.0
+429	10	waste	before	null	1.0
+429	10	waste	after	null	1.0
+429	1	gas-based form	before	null	1.0
+429	1	gas-based form	after	null	1.0
+429	2	gas-based form	before	null	1.0
+429	2	gas-based form	after	null	1.0
+429	3	gas-based form	before	null	1.0
+429	3	gas-based form	after	null	1.0
+429	4	gas-based form	before	null	1.0
+429	4	gas-based form	after	null	1.0
+429	5	gas-based form	before	null	1.0
+429	5	gas-based form	after	null	1.0
+429	6	gas-based form	before	null	1.0
+429	6	gas-based form	after	null	1.0
+429	7	gas-based form	before	null	1.0
+429	7	gas-based form	after	null	1.0
+429	8	gas-based form	before	null	1.0
+429	8	gas-based form	after	null	1.0
+429	9	gas-based form	before	null	1.0
+429	9	gas-based form	after	bacterium	0.2	atmosphere	0.2	soil	0.6
+429	10	gas-based form	before	bacterium	0.2	atmosphere	0.2	soil	0.6
+429	10	gas-based form	after	atmosphere	1.0
+429	1	nitrogen	before	atmosphere	1.0
+429	1	nitrogen	after	atmosphere	0.8	unk	0.1	soil	0.1
+429	2	nitrogen	before	atmosphere	0.8	unk	0.1	soil	0.1
+429	2	nitrogen	after	null	1.0
+429	3	nitrogen	before	null	1.0
+429	3	nitrogen	after	null	1.0
+429	4	nitrogen	before	null	1.0
+429	4	nitrogen	after	null	1.0
+429	5	nitrogen	before	null	1.0
+429	5	nitrogen	after	null	1.0
+429	6	nitrogen	before	null	1.0
+429	6	nitrogen	after	null	1.0
+429	7	nitrogen	before	null	1.0
+429	7	nitrogen	after	null	1.0
+429	8	nitrogen	before	null	1.0
+429	8	nitrogen	after	null	1.0
+429	9	nitrogen	before	null	1.0
+429	9	nitrogen	after	null	1.0
+429	10	nitrogen	before	null	1.0
+429	10	nitrogen	after	null	1.0
+429	1	plants	before	unk	0.6	soil	0.4
+429	1	plants	after	unk	0.6	soil	0.4
+429	2	plants	before	unk	0.6	soil	0.4
+429	2	plants	after	unk	0.6	soil	0.4
+429	3	plants	before	unk	0.6	soil	0.4
+429	3	plants	after	unk	0.6	soil	0.4
+429	4	plants	before	unk	0.6	soil	0.4
+429	4	plants	after	unk	0.6	soil	0.4
+429	5	plants	before	unk	0.6	soil	0.4
+429	5	plants	after	unk	0.3	animal	0.5	soil	0.2
+429	6	plants	before	unk	0.3	animal	0.5	soil	0.2
+429	6	plants	after	waste	0.1	unk	0.4	plant	0.1	animal	0.2	soil	0.2
+429	7	plants	before	waste	0.1	unk	0.4	plant	0.1	animal	0.2	soil	0.2
+429	7	plants	after	unk	0.6	plant	0.2	soil	0.2
+429	8	plants	before	unk	0.6	plant	0.2	soil	0.2
+429	8	plants	after	unk	0.6	soil	0.4
+429	9	plants	before	unk	0.6	soil	0.4
+429	9	plants	after	null	1.0
+429	10	plants	before	null	1.0
+429	10	plants	after	null	1.0
+429	1	usable nitrogen	before	null	1.0
+429	1	usable nitrogen	after	null	1.0
+429	2	usable nitrogen	before	null	1.0
+429	2	usable nitrogen	after	soil	1.0
+429	3	usable nitrogen	before	soil	1.0
+429	3	usable nitrogen	after	live thing	0.1	plant	0.1	soil	0.8
+429	4	usable nitrogen	before	live thing	0.1	plant	0.1	soil	0.8
+429	4	usable nitrogen	after	plant	1.0
+429	5	usable nitrogen	before	plant	1.0
+429	5	usable nitrogen	after	animal	1.0
+429	6	usable nitrogen	before	animal	1.0
+429	6	usable nitrogen	after	waste	0.6	unk	0.1	plant	0.3
+429	7	usable nitrogen	before	waste	0.6	unk	0.1	plant	0.3
+429	7	usable nitrogen	after	waste	0.4	unk	0.2	plant	0.3	soil	0.1
+429	8	usable nitrogen	before	waste	0.4	unk	0.2	plant	0.3	soil	0.1
+429	8	usable nitrogen	after	bacterium	0.1	unk	0.1	soil	0.8
+429	9	usable nitrogen	before	bacterium	0.1	unk	0.1	soil	0.8
+429	9	usable nitrogen	after	null	1.0
+429	10	usable nitrogen	before	null	1.0
+429	10	usable nitrogen	after	null	1.0
+791	1	ac electricity	before	null	1.0
+791	1	ac electricity	after	null	1.0
+791	2	ac electricity	before	null	1.0
+791	2	ac electricity	after	null	1.0
+791	3	ac electricity	before	null	1.0
+791	3	ac electricity	after	null	1.0
+791	4	ac electricity	before	null	1.0
+791	4	ac electricity	after	inverter	1.0
+791	5	ac electricity	before	inverter	1.0
+791	5	ac electricity	after	inverter	0.1	home	0.9
+791	6	ac electricity	before	inverter	0.1	home	0.9
+791	6	ac electricity	after	main power grid	0.4	power grid	0.6
+791	1	dc electricity	before	null	1.0
+791	1	dc electricity	after	null	1.0
+791	2	dc electricity	before	null	1.0
+791	2	dc electricity	after	null	1.0
+791	3	dc electricity	before	null	1.0
+791	3	dc electricity	after	photovoltaic cell	0.2	inverter	0.1	solar cell	0.7
+791	4	dc electricity	before	photovoltaic cell	0.2	inverter	0.1	solar cell	0.7
+791	4	dc electricity	after	null	1.0
+791	5	dc electricity	before	null	1.0
+791	5	dc electricity	after	null	1.0
+791	6	dc electricity	before	null	1.0
+791	6	dc electricity	after	null	1.0
+310	1	carbon dioxide	before	blood	1.0
+310	1	carbon dioxide	after	blood	1.0
+310	2	carbon dioxide	before	blood	1.0
+310	2	carbon dioxide	after	blood	1.0
+310	3	carbon dioxide	before	blood	1.0
+310	3	carbon dioxide	after	null	1.0
+310	4	carbon dioxide	before	null	1.0
+310	4	carbon dioxide	after	null	1.0
+310	5	carbon dioxide	before	null	1.0
+310	5	carbon dioxide	after	null	1.0
+310	6	carbon dioxide	before	null	1.0
+310	6	carbon dioxide	after	null	1.0
+310	1	blood	before	unk	0.8	body	0.2
+310	1	blood	after	right side of you heart	0.4	heart	0.6
+310	2	blood	before	right side of you heart	0.4	heart	0.6
+310	2	blood	after	lung	1.0
+310	3	blood	before	lung	1.0
+310	3	blood	after	lung	1.0
+310	4	blood	before	lung	1.0
+310	4	blood	after	lung	1.0
+310	5	blood	before	lung	1.0
+310	5	blood	after	left side of you heart	0.4	heart	0.6
+310	6	blood	before	left side of you heart	0.4	heart	0.6
+310	6	blood	after	body	1.0
+310	1	oxygen	before	lung	0.6	unk	0.4
+310	1	oxygen	after	lung	0.6	unk	0.4
+310	2	oxygen	before	lung	0.6	unk	0.4
+310	2	oxygen	after	lung	0.6	unk	0.4
+310	3	oxygen	before	lung	0.6	unk	0.4
+310	3	oxygen	after	lung	0.6	unk	0.4
+310	4	oxygen	before	lung	0.6	unk	0.4
+310	4	oxygen	after	blood	1.0
+310	5	oxygen	before	blood	1.0
+310	5	oxygen	after	blood	1.0
+310	6	oxygen	before	blood	1.0
+310	6	oxygen	after	blood	1.0
+695	1	rain	before	null	1.0
+695	1	rain	after	null	1.0
+695	2	rain	before	null	1.0
+695	2	rain	after	null	1.0
+695	3	rain	before	null	1.0
+695	3	rain	after	null	1.0
+695	4	rain	before	null	1.0
+695	4	rain	after	null	1.0
+695	5	rain	before	null	1.0
+695	5	rain	after	earth	0.8	land	0.2
+695	6	rain	before	earth	0.8	land	0.2
+695	6	rain	after	earth	0.5	land	0.3	ocean , lake , or river	0.2
+695	7	rain	before	earth	0.5	land	0.3	ocean , lake , or river	0.2
+695	7	rain	after	earth	0.2	ocean , lake , or river	0.8
+695	1	vapor	before	null	1.0
+695	1	vapor	after	river , lake or ocean	0.2	river or lake or the ocean	0.4	air	0.4
+695	2	vapor	before	river , lake or ocean	0.2	river or lake or the ocean	0.4	air	0.4
+695	2	vapor	after	air	1.0
+695	3	vapor	before	air	1.0
+695	3	vapor	after	null	1.0
+695	4	vapor	before	null	1.0
+695	4	vapor	after	null	1.0
+695	5	vapor	before	null	1.0
+695	5	vapor	after	null	1.0
+695	6	vapor	before	null	1.0
+695	6	vapor	after	null	1.0
+695	7	vapor	before	null	1.0
+695	7	vapor	after	null	1.0
+695	1	water vapor	before	null	1.0
+695	1	water vapor	after	river , lake or ocean	0.2	river or lake or the ocean	0.4	air	0.4
+695	2	water vapor	before	river , lake or ocean	0.2	river or lake or the ocean	0.4	air	0.4
+695	2	water vapor	after	air	1.0
+695	3	water vapor	before	air	1.0
+695	3	water vapor	after	null	1.0
+695	4	water vapor	before	null	1.0
+695	4	water vapor	after	null	1.0
+695	5	water vapor	before	null	1.0
+695	5	water vapor	after	null	1.0
+695	6	water vapor	before	null	1.0
+695	6	water vapor	after	null	1.0
+695	7	water vapor	before	null	1.0
+695	7	water vapor	after	null	1.0
+695	1	snow	before	null	1.0
+695	1	snow	after	null	1.0
+695	2	snow	before	null	1.0
+695	2	snow	after	null	1.0
+695	3	snow	before	null	1.0
+695	3	snow	after	null	1.0
+695	4	snow	before	null	1.0
+695	4	snow	after	null	1.0
+695	5	snow	before	null	1.0
+695	5	snow	after	unk	0.125	earth	0.75	land	0.125
+695	6	snow	before	unk	0.125	earth	0.75	land	0.125
+695	6	snow	after	unk	0.25	earth	0.375	land	0.25	ocean , lake , or river	0.125
+695	7	snow	before	unk	0.25	earth	0.375	land	0.25	ocean , lake , or river	0.125
+695	7	snow	after	unk	0.25	earth	0.25	ocean , lake , or river	0.5
+695	1	steam	before	null	1.0
+695	1	steam	after	river , lake or ocean	0.2	river or lake or the ocean	0.4	air	0.4
+695	2	steam	before	river , lake or ocean	0.2	river or lake or the ocean	0.4	air	0.4
+695	2	steam	after	air	1.0
+695	3	steam	before	air	1.0
+695	3	steam	after	null	1.0
+695	4	steam	before	null	1.0
+695	4	steam	after	null	1.0
+695	5	steam	before	null	1.0
+695	5	steam	after	null	1.0
+695	6	steam	before	null	1.0
+695	6	steam	after	null	1.0
+695	7	steam	before	null	1.0
+695	7	steam	after	null	1.0
+695	1	clouds	before	null	1.0
+695	1	clouds	after	null	1.0
+695	2	clouds	before	null	1.0
+695	2	clouds	after	null	1.0
+695	3	clouds	before	null	1.0
+695	3	clouds	after	air	1.0
+695	4	clouds	before	air	1.0
+695	4	clouds	after	unk	0.1	air	0.9
+695	5	clouds	before	unk	0.1	air	0.9
+695	5	clouds	after	unk	0.4	air	0.6
+695	6	clouds	before	unk	0.4	air	0.6
+695	6	clouds	after	unk	0.4	air	0.6
+695	7	clouds	before	unk	0.4	air	0.6
+695	7	clouds	after	unk	0.4	air	0.6
+695	1	hail	before	null	1.0
+695	1	hail	after	null	1.0
+695	2	hail	before	null	1.0
+695	2	hail	after	null	1.0
+695	3	hail	before	null	1.0
+695	3	hail	after	null	1.0
+695	4	hail	before	null	1.0
+695	4	hail	after	null	1.0
+695	5	hail	before	null	1.0
+695	5	hail	after	unk	0.125	earth	0.75	land	0.125
+695	6	hail	before	unk	0.125	earth	0.75	land	0.125
+695	6	hail	after	unk	0.25	earth	0.375	land	0.25	ocean , lake , or river	0.125
+695	7	hail	before	unk	0.25	earth	0.375	land	0.25	ocean , lake , or river	0.125
+695	7	hail	after	unk	0.25	earth	0.25	ocean , lake , or river	0.5
+695	1	sleet	before	null	1.0
+695	1	sleet	after	null	1.0
+695	2	sleet	before	null	1.0
+695	2	sleet	after	null	1.0
+695	3	sleet	before	null	1.0
+695	3	sleet	after	null	1.0
+695	4	sleet	before	null	1.0
+695	4	sleet	after	null	1.0
+695	5	sleet	before	null	1.0
+695	5	sleet	after	unk	0.125	earth	0.75	land	0.125
+695	6	sleet	before	unk	0.125	earth	0.75	land	0.125
+695	6	sleet	after	unk	0.25	earth	0.375	land	0.25	ocean , lake , or river	0.125
+695	7	sleet	before	unk	0.25	earth	0.375	land	0.25	ocean , lake , or river	0.125
+695	7	sleet	after	unk	0.25	earth	0.25	ocean , lake , or river	0.5
+695	1	water	before	river or lake or the ocean	1.0
+695	1	water	after	null	1.0
+695	2	water	before	null	1.0
+695	2	water	after	null	1.0
+695	3	water	before	null	1.0
+695	3	water	after	null	1.0
+695	4	water	before	null	1.0
+695	4	water	after	null	1.0
+695	5	water	before	null	1.0
+695	5	water	after	null	1.0
+695	6	water	before	null	1.0
+695	6	water	after	null	1.0
+695	7	water	before	null	1.0
+695	7	water	after	null	1.0
+696	1	cloud	before	unk	0.5	air	0.5
+696	1	cloud	after	unk	0.5	air	0.5
+696	2	cloud	before	unk	0.5	air	0.5
+696	2	cloud	after	unk	0.5	air	0.5
+696	3	cloud	before	unk	0.5	air	0.5
+696	3	cloud	after	unk	0.25	up	0.25	air	0.5
+696	4	cloud	before	unk	0.25	up	0.25	air	0.5
+696	4	cloud	after	unk	0.25	up	0.25	air	0.5
+696	5	cloud	before	unk	0.25	up	0.25	air	0.5
+696	5	cloud	after	unk	0.25	up	0.25	air	0.5
+696	6	cloud	before	unk	0.25	up	0.25	air	0.5
+696	6	cloud	after	unk	0.5	air	0.5
+696	1	rain	before	null	1.0
+696	1	rain	after	null	1.0
+696	2	rain	before	null	1.0
+696	2	rain	after	null	1.0
+696	3	rain	before	null	1.0
+696	3	rain	after	null	1.0
+696	4	rain	before	null	1.0
+696	4	rain	after	null	1.0
+696	5	rain	before	null	1.0
+696	5	rain	after	null	1.0
+696	6	rain	before	null	1.0
+696	6	rain	after	unk	0.75	air	0.25
+696	1	water vapor	before	air	1.0
+696	1	water vapor	after	air	1.0
+696	2	water vapor	before	air	1.0
+696	2	water vapor	after	unk	0.4	water droplet	0.4	air	0.2
+696	3	water vapor	before	unk	0.4	water droplet	0.4	air	0.2
+696	3	water vapor	after	cloud	0.2	unk	0.4	water droplet	0.2	air	0.2
+696	4	water vapor	before	cloud	0.2	unk	0.4	water droplet	0.2	air	0.2
+696	4	water vapor	after	cloud	0.2222222222222222	unk	0.3333333333333333	water droplet	0.2222222222222222	air	0.2222222222222222
+696	5	water vapor	before	cloud	0.2222222222222222	unk	0.3333333333333333	water droplet	0.2222222222222222	air	0.2222222222222222
+696	5	water vapor	after	cloud	0.25	unk	0.25	water droplet	0.25	air	0.25
+696	6	water vapor	before	cloud	0.25	unk	0.25	water droplet	0.25	air	0.25
+696	6	water vapor	after	unk	0.5	water droplet	0.25	air	0.25
+696	1	water droplets	before	null	1.0
+696	1	water droplets	after	null	1.0
+696	2	water droplets	before	null	1.0
+696	2	water droplets	after	unk	0.2	air	0.8
+696	3	water droplets	before	unk	0.2	air	0.8
+696	3	water droplets	after	cloud	1.0
+696	4	water droplets	before	cloud	1.0
+696	4	water droplets	after	cloud	1.0
+696	5	water droplets	before	cloud	1.0
+696	5	water droplets	after	cloud	1.0
+696	6	water droplets	before	cloud	1.0
+696	6	water droplets	after	rain	0.2	unk	0.8
+697	1	rain	before	null	1.0
+697	1	rain	after	null	1.0
+697	2	rain	before	null	1.0
+697	2	rain	after	null	1.0
+697	3	rain	before	null	1.0
+697	3	rain	after	null	1.0
+697	4	rain	before	null	1.0
+697	4	rain	after	null	1.0
+697	5	rain	before	null	1.0
+697	5	rain	after	cloud	0.2	area below the cloud	0.6	area below	0.2
+697	1	clouds	before	null	1.0
+697	1	clouds	after	null	1.0
+697	2	clouds	before	null	1.0
+697	2	clouds	after	area	0.2	unk	0.8
+697	3	clouds	before	area	0.2	unk	0.8
+697	3	clouds	after	area	0.2	unk	0.8
+697	4	clouds	before	area	0.2	unk	0.8
+697	4	clouds	after	area	0.1	unk	0.8	below	0.1
+697	5	clouds	before	area	0.1	unk	0.8	below	0.1
+697	5	clouds	after	area	0.2	unk	0.8
+697	1	water	before	body of water	1.0
+697	1	water	after	cloud	0.2	body of water	0.2	unk	0.6
+697	2	water	before	cloud	0.2	body of water	0.2	unk	0.6
+697	2	water	after	cloud	1.0
+697	3	water	before	cloud	1.0
+697	3	water	after	cloud	1.0
+697	4	water	before	cloud	1.0
+697	4	water	after	cloud	1.0
+697	5	water	before	cloud	1.0
+697	5	water	after	cloud	0.2	area below the cloud	0.4	rain	0.2	area below	0.2
+460	1	fossil fuel	before	null	1.0
+460	1	fossil fuel	after	null	1.0
+460	2	fossil fuel	before	null	1.0
+460	2	fossil fuel	after	null	1.0
+460	3	fossil fuel	before	null	1.0
+460	3	fossil fuel	after	null	1.0
+460	4	fossil fuel	before	null	1.0
+460	4	fossil fuel	after	null	1.0
+460	5	fossil fuel	before	null	1.0
+460	5	fossil fuel	after	null	1.0
+460	6	fossil fuel	before	null	1.0
+460	6	fossil fuel	after	null	1.0
+460	7	fossil fuel	before	null	1.0
+460	7	fossil fuel	after	unk	0.2	surface	0.4	earth 's surface	0.4
+460	8	fossil fuel	before	unk	0.2	surface	0.4	earth 's surface	0.4
+460	8	fossil fuel	after	null	1.0
+460	9	fossil fuel	before	null	1.0
+460	9	fossil fuel	after	null	1.0
+460	10	fossil fuel	before	null	1.0
+460	10	fossil fuel	after	null	1.0
+460	1	carbon	before	live thing	0.8	live thing ; remains of live thing	0.2
+460	1	carbon	after	live thing	0.7	unk	0.1	live thing ; remains of live thing	0.2
+460	2	carbon	before	live thing	0.7	unk	0.1	live thing ; remains of live thing	0.2
+460	2	carbon	after	live thing	0.2	unk	0.2	live thing ; remains of live thing	0.2	remains	0.2	remains of live thing	0.2
+460	3	carbon	before	live thing	0.2	unk	0.2	live thing ; remains of live thing	0.2	remains	0.2	remains of live thing	0.2
+460	3	carbon	after	unk	0.2	underground	0.2	live thing ; remains of live thing	0.2	remains	0.2	remains of live thing	0.2
+460	4	carbon	before	unk	0.2	underground	0.2	live thing ; remains of live thing	0.2	remains	0.2	remains of live thing	0.2
+460	4	carbon	after	null	1.0
+460	5	carbon	before	null	1.0
+460	5	carbon	after	null	1.0
+460	6	carbon	before	null	1.0
+460	6	carbon	after	null	1.0
+460	7	carbon	before	null	1.0
+460	7	carbon	after	null	1.0
+460	8	carbon	before	null	1.0
+460	8	carbon	after	null	1.0
+460	9	carbon	before	null	1.0
+460	9	carbon	after	null	1.0
+460	10	carbon	before	null	1.0
+460	10	carbon	after	null	1.0
+460	1	remains of living things	before	unk	0.8	earth	0.2
+460	1	remains of living things	after	unk	0.8	earth	0.2
+460	2	remains of living things	before	unk	0.8	earth	0.2
+460	2	remains of living things	after	unk	0.8	earth	0.2
+460	3	remains of living things	before	unk	0.8	earth	0.2
+460	3	remains of living things	after	underground	1.0
+460	4	remains of living things	before	underground	1.0
+460	4	remains of living things	after	null	1.0
+460	5	remains of living things	before	null	1.0
+460	5	remains of living things	after	null	1.0
+460	6	remains of living things	before	null	1.0
+460	6	remains of living things	after	null	1.0
+460	7	remains of living things	before	null	1.0
+460	7	remains of living things	after	null	1.0
+460	8	remains of living things	before	null	1.0
+460	8	remains of living things	after	null	1.0
+460	9	remains of living things	before	null	1.0
+460	9	remains of living things	after	null	1.0
+460	10	remains of living things	before	null	1.0
+460	10	remains of living things	after	null	1.0
+460	1	carbon-based mixture	before	null	1.0
+460	1	carbon-based mixture	after	null	1.0
+460	2	carbon-based mixture	before	null	1.0
+460	2	carbon-based mixture	after	null	1.0
+460	3	carbon-based mixture	before	null	1.0
+460	3	carbon-based mixture	after	null	1.0
+460	4	carbon-based mixture	before	null	1.0
+460	4	carbon-based mixture	after	unk	0.1	underground	0.9
+460	5	carbon-based mixture	before	unk	0.1	underground	0.9
+460	5	carbon-based mixture	after	unk	0.1	underground	0.9
+460	6	carbon-based mixture	before	unk	0.1	underground	0.9
+460	6	carbon-based mixture	after	unk	0.1	surface	0.1	underground	0.7	earth 's surface	0.1
+460	7	carbon-based mixture	before	unk	0.1	surface	0.1	underground	0.7	earth 's surface	0.1
+460	7	carbon-based mixture	after	null	1.0
+460	8	carbon-based mixture	before	null	1.0
+460	8	carbon-based mixture	after	null	1.0
+460	9	carbon-based mixture	before	null	1.0
+460	9	carbon-based mixture	after	null	1.0
+460	10	carbon-based mixture	before	null	1.0
+460	10	carbon-based mixture	after	null	1.0
+460	1	power	before	null	1.0
+460	1	power	after	null	1.0
+460	2	power	before	null	1.0
+460	2	power	after	null	1.0
+460	3	power	before	null	1.0
+460	3	power	after	null	1.0
+460	4	power	before	null	1.0
+460	4	power	after	null	1.0
+460	5	power	before	null	1.0
+460	5	power	after	null	1.0
+460	6	power	before	null	1.0
+460	6	power	after	null	1.0
+460	7	power	before	null	1.0
+460	7	power	after	null	1.0
+460	8	power	before	null	1.0
+460	8	power	after	null	1.0
+460	9	power	before	null	1.0
+460	9	power	after	null	1.0
+460	10	power	before	null	1.0
+460	10	power	after	unk	0.75	earth 's surface	0.25
+460	1	living things	before	unk	0.8	earth	0.2
+460	1	living things	after	unk	0.8	earth	0.2
+460	2	living things	before	unk	0.8	earth	0.2
+460	2	living things	after	unk	0.8	earth	0.2
+460	3	living things	before	unk	0.8	earth	0.2
+460	3	living things	after	underground	1.0
+460	4	living things	before	underground	1.0
+460	4	living things	after	null	1.0
+460	5	living things	before	null	1.0
+460	5	living things	after	null	1.0
+460	6	living things	before	null	1.0
+460	6	living things	after	null	1.0
+460	7	living things	before	null	1.0
+460	7	living things	after	null	1.0
+460	8	living things	before	null	1.0
+460	8	living things	after	null	1.0
+460	9	living things	before	null	1.0
+460	9	living things	after	null	1.0
+460	10	living things	before	null	1.0
+460	10	living things	after	null	1.0
+460	1	energy	before	null	1.0
+460	1	energy	after	null	1.0
+460	2	energy	before	null	1.0
+460	2	energy	after	null	1.0
+460	3	energy	before	null	1.0
+460	3	energy	after	null	1.0
+460	4	energy	before	null	1.0
+460	4	energy	after	null	1.0
+460	5	energy	before	null	1.0
+460	5	energy	after	null	1.0
+460	6	energy	before	null	1.0
+460	6	energy	after	null	1.0
+460	7	energy	before	null	1.0
+460	7	energy	after	fossil fuel	0.4	unk	0.2	fuel	0.2	earth 's surface	0.2
+460	8	energy	before	fossil fuel	0.4	unk	0.2	fuel	0.2	earth 's surface	0.2
+460	8	energy	after	fossil fuel	0.3	unk	0.3	fuel	0.2	earth 's surface	0.2
+460	9	energy	before	fossil fuel	0.3	unk	0.3	fuel	0.2	earth 's surface	0.2
+460	9	energy	after	unk	0.6	fuel	0.2	earth 's surface	0.2
+460	10	energy	before	unk	0.6	fuel	0.2	earth 's surface	0.2
+460	10	energy	after	null	1.0
+582	1	tornado	before	unk	1.0
+582	1	tornado	after	unk	1.0
+582	2	tornado	before	unk	1.0
+582	2	tornado	after	unk	1.0
+582	3	tornado	before	unk	1.0
+582	3	tornado	after	unk	1.0
+582	4	tornado	before	unk	1.0
+582	4	tornado	after	unk	1.0
+582	5	tornado	before	unk	1.0
+582	5	tornado	after	unk	1.0
+582	6	tornado	before	unk	1.0
+582	6	tornado	after	unk	1.0
+582	7	tornado	before	unk	1.0
+582	7	tornado	after	unk	0.875	updraft	0.125
+582	8	tornado	before	unk	0.875	updraft	0.125
+582	8	tornado	after	null	1.0
+582	1	circular patterns	before	null	1.0
+582	1	circular patterns	after	null	1.0
+582	2	circular patterns	before	null	1.0
+582	2	circular patterns	after	null	1.0
+582	3	circular patterns	before	null	1.0
+582	3	circular patterns	after	null	1.0
+582	4	circular patterns	before	null	1.0
+582	4	circular patterns	after	null	1.0
+582	5	circular patterns	before	null	1.0
+582	5	circular patterns	after	null	1.0
+582	6	circular patterns	before	null	1.0
+582	6	circular patterns	after	null	1.0
+582	7	circular patterns	before	null	1.0
+582	7	circular patterns	after	unk	0.3333333333333333	updraft	0.6666666666666666
+582	8	circular patterns	before	unk	0.3333333333333333	updraft	0.6666666666666666
+582	8	circular patterns	after	tornado	0.25	unk	0.5	updraft	0.25
+582	1	air masses	before	null	1.0
+582	1	air masses	after	null	1.0
+582	2	air masses	before	null	1.0
+582	2	air masses	after	null	1.0
+582	3	air masses	before	null	1.0
+582	3	air masses	after	unk	1.0
+582	4	air masses	before	unk	1.0
+582	4	air masses	after	unk	1.0
+582	5	air masses	before	unk	1.0
+582	5	air masses	after	null	1.0
+582	6	air masses	before	null	1.0
+582	6	air masses	after	null	1.0
+582	7	air masses	before	null	1.0
+582	7	air masses	after	null	1.0
+582	8	air masses	before	null	1.0
+582	8	air masses	after	null	1.0
+582	1	cool, dry air	before	unk	0.6	north	0.4
+582	1	cool, dry air	after	unk	0.4	south	0.3	north	0.3
+582	2	cool, dry air	before	unk	0.4	south	0.3	north	0.3
+582	2	cool, dry air	after	unk	0.3	south	0.7
+582	3	cool, dry air	before	unk	0.3	south	0.7
+582	3	cool, dry air	after	null	1.0
+582	4	cool, dry air	before	null	1.0
+582	4	cool, dry air	after	null	1.0
+582	5	cool, dry air	before	null	1.0
+582	5	cool, dry air	after	null	1.0
+582	6	cool, dry air	before	null	1.0
+582	6	cool, dry air	after	null	1.0
+582	7	cool, dry air	before	null	1.0
+582	7	cool, dry air	after	null	1.0
+582	8	cool, dry air	before	null	1.0
+582	8	cool, dry air	after	null	1.0
+582	1	updraft	before	null	1.0
+582	1	updraft	after	null	1.0
+582	2	updraft	before	null	1.0
+582	2	updraft	after	null	1.0
+582	3	updraft	before	null	1.0
+582	3	updraft	after	null	1.0
+582	4	updraft	before	null	1.0
+582	4	updraft	after	null	1.0
+582	5	updraft	before	null	1.0
+582	5	updraft	after	null	1.0
+582	6	updraft	before	null	1.0
+582	6	updraft	after	unk	0.6	air mass	0.4
+582	7	updraft	before	unk	0.6	air mass	0.4
+582	7	updraft	after	unk	0.6	air mass	0.4
+582	8	updraft	before	unk	0.6	air mass	0.4
+582	8	updraft	after	tornado	0.4	unk	0.4	air mass	0.2
+582	1	warm, moist air	before	unk	0.2	south	0.8
+582	1	warm, moist air	after	unk	0.3	south	0.1	north	0.6
+582	2	warm, moist air	before	unk	0.3	south	0.1	north	0.6
+582	2	warm, moist air	after	unk	0.4	north	0.6
+582	3	warm, moist air	before	unk	0.4	north	0.6
+582	3	warm, moist air	after	null	1.0
+582	4	warm, moist air	before	null	1.0
+582	4	warm, moist air	after	null	1.0
+582	5	warm, moist air	before	null	1.0
+582	5	warm, moist air	after	null	1.0
+582	6	warm, moist air	before	null	1.0
+582	6	warm, moist air	after	null	1.0
+582	7	warm, moist air	before	null	1.0
+582	7	warm, moist air	after	null	1.0
+582	8	warm, moist air	before	null	1.0
+582	8	warm, moist air	after	null	1.0
+582	1	masses	before	null	1.0
+582	1	masses	after	null	1.0
+582	2	masses	before	null	1.0
+582	2	masses	after	null	1.0
+582	3	masses	before	null	1.0
+582	3	masses	after	unk	1.0
+582	4	masses	before	unk	1.0
+582	4	masses	after	unk	1.0
+582	5	masses	before	unk	1.0
+582	5	masses	after	null	1.0
+582	6	masses	before	null	1.0
+582	6	masses	after	null	1.0
+582	7	masses	before	null	1.0
+582	7	masses	after	null	1.0
+582	8	masses	before	null	1.0
+582	8	masses	after	null	1.0
+582	1	wind	before	null	1.0
+582	1	wind	after	null	1.0
+582	2	wind	before	null	1.0
+582	2	wind	after	null	1.0
+582	3	wind	before	null	1.0
+582	3	wind	after	null	1.0
+582	4	wind	before	null	1.0
+582	4	wind	after	null	1.0
+582	5	wind	before	null	1.0
+582	5	wind	after	unk	0.6	air mass	0.4
+582	6	wind	before	unk	0.6	air mass	0.4
+582	6	wind	after	unk	0.5	air mass	0.2	updraft	0.3
+582	7	wind	before	unk	0.5	air mass	0.2	updraft	0.3
+582	7	wind	after	unk	0.5	air mass	0.2	updraft	0.3
+582	8	wind	before	unk	0.5	air mass	0.2	updraft	0.3
+582	8	wind	after	tornado	0.2	unk	0.6	air mass	0.2
+583	1	funnel	before	null	1.0
+583	1	funnel	after	null	1.0
+583	2	funnel	before	null	1.0
+583	2	funnel	after	null	1.0
+583	3	funnel	before	null	1.0
+583	3	funnel	after	null	1.0
+583	4	funnel	before	null	1.0
+583	4	funnel	after	null	1.0
+583	5	funnel	before	null	1.0
+583	5	funnel	after	unk	0.5	funnel	0.25	rotation	0.25
+583	6	funnel	before	unk	0.5	funnel	0.25	rotation	0.25
+583	6	funnel	after	ground	1.0
+583	1	rotation	before	null	1.0
+583	1	rotation	after	null	1.0
+583	2	rotation	before	null	1.0
+583	2	rotation	after	null	1.0
+583	3	rotation	before	null	1.0
+583	3	rotation	after	null	1.0
+583	4	rotation	before	null	1.0
+583	4	rotation	after	unk	0.4	rotation	0.2	air	0.2	wind	0.2
+583	5	rotation	before	unk	0.4	rotation	0.2	air	0.2	wind	0.2
+583	5	rotation	after	unk	0.3	funnel	0.5	air	0.2
+583	6	rotation	before	unk	0.3	funnel	0.5	air	0.2
+583	6	rotation	after	unk	0.2	ground	0.8
+583	1	updraft	before	null	1.0
+583	1	updraft	after	null	1.0
+583	2	updraft	before	null	1.0
+583	2	updraft	after	unk	0.6	air	0.4
+583	3	updraft	before	unk	0.6	air	0.4
+583	3	updraft	after	unk	0.5	oppose wind	0.1	air	0.4
+583	4	updraft	before	unk	0.5	oppose wind	0.1	air	0.4
+583	4	updraft	after	unk	0.4	rotation	0.2	air	0.4
+583	5	updraft	before	unk	0.4	rotation	0.2	air	0.4
+583	5	updraft	after	unk	0.4	funnel	0.2	air	0.4
+583	6	updraft	before	unk	0.4	funnel	0.2	air	0.4
+583	6	updraft	after	unk	0.2	ground	0.6	air	0.2
+583	1	dry, cold high-pressure air	before	unk	0.6	air	0.4
+583	1	dry, cold high-pressure air	after	unk	0.6	air	0.4
+583	2	dry, cold high-pressure air	before	unk	0.6	air	0.4
+583	2	dry, cold high-pressure air	after	unk	0.6	air	0.4
+583	3	dry, cold high-pressure air	before	unk	0.6	air	0.4
+583	3	dry, cold high-pressure air	after	unk	0.4	updraft	0.1	oppose wind	0.1	air	0.4
+583	4	dry, cold high-pressure air	before	unk	0.4	updraft	0.1	oppose wind	0.1	air	0.4
+583	4	dry, cold high-pressure air	after	unk	0.4	rotation	0.2	air	0.4
+583	5	dry, cold high-pressure air	before	unk	0.4	rotation	0.2	air	0.4
+583	5	dry, cold high-pressure air	after	unk	0.4	funnel	0.2	air	0.4
+583	6	dry, cold high-pressure air	before	unk	0.4	funnel	0.2	air	0.4
+583	6	dry, cold high-pressure air	after	unk	0.2	ground	0.6	air	0.2
+463	1	raindrops	before	unk	0.4	updraft	0.2	aloft	0.2	thunderstorm	0.2
+463	1	raindrops	after	unk	0.2	updraft	0.4	thunderstorm	0.2	upward	0.2
+463	2	raindrops	before	unk	0.2	updraft	0.4	thunderstorm	0.2	upward	0.2
+463	2	raindrops	after	null	1.0
+463	3	raindrops	before	null	1.0
+463	3	raindrops	after	null	1.0
+463	4	raindrops	before	null	1.0
+463	4	raindrops	after	null	1.0
+463	5	raindrops	before	null	1.0
+463	5	raindrops	after	null	1.0
+463	1	ice particle	before	null	1.0
+463	1	ice particle	after	null	1.0
+463	2	ice particle	before	null	1.0
+463	2	ice particle	after	null	1.0
+463	3	ice particle	before	null	1.0
+463	3	ice particle	after	unk	0.2	surface	0.4	aloft	0.2	thunderstorm	0.2
+463	4	ice particle	before	unk	0.2	surface	0.4	aloft	0.2	thunderstorm	0.2
+463	4	ice particle	after	unk	0.2	surface	0.4	aloft	0.2	thunderstorm	0.2
+463	5	ice particle	before	unk	0.2	surface	0.4	aloft	0.2	thunderstorm	0.2
+463	5	ice particle	after	unk	0.2	surface	0.4	earth	0.4
+463	1	hailstone	before	null	1.0
+463	1	hailstone	after	null	1.0
+463	2	hailstone	before	null	1.0
+463	2	hailstone	after	null	1.0
+463	3	hailstone	before	null	1.0
+463	3	hailstone	after	null	1.0
+463	4	hailstone	before	null	1.0
+463	4	hailstone	after	unk	0.2222222222222222	aloft	0.5555555555555556	thunderstorm	0.2222222222222222
+463	5	hailstone	before	unk	0.2222222222222222	aloft	0.5555555555555556	thunderstorm	0.2222222222222222
+463	5	hailstone	after	earth	1.0
+465	1	hail	before	null	1.0
+465	1	hail	after	null	1.0
+465	2	hail	before	null	1.0
+465	2	hail	after	water	0.2	wind	0.8
+465	3	hail	before	water	0.2	wind	0.8
+465	3	hail	after	water	0.2	wind	0.8
+465	4	hail	before	water	0.2	wind	0.8
+465	4	hail	after	water	0.2	wind	0.8
+465	5	hail	before	water	0.2	wind	0.8
+465	5	hail	after	water	0.2	wind	0.8
+465	6	hail	before	water	0.2	wind	0.8
+465	6	hail	after	wind	1.0
+465	7	hail	before	wind	1.0
+465	7	hail	after	ground	1.0
+465	1	water	before	unk	0.8	wind	0.2
+465	1	water	after	wind	1.0
+465	2	water	before	wind	1.0
+465	2	water	after	null	1.0
+465	3	water	before	null	1.0
+465	3	water	after	null	1.0
+465	4	water	before	null	1.0
+465	4	water	after	null	1.0
+465	5	water	before	null	1.0
+465	5	water	after	null	1.0
+465	6	water	before	null	1.0
+465	6	water	after	null	1.0
+465	7	water	before	null	1.0
+465	7	water	after	null	1.0
+249	1	new types of rocks	before	null	1.0
+249	1	new types of rocks	after	null	1.0
+249	2	new types of rocks	before	null	1.0
+249	2	new types of rocks	after	null	1.0
+249	3	new types of rocks	before	null	1.0
+249	3	new types of rocks	after	null	1.0
+249	4	new types of rocks	before	null	1.0
+249	4	new types of rocks	after	null	1.0
+249	5	new types of rocks	before	null	1.0
+249	5	new types of rocks	after	rock	0.2	unk	0.8
+249	6	new types of rocks	before	rock	0.2	unk	0.8
+249	6	new types of rocks	after	rock	0.2	unk	0.8
+249	7	new types of rocks	before	rock	0.2	unk	0.8
+249	7	new types of rocks	after	rock	0.2	unk	0.8
+249	8	new types of rocks	before	rock	0.2	unk	0.8
+249	8	new types of rocks	after	rock	0.2	unk	0.4	water	0.4
+249	1	rocks	before	rock	0.2	unk	0.8
+249	1	rocks	after	rock	0.2	unk	0.8
+249	2	rocks	before	rock	0.2	unk	0.8
+249	2	rocks	after	rock	0.2	unk	0.8
+249	3	rocks	before	rock	0.2	unk	0.8
+249	3	rocks	after	rock	0.2	unk	0.8
+249	4	rocks	before	rock	0.2	unk	0.8
+249	4	rocks	after	rock	0.2	unk	0.8
+249	5	rocks	before	rock	0.2	unk	0.8
+249	5	rocks	after	null	1.0
+249	6	rocks	before	null	1.0
+249	6	rocks	after	null	1.0
+249	7	rocks	before	null	1.0
+249	7	rocks	after	null	1.0
+249	8	rocks	before	null	1.0
+249	8	rocks	after	null	1.0
+249	1	smaller pieces	before	rock	0.2	unk	0.8
+249	1	smaller pieces	after	rock	0.2	unk	0.8
+249	2	smaller pieces	before	rock	0.2	unk	0.8
+249	2	smaller pieces	after	rock	0.2	unk	0.8
+249	3	smaller pieces	before	rock	0.2	unk	0.8
+249	3	smaller pieces	after	rock	0.2	unk	0.8
+249	4	smaller pieces	before	rock	0.2	unk	0.8
+249	4	smaller pieces	after	rock	0.2	unk	0.8
+249	5	smaller pieces	before	rock	0.2	unk	0.8
+249	5	smaller pieces	after	null	1.0
+249	6	smaller pieces	before	null	1.0
+249	6	smaller pieces	after	null	1.0
+249	7	smaller pieces	before	null	1.0
+249	7	smaller pieces	after	null	1.0
+249	8	smaller pieces	before	null	1.0
+249	8	smaller pieces	after	null	1.0
+249	1	new substance	before	null	1.0
+249	1	new substance	after	null	1.0
+249	2	new substance	before	null	1.0
+249	2	new substance	after	null	1.0
+249	3	new substance	before	null	1.0
+249	3	new substance	after	null	1.0
+249	4	new substance	before	null	1.0
+249	4	new substance	after	null	1.0
+249	5	new substance	before	null	1.0
+249	5	new substance	after	rock	0.2	unk	0.8
+249	6	new substance	before	rock	0.2	unk	0.8
+249	6	new substance	after	rock	0.2	unk	0.8
+249	7	new substance	before	rock	0.2	unk	0.8
+249	7	new substance	after	rock	0.2	unk	0.8
+249	8	new substance	before	rock	0.2	unk	0.8
+249	8	new substance	after	rock	0.2	unk	0.4	water	0.4
+249	1	certain types of rocks	before	null	1.0
+249	1	certain types of rocks	after	null	1.0
+249	2	certain types of rocks	before	null	1.0
+249	2	certain types of rocks	after	null	1.0
+249	3	certain types of rocks	before	null	1.0
+249	3	certain types of rocks	after	null	1.0
+249	4	certain types of rocks	before	null	1.0
+249	4	certain types of rocks	after	null	1.0
+249	5	certain types of rocks	before	null	1.0
+249	5	certain types of rocks	after	rock	0.2	unk	0.8
+249	6	certain types of rocks	before	rock	0.2	unk	0.8
+249	6	certain types of rocks	after	rock	0.2	unk	0.8
+249	7	certain types of rocks	before	rock	0.2	unk	0.8
+249	7	certain types of rocks	after	rock	0.2	unk	0.8
+249	8	certain types of rocks	before	rock	0.2	unk	0.8
+249	8	certain types of rocks	after	rock	0.2	unk	0.4	water	0.4
+249	1	oxygen	before	unk	0.8	air	0.2
+249	1	oxygen	after	unk	0.8	air	0.2
+249	2	oxygen	before	unk	0.8	air	0.2
+249	2	oxygen	after	unk	0.8	air	0.2
+249	3	oxygen	before	unk	0.8	air	0.2
+249	3	oxygen	after	unk	0.8	air	0.2
+249	4	oxygen	before	unk	0.8	air	0.2
+249	4	oxygen	after	rock	0.6	unk	0.1	new type of rock	0.2	element in rock	0.1
+249	5	oxygen	before	rock	0.6	unk	0.1	new type of rock	0.2	element in rock	0.1
+249	5	oxygen	after	null	1.0
+249	6	oxygen	before	null	1.0
+249	6	oxygen	after	null	1.0
+249	7	oxygen	before	null	1.0
+249	7	oxygen	after	null	1.0
+249	8	oxygen	before	null	1.0
+249	8	oxygen	after	null	1.0
+37	1	soft tissues	before	watery environman	0.2	unk	0.4	watery environment	0.2	plant ; animal	0.2
+37	1	soft tissues	after	watery environman	0.2	unk	0.4	watery environment	0.1	plant ; animal	0.2	mud	0.1
+37	2	soft tissues	before	watery environman	0.2	unk	0.4	watery environment	0.1	plant ; animal	0.2	mud	0.1
+37	2	soft tissues	after	unk	0.4	plant ; animal	0.2	mud	0.2	mud and silt	0.2
+37	3	soft tissues	before	unk	0.4	plant ; animal	0.2	mud	0.2	mud and silt	0.2
+37	3	soft tissues	after	null	1.0
+37	4	soft tissues	before	null	1.0
+37	4	soft tissues	after	null	1.0
+37	5	soft tissues	before	null	1.0
+37	5	soft tissues	after	null	1.0
+37	6	soft tissues	before	null	1.0
+37	6	soft tissues	after	null	1.0
+37	1	bones	before	watery environman	0.2	unk	0.4	watery environment	0.2	plant ; animal	0.2
+37	1	bones	after	watery environman	0.1	unk	0.4	watery environment	0.2	plant ; animal	0.2	mud	0.1
+37	2	bones	before	watery environman	0.1	unk	0.4	watery environment	0.2	plant ; animal	0.2	mud	0.1
+37	2	bones	after	unk	0.4	plant ; animal	0.2	mud	0.2	mud and silt	0.2
+37	3	bones	before	unk	0.4	plant ; animal	0.2	mud	0.2	mud and silt	0.2
+37	3	bones	after	unk	0.4	plant	0.2	plant ; animal	0.2	mud and silt	0.2
+37	4	bones	before	unk	0.4	plant	0.2	plant ; animal	0.2	mud and silt	0.2
+37	4	bones	after	rock	0.4	unk	0.4	plant ; animal	0.2
+37	5	bones	before	rock	0.4	unk	0.4	plant ; animal	0.2
+37	5	bones	after	null	1.0
+37	6	bones	before	null	1.0
+37	6	bones	after	null	1.0
+37	1	plant	before	watery environman	0.2	unk	0.2	watery environment	0.4	water environment	0.2
+37	1	plant	after	watery environman	0.2	unk	0.2	watery environment	0.4	mud	0.1	mud and silt	0.1
+37	2	plant	before	watery environman	0.2	unk	0.2	watery environment	0.4	mud	0.1	mud and silt	0.1
+37	2	plant	after	unk	0.1	mud	0.2	mud and silt	0.5	bury in mud and silt	0.2
+37	3	plant	before	unk	0.1	mud	0.2	mud and silt	0.5	bury in mud and silt	0.2
+37	3	plant	after	unk	0.2	plant	0.2	mud and silt	0.4	bury in mud and silt	0.2
+37	4	plant	before	unk	0.2	plant	0.2	mud and silt	0.4	bury in mud and silt	0.2
+37	4	plant	after	rock	0.4	unk	0.3	mud and silt	0.1	bury in mud and silt	0.2
+37	5	plant	before	rock	0.4	unk	0.3	mud and silt	0.1	bury in mud and silt	0.2
+37	5	plant	after	rock	0.4	unk	0.4	bury in mud and silt	0.2
+37	6	plant	before	rock	0.4	unk	0.4	bury in mud and silt	0.2
+37	6	plant	after	rock	0.4	unk	0.4	bury in mud and silt	0.2
+37	1	fossils	before	null	1.0
+37	1	fossils	after	null	1.0
+37	2	fossils	before	null	1.0
+37	2	fossils	after	null	1.0
+37	3	fossils	before	null	1.0
+37	3	fossils	after	null	1.0
+37	4	fossils	before	null	1.0
+37	4	fossils	after	null	1.0
+37	5	fossils	before	null	1.0
+37	5	fossils	after	null	1.0
+37	6	fossils	before	null	1.0
+37	6	fossils	after	rock	0.25	unk	0.5	mud and silt	0.25
+37	1	animal	before	watery environman	0.2	unk	0.2	watery environment	0.4	water environment	0.2
+37	1	animal	after	watery environman	0.2	unk	0.2	watery environment	0.4	mud	0.1	mud and silt	0.1
+37	2	animal	before	watery environman	0.2	unk	0.2	watery environment	0.4	mud	0.1	mud and silt	0.1
+37	2	animal	after	unk	0.1	mud	0.2	mud and silt	0.5	bury in mud and silt	0.2
+37	3	animal	before	unk	0.1	mud	0.2	mud and silt	0.5	bury in mud and silt	0.2
+37	3	animal	after	unk	0.2	plant	0.2	mud and silt	0.4	bury in mud and silt	0.2
+37	4	animal	before	unk	0.2	plant	0.2	mud and silt	0.4	bury in mud and silt	0.2
+37	4	animal	after	rock	0.4	unk	0.3	mud and silt	0.1	bury in mud and silt	0.2
+37	5	animal	before	rock	0.4	unk	0.3	mud and silt	0.1	bury in mud and silt	0.2
+37	5	animal	after	rock	0.4	unk	0.4	bury in mud and silt	0.2
+37	6	animal	before	rock	0.4	unk	0.4	bury in mud and silt	0.2
+37	6	animal	after	rock	0.4	unk	0.4	bury in mud and silt	0.2
+37	1	mineral	before	unk	0.6	watery environment	0.4
+37	1	mineral	after	unk	0.6	watery environment	0.3	mud	0.1
+37	2	mineral	before	unk	0.6	watery environment	0.3	mud	0.1
+37	2	mineral	after	unk	0.6	watery environment	0.2	mud	0.2
+37	3	mineral	before	unk	0.6	watery environment	0.2	mud	0.2
+37	3	mineral	after	unk	0.6	plant	0.2	watery environment	0.2
+37	4	mineral	before	unk	0.6	plant	0.2	watery environment	0.2
+37	4	mineral	after	rock	0.2	unk	0.6	watery environment	0.2
+37	5	mineral	before	rock	0.2	unk	0.6	watery environment	0.2
+37	5	mineral	after	rock	0.4	unk	0.3	bone	0.2	sediment	0.1
+37	6	mineral	before	rock	0.4	unk	0.3	bone	0.2	sediment	0.1
+37	6	mineral	after	rock	0.4	unk	0.4	fossil	0.2
+38	1	rock	before	null	1.0
+38	1	rock	after	null	1.0
+38	2	rock	before	null	1.0
+38	2	rock	after	null	1.0
+38	3	rock	before	null	1.0
+38	3	rock	after	null	1.0
+38	4	rock	before	null	1.0
+38	4	rock	after	null	1.0
+38	5	rock	before	null	1.0
+38	5	rock	after	sandy or wet place	0.2	around the body	0.6	unk	0.2
+38	6	rock	before	sandy or wet place	0.2	around the body	0.6	unk	0.2
+38	6	rock	after	sandy or wet place	0.2	around the body	0.4	unk	0.2	fossil	0.2
+38	7	rock	before	sandy or wet place	0.2	around the body	0.4	unk	0.2	fossil	0.2
+38	7	rock	after	sandy or wet place	0.2	around the body	0.4	unk	0.2	fossil	0.2
+38	1	animal	before	unk	1.0
+38	1	animal	after	sandy or wet place	0.4	unk	0.6
+38	2	animal	before	sandy or wet place	0.4	unk	0.6
+38	2	animal	after	sandy or wet place	0.6	unk	0.4
+38	3	animal	before	sandy or wet place	0.6	unk	0.4
+38	3	animal	after	sandy or wet place	0.9	unk	0.1
+38	4	animal	before	sandy or wet place	0.9	unk	0.1
+38	4	animal	after	sandy or wet place	0.6	unk	0.2	soil	0.2
+38	5	animal	before	sandy or wet place	0.6	unk	0.2	soil	0.2
+38	5	animal	after	sandy or wet place	0.6	rock	0.2	unk	0.2
+38	6	animal	before	sandy or wet place	0.6	rock	0.2	unk	0.2
+38	6	animal	after	null	1.0
+38	7	animal	before	null	1.0
+38	7	animal	after	null	1.0
+38	1	soil	before	unk	1.0
+38	1	soil	after	unk	1.0
+38	2	soil	before	unk	1.0
+38	2	soil	after	unk	1.0
+38	3	soil	before	unk	1.0
+38	3	soil	after	around the body	0.1	unk	0.9
+38	4	soil	before	around the body	0.1	unk	0.9
+38	4	soil	after	around the body	0.7	unk	0.1	body	0.2
+38	5	soil	before	around the body	0.7	unk	0.1	body	0.2
+38	5	soil	after	null	1.0
+38	6	soil	before	null	1.0
+38	6	soil	after	null	1.0
+38	7	soil	before	null	1.0
+38	7	soil	after	null	1.0
+38	1	body	before	unk	1.0
+38	1	body	after	sandy or wet place	0.4	unk	0.6
+38	2	body	before	sandy or wet place	0.4	unk	0.6
+38	2	body	after	sandy or wet place	0.6	unk	0.4
+38	3	body	before	sandy or wet place	0.6	unk	0.4
+38	3	body	after	sandy or wet place	0.9	unk	0.1
+38	4	body	before	sandy or wet place	0.9	unk	0.1
+38	4	body	after	sandy or wet place	0.6	unk	0.2	soil	0.2
+38	5	body	before	sandy or wet place	0.6	unk	0.2	soil	0.2
+38	5	body	after	sandy or wet place	0.6	rock	0.2	unk	0.2
+38	6	body	before	sandy or wet place	0.6	rock	0.2	unk	0.2
+38	6	body	after	null	1.0
+38	7	body	before	null	1.0
+38	7	body	after	null	1.0
+38	1	fossil	before	null	1.0
+38	1	fossil	after	null	1.0
+38	2	fossil	before	null	1.0
+38	2	fossil	after	null	1.0
+38	3	fossil	before	null	1.0
+38	3	fossil	after	null	1.0
+38	4	fossil	before	null	1.0
+38	4	fossil	after	null	1.0
+38	5	fossil	before	null	1.0
+38	5	fossil	after	null	1.0
+38	6	fossil	before	null	1.0
+38	6	fossil	after	rock	0.4	sandy or wet place	0.2	unk	0.4
+38	7	fossil	before	rock	0.4	sandy or wet place	0.2	unk	0.4
+38	7	fossil	after	rock	0.4	sandy or wet place	0.2	unk	0.4
+152	1	lifted vapor	before	atmosphere	1.0
+152	1	lifted vapor	after	atmosphere	1.0
+152	2	lifted vapor	before	atmosphere	1.0
+152	2	lifted vapor	after	atmosphere	0.8	unk	0.2
+152	3	lifted vapor	before	atmosphere	0.8	unk	0.2
+152	3	lifted vapor	after	atmosphere	0.8	unk	0.2
+152	4	lifted vapor	before	atmosphere	0.8	unk	0.2
+152	4	lifted vapor	after	null	1.0
+152	5	lifted vapor	before	null	1.0
+152	5	lifted vapor	after	null	1.0
+152	6	lifted vapor	before	null	1.0
+152	6	lifted vapor	after	null	1.0
+152	1	solid	before	null	1.0
+152	1	solid	after	null	1.0
+152	2	solid	before	null	1.0
+152	2	solid	after	null	1.0
+152	3	solid	before	null	1.0
+152	3	solid	after	null	1.0
+152	4	solid	before	null	1.0
+152	4	solid	after	atmosphere	0.8	unk	0.2
+152	5	solid	before	atmosphere	0.8	unk	0.2
+152	5	solid	after	atmosphere	0.8	sky	0.1	unk	0.1
+152	6	solid	before	atmosphere	0.8	sky	0.1	unk	0.1
+152	6	solid	after	sky	0.2	atmosphere	0.4	unk	0.4
+152	1	vapor	before	atmosphere	1.0
+152	1	vapor	after	atmosphere	1.0
+152	2	vapor	before	atmosphere	1.0
+152	2	vapor	after	atmosphere	0.8	unk	0.2
+152	3	vapor	before	atmosphere	0.8	unk	0.2
+152	3	vapor	after	atmosphere	0.8	unk	0.2
+152	4	vapor	before	atmosphere	0.8	unk	0.2
+152	4	vapor	after	null	1.0
+152	5	vapor	before	null	1.0
+152	5	vapor	after	null	1.0
+152	6	vapor	before	null	1.0
+152	6	vapor	after	null	1.0
+152	1	water vapor	before	atmosphere	1.0
+152	1	water vapor	after	atmosphere	1.0
+152	2	water vapor	before	atmosphere	1.0
+152	2	water vapor	after	atmosphere	0.8	unk	0.2
+152	3	water vapor	before	atmosphere	0.8	unk	0.2
+152	3	water vapor	after	atmosphere	0.8	unk	0.2
+152	4	water vapor	before	atmosphere	0.8	unk	0.2
+152	4	water vapor	after	null	1.0
+152	5	water vapor	before	null	1.0
+152	5	water vapor	after	null	1.0
+152	6	water vapor	before	null	1.0
+152	6	water vapor	after	null	1.0
+152	1	cloud droplets	before	null	1.0
+152	1	cloud droplets	after	null	1.0
+152	2	cloud droplets	before	null	1.0
+152	2	cloud droplets	after	null	1.0
+152	3	cloud droplets	before	null	1.0
+152	3	cloud droplets	after	null	1.0
+152	4	cloud droplets	before	null	1.0
+152	4	cloud droplets	after	atmosphere	0.8	unk	0.2
+152	5	cloud droplets	before	atmosphere	0.8	unk	0.2
+152	5	cloud droplets	after	atmosphere	0.8	sky	0.1	unk	0.1
+152	6	cloud droplets	before	atmosphere	0.8	sky	0.1	unk	0.1
+152	6	cloud droplets	after	sky	0.2	atmosphere	0.4	unk	0.4
+67	1	plants	before	unk	0.8	plant	0.2
+67	1	plants	after	unk	0.6	plant	0.1	swamp	0.3
+67	2	plants	before	unk	0.6	plant	0.1	swamp	0.3
+67	2	plants	after	swamp	1.0
+67	3	plants	before	swamp	1.0
+67	3	plants	after	bottom of the swamp	0.6	swamp	0.4
+67	4	plants	before	bottom of the swamp	0.6	swamp	0.4
+67	4	plants	after	area .	0.1	area	0.1	bottom of the swamp	0.4	swamp	0.4
+67	5	plants	before	area .	0.1	area	0.1	bottom of the swamp	0.4	swamp	0.4
+67	5	plants	after	null	1.0
+67	6	plants	before	null	1.0
+67	6	plants	after	null	1.0
+67	7	plants	before	null	1.0
+67	7	plants	after	null	1.0
+67	8	plants	before	null	1.0
+67	8	plants	after	null	1.0
+67	9	plants	before	null	1.0
+67	9	plants	after	null	1.0
+67	1	coal	before	null	1.0
+67	1	coal	after	null	1.0
+67	2	coal	before	null	1.0
+67	2	coal	after	null	1.0
+67	3	coal	before	null	1.0
+67	3	coal	after	null	1.0
+67	4	coal	before	null	1.0
+67	4	coal	after	null	1.0
+67	5	coal	before	null	1.0
+67	5	coal	after	null	1.0
+67	6	coal	before	null	1.0
+67	6	coal	after	null	1.0
+67	7	coal	before	null	1.0
+67	7	coal	after	null	1.0
+67	8	coal	before	null	1.0
+67	8	coal	after	null	1.0
+67	9	coal	before	null	1.0
+67	9	coal	after	bottom of the swamp	0.6	swamp	0.4
+67	1	dead plants	before	unk	0.8	plant	0.2
+67	1	dead plants	after	unk	0.6	plant	0.1	swamp	0.3
+67	2	dead plants	before	unk	0.6	plant	0.1	swamp	0.3
+67	2	dead plants	after	swamp	1.0
+67	3	dead plants	before	swamp	1.0
+67	3	dead plants	after	bottom of the swamp	0.6	swamp	0.4
+67	4	dead plants	before	bottom of the swamp	0.6	swamp	0.4
+67	4	dead plants	after	area .	0.1	area	0.1	bottom of the swamp	0.4	swamp	0.4
+67	5	dead plants	before	area .	0.1	area	0.1	bottom of the swamp	0.4	swamp	0.4
+67	5	dead plants	after	null	1.0
+67	6	dead plants	before	null	1.0
+67	6	dead plants	after	null	1.0
+67	7	dead plants	before	null	1.0
+67	7	dead plants	after	null	1.0
+67	8	dead plants	before	null	1.0
+67	8	dead plants	after	null	1.0
+67	9	dead plants	before	null	1.0
+67	9	dead plants	after	null	1.0
+67	1	peat	before	null	1.0
+67	1	peat	after	null	1.0
+67	2	peat	before	null	1.0
+67	2	peat	after	null	1.0
+67	3	peat	before	null	1.0
+67	3	peat	after	null	1.0
+67	4	peat	before	null	1.0
+67	4	peat	after	null	1.0
+67	5	peat	before	null	1.0
+67	5	peat	after	bottom of the swamp	0.6	swamp	0.4
+67	6	peat	before	bottom of the swamp	0.6	swamp	0.4
+67	6	peat	after	bottom of the swamp	0.6	swamp	0.4
+67	7	peat	before	bottom of the swamp	0.6	swamp	0.4
+67	7	peat	after	bottom of the swamp	0.6	swamp	0.4
+67	8	peat	before	bottom of the swamp	0.6	swamp	0.4
+67	8	peat	after	bottom of the swamp	0.6	swamp	0.4
+67	9	peat	before	bottom of the swamp	0.6	swamp	0.4
+67	9	peat	after	null	1.0
+68	1	heat	before	null	1.0
+68	1	heat	after	null	1.0
+68	2	heat	before	null	1.0
+68	2	heat	after	null	1.0
+68	3	heat	before	null	1.0
+68	3	heat	after	null	1.0
+68	4	heat	before	null	1.0
+68	4	heat	after	null	1.0
+68	5	heat	before	null	1.0
+68	5	heat	after	null	1.0
+68	6	heat	before	null	1.0
+68	6	heat	after	null	1.0
+68	7	heat	before	null	1.0
+68	7	heat	after	burial peat	0.4	unk	0.2	peat	0.2	swamp	0.2
+68	1	burial peat	before	null	1.0
+68	1	burial peat	after	null	1.0
+68	2	burial peat	before	null	1.0
+68	2	burial peat	after	null	1.0
+68	3	burial peat	before	null	1.0
+68	3	burial peat	after	null	1.0
+68	4	burial peat	before	null	1.0
+68	4	burial peat	after	steamy , swampy area	0.2	swampy area	0.2	swamp	0.2	peat	0.2	bottom of steamy , swampy area	0.2
+68	5	burial peat	before	steamy , swampy area	0.2	swampy area	0.2	swamp	0.2	peat	0.2	bottom of steamy , swampy area	0.2
+68	5	burial peat	after	sand , clay , and other mineral material	0.2	unk	0.2	swampy area	0.2	swamp	0.2	bottom of steamy , swampy area	0.2
+68	6	burial peat	before	sand , clay , and other mineral material	0.2	unk	0.2	swampy area	0.2	swamp	0.2	bottom of steamy , swampy area	0.2
+68	6	burial peat	after	unk	0.2	swampy area	0.2	swamp	0.2	peat	0.2	bottom of steamy , swampy area	0.2
+68	7	burial peat	before	unk	0.2	swampy area	0.2	swamp	0.2	peat	0.2	bottom of steamy , swampy area	0.2
+68	7	burial peat	after	null	1.0
+68	1	plants	before	unk	0.6	swampy area	0.2	swamp	0.2
+68	1	plants	after	null	1.0
+68	2	plants	before	null	1.0
+68	2	plants	after	null	1.0
+68	3	plants	before	null	1.0
+68	3	plants	after	null	1.0
+68	4	plants	before	null	1.0
+68	4	plants	after	null	1.0
+68	5	plants	before	null	1.0
+68	5	plants	after	null	1.0
+68	6	plants	before	null	1.0
+68	6	plants	after	null	1.0
+68	7	plants	before	null	1.0
+68	7	plants	after	null	1.0
+68	1	plant and tree remains	before	null	1.0
+68	1	plant and tree remains	after	area	0.2	unk	0.4	swampy area	0.2	swamp	0.2
+68	2	plant and tree remains	before	area	0.2	unk	0.4	swampy area	0.2	swamp	0.2
+68	2	plant and tree remains	after	area	0.2	steamy , swampy area	0.2	swampy area	0.2	swamp	0.2	bottom of steamy , swampy area	0.2
+68	3	plant and tree remains	before	area	0.2	steamy , swampy area	0.2	swampy area	0.2	swamp	0.2	bottom of steamy , swampy area	0.2
+68	3	plant and tree remains	after	steamy , swampy area	0.2	swampy area	0.2	swamp	0.2	bottom of steamy , swampy area	0.2	layer	0.2
+68	4	plant and tree remains	before	steamy , swampy area	0.2	swampy area	0.2	swamp	0.2	bottom of steamy , swampy area	0.2	layer	0.2
+68	4	plant and tree remains	after	unk	0.2	swampy area	0.2	swamp	0.2	peat	0.2	bottom of steamy , swampy area	0.2
+68	5	plant and tree remains	before	unk	0.2	swampy area	0.2	swamp	0.2	peat	0.2	bottom of steamy , swampy area	0.2
+68	5	plant and tree remains	after	sand , clay , and other mineral material	0.2	unk	0.2	swampy area	0.2	swamp	0.2	bottom of steamy , swampy area	0.2
+68	6	plant and tree remains	before	sand , clay , and other mineral material	0.2	unk	0.2	swampy area	0.2	swamp	0.2	bottom of steamy , swampy area	0.2
+68	6	plant and tree remains	after	unk	0.2	swampy area	0.2	swamp	0.2	peat	0.2	bottom of steamy , swampy area	0.2
+68	7	plant and tree remains	before	unk	0.2	swampy area	0.2	swamp	0.2	peat	0.2	bottom of steamy , swampy area	0.2
+68	7	plant and tree remains	after	unk	0.2	swampy area	0.2	coal	0.2	swamp	0.2	bottom of steamy , swampy area	0.2
+68	1	coal	before	null	1.0
+68	1	coal	after	null	1.0
+68	2	coal	before	null	1.0
+68	2	coal	after	null	1.0
+68	3	coal	before	null	1.0
+68	3	coal	after	null	1.0
+68	4	coal	before	null	1.0
+68	4	coal	after	null	1.0
+68	5	coal	before	null	1.0
+68	5	coal	after	null	1.0
+68	6	coal	before	null	1.0
+68	6	coal	after	null	1.0
+68	7	coal	before	null	1.0
+68	7	coal	after	burial peat	0.2	unk	0.2	coal	0.2	swamp	0.2	bottom of steamy , swampy area	0.2
+68	1	peat	before	null	1.0
+68	1	peat	after	null	1.0
+68	2	peat	before	null	1.0
+68	2	peat	after	null	1.0
+68	3	peat	before	null	1.0
+68	3	peat	after	null	1.0
+68	4	peat	before	null	1.0
+68	4	peat	after	steamy , swampy area	0.2	swampy area	0.2	swamp	0.2	peat	0.2	bottom of steamy , swampy area	0.2
+68	5	peat	before	steamy , swampy area	0.2	swampy area	0.2	swamp	0.2	peat	0.2	bottom of steamy , swampy area	0.2
+68	5	peat	after	sand , clay , and other mineral material	0.2	unk	0.2	swampy area	0.2	swamp	0.2	bottom of steamy , swampy area	0.2
+68	6	peat	before	sand , clay , and other mineral material	0.2	unk	0.2	swampy area	0.2	swamp	0.2	bottom of steamy , swampy area	0.2
+68	6	peat	after	unk	0.2	swampy area	0.2	swamp	0.2	peat	0.2	bottom of steamy , swampy area	0.2
+68	7	peat	before	unk	0.2	swampy area	0.2	swamp	0.2	peat	0.2	bottom of steamy , swampy area	0.2
+68	7	peat	after	null	1.0
+68	1	trees	before	unk	0.6	swampy area	0.2	swamp	0.2
+68	1	trees	after	null	1.0
+68	2	trees	before	null	1.0
+68	2	trees	after	null	1.0
+68	3	trees	before	null	1.0
+68	3	trees	after	null	1.0
+68	4	trees	before	null	1.0
+68	4	trees	after	null	1.0
+68	5	trees	before	null	1.0
+68	5	trees	after	null	1.0
+68	6	trees	before	null	1.0
+68	6	trees	after	null	1.0
+68	7	trees	before	null	1.0
+68	7	trees	after	null	1.0
+68	1	water	before	steamy , swampy area	0.2	unk	0.2	plant and tree remain	0.2	swamp	0.2	peat	0.2
+68	1	water	after	steamy , swampy area	0.2	unk	0.2	plant and tree remain	0.2	swamp	0.2	peat	0.2
+68	2	water	before	steamy , swampy area	0.2	unk	0.2	plant and tree remain	0.2	swamp	0.2	peat	0.2
+68	2	water	after	steamy , swampy area	0.2	unk	0.2	plant and tree remain	0.2	swamp	0.2	peat	0.2
+68	3	water	before	steamy , swampy area	0.2	unk	0.2	plant and tree remain	0.2	swamp	0.2	peat	0.2
+68	3	water	after	steamy , swampy area	0.2	unk	0.2	plant and tree remain	0.2	swamp	0.2	peat	0.2
+68	4	water	before	steamy , swampy area	0.2	unk	0.2	plant and tree remain	0.2	swamp	0.2	peat	0.2
+68	4	water	after	steamy , swampy area	0.2	unk	0.2	peat	0.4	swamp	0.2
+68	5	water	before	steamy , swampy area	0.2	unk	0.2	peat	0.4	swamp	0.2
+68	5	water	after	unk	0.3	peat	0.5	swamp	0.2
+68	6	water	before	unk	0.3	peat	0.5	swamp	0.2
+68	6	water	after	null	1.0
+68	7	water	before	null	1.0
+68	7	water	after	null	1.0
+69	1	sand	before	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	1	sand	after	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	2	sand	before	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	2	sand	after	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	3	sand	before	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	3	sand	after	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	4	sand	before	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	4	sand	after	bottom of swamp	0.6	peat	0.2	swamp	0.2
+69	5	sand	before	bottom of swamp	0.6	peat	0.2	swamp	0.2
+69	5	sand	after	null	1.0
+69	6	sand	before	null	1.0
+69	6	sand	after	null	1.0
+69	7	sand	before	null	1.0
+69	7	sand	after	null	1.0
+69	1	sedimentary rocks	before	null	1.0
+69	1	sedimentary rocks	after	null	1.0
+69	2	sedimentary rocks	before	null	1.0
+69	2	sedimentary rocks	after	null	1.0
+69	3	sedimentary rocks	before	null	1.0
+69	3	sedimentary rocks	after	null	1.0
+69	4	sedimentary rocks	before	null	1.0
+69	4	sedimentary rocks	after	null	1.0
+69	5	sedimentary rocks	before	null	1.0
+69	5	sedimentary rocks	after	bottom of swamp	0.6	swamp	0.4
+69	6	sedimentary rocks	before	bottom of swamp	0.6	swamp	0.4
+69	6	sedimentary rocks	after	bottom of swamp	0.6	swamp	0.4
+69	7	sedimentary rocks	before	bottom of swamp	0.6	swamp	0.4
+69	7	sedimentary rocks	after	bottom of swamp	0.6	swamp	0.4
+69	1	plants	before	unk	0.8	swamp	0.2
+69	1	plants	after	unk	0.6	bottom of swamp	0.2	swamp	0.2
+69	2	plants	before	unk	0.6	bottom of swamp	0.2	swamp	0.2
+69	2	plants	after	bottom of swamp	0.6	swamp	0.4
+69	3	plants	before	bottom of swamp	0.6	swamp	0.4
+69	3	plants	after	null	1.0
+69	4	plants	before	null	1.0
+69	4	plants	after	null	1.0
+69	5	plants	before	null	1.0
+69	5	plants	after	null	1.0
+69	6	plants	before	null	1.0
+69	6	plants	after	null	1.0
+69	7	plants	before	null	1.0
+69	7	plants	after	null	1.0
+69	1	coal	before	null	1.0
+69	1	coal	after	null	1.0
+69	2	coal	before	null	1.0
+69	2	coal	after	null	1.0
+69	3	coal	before	null	1.0
+69	3	coal	after	null	1.0
+69	4	coal	before	null	1.0
+69	4	coal	after	null	1.0
+69	5	coal	before	null	1.0
+69	5	coal	after	null	1.0
+69	6	coal	before	null	1.0
+69	6	coal	after	null	1.0
+69	7	coal	before	null	1.0
+69	7	coal	after	unk	0.2	bottom of swamp	0.4	swamp	0.4
+69	1	pressure	before	null	1.0
+69	1	pressure	after	null	1.0
+69	2	pressure	before	null	1.0
+69	2	pressure	after	null	1.0
+69	3	pressure	before	null	1.0
+69	3	pressure	after	null	1.0
+69	4	pressure	before	null	1.0
+69	4	pressure	after	null	1.0
+69	5	pressure	before	null	1.0
+69	5	pressure	after	null	1.0
+69	6	pressure	before	null	1.0
+69	6	pressure	after	sedimentary rock	0.2	unk	0.2	bottom of swamp	0.2	peat	0.2	swamp	0.2
+69	7	pressure	before	sedimentary rock	0.2	unk	0.2	bottom of swamp	0.2	peat	0.2	swamp	0.2
+69	7	pressure	after	sedimentary rock	0.2	unk	0.2	bottom of swamp	0.2	peat	0.2	swamp	0.2
+69	1	peat	before	null	1.0
+69	1	peat	after	null	1.0
+69	2	peat	before	null	1.0
+69	2	peat	after	null	1.0
+69	3	peat	before	null	1.0
+69	3	peat	after	bottom of swamp	0.4	swamp	0.4	layer	0.2
+69	4	peat	before	bottom of swamp	0.4	swamp	0.4	layer	0.2
+69	4	peat	after	bottom of swamp	0.4	swamp	0.4	layer	0.2
+69	5	peat	before	bottom of swamp	0.4	swamp	0.4	layer	0.2
+69	5	peat	after	bottom of swamp	0.4	swamp	0.4	layer	0.2
+69	6	peat	before	bottom of swamp	0.4	swamp	0.4	layer	0.2
+69	6	peat	after	bottom of swamp	0.4	swamp	0.4	layer	0.2
+69	7	peat	before	bottom of swamp	0.4	swamp	0.4	layer	0.2
+69	7	peat	after	null	1.0
+69	1	trees	before	unk	0.8	swamp	0.2
+69	1	trees	after	unk	0.6	bottom of swamp	0.2	swamp	0.2
+69	2	trees	before	unk	0.6	bottom of swamp	0.2	swamp	0.2
+69	2	trees	after	bottom of swamp	0.6	swamp	0.4
+69	3	trees	before	bottom of swamp	0.6	swamp	0.4
+69	3	trees	after	null	1.0
+69	4	trees	before	null	1.0
+69	4	trees	after	null	1.0
+69	5	trees	before	null	1.0
+69	5	trees	after	null	1.0
+69	6	trees	before	null	1.0
+69	6	trees	after	null	1.0
+69	7	trees	before	null	1.0
+69	7	trees	after	null	1.0
+69	1	water	before	unk	0.2	bottom of swamp	0.2	plant and tree	0.2	peat	0.2	swamp	0.2
+69	1	water	after	unk	0.2	bottom of swamp	0.2	peat	0.2	swamp	0.2	dead plant and tree	0.2
+69	2	water	before	unk	0.2	bottom of swamp	0.2	peat	0.2	swamp	0.2	dead plant and tree	0.2
+69	2	water	after	unk	0.2	bottom of swamp	0.2	peat	0.2	swamp	0.2	dead plant and tree	0.2
+69	3	water	before	unk	0.2	bottom of swamp	0.2	peat	0.2	swamp	0.2	dead plant and tree	0.2
+69	3	water	after	peat	0.8	swamp	0.2
+69	4	water	before	peat	0.8	swamp	0.2
+69	4	water	after	peat	0.8	swamp	0.2
+69	5	water	before	peat	0.8	swamp	0.2
+69	5	water	after	peat	0.8	swamp	0.2
+69	6	water	before	peat	0.8	swamp	0.2
+69	6	water	after	unk	0.5	peat	0.3	swamp	0.2
+69	7	water	before	unk	0.5	peat	0.3	swamp	0.2
+69	7	water	after	unk	0.6	swamp	0.2	peat	0.2
+69	1	clay	before	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	1	clay	after	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	2	clay	before	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	2	clay	after	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	3	clay	before	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	3	clay	after	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	4	clay	before	unk	0.4	bottom of swamp	0.4	swamp	0.2
+69	4	clay	after	bottom of swamp	0.6	peat	0.2	swamp	0.2
+69	5	clay	before	bottom of swamp	0.6	peat	0.2	swamp	0.2
+69	5	clay	after	null	1.0
+69	6	clay	before	null	1.0
+69	6	clay	after	null	1.0
+69	7	clay	before	null	1.0
+69	7	clay	after	null	1.0
+70	1	rain	before	null	1.0
+70	1	rain	after	unk	0.6	air	0.2	water	0.2
+70	2	rain	before	unk	0.6	air	0.2	water	0.2
+70	2	rain	after	river or lake	0.1	unk	0.4	ground	0.1	air	0.2	water	0.2
+70	3	rain	before	river or lake	0.1	unk	0.4	ground	0.1	air	0.2	water	0.2
+70	3	rain	after	unk	0.4	ground	0.2	air	0.2	water	0.2
+70	4	rain	before	unk	0.4	ground	0.2	air	0.2	water	0.2
+70	4	rain	after	unk	0.4	street	0.2	air	0.2	water	0.2
+70	5	rain	before	unk	0.4	street	0.2	air	0.2	water	0.2
+70	5	rain	after	unk	0.4	air	0.2	house	0.2	water	0.2
+70	6	rain	before	unk	0.4	air	0.2	house	0.2	water	0.2
+70	6	rain	after	null	1.0
+70	7	rain	before	null	1.0
+70	7	rain	after	null	1.0
+70	8	rain	before	null	1.0
+70	8	rain	after	null	1.0
+70	1	streams	before	null	1.0
+70	1	streams	after	null	1.0
+70	2	streams	before	null	1.0
+70	2	streams	after	null	1.0
+70	3	streams	before	null	1.0
+70	3	streams	after	null	1.0
+70	4	streams	before	null	1.0
+70	4	streams	after	null	1.0
+70	5	streams	before	null	1.0
+70	5	streams	after	null	1.0
+70	6	streams	before	null	1.0
+70	6	streams	after	null	1.0
+70	7	streams	before	null	1.0
+70	7	streams	after	unk	0.6666666666666666	ground	0.3333333333333333
+70	8	streams	before	unk	0.6666666666666666	ground	0.3333333333333333
+70	8	streams	after	unk	1.0
+70	1	water levels	before	unk	1.0
+70	1	water levels	after	river or lake	0.1	unk	0.9
+70	2	water levels	before	river or lake	0.1	unk	0.9
+70	2	water levels	after	river or lake	0.3	unk	0.4	ground	0.1	higher	0.2
+70	3	water levels	before	river or lake	0.3	unk	0.4	ground	0.1	higher	0.2
+70	3	water levels	after	unk	0.6	ground	0.2	higher	0.2
+70	4	water levels	before	unk	0.6	ground	0.2	higher	0.2
+70	4	water levels	after	unk	0.6	street	0.2	higher	0.2
+70	5	water levels	before	unk	0.6	street	0.2	higher	0.2
+70	5	water levels	after	unk	0.7	house	0.1	higher	0.2
+70	6	water levels	before	unk	0.7	house	0.1	higher	0.2
+70	6	water levels	after	unk	0.8	higher	0.2
+70	7	water levels	before	unk	0.8	higher	0.2
+70	7	water levels	after	unk	0.7777777777777778	higher	0.2222222222222222
+70	8	water levels	before	unk	0.7777777777777778	higher	0.2222222222222222
+70	8	water levels	after	unk	0.75	higher	0.25
+70	1	water	before	rain	0.2	river or lake	0.2	unk	0.4	air	0.2
+70	1	water	after	rain	0.4	river or lake	0.3	unk	0.2	air	0.1
+70	2	water	before	rain	0.4	river or lake	0.3	unk	0.2	air	0.1
+70	2	water	after	river or lake	0.6	unk	0.1	ground	0.3
+70	3	water	before	river or lake	0.6	unk	0.1	ground	0.3
+70	3	water	after	street	0.2	ground	0.8
+70	4	water	before	street	0.2	ground	0.8
+70	4	water	after	street	0.9	house	0.1
+70	5	water	before	street	0.9	house	0.1
+70	5	water	after	unk	0.1	ground	0.1	house	0.8
+70	6	water	before	unk	0.1	ground	0.1	house	0.8
+70	6	water	after	unk	0.3	stream	0.1	street	0.1	ground	0.3	house	0.2
+70	7	water	before	unk	0.3	stream	0.1	street	0.1	ground	0.3	house	0.2
+70	7	water	after	unk	0.2	stream	0.7	ground	0.1
+70	8	water	before	unk	0.2	stream	0.7	ground	0.1
+70	8	water	after	null	1.0
+99	1	a very different ecosystem	before	null	1.0
+99	1	a very different ecosystem	after	null	1.0
+99	2	a very different ecosystem	before	null	1.0
+99	2	a very different ecosystem	after	null	1.0
+99	3	a very different ecosystem	before	null	1.0
+99	3	a very different ecosystem	after	null	1.0
+99	4	a very different ecosystem	before	null	1.0
+99	4	a very different ecosystem	after	null	1.0
+99	5	a very different ecosystem	before	null	1.0
+99	5	a very different ecosystem	after	null	1.0
+99	6	a very different ecosystem	before	null	1.0
+99	6	a very different ecosystem	after	unk	0.1	area that receive little rain	0.6	desert	0.2	side of the mountain	0.1
+99	7	a very different ecosystem	before	unk	0.1	area that receive little rain	0.6	desert	0.2	side of the mountain	0.1
+99	7	a very different ecosystem	after	unk	0.2	area that receive little rain	0.6	desert	0.2
+99	1	rain clouds	before	sky	1.0
+99	1	rain clouds	after	sky	1.0
+99	2	rain clouds	before	sky	1.0
+99	2	rain clouds	after	sky	0.6	mountain	0.2	obstacle	0.2
+99	3	rain clouds	before	sky	0.6	mountain	0.2	obstacle	0.2
+99	3	rain clouds	after	sky	0.6	mountain	0.2	obstacle	0.2
+99	4	rain clouds	before	sky	0.6	mountain	0.2	obstacle	0.2
+99	4	rain clouds	after	sky	0.8	side of the mountain	0.2
+99	5	rain clouds	before	sky	0.8	side of the mountain	0.2
+99	5	rain clouds	after	sky	0.5	unk	0.1	side of the mountain	0.4
+99	6	rain clouds	before	sky	0.5	unk	0.1	side of the mountain	0.4
+99	6	rain clouds	after	sky	0.4	unk	0.2	side of the mountain	0.4
+99	7	rain clouds	before	sky	0.4	unk	0.2	side of the mountain	0.4
+99	7	rain clouds	after	sky	0.4	unk	0.2	side of the mountain	0.4
+99	1	rain	before	null	1.0
+99	1	rain	after	null	1.0
+99	2	rain	before	null	1.0
+99	2	rain	after	null	1.0
+99	3	rain	before	null	1.0
+99	3	rain	after	cloud	0.1	sky	0.1	area	0.2	mountain	0.5	unk	0.1
+99	4	rain	before	cloud	0.1	sky	0.1	area	0.2	mountain	0.5	unk	0.1
+99	4	rain	after	area	0.2	mountain	0.6	unk	0.2
+99	5	rain	before	area	0.2	mountain	0.6	unk	0.2
+99	5	rain	after	area	0.2	mountain	0.4	unk	0.4
+99	6	rain	before	area	0.2	mountain	0.4	unk	0.4
+99	6	rain	after	area	0.2	mountain	0.4	unk	0.4
+99	7	rain	before	area	0.2	mountain	0.4	unk	0.4
+99	7	rain	after	area	0.2	mountain	0.4	unk	0.4
+99	1	clouds	before	sky	1.0
+99	1	clouds	after	sky	1.0
+99	2	clouds	before	sky	1.0
+99	2	clouds	after	sky	0.8	mountain	0.2
+99	3	clouds	before	sky	0.8	mountain	0.2
+99	3	clouds	after	sky	0.8	mountain	0.2
+99	4	clouds	before	sky	0.8	mountain	0.2
+99	4	clouds	after	sky	0.8	side of the mountain	0.2
+99	5	clouds	before	sky	0.8	side of the mountain	0.2
+99	5	clouds	after	sky	0.7	unk	0.1	side of the mountain	0.2
+99	6	clouds	before	sky	0.7	unk	0.1	side of the mountain	0.2
+99	6	clouds	after	sky	0.6	unk	0.2	side of the mountain	0.2
+99	7	clouds	before	sky	0.6	unk	0.2	side of the mountain	0.2
+99	7	clouds	after	sky	0.6	unk	0.2	side of the mountain	0.2
+99	1	desert	before	null	1.0
+99	1	desert	after	null	1.0
+99	2	desert	before	null	1.0
+99	2	desert	after	null	1.0
+99	3	desert	before	null	1.0
+99	3	desert	after	null	1.0
+99	4	desert	before	null	1.0
+99	4	desert	after	null	1.0
+99	5	desert	before	null	1.0
+99	5	desert	after	null	1.0
+99	6	desert	before	null	1.0
+99	6	desert	after	null	1.0
+99	7	desert	before	null	1.0
+99	7	desert	after	area that receive little rain	1.0
+903	1	image	before	null	1.0
+903	1	image	after	null	1.0
+903	2	image	before	null	1.0
+903	2	image	after	null	1.0
+903	3	image	before	null	1.0
+903	3	image	after	null	1.0
+903	4	image	before	null	1.0
+903	4	image	after	null	1.0
+903	5	image	before	null	1.0
+903	5	image	after	unk	0.2	brain	0.8
+903	1	light	before	unk	1.0
+903	1	light	after	unk	0.2	lens	0.8
+903	2	light	before	unk	0.2	lens	0.8
+903	2	light	after	unk	0.1	retina	0.9
+903	3	light	before	unk	0.1	retina	0.9
+903	3	light	after	unk	0.2	photoreceptor cell	0.8
+903	4	light	before	unk	0.2	photoreceptor cell	0.8
+903	4	light	after	null	1.0
+903	5	light	before	null	1.0
+903	5	light	after	null	1.0
+903	1	visible light	before	unk	1.0
+903	1	visible light	after	unk	0.2	lens	0.8
+903	2	visible light	before	unk	0.2	lens	0.8
+903	2	visible light	after	unk	0.1	retina	0.9
+903	3	visible light	before	unk	0.1	retina	0.9
+903	3	visible light	after	unk	0.2	photoreceptor cell	0.8
+903	4	visible light	before	unk	0.2	photoreceptor cell	0.8
+903	4	visible light	after	null	1.0
+903	5	visible light	before	null	1.0
+903	5	visible light	after	null	1.0
+903	1	chemical energy	before	null	1.0
+903	1	chemical energy	after	null	1.0
+903	2	chemical energy	before	null	1.0
+903	2	chemical energy	after	null	1.0
+903	3	chemical energy	before	null	1.0
+903	3	chemical energy	after	null	1.0
+903	4	chemical energy	before	null	1.0
+903	4	chemical energy	after	unk	0.3	photoreceptor cell	0.7
+903	5	chemical energy	before	unk	0.3	photoreceptor cell	0.7
+903	5	chemical energy	after	unk	0.4	brain	0.6
+904	1	retina's rods and cones	before	unk	0.2	retina	0.8
+904	1	retina's rods and cones	after	unk	0.2	retina	0.8
+904	2	retina's rods and cones	before	unk	0.2	retina	0.8
+904	2	retina's rods and cones	after	unk	0.2	retina	0.8
+904	3	retina's rods and cones	before	unk	0.2	retina	0.8
+904	3	retina's rods and cones	after	unk	0.2	retina	0.6	optic nerve	0.2
+904	4	retina's rods and cones	before	unk	0.2	retina	0.6	optic nerve	0.2
+904	4	retina's rods and cones	after	unk	0.2	retina	0.6	optic canal	0.2
+904	5	retina's rods and cones	before	unk	0.2	retina	0.6	optic canal	0.2
+904	5	retina's rods and cones	after	unk	0.2	retina	0.6	visual cortex	0.2
+904	1	light	before	unk	0.4	cornea and lens	0.6
+904	1	light	after	null	1.0
+904	2	light	before	null	1.0
+904	2	light	after	null	1.0
+904	3	light	before	null	1.0
+904	3	light	after	null	1.0
+904	4	light	before	null	1.0
+904	4	light	after	null	1.0
+904	5	light	before	null	1.0
+904	5	light	after	null	1.0
+904	1	small image	before	null	1.0
+904	1	small image	after	unk	0.2	retina	0.4	cornea and lens	0.4
+904	2	small image	before	unk	0.2	retina	0.4	cornea and lens	0.4
+904	2	small image	after	unk	0.2	retina	0.5	retina 's rod	0.1	cornea and lens	0.1	rod and cone	0.1
+904	3	small image	before	unk	0.2	retina	0.5	retina 's rod	0.1	cornea and lens	0.1	rod and cone	0.1
+904	3	small image	after	null	1.0
+904	4	small image	before	null	1.0
+904	4	small image	after	null	1.0
+904	5	small image	before	null	1.0
+904	5	small image	after	null	1.0
+904	1	electrical pulses	before	null	1.0
+904	1	electrical pulses	after	null	1.0
+904	2	electrical pulses	before	null	1.0
+904	2	electrical pulses	after	null	1.0
+904	3	electrical pulses	before	null	1.0
+904	3	electrical pulses	after	unk	0.2	optical nerve	0.1	retina 's rod	0.1	rod and cone	0.2	optic nerve	0.4
+904	4	electrical pulses	before	unk	0.2	optical nerve	0.1	retina 's rod	0.1	rod and cone	0.2	optic nerve	0.4
+904	4	electrical pulses	after	unk	0.1	optic canal	0.7	nerve fiber	0.1	optic canal .	0.1
+904	5	electrical pulses	before	unk	0.1	optic canal	0.7	nerve fiber	0.1	optic canal .	0.1
+904	5	electrical pulses	after	lateral geniculate nucleus and the visual cortex	0.2	geniculate nucleus and the visual cortex	0.2	unk	0.2	visual cortex	0.2	optic canal	0.2
