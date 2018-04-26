@@ -13,6 +13,7 @@ from allennlp.models.model import Model
 from allennlp.modules import Seq2SeqEncoder, TimeDistributed, TextFieldEmbedder
 from allennlp.nn import util, InitializerApplicator
 
+
 @Model.register("ProGlobal")
 class ProGlobal(Model):
 
@@ -160,7 +161,7 @@ class ProGlobal(Model):
         input_sent_pos_embedding_paragraph = self._sent_pos_field_embedder(sent_positions_list)
         # batchsize * listLength * paragraphSize * (embeddingSize*2)
         embedding_paragraph = torch.cat([input_embedding_paragraph, input_pos_embedding_paragraph,
-                                input_sent_pos_embedding_paragraph], dim=-1)
+                                         input_sent_pos_embedding_paragraph], dim=-1)
 
         # batchsize * listLength * paragraphSize,  this mask is shared with the text fields and sequence label fields
         para_mask = util.get_text_field_mask(tokens_list, num_wrapping_dims=1).float()
@@ -224,8 +225,8 @@ class ProGlobal(Model):
 
                 # Shape: (batch_size, passage_length, modeling_dim)
                 tiled_start_representation_before = span_start_representation_before.unsqueeze(1).expand(batch_size,
-                                                                                                   paragraph_size,
-                                                                                                   modeling_dim)
+                                                                                                         paragraph_size,
+                                                                                                         modeling_dim)
 
                 # incorporate the original contextual embeddings and weighted sum vector from location start prediction
                 # shape: batchsize * paragraph_size * 2hiddensize
@@ -299,8 +300,8 @@ class ProGlobal(Model):
             span_start_representation_after = util.weighted_sum(encoded_paragraph, span_start_probs_after)
             # Tensor Shape: (batch_size, passage_length, modeling_dim)
             tiled_start_representation_after = span_start_representation_after.unsqueeze(1).expand(batch_size,
-                                                                                           paragraph_size,
-                                                                                           modeling_dim)
+                                                                                                   paragraph_size,
+                                                                                                   modeling_dim)
             # shape: batchsize * paragraph_size * 2hiddensize
             span_end_representation_after = torch.cat([encoded_paragraph, tiled_start_representation_after], dim=-1)
             # Tensor Shape: (batch_size, passage_length, encoding_dim)
@@ -493,14 +494,11 @@ class ProGlobal(Model):
             if category_mask[b] == 1:
                 real_best_word_span[real_index, 0] = best_word_span[b, 0]
                 real_best_word_span[real_index, 1] = best_word_span[b, 1]
-                real_index = real_index+1
+                real_index += 1
             best_start_span[b] = best_word_span[b, 0]
             best_end_span[b] = best_word_span[b, 1]
         return best_word_span, best_start_span, best_end_span, real_best_word_span
 
-    def get_metrics(self, reset: bool = False) -> Dict[str, float]:
-        return {
-                }
 
     # to get the best span based on location start and location end scores (maximal answer length is 5)
     def _get_best_span(self, span_start_logits: Variable, span_end_logits: Variable) -> Variable:

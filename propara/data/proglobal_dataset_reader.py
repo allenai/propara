@@ -11,17 +11,28 @@ from allennlp.data.token_indexers import TokenIndexer, SingleIdTokenIndexer
 from allennlp.data.fields import TextField, IndexField, LabelField, ListField, SequenceLabelField
 from allennlp.data.tokenizers.word_splitter import JustSpacesWordSplitter
 
+category_list = [0, 1, 2]
+category_mask_list = [0, 1]
+
+
 @DatasetReader.register("ProGlobalDatasetReader")
 class ProGlobalDatasetReader(DatasetReader):
     """
     Reads a file from ProPara state inference dataset. Each instance contains one participant and multiple steps.
     Format:
         ParaID \t Participant \t TotalSteps
-        Step1-Paragraph
-        Step1-Sent Indicator (P/C/F in terms of each word in Step1-Paragraph)
-        Step1-Annotation (Participant \t Participant_Start \t Participant_end \t loc_bef \t loc_before_start
+        Step1-Paragraph (the whole tokenized paragraph)
+        Step1-Sent Indicator (P/C/F in terms of each word in Step1-Paragraph: P denotes the word is from a previous
+        step of current step1; C denotes the word is from the current step1; F denotes the word is from a following
+        step of current step1)
+        Step1-Annotation (Participant \t Participant_Start (start position in the whole tokenized paragraph) \t
+        Participant_end (end position in the whole tokenized paragraph) \t loc_bef (a word/phrase denoting the before
+        location state of the participant in terms of current step) \t loc_before_start (start position of the loc_bef
+        in the whole tokenized paragraph; -1 denotes the loc_bef is unk; -2 denotes the loc_bef is null (not exist))
         \t loc_before_end \t loc_aft \t loc_after_start \t loc_after_end)
-        Step2 ...
+        Step2-Paragraph
+        Step2-Sent Indicator
+        Step2-Annotation
 
         We convert each instance into fields named
         "tokens_list"  "positions_list"  "sent_positions_list"  "before_loc_start"  "before_loc_end"
@@ -56,18 +67,18 @@ class ProGlobalDatasetReader(DatasetReader):
                 parts = headline.strip().split('\t')
                 step_count = int(parts[2])
 
-                sents_list = []        # sentences of each paragraph
-                sents_anno_list = []   # list of sentence annotations (P C F)
-                word_pos_list = []     # list of word pos, -2 -1 0 1 2, to indicate the position of participants
-                part_mask_list = []    # list of participant mask, 0 0 1 1 0 0, to obtain the part embeddings
-                before_category_status_list = []   # list of bef category annotations   0-known, 1-unknown, 2-null
-                before_category_mask_list = []     # list of bef category masks, 0-unknown   1-known
-                before_loc_start_list = []      # list of start positions of bef loc
-                before_loc_end_list = []        # list of end positions of bef loc
-                after_category_status_list = []   # list of aft category annotations   0-known, 1-unknown, 2-null
-                after_category_mask_list = []     # list of aft category masks, 0-unknown   1-known
-                after_loc_start_list = []      # list of start positions of aft loc
-                after_loc_end_list = []        # list of end positions of aft loc
+                sent_list = []  # sentences of each paragraph
+                sent_anno_list = []  # list of sentence annotations (P C F)
+                word_pos_list = []  # list of word pos, -2 -1 0 1 2, to indicate the position of participants
+                part_mask_list = []  # list of participant mask, 0 0 1 1 0 0, to obtain the part embeddings
+                before_category_status_list = []  # list of bef category annotations   0-known, 1-unknown, 2-null
+                before_category_mask_list = []  # list of bef category masks, 0-unknown   1-known
+                before_loc_start_list = []  # list of start positions of bef loc
+                before_loc_end_list = []  # list of end positions of bef loc
+                after_category_status_list = []  # list of aft category annotations   0-known, 1-unknown, 2-null
+                after_category_mask_list = []  # list of aft category masks, 0-unknown   1-known
+                after_loc_start_list = []  # list of start positions of aft loc
+                after_loc_end_list = []  # list of end positions of aft loc
 
                 for i in range(step_count):
                     paraline = f.readline()
@@ -84,10 +95,8 @@ class ProGlobalDatasetReader(DatasetReader):
 
                     participant_mask = []
 
-                    before_loc = anno_parts[3].lower().split()
                     before_loc_start = int(anno_parts[4])
                     before_loc_end = int(anno_parts[5])
-                    after_loc = anno_parts[7].lower().split()
                     after_loc_start = int(anno_parts[8])
                     after_loc_end = int(anno_parts[9])
 
@@ -141,8 +150,8 @@ class ProGlobalDatasetReader(DatasetReader):
                         after_loc_start = category_index
                         after_loc_end = category_index
 
-                    sents_list.append(words)
-                    sents_anno_list.append(sent_annos)
+                    sent_list.append(words)
+                    sent_anno_list.append(sent_annos)
                     word_pos_list.append(word_pos)
                     part_mask_list.append(participant_mask)
                     before_category_status_list.append(before_category_status)
@@ -153,11 +162,10 @@ class ProGlobalDatasetReader(DatasetReader):
                     after_category_mask_list.append(after_category_mask)
                     after_loc_start_list.append(after_loc_start)
                     after_loc_end_list.append(after_loc_end)
-                yield self.text_to_instance([sents_list, sents_anno_list, word_pos_list, part_mask_list,
-                                                        before_category_status_list, before_category_mask_list,
-                                                        before_loc_start_list, before_loc_end_list,
-                                                        after_category_status_list, after_category_mask_list,
-                                                        after_loc_start_list, after_loc_end_list])
+                yield self.text_to_instance([sent_list, sent_anno_list, word_pos_list, part_mask_list,
+                                             before_category_status_list, before_category_mask_list,
+                                             before_loc_start_list, before_loc_end_list, after_category_status_list,
+                                             after_category_mask_list, after_loc_start_list, after_loc_end_list])
 
 
     @overrides
@@ -173,13 +181,11 @@ class ProGlobalDatasetReader(DatasetReader):
         after_category_list_field: List[IndexField] = []
         after_category_mask_list_field: List[IndexField] = []
 
-        category_list = [0, 1, 2]
         category_field: List[LabelField] = []
         for l in category_list:
             category_field.append(LabelField(str(l), "labels"))
         category_field = ListField(category_field)
 
-        category_mask_list = [0, 1]
         category_mask_field: List[LabelField] = []
         for l in category_mask_list:
             category_mask_field.append(LabelField(str(l), "labels"))
@@ -235,8 +241,5 @@ class ProGlobalDatasetReader(DatasetReader):
         token_indexers = TokenIndexer.dict_from_params(params.pop("token_indexers", {}))
         token_position_indexers = TokenIndexer.dict_from_params(params.pop("token_position_indexers", {}))
         sent_position_indexers = TokenIndexer.dict_from_params(params.pop("sent_position_indexers", {}))
-        return ProGlobalDatasetReader(token_indexers=token_indexers,
-                                           token_position_indexers=token_position_indexers,
-                                           sent_position_indexers=sent_position_indexers)
-
-
+        return ProGlobalDatasetReader(token_indexers=token_indexers, token_position_indexers=token_position_indexers,
+                                      sent_position_indexers=sent_position_indexers)
