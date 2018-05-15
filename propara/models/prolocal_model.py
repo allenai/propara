@@ -9,7 +9,7 @@ import numpy
 from allennlp.common import Params
 from allennlp.data import Vocabulary
 from allennlp.models.model import Model
-from allennlp.modules import TextFieldEmbedder, Seq2SeqEncoder, Seq2VecEncoder, Attention, TimeDistributed
+from allennlp.modules import TextFieldEmbedder, Seq2SeqEncoder, Attention, TimeDistributed
 from allennlp.nn import InitializerApplicator
 from allennlp.nn.util import get_text_field_mask, weighted_sum
 from allennlp.training.metrics import F1Measure, CategoricalAccuracy
@@ -52,23 +52,19 @@ class ProLocalModel(Model):
     def __init__(self, vocab: Vocabulary,
                  text_field_embedder: TextFieldEmbedder,
                  seq2seq_encoder: Seq2SeqEncoder,
-                 seq2vec_encoder: Seq2VecEncoder,
                  initializer: InitializerApplicator) -> None:
         super(ProLocalModel, self).__init__(vocab)
 
         self.text_field_embedder = text_field_embedder
         self.seq2seq_encoder = seq2seq_encoder
 
-        self.seq2vec_encoder = seq2vec_encoder
         self.attention_layer = \
             Attention(similarity_function=BilinearSimilarity(2 * seq2seq_encoder.get_output_dim(),
                                                              seq2seq_encoder.get_output_dim()), normalize=True)
-        self.attention_layer_tags = \
-            Attention(similarity_function=BilinearSimilarity(2 * seq2seq_encoder.get_output_dim(),
-                                                             seq2seq_encoder.get_output_dim()), normalize=True)
 
+        self.num_types = self.vocab.get_vocab_size("state_change_type_labels")
         self.aggregate_feedforward = Linear(seq2seq_encoder.get_output_dim(),
-                                            self.vocab.get_vocab_size("state_change_type_labels"))
+                                            self.num_types)
 
         self.span_metric = SpanBasedF1Measure(vocab,
                                               tag_namespace="state_change_tags")  # by default "O" is ignored in metric computation
@@ -143,7 +139,6 @@ class ProLocalModel(Model):
 
         # Layer 3 = Contextual embedding layer using Bi-LSTM over the sentence
         contextual_embedding = self.seq2seq_encoder(embedded_sentence_verb_entity, mask)
-        contextual_embedding_vector = self.seq2vec_encoder(embedded_sentence_verb_entity, mask)
 
         # Layer 4: Attention (Contextual embedding, BOW(verb span))
         verb_weight_matrix = verb_span.float() / (verb_span.float().sum(-1).unsqueeze(-1) + 1e-13)
@@ -163,15 +158,15 @@ class ProLocalModel(Model):
         # Layer 5 = Dense softmax layer to pick one state change type per datapoint,
         # and one tag per word in the sentence
         type_logits = self.aggregate_feedforward(attention_output_vector)
-        type_probs = torch.nn.functional.softmax(type_logits)
+        type_probs = torch.nn.functional.softmax(type_logits, dim=-1)
 
         tags_logits = self.tag_projection_layer(context_positional_tags)
         reshaped_log_probs = tags_logits.view(-1, self.num_tags)
-        tags_class_probabilities = F.softmax(reshaped_log_probs).view([batch_size, sequence_length, self.num_tags])
+        tags_class_probabilities = F.softmax(reshaped_log_probs, dim=-1).view([batch_size, sequence_length, self.num_tags])
 
         # Create output dictionary for the trainer
         # Compute loss and epoch metrics
-        output_dict = {"type_probs": type_probs}
+        output_dict = {'type_probs': type_probs}
         if state_change_type_labels is not None:
             state_change_type_labels_loss = self._loss(type_logits, state_change_type_labels.long().view(-1))
             for type_label in self.type_labels_vocab.values():
@@ -185,7 +180,7 @@ class ProLocalModel(Model):
             self.span_metric(tags_class_probabilities, state_change_tags, mask)
             output_dict["tags_class_probabilities"] = tags_class_probabilities
 
-        output_dict["loss"] = (state_change_type_labels_loss + state_change_tags_loss)
+        output_dict['loss'] = (state_change_type_labels_loss + state_change_tags_loss)
 
         return output_dict
 
@@ -243,13 +238,11 @@ class ProLocalModel(Model):
         seq2seq_encoder_params = params.pop("seq2seq_encoder")
         seq2seq_encoder = Seq2SeqEncoder.from_params(seq2seq_encoder_params)
 
-        seq2vec_encoder_params = params.pop("seq2vec_encoder")
-        seq2vec_encoder = Seq2VecEncoder.from_params(seq2vec_encoder_params)
-
         initializer = InitializerApplicator.from_params(params.pop("initializer", []))
+
+        params.assert_empty(cls.__name__)
 
         return cls(vocab=vocab,
                    text_field_embedder=text_field_embedder,
                    seq2seq_encoder=seq2seq_encoder,
-                   seq2vec_encoder=seq2vec_encoder,
                    initializer=initializer)
