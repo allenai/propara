@@ -226,7 +226,7 @@ class ProLocalModel(Model):
             metric_dict[name + '_R'] = metric_val[1]
             metric_dict[name + '_F1'] = metric_val[2]
 
-        metric_dict['combined_metric'] = type_accuracy + metric_dict['f1-measure-overall']
+        metric_dict['combined_metric'] = type_accuracy * metric_dict['f1-measure-overall']
 
         return metric_dict
 
