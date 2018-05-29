@@ -1,0 +1,45 @@
+{
+  "dataset_reader":{"type":"ProLocalDatasetReader"},
+  "train_data_path": "tests/fixtures/prolocal_naacl18_data/propara.run1.train.tsv",
+  "validation_data_path": "tests/fixtures/prolocal_naacl18_data/propara.run1.dev.tsv",
+  "test_data_path": "tests/fixtures/prolocal_naacl18_data/propara.run1.test.tsv",
+  "evaluate_on_test": true,
+
+    "model": {
+    "type": "ProLocalModel",
+    "text_field_embedder": {
+      "tokens": {
+        "type": "embedding",
+        "embedding_dim": 100,
+        "pretrained_file": "/Users/bhavanad/knowledge_acquisition/data/causal_chains/process_v1/grids/VerbSemantics/ProPara_grids_v3/glove.6B.100d.txt.gz",
+        "trainable": true
+      }
+    },
+    "seq2seq_encoder": {
+      "type": "lstm",
+      "bidirectional": true,
+      "input_size": 102,
+      "hidden_size": 50,
+      "num_layers": 2,
+      "dropout": 0.3
+    }
+  },
+  "iterator": {
+    "type": "bucket",
+    "sorting_keys": [["tokens", "num_tokens"]],
+    "batch_size" : 32
+  },
+
+  "trainer": {
+    "num_epochs": 2000,
+    "grad_clipping": 1.0,
+    "patience": 100,
+    "validation_metric": "+combined_metric", //"-loss",
+    "cuda_device": -1,
+    "optimizer": {
+      "type": "adadelta",
+      "rho": 0.9,
+      "lr": 0.2
+    }
+  }
+}

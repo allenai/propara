@@ -13,7 +13,4 @@ from propara.models.prolocal_model import ProLocalModel
 from propara.service.predictors.prolocal_prediction import ProLocalPredictor
 
 if __name__ == "__main__":
-    predictor_overrides = {
-                           'ProLocalModel': 'prolocal-prediction',
-                           }
-    main(prog="python -m allennlp.run", predictor_overrides=predictor_overrides)
+    main(prog="python -m allennlp.run")
