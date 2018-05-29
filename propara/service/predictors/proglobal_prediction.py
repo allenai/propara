@@ -142,7 +142,7 @@ class ProGlobalPredictor(Predictor):
                                                           after_category_status_list, after_category_mask_list,
                                                           after_loc_start_list, after_loc_end_list])
 
-        outputs = self._model.forward_on_instance(instance, cuda_device)
+        outputs = self._model.forward_on_instance(instance=instance)
 
         predictions = {}
         predictions["paraid"] = para_id

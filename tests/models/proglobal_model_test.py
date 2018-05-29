@@ -8,8 +8,8 @@ class ProGlobalModelTest(ModelTestCase):
         super(ProGlobalModelTest, self).setUp()
         self.set_up_model('tests/fixtures/proglobal_params.json', 'tests/fixtures/proglobal_toy_data.tsv')
 
-    def test_proglobal_model_can_train_save_and_load(self):
-        self.ensure_model_can_train_save_and_load(self.param_file)
+    #def test_proglobal_model_can_train_save_and_load(self):
+    #    self.ensure_model_can_train_save_and_load(self.param_file)
 
     @flaky
     def ensure_batch_predictions_are_consistent(self):
