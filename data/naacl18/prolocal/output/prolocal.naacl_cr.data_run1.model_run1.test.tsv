@@ -1,0 +1,1816 @@
+460	1	remains of live thing	unk	unk	somewhere	somewhere
+460	2	remains of live thing	unk	unk	somewhere	somewhere
+460	3	remains of live thing	unk	null	somewhere	underground
+460	4	remains of live thing	unk	null	underground	nowhere
+460	5	remains of live thing	null	null	nowhere	nowhere
+460	6	remains of live thing	null	null	nowhere	nowhere
+460	7	remains of live thing	null	null	nowhere	nowhere
+460	8	remains of live thing	null	null	nowhere	nowhere
+460	9	remains of live thing	null	null	nowhere	nowhere
+460	10	remains of live thing	null	null	nowhere	nowhere
+460	1	carbon-based mixture	unk	unk	nowhere	nowhere
+460	2	carbon-based mixture	unk	unk	nowhere	nowhere
+460	3	carbon-based mixture	unk	unk	nowhere	nowhere
+460	4	carbon-based mixture	unk	unk	nowhere	underground
+460	5	carbon-based mixture	unk	unk	underground	underground
+460	6	carbon-based mixture	unk	unk	underground	underground
+460	7	carbon-based mixture	unk	unk	underground	nowhere
+460	8	carbon-based mixture	unk	unk	nowhere	nowhere
+460	9	carbon-based mixture	unk	unk	nowhere	nowhere
+460	10	carbon-based mixture	unk	unk	nowhere	nowhere
+460	1	live thing	unk	unk	somewhere	somewhere
+460	2	live thing	unk	null	somewhere	somewhere
+460	3	live thing	unk	null	somewhere	underground
+460	4	live thing	unk	null	underground	nowhere
+460	5	live thing	null	null	nowhere	nowhere
+460	6	live thing	null	null	nowhere	nowhere
+460	7	live thing	null	null	nowhere	nowhere
+460	8	live thing	null	null	nowhere	nowhere
+460	9	live thing	null	null	nowhere	nowhere
+460	10	live thing	null	null	nowhere	nowhere
+460	1	energy	unk	unk	nowhere	nowhere
+460	2	energy	unk	unk	nowhere	nowhere
+460	3	energy	unk	unk	nowhere	nowhere
+460	4	energy	unk	unk	nowhere	nowhere
+460	5	energy	unk	unk	nowhere	nowhere
+460	6	energy	unk	unk	nowhere	nowhere
+460	7	energy	unk	unk	nowhere	fossil fuel
+460	8	energy	unk	unk	fossil fuel	fossil fuel
+460	9	energy	unk	unk	fossil fuel	somewhere
+460	10	energy	unk	null	somewhere	nowhere
+460	1	carbon	unk	unk	live thing	live thing
+460	2	carbon	unk	unk	live thing	live thing
+460	3	carbon	unk	unk	live thing	underground
+460	4	carbon	unk	unk	underground	nowhere
+460	5	carbon	unk	unk	nowhere	nowhere
+460	6	carbon	unk	unk	nowhere	nowhere
+460	7	carbon	unk	unk	nowhere	nowhere
+460	8	carbon	unk	unk	nowhere	nowhere
+460	9	carbon	unk	unk	nowhere	nowhere
+460	10	carbon	unk	unk	nowhere	nowhere
+460	1	power	null	null	nowhere	nowhere
+460	2	power	null	null	nowhere	nowhere
+460	3	power	null	null	nowhere	nowhere
+460	4	power	null	null	nowhere	nowhere
+460	5	power	null	null	nowhere	nowhere
+460	6	power	null	null	nowhere	nowhere
+460	7	power	null	null	nowhere	nowhere
+460	8	power	null	null	nowhere	nowhere
+460	9	power	null	null	nowhere	nowhere
+460	10	power	null	unk	nowhere	somewhere
+460	1	fossil fuel	unk	unk	nowhere	nowhere
+460	2	fossil fuel	unk	unk	nowhere	nowhere
+460	3	fossil fuel	unk	unk	nowhere	nowhere
+460	4	fossil fuel	unk	unk	nowhere	nowhere
+460	5	fossil fuel	unk	unk	nowhere	nowhere
+460	6	fossil fuel	unk	unk	nowhere	nowhere
+460	7	fossil fuel	unk	unk	nowhere	earth 's surface
+460	8	fossil fuel	unk	null	earth 's surface	nowhere
+460	9	fossil fuel	null	null	nowhere	nowhere
+460	10	fossil fuel	null	null	nowhere	nowhere
+463	1	raindrop	null	unk	somewhere	updraft
+463	2	raindrop	unk	unk	updraft	nowhere
+463	3	raindrop	unk	unk	nowhere	nowhere
+463	4	raindrop	unk	unk	nowhere	nowhere
+463	5	raindrop	unk	unk	nowhere	nowhere
+463	1	ice particle	unk	unk	nowhere	nowhere
+463	2	ice particle	unk	unk	nowhere	nowhere
+463	3	ice particle	unk	unk	nowhere	surface
+463	4	ice particle	unk	unk	surface	surface
+463	5	ice particle	unk	unk	surface	surface
+463	1	hailstone	unk	unk	nowhere	nowhere
+463	2	hailstone	unk	unk	nowhere	nowhere
+463	3	hailstone	unk	unk	nowhere	nowhere
+463	4	hailstone	unk	unk	nowhere	aloft
+463	5	hailstone	unk	unk	aloft	earth
+409	1	image	unk	unk	nowhere	nowhere
+409	2	image	unk	unk	nowhere	nowhere
+409	3	image	unk	unk	nowhere	nowhere
+409	4	image	unk	unk	nowhere	retina
+409	5	image	unk	unk	retina	nowhere
+409	6	image	unk	unk	nowhere	nowhere
+409	7	image	unk	unk	nowhere	nowhere
+409	1	electrical impulse	null	null	nowhere	nowhere
+409	2	electrical impulse	null	null	nowhere	nowhere
+409	3	electrical impulse	null	null	nowhere	nowhere
+409	4	electrical impulse	null	null	nowhere	nowhere
+409	5	electrical impulse	null	unk	nowhere	retina
+409	6	electrical impulse	unk	unk	retina	brain
+409	7	electrical impulse	unk	unk	brain	brain
+1145	1	hydrogen fuel	unk	unk	star	star
+1145	2	hydrogen fuel	unk	unk	star	nowhere
+1145	3	hydrogen fuel	unk	unk	nowhere	nowhere
+1145	4	hydrogen fuel	unk	unk	nowhere	nowhere
+1145	5	hydrogen fuel	unk	unk	nowhere	nowhere
+1145	1	hydrogen atom	unk	unk	star	star
+1145	2	hydrogen atom	unk	unk	star	star
+1145	3	hydrogen atom	unk	null	star	nowhere
+1145	4	hydrogen atom	null	null	nowhere	nowhere
+1145	5	hydrogen atom	null	null	nowhere	nowhere
+1145	1	helium atom	null	null	nowhere	nowhere
+1145	2	helium atom	null	null	nowhere	nowhere
+1145	3	helium atom	null	unk	nowhere	star
+1145	4	helium atom	unk	unk	star	star
+1145	5	helium atom	unk	unk	star	star
+1145	1	red giant star	null	null	nowhere	nowhere
+1145	2	red giant star	null	null	nowhere	nowhere
+1145	3	red giant star	null	null	nowhere	nowhere
+1145	4	red giant star	null	null	nowhere	nowhere
+1145	5	red giant star	null	unk	nowhere	somewhere
+400	1	energy	null	null	nowhere	nowhere
+400	2	energy	null	null	nowhere	nowhere
+400	3	energy	null	null	nowhere	nowhere
+400	4	energy	null	unk	nowhere	solar panel
+400	5	energy	unk	null	solar panel	nowhere
+400	1	electricity	null	null	nowhere	nowhere
+400	2	electricity	null	null	nowhere	nowhere
+400	3	electricity	null	null	nowhere	nowhere
+400	4	electricity	null	null	nowhere	nowhere
+400	5	electricity	null	unk	nowhere	solar panel
+68	1	plant	unk	null	somewhere	nowhere
+68	2	plant	null	null	nowhere	nowhere
+68	3	plant	null	null	nowhere	nowhere
+68	4	plant	null	null	nowhere	nowhere
+68	5	plant	null	null	nowhere	nowhere
+68	6	plant	null	null	nowhere	nowhere
+68	7	plant	null	null	nowhere	nowhere
+68	1	peat	null	null	nowhere	nowhere
+68	2	peat	null	null	nowhere	nowhere
+68	3	peat	null	null	nowhere	nowhere
+68	4	peat	null	unk	nowhere	steamy , swampy area
+68	5	peat	unk	unk	steamy , swampy area	somewhere
+68	6	peat	unk	unk	somewhere	somewhere
+68	7	peat	unk	null	somewhere	nowhere
+68	1	plant and tree remain	unk	unk	nowhere	somewhere
+68	2	plant and tree remain	unk	unk	somewhere	steamy , swampy area
+68	3	plant and tree remain	unk	unk	steamy , swampy area	steamy , swampy area
+68	4	plant and tree remain	unk	unk	steamy , swampy area	somewhere
+68	5	plant and tree remain	unk	unk	somewhere	somewhere
+68	6	plant and tree remain	unk	unk	somewhere	somewhere
+68	7	plant and tree remain	unk	unk	somewhere	somewhere
+68	1	water	unk	unk	steamy , swampy area	steamy , swampy area
+68	2	water	unk	unk	steamy , swampy area	steamy , swampy area
+68	3	water	unk	unk	steamy , swampy area	steamy , swampy area
+68	4	water	unk	unk	steamy , swampy area	steamy , swampy area
+68	5	water	unk	unk	steamy , swampy area	somewhere
+68	6	water	unk	peat	somewhere	nowhere
+68	7	water	peat	peat	nowhere	nowhere
+68	1	burial peat	unk	unk	nowhere	nowhere
+68	2	burial peat	unk	unk	nowhere	nowhere
+68	3	burial peat	unk	unk	nowhere	nowhere
+68	4	burial peat	unk	unk	nowhere	steamy , swampy area
+68	5	burial peat	unk	unk	steamy , swampy area	somewhere
+68	6	burial peat	unk	unk	somewhere	somewhere
+68	7	burial peat	unk	null	somewhere	nowhere
+68	1	tree	unk	null	somewhere	nowhere
+68	2	tree	plant	plant	nowhere	nowhere
+68	3	tree	plant	plant	nowhere	nowhere
+68	4	tree	plant	plant	nowhere	nowhere
+68	5	tree	plant	plant	nowhere	nowhere
+68	6	tree	plant	plant	nowhere	nowhere
+68	7	tree	plant	plant	nowhere	nowhere
+68	1	heat	unk	unk	nowhere	nowhere
+68	2	heat	unk	unk	nowhere	nowhere
+68	3	heat	unk	unk	nowhere	nowhere
+68	4	heat	unk	unk	nowhere	nowhere
+68	5	heat	unk	unk	nowhere	nowhere
+68	6	heat	unk	unk	nowhere	nowhere
+68	7	heat	unk	null	nowhere	somewhere
+68	1	coal	null	null	nowhere	nowhere
+68	2	coal	null	null	nowhere	nowhere
+68	3	coal	null	null	nowhere	nowhere
+68	4	coal	null	null	nowhere	nowhere
+68	5	coal	null	null	nowhere	nowhere
+68	6	coal	null	null	nowhere	nowhere
+68	7	coal	null	unk	nowhere	somewhere
+660	1	plant	soil	soil	somewhere	somewhere
+660	2	plant	soil	soil	somewhere	somewhere
+660	3	plant	unk	unk	somewhere	somewhere
+660	4	plant	unk	null	somewhere	nowhere
+660	5	plant	null	null	nowhere	nowhere
+660	6	plant	null	null	nowhere	nowhere
+660	7	plant	null	null	nowhere	nowhere
+660	8	plant	null	null	nowhere	nowhere
+660	9	plant	null	null	nowhere	nowhere
+660	1	nitrogen gas	null	null	nowhere	nowhere
+660	2	nitrogen gas	null	null	nowhere	nowhere
+660	3	nitrogen gas	null	null	nowhere	nowhere
+660	4	nitrogen gas	null	null	nowhere	nowhere
+660	5	nitrogen gas	null	null	nowhere	nowhere
+660	6	nitrogen gas	null	null	nowhere	nowhere
+660	7	nitrogen gas	null	null	nowhere	nowhere
+660	8	nitrogen gas	null	soil	nowhere	soil
+660	9	nitrogen gas	unk	unk	soil	atmosphere
+660	1	ammonium	null	null	nowhere	nowhere
+660	2	ammonium	null	null	nowhere	nowhere
+660	3	ammonium	null	null	nowhere	nowhere
+660	4	ammonium	null	null	nowhere	nowhere
+660	5	ammonium	null	null	nowhere	nowhere
+660	6	ammonium	null	soil	nowhere	soil
+660	7	ammonium	unk	null	soil	nowhere
+660	8	ammonium	null	null	nowhere	nowhere
+660	9	ammonium	null	null	nowhere	nowhere
+660	1	animal	unk	unk	somewhere	somewhere
+660	2	animal	unk	unk	somewhere	somewhere
+660	3	animal	unk	unk	somewhere	somewhere
+660	4	animal	unk	null	somewhere	nowhere
+660	5	animal	null	null	nowhere	nowhere
+660	6	animal	null	null	nowhere	nowhere
+660	7	animal	null	null	nowhere	nowhere
+660	8	animal	null	null	nowhere	nowhere
+660	9	animal	null	null	nowhere	nowhere
+660	1	atmospheric nitrogen	unk	null	atmosphere	nowhere
+660	2	atmospheric nitrogen	null	null	nowhere	nowhere
+660	3	atmospheric nitrogen	null	null	nowhere	nowhere
+660	4	atmospheric nitrogen	null	null	nowhere	nowhere
+660	5	atmospheric nitrogen	null	null	nowhere	nowhere
+660	6	atmospheric nitrogen	null	null	nowhere	nowhere
+660	7	atmospheric nitrogen	null	null	nowhere	nowhere
+660	8	atmospheric nitrogen	null	null	nowhere	nowhere
+660	9	atmospheric nitrogen	null	null	nowhere	nowhere
+660	1	organic nitrogen	null	unk	nowhere	soil
+660	2	organic nitrogen	unk	soil	soil	plant
+660	3	organic nitrogen	unk	unk	plant	plant
+660	4	organic nitrogen	unk	unk	plant	plant
+660	5	organic nitrogen	unk	unk	plant	plant
+660	6	organic nitrogen	unk	null	plant	nowhere
+660	7	organic nitrogen	null	null	nowhere	nowhere
+660	8	organic nitrogen	null	null	nowhere	nowhere
+660	9	organic nitrogen	null	null	nowhere	nowhere
+660	1	waste	unk	unk	nowhere	nowhere
+660	2	waste	unk	unk	nowhere	nowhere
+660	3	waste	unk	unk	nowhere	nowhere
+660	4	waste	unk	unk	nowhere	nowhere
+660	5	waste	unk	unk	nowhere	animal
+660	6	waste	unk	unk	animal	soil
+660	7	waste	unk	unk	soil	soil
+660	8	waste	unk	unk	soil	soil
+660	9	waste	unk	unk	soil	soil
+660	1	nitrate	null	null	nowhere	nowhere
+660	2	nitrate	null	null	nowhere	nowhere
+660	3	nitrate	null	null	nowhere	nowhere
+660	4	nitrate	null	null	nowhere	nowhere
+660	5	nitrate	null	null	nowhere	nowhere
+660	6	nitrate	null	null	nowhere	nowhere
+660	7	nitrate	null	soil	nowhere	soil
+660	8	nitrate	unk	null	soil	nowhere
+660	9	nitrate	null	null	nowhere	nowhere
+696	1	water vapor	unk	unk	air	air
+696	2	water vapor	unk	unk	air	water droplet
+696	3	water vapor	unk	unk	water droplet	water droplet
+696	4	water vapor	unk	unk	water droplet	water droplet
+696	5	water vapor	unk	unk	water droplet	cloud
+696	6	water vapor	unk	unk	cloud	somewhere
+696	1	water droplet	null	null	nowhere	nowhere
+696	2	water droplet	null	unk	nowhere	air
+696	3	water droplet	unk	cloud	air	cloud
+696	4	water droplet	cloud	cloud	cloud	cloud
+696	5	water droplet	cloud	cloud	cloud	cloud
+696	6	water droplet	cloud	cloud	cloud	somewhere
+696	1	cloud	unk	unk	air	air
+696	2	cloud	unk	unk	air	air
+696	3	cloud	unk	unk	air	air
+696	4	cloud	unk	unk	air	air
+696	5	cloud	unk	unk	air	air
+696	6	cloud	unk	unk	air	air
+696	1	rain	unk	unk	nowhere	nowhere
+696	2	rain	unk	unk	nowhere	nowhere
+696	3	rain	unk	unk	nowhere	nowhere
+696	4	rain	unk	unk	nowhere	nowhere
+696	5	rain	unk	unk	nowhere	nowhere
+696	6	rain	unk	unk	nowhere	somewhere
+600	1	petrol	null	car  engine	engine	engine
+600	2	petrol	car  engine	car  engine	engine	nowhere
+600	3	petrol	car  engine	car  engine	nowhere	nowhere
+600	4	petrol	car  engine	car  engine	nowhere	nowhere
+600	5	petrol	car  engine	car  engine	nowhere	nowhere
+600	6	petrol	car  engine	car  engine	nowhere	nowhere
+600	1	energy	unk	null	nowhere	nowhere
+600	2	energy	unk	unk	nowhere	engine
+600	3	energy	unk	unk	engine	piston
+600	4	energy	unk	unk	piston	crankshaft
+600	5	energy	unk	unk	crankshaft	gear
+600	6	energy	unk	unk	gear	wheel
+600	1	fuel	unk	unk	engine	engine
+600	2	fuel	unk	unk	engine	nowhere
+600	3	fuel	unk	unk	nowhere	nowhere
+600	4	fuel	unk	unk	nowhere	nowhere
+600	5	fuel	unk	unk	nowhere	nowhere
+600	6	fuel	unk	unk	nowhere	nowhere
+600	1	air	unk	null	engine	engine
+600	2	air	unk	car  engine	engine	nowhere
+600	3	air	car  engine	car  engine	nowhere	nowhere
+600	4	air	car  engine	car  engine	nowhere	nowhere
+600	5	air	car  engine	car  engine	nowhere	nowhere
+600	6	air	car  engine	car  engine	nowhere	nowhere
+600	1	hot gas	unk	unk	nowhere	nowhere
+600	2	hot gas	unk	unk	nowhere	engine
+600	3	hot gas	unk	piston	engine	engine
+600	4	hot gas	piston	piston	engine	engine
+600	5	hot gas	piston	piston	engine	engine
+600	6	hot gas	piston	piston	engine	engine
+1031	1	rock	null	null	nowhere	nowhere
+1031	2	rock	null	null	nowhere	nowhere
+1031	3	rock	null	null	nowhere	nowhere
+1031	4	rock	null	unk	nowhere	somewhere
+1031	5	rock	unk	null	somewhere	nowhere
+1031	1	sediment	unk	unk	nowhere	nowhere
+1031	2	sediment	unk	unk	nowhere	nowhere
+1031	3	sediment	unk	unk	nowhere	mud or soil
+1031	4	sediment	unk	null	mud or soil	nowhere
+1031	5	sediment	null	null	nowhere	nowhere
+1031	1	plant or animal	mud	mud	mud or soil	nowhere
+1031	2	plant or animal	mud	mud	nowhere	nowhere
+1031	3	plant or animal	mud	mud	nowhere	nowhere
+1031	4	plant or animal	mud	mud	nowhere	nowhere
+1031	5	plant or animal	mud	mud	nowhere	nowhere
+1031	1	fossil	null	null	nowhere	nowhere
+1031	2	fossil	null	null	nowhere	nowhere
+1031	3	fossil	null	null	nowhere	nowhere
+1031	4	fossil	null	null	nowhere	nowhere
+1031	5	fossil	null	unk	nowhere	rock
+1031	1	bone	unk	unk	nowhere	mud or soil
+1031	2	bone	unk	unk	mud or soil	mud or soil
+1031	3	bone	unk	unk	mud or soil	nowhere
+1031	4	bone	unk	unk	nowhere	nowhere
+1031	5	bone	unk	unk	nowhere	nowhere
+654	1	root system	null	null	nowhere	nowhere
+654	2	root system	null	unk	nowhere	ground
+654	3	root system	unk	unk	ground	ground
+654	4	root system	unk	unk	ground	ground
+654	5	root system	unk	unk	ground	ground
+654	6	root system	unk	unk	ground	ground
+654	1	tree	unk	unk	nowhere	nowhere
+654	2	tree	unk	unk	nowhere	nowhere
+654	3	tree	unk	unk	nowhere	ground
+654	4	tree	unk	unk	ground	ground
+654	5	tree	unk	unk	ground	ground
+654	6	tree	unk	unk	ground	nowhere
+654	1	material for new growth	null	null	nowhere	nowhere
+654	2	material for new growth	null	null	nowhere	nowhere
+654	3	material for new growth	null	null	nowhere	nowhere
+654	4	material for new growth	null	null	nowhere	nowhere
+654	5	material for new growth	null	null	nowhere	nowhere
+654	6	material for new growth	null	unk	nowhere	ground
+932	1	water	unk	rock	somewhere	rock
+932	2	water	rock	rock	rock	rock
+932	3	water	rock	rock	rock	rock
+932	4	water	rock	rock	rock	rock
+932	5	water	rock	rock	rock	rock
+932	1	rock	unk	unk	somewhere	somewhere
+932	2	rock	unk	unk	somewhere	somewhere
+932	3	rock	unk	unk	somewhere	somewhere
+932	4	rock	unk	unk	somewhere	somewhere
+932	5	rock	unk	unk	somewhere	somewhere
+932	1	chemical	unk	unk	water	water
+932	2	chemical	unk	unk	water	water
+932	3	chemical	unk	unk	water	water
+932	4	chemical	unk	unk	water	water
+932	5	chemical	unk	unk	water	water
+932	1	oxygen	unk	unk	air	air
+932	2	oxygen	unk	unk	air	air
+932	3	oxygen	unk	unk	air	air
+932	4	oxygen	unk	unk	air	air
+932	5	oxygen	unk	unk	air	air
+726	1	rock	null	null	nowhere	nowhere
+726	2	rock	null	null	nowhere	nowhere
+726	3	rock	null	null	nowhere	nowhere
+726	4	rock	null	null	nowhere	nowhere
+726	5	rock	null	null	nowhere	nowhere
+726	6	rock	null	null	nowhere	nowhere
+726	7	rock	null	null	nowhere	nowhere
+726	8	rock	null	null	nowhere	bottom of a ocean
+726	9	rock	null	null	bottom of a ocean	bottom of a ocean
+726	10	rock	null	null	bottom of a ocean	bottom of a ocean
+726	1	sand	unk	unk	bottom of a ocean	bottom of a ocean
+726	2	sand	unk	unk	bottom of a ocean	bottom of a ocean
+726	3	sand	unk	unk	bottom of a ocean	bottom of a ocean
+726	4	sand	unk	unk	bottom of a ocean	bottom of a ocean
+726	5	sand	unk	unk	bottom of a ocean	bottom of a ocean
+726	6	sand	unk	unk	bottom of a ocean	bottom of a ocean
+726	7	sand	unk	unk	bottom of a ocean	bottom of a ocean
+726	8	sand	unk	null	bottom of a ocean	nowhere
+726	9	sand	null	null	nowhere	nowhere
+726	10	sand	null	null	nowhere	nowhere
+726	1	mud	unk	unk	bottom of a ocean	bottom of a ocean
+726	2	mud	unk	unk	bottom of a ocean	bottom of a ocean
+726	3	mud	unk	unk	bottom of a ocean	bottom of a ocean
+726	4	mud	unk	unk	bottom of a ocean	bottom of a ocean
+726	5	mud	unk	unk	bottom of a ocean	bottom of a ocean
+726	6	mud	unk	unk	bottom of a ocean	bottom of a ocean
+726	7	mud	unk	unk	bottom of a ocean	bottom of a ocean
+726	8	mud	unk	null	bottom of a ocean	nowhere
+726	9	mud	null	null	nowhere	nowhere
+726	10	mud	null	null	nowhere	nowhere
+726	1	animal	unk	unk	somewhere	somewhere
+726	2	animal	unk	unk	somewhere	somewhere
+726	3	animal	unk	null	somewhere	nowhere
+726	4	animal	null	null	nowhere	nowhere
+726	5	animal	null	null	nowhere	nowhere
+726	6	animal	null	null	nowhere	nowhere
+726	7	animal	null	null	nowhere	nowhere
+726	8	animal	null	null	nowhere	nowhere
+726	9	animal	null	null	nowhere	nowhere
+726	10	animal	null	null	nowhere	nowhere
+726	1	animal 's skeleton	ocean	ocean	animal	animal
+726	2	animal 's skeleton	ocean	ocean	animal	animal
+726	3	animal 's skeleton	ocean	ocean	animal	animal
+726	4	animal 's skeleton	ocean	ocean	animal	bottom of a ocean
+726	5	animal 's skeleton	ocean	ocean	bottom of a ocean	bottom of a ocean
+726	6	animal 's skeleton	ocean	ocean	bottom of a ocean	bottom of a ocean
+726	7	animal 's skeleton	ocean	ocean	bottom of a ocean	bottom of a ocean
+726	8	animal 's skeleton	ocean	ocean	bottom of a ocean	bottom of a ocean
+726	9	animal 's skeleton	ocean	ocean	bottom of a ocean	nowhere
+726	10	animal 's skeleton	ocean	ocean	nowhere	nowhere
+726	1	hole	unk	unk	nowhere	nowhere
+726	2	hole	unk	unk	nowhere	nowhere
+726	3	hole	unk	unk	nowhere	nowhere
+726	4	hole	unk	unk	nowhere	nowhere
+726	5	hole	unk	unk	nowhere	nowhere
+726	6	hole	unk	unk	nowhere	nowhere
+726	7	hole	unk	unk	nowhere	nowhere
+726	8	hole	unk	unk	nowhere	nowhere
+726	9	hole	unk	unk	nowhere	somewhere
+726	10	hole	unk	unk	somewhere	rock
+38	1	rock	unk	unk	nowhere	nowhere
+38	2	rock	unk	unk	nowhere	nowhere
+38	3	rock	unk	unk	nowhere	nowhere
+38	4	rock	unk	unk	nowhere	nowhere
+38	5	rock	unk	unk	nowhere	around the body
+38	6	rock	unk	unk	around the body	around the body
+38	7	rock	unk	unk	around the body	around the body
+38	1	body	sandy	sandy	somewhere	somewhere
+38	2	body	sandy	sandy	somewhere	somewhere
+38	3	body	sandy	sandy	somewhere	sandy or wet place
+38	4	body	sandy	sandy	sandy or wet place	sandy or wet place
+38	5	body	sandy	sandy	sandy or wet place	sandy or wet place
+38	6	body	sandy	sandy	sandy or wet place	nowhere
+38	7	body	sandy	sandy	nowhere	nowhere
+38	1	fossil	null	null	nowhere	nowhere
+38	2	fossil	null	null	nowhere	nowhere
+38	3	fossil	null	null	nowhere	nowhere
+38	4	fossil	null	null	nowhere	nowhere
+38	5	fossil	null	null	nowhere	nowhere
+38	6	fossil	null	null	nowhere	rock
+38	7	fossil	null	null	rock	rock
+38	1	animal	unk	unk	somewhere	somewhere
+38	2	animal	unk	unk	somewhere	somewhere
+38	3	animal	unk	unk	somewhere	sandy or wet place
+38	4	animal	unk	unk	sandy or wet place	sandy or wet place
+38	5	animal	unk	unk	sandy or wet place	sandy or wet place
+38	6	animal	unk	unk	sandy or wet place	nowhere
+38	7	animal	unk	unk	nowhere	nowhere
+38	1	soil	unk	unk	somewhere	somewhere
+38	2	soil	unk	unk	somewhere	somewhere
+38	3	soil	unk	unk	somewhere	somewhere
+38	4	soil	unk	unk	somewhere	around the body
+38	5	soil	unk	unk	around the body	nowhere
+38	6	soil	unk	unk	nowhere	nowhere
+38	7	soil	unk	unk	nowhere	nowhere
+1240	1	air	unk	unk	somewhere	evaporator 's coil
+1240	2	air	unk	unk	evaporator 's coil	evaporator 's coil
+1240	3	air	unk	unk	evaporator 's coil	somewhere
+1240	4	air	unk	unk	somewhere	somewhere
+1240	5	air	unk	unk	somewhere	somewhere
+1240	6	air	unk	unk	somewhere	somewhere
+1240	7	air	unk	unk	somewhere	somewhere
+1240	8	air	unk	unk	somewhere	somewhere
+1240	1	heat	unk	unk	somewhere	somewhere
+1240	2	heat	unk	unk	somewhere	coil
+1240	3	heat	unk	unk	coil	coil
+1240	4	heat	unk	unk	coil	coil
+1240	5	heat	unk	unk	coil	coil
+1240	6	heat	unk	unk	coil	nowhere
+1240	7	heat	unk	condenser	nowhere	nowhere
+1240	8	heat	condenser	condenser	nowhere	nowhere
+1240	1	liquid	unk	unk	nowhere	nowhere
+1240	2	liquid	unk	unk	nowhere	nowhere
+1240	3	liquid	unk	gas	nowhere	nowhere
+1240	4	liquid	null	null	nowhere	nowhere
+1240	5	liquid	null	null	nowhere	somewhere
+1240	6	liquid	null	unk	somewhere	condenser
+1240	7	liquid	unk	unk	condenser	evaporator
+1240	8	liquid	unk	evaporator	evaporator	evaporator
+1189	1	chunk of rock	unk	unk	nowhere	atmosphere
+1189	2	chunk of rock	unk	unk	atmosphere	atmosphere
+1189	3	chunk of rock	unk	unk	atmosphere	atmosphere
+1189	4	chunk of rock	unk	unk	atmosphere	nowhere
+1189	5	chunk of rock	unk	unk	nowhere	nowhere
+1189	6	chunk of rock	unk	unk	nowhere	nowhere
+1189	1	crater	unk	unk	nowhere	nowhere
+1189	2	crater	unk	unk	nowhere	nowhere
+1189	3	crater	unk	unk	nowhere	nowhere
+1189	4	crater	unk	unk	nowhere	nowhere
+1189	5	crater	unk	unk	nowhere	earth
+1189	6	crater	unk	unk	earth	earth
+534	1	fruit	null	null	nowhere	nowhere
+534	2	fruit	null	null	nowhere	nowhere
+534	3	fruit	null	null	nowhere	nowhere
+534	4	fruit	null	unk	nowhere	tree
+534	5	fruit	unk	unk	tree	tree
+534	6	fruit	unk	unk	tree	tree
+534	7	fruit	unk	unk	tree	tree
+534	1	seed	null	unk	somewhere	somewhere
+534	2	seed	unk	null	somewhere	nowhere
+534	3	seed	null	null	nowhere	nowhere
+534	4	seed	null	null	nowhere	nowhere
+534	5	seed	null	null	nowhere	nowhere
+534	6	seed	null	null	nowhere	nowhere
+534	7	seed	null	null	nowhere	nowhere
+534	1	flower	unk	unk	nowhere	nowhere
+534	2	flower	unk	unk	nowhere	nowhere
+534	3	flower	unk	unk	nowhere	nowhere
+534	4	flower	unk	unk	nowhere	nowhere
+534	5	flower	unk	unk	nowhere	tree
+534	6	flower	unk	unk	tree	tree
+534	7	flower	unk	unk	tree	tree
+534	1	small tree	null	null	nowhere	nowhere
+534	2	small tree	null	null	nowhere	somewhere
+534	3	small tree	null	null	somewhere	somewhere
+534	4	small tree	null	null	somewhere	somewhere
+534	5	small tree	null	null	somewhere	somewhere
+534	6	small tree	null	null	somewhere	somewhere
+534	7	small tree	null	null	somewhere	nowhere
+534	1	tree	null	null	nowhere	nowhere
+534	2	tree	null	null	nowhere	somewhere
+534	3	tree	null	null	somewhere	somewhere
+534	4	tree	null	null	somewhere	somewhere
+534	5	tree	null	null	somewhere	somewhere
+534	6	tree	null	null	somewhere	somewhere
+534	7	tree	null	null	somewhere	nowhere
+310	1	blood	unk	unk	somewhere	heart
+310	2	blood	unk	lung	heart	lung
+310	3	blood	unk	unk	lung	lung
+310	4	blood	unk	unk	lung	lung
+310	5	blood	unk	heart	lung	heart
+310	6	blood	unk	body	heart	body
+310	1	carbon dioxide	unk	unk	blood	blood
+310	2	carbon dioxide	unk	unk	blood	blood
+310	3	carbon dioxide	unk	blood	blood	nowhere
+310	4	carbon dioxide	blood	blood	nowhere	nowhere
+310	5	carbon dioxide	blood	blood	nowhere	nowhere
+310	6	carbon dioxide	blood	blood	nowhere	nowhere
+310	1	oxygen	unk	unk	lung	lung
+310	2	oxygen	unk	unk	lung	lung
+310	3	oxygen	unk	unk	lung	lung
+310	4	oxygen	unk	unk	lung	blood
+310	5	oxygen	unk	unk	blood	blood
+310	6	oxygen	unk	unk	blood	blood
+896	1	oxygen-depleted blood	unk	unk	body	right atrium
+896	2	oxygen-depleted blood	unk	unk	right atrium	right atrium
+896	3	oxygen-depleted blood	unk	unk	right atrium	right ventricle
+896	4	oxygen-depleted blood	unk	unk	right ventricle	right ventricle
+896	5	oxygen-depleted blood	unk	unk	right ventricle	right ventricle
+896	6	oxygen-depleted blood	unk	unk	right ventricle	lung
+896	7	oxygen-depleted blood	unk	unk	lung	nowhere
+896	8	oxygen-depleted blood	unk	unk	nowhere	nowhere
+896	9	oxygen-depleted blood	unk	unk	nowhere	nowhere
+896	1	blood	unk	atrium	body	right atrium
+896	2	blood	unk	unk	right atrium	right atrium
+896	3	blood	unk	open  tricuspid  valve	right atrium	right ventricle
+896	4	blood	unk	unk	right ventricle	right ventricle
+896	5	blood	unk	unk	right ventricle	right ventricle
+896	6	blood	unk	lung	right ventricle	lung
+896	7	blood	lung	lung	lung	nowhere
+896	8	blood	unk	left  atrium	nowhere	nowhere
+896	9	blood	body	body	nowhere	nowhere
+896	1	oxygenate blood	unk	unk	nowhere	nowhere
+896	2	oxygenate blood	unk	unk	nowhere	nowhere
+896	3	oxygenate blood	unk	unk	nowhere	nowhere
+896	4	oxygenate blood	unk	unk	nowhere	nowhere
+896	5	oxygenate blood	unk	unk	nowhere	nowhere
+896	6	oxygenate blood	unk	unk	nowhere	nowhere
+896	7	oxygenate blood	unk	unk	nowhere	lung
+896	8	oxygenate blood	unk	left  atrium	lung	left atrium
+896	9	oxygenate blood	left  atrium	left  atrium	left atrium	body
+429	1	plant	unk	unk	somewhere	somewhere
+429	2	plant	unk	unk	somewhere	somewhere
+429	3	plant	unk	unk	somewhere	somewhere
+429	4	plant	unk	unk	somewhere	somewhere
+429	5	plant	unk	unk	somewhere	animal
+429	6	plant	unk	unk	animal	somewhere
+429	7	plant	unk	null	somewhere	somewhere
+429	8	plant	null	null	somewhere	somewhere
+429	9	plant	null	null	somewhere	nowhere
+429	10	plant	null	null	nowhere	nowhere
+429	1	nitrogen	unk	unk	atmosphere	atmosphere
+429	2	nitrogen	unk	unk	atmosphere	nowhere
+429	3	nitrogen	unk	unk	nowhere	nowhere
+429	4	nitrogen	unk	unk	nowhere	nowhere
+429	5	nitrogen	unk	unk	nowhere	nowhere
+429	6	nitrogen	unk	unk	nowhere	nowhere
+429	7	nitrogen	unk	unk	nowhere	nowhere
+429	8	nitrogen	unk	soil	nowhere	nowhere
+429	9	nitrogen	unk	null	nowhere	nowhere
+429	10	nitrogen	null	null	nowhere	nowhere
+429	1	usable nitrogen	unk	unk	nowhere	nowhere
+429	2	usable nitrogen	unk	unk	nowhere	soil
+429	3	usable nitrogen	unk	unk	soil	soil
+429	4	usable nitrogen	unk	unk	soil	plant
+429	5	usable nitrogen	unk	unk	plant	animal
+429	6	usable nitrogen	unk	unk	animal	waste
+429	7	usable nitrogen	unk	unk	waste	somewhere
+429	8	usable nitrogen	unk	unk	somewhere	soil
+429	9	usable nitrogen	unk	unk	soil	nowhere
+429	10	usable nitrogen	unk	unk	nowhere	nowhere
+429	1	gas-based form	unk	unk	nowhere	nowhere
+429	2	gas-based form	unk	unk	nowhere	nowhere
+429	3	gas-based form	unk	unk	nowhere	nowhere
+429	4	gas-based form	unk	unk	nowhere	nowhere
+429	5	gas-based form	unk	unk	nowhere	nowhere
+429	6	gas-based form	unk	unk	nowhere	nowhere
+429	7	gas-based form	unk	unk	nowhere	nowhere
+429	8	gas-based form	unk	unk	nowhere	nowhere
+429	9	gas-based form	unk	unk	nowhere	bacterium
+429	10	gas-based form	unk	unk	bacterium	atmosphere
+429	1	waste	unk	unk	nowhere	nowhere
+429	2	waste	unk	unk	nowhere	nowhere
+429	3	waste	unk	unk	nowhere	nowhere
+429	4	waste	unk	unk	nowhere	nowhere
+429	5	waste	unk	unk	nowhere	nowhere
+429	6	waste	unk	unk	nowhere	somewhere
+429	7	waste	unk	unk	somewhere	somewhere
+429	8	waste	unk	unk	somewhere	somewhere
+429	9	waste	unk	unk	somewhere	nowhere
+429	10	waste	unk	unk	nowhere	nowhere
+1147	1	hydrogen	unk	null	star	star
+1147	2	hydrogen	unk	null	star	nowhere
+1147	3	hydrogen	null	null	nowhere	nowhere
+1147	4	hydrogen	null	null	nowhere	nowhere
+1147	5	hydrogen	null	null	nowhere	nowhere
+1147	6	hydrogen	null	null	nowhere	nowhere
+1147	1	star	unk	null	somewhere	somewhere
+1147	2	star	unk	null	somewhere	somewhere
+1147	3	star	null	null	somewhere	somewhere
+1147	4	star	null	null	somewhere	somewhere
+1147	5	star	null	null	somewhere	somewhere
+1147	6	star	null	null	somewhere	somewhere
+1147	1	helium	null	null	nowhere	nowhere
+1147	2	helium	null	unk	nowhere	star
+1147	3	helium	unk	unk	star	star
+1147	4	helium	unk	null	star	nowhere
+1147	5	helium	null	null	nowhere	nowhere
+1147	6	helium	null	null	nowhere	nowhere
+1147	1	helium atom	null	unk	nowhere	star
+1147	2	helium atom	unk	unk	star	star
+1147	3	helium atom	unk	unk	star	star
+1147	4	helium atom	unk	null	star	star
+1147	5	helium atom	null	null	star	star
+1147	6	helium atom	null	null	star	star
+1147	1	carbon atom	null	null	nowhere	nowhere
+1147	2	carbon atom	null	null	nowhere	nowhere
+1147	3	carbon atom	null	null	nowhere	nowhere
+1147	4	carbon atom	null	unk	nowhere	star
+1147	5	carbon atom	unk	unk	star	star
+1147	6	carbon atom	unk	unk	star	star
+1147	1	hydrogen atom	unk	null	star	nowhere
+1147	2	hydrogen atom	null	null	nowhere	nowhere
+1147	3	hydrogen atom	null	null	nowhere	nowhere
+1147	4	hydrogen atom	null	null	nowhere	nowhere
+1147	5	hydrogen atom	null	null	nowhere	nowhere
+1147	6	hydrogen atom	null	null	nowhere	nowhere
+582	1	mass	unk	unk	nowhere	nowhere
+582	2	mass	unk	unk	nowhere	nowhere
+582	3	mass	unk	unk	nowhere	somewhere
+582	4	mass	unk	unk	somewhere	somewhere
+582	5	mass	unk	unk	somewhere	nowhere
+582	6	mass	unk	unk	nowhere	nowhere
+582	7	mass	unk	unk	nowhere	nowhere
+582	8	mass	unk	unk	nowhere	nowhere
+582	1	warm , moist air	unk	unk	south	north
+582	2	warm , moist air	unk	unk	north	north
+582	3	warm , moist air	unk	unk	north	nowhere
+582	4	warm , moist air	unk	unk	nowhere	nowhere
+582	5	warm , moist air	unk	unk	nowhere	nowhere
+582	6	warm , moist air	unk	unk	nowhere	nowhere
+582	7	warm , moist air	unk	unk	nowhere	nowhere
+582	8	warm , moist air	unk	unk	nowhere	nowhere
+582	1	wind	null	null	nowhere	nowhere
+582	2	wind	null	null	nowhere	nowhere
+582	3	wind	null	null	nowhere	nowhere
+582	4	wind	null	null	nowhere	nowhere
+582	5	wind	null	null	nowhere	somewhere
+582	6	wind	null	null	somewhere	somewhere
+582	7	wind	null	unk	somewhere	updraft
+582	8	wind	unk	unk	updraft	somewhere
+582	1	updraft	unk	unk	nowhere	nowhere
+582	2	updraft	unk	unk	nowhere	nowhere
+582	3	updraft	unk	unk	nowhere	nowhere
+582	4	updraft	unk	unk	nowhere	nowhere
+582	5	updraft	unk	unk	nowhere	nowhere
+582	6	updraft	unk	unk	nowhere	somewhere
+582	7	updraft	unk	unk	somewhere	somewhere
+582	8	updraft	unk	unk	somewhere	tornado
+582	1	tornado	null	null	somewhere	somewhere
+582	2	tornado	null	null	somewhere	somewhere
+582	3	tornado	null	null	somewhere	somewhere
+582	4	tornado	null	null	somewhere	somewhere
+582	5	tornado	null	null	somewhere	somewhere
+582	6	tornado	null	null	somewhere	somewhere
+582	7	tornado	null	null	somewhere	somewhere
+582	8	tornado	null	unk	somewhere	nowhere
+582	1	circular pattern	null	null	nowhere	nowhere
+582	2	circular pattern	null	null	nowhere	nowhere
+582	3	circular pattern	null	null	nowhere	nowhere
+582	4	circular pattern	null	null	nowhere	nowhere
+582	5	circular pattern	null	null	nowhere	nowhere
+582	6	circular pattern	null	null	nowhere	nowhere
+582	7	circular pattern	null	unk	nowhere	updraft
+582	8	circular pattern	unk	unk	updraft	somewhere
+582	1	cool , dry air	unk	unk	somewhere	somewhere
+582	2	cool , dry air	unk	unk	somewhere	south
+582	3	cool , dry air	unk	unk	south	nowhere
+582	4	cool , dry air	unk	unk	nowhere	nowhere
+582	5	cool , dry air	unk	unk	nowhere	nowhere
+582	6	cool , dry air	unk	unk	nowhere	nowhere
+582	7	cool , dry air	unk	unk	nowhere	nowhere
+582	8	cool , dry air	unk	unk	nowhere	nowhere
+582	1	air mass	unk	unk	nowhere	nowhere
+582	2	air mass	unk	unk	nowhere	nowhere
+582	3	air mass	unk	unk	nowhere	somewhere
+582	4	air mass	unk	unk	somewhere	somewhere
+582	5	air mass	unk	unk	somewhere	nowhere
+582	6	air mass	unk	unk	nowhere	nowhere
+582	7	air mass	unk	unk	nowhere	nowhere
+582	8	air mass	unk	unk	nowhere	nowhere
+465	1	water	unk	unk	somewhere	wind
+465	2	water	unk	unk	wind	nowhere
+465	3	water	unk	unk	nowhere	nowhere
+465	4	water	unk	unk	nowhere	nowhere
+465	5	water	unk	unk	nowhere	nowhere
+465	6	water	unk	unk	nowhere	nowhere
+465	7	water	unk	unk	nowhere	nowhere
+465	1	hail	unk	unk	nowhere	nowhere
+465	2	hail	unk	unk	nowhere	wind
+465	3	hail	unk	unk	wind	wind
+465	4	hail	unk	unk	wind	wind
+465	5	hail	unk	unk	wind	wind
+465	6	hail	unk	unk	wind	wind
+465	7	hail	unk	unk	wind	ground
+791	1	dc electricity	null	null	nowhere	nowhere
+791	2	dc electricity	null	null	nowhere	nowhere
+791	3	dc electricity	null	solar	nowhere	solar cell
+791	4	dc electricity	solar	solar	solar cell	nowhere
+791	5	dc electricity	solar	solar	nowhere	nowhere
+791	6	dc electricity	solar	solar	nowhere	nowhere
+791	1	ac electricity	null	null	nowhere	nowhere
+791	2	ac electricity	null	null	nowhere	nowhere
+791	3	ac electricity	null	null	nowhere	nowhere
+791	4	ac electricity	null	unk	nowhere	inverter
+791	5	ac electricity	unk	unk	inverter	home
+791	6	ac electricity	unk	unk	home	power grid
+1033	1	animal	unk	null	somewhere	somewhere
+1033	2	animal	null	null	somewhere	mud
+1033	3	animal	null	null	mud	nowhere
+1033	4	animal	null	null	nowhere	nowhere
+1033	5	animal	null	null	nowhere	nowhere
+1033	6	animal	null	null	nowhere	nowhere
+1033	1	skeleton	unk	unk	nowhere	nowhere
+1033	2	skeleton	unk	unk	nowhere	nowhere
+1033	3	skeleton	unk	unk	nowhere	mud
+1033	4	skeleton	unk	null	mud	rock
+1033	5	skeleton	mud	mud	rock	nowhere
+1033	6	skeleton	mud	mud	nowhere	nowhere
+1033	1	rock	null	null	nowhere	nowhere
+1033	2	rock	null	null	nowhere	nowhere
+1033	3	rock	null	null	nowhere	nowhere
+1033	4	rock	null	unk	nowhere	somewhere
+1033	5	rock	unk	unk	somewhere	somewhere
+1033	6	rock	unk	unk	somewhere	somewhere
+1033	1	mold	mud	mud	nowhere	nowhere
+1033	2	mold	mud	mud	nowhere	nowhere
+1033	3	mold	mud	mud	nowhere	nowhere
+1033	4	mold	mud	mud	nowhere	nowhere
+1033	5	mold	mud	mud	nowhere	mud
+1033	6	mold	mud	mud	mud	mud
+67	1	plant	unk	null	somewhere	somewhere
+67	2	plant	area	area	somewhere	swamp
+67	3	plant	area	area	swamp	bottom of the swamp
+67	4	plant	area	area	bottom of the swamp	bottom of the swamp
+67	5	plant	unk	null	bottom of the swamp	nowhere
+67	6	plant	null	null	nowhere	nowhere
+67	7	plant	null	null	nowhere	nowhere
+67	8	plant	null	null	nowhere	nowhere
+67	9	plant	null	null	nowhere	nowhere
+67	1	dead plant	unk	unk	somewhere	somewhere
+67	2	dead plant	unk	area	somewhere	swamp
+67	3	dead plant	area	area	swamp	bottom of the swamp
+67	4	dead plant	area	area	bottom of the swamp	bottom of the swamp
+67	5	dead plant	unk	null	bottom of the swamp	nowhere
+67	6	dead plant	null	null	nowhere	nowhere
+67	7	dead plant	null	null	nowhere	nowhere
+67	8	dead plant	null	null	nowhere	nowhere
+67	9	dead plant	null	null	nowhere	nowhere
+67	1	peat	null	null	nowhere	nowhere
+67	2	peat	null	null	nowhere	nowhere
+67	3	peat	null	null	nowhere	nowhere
+67	4	peat	null	null	nowhere	nowhere
+67	5	peat	null	area	nowhere	bottom of the swamp
+67	6	peat	area	area	bottom of the swamp	bottom of the swamp
+67	7	peat	area	area	bottom of the swamp	bottom of the swamp
+67	8	peat	area	area	bottom of the swamp	bottom of the swamp
+67	9	peat	area	area	bottom of the swamp	nowhere
+67	1	coal	null	null	nowhere	nowhere
+67	2	coal	null	null	nowhere	nowhere
+67	3	coal	null	null	nowhere	nowhere
+67	4	coal	null	null	nowhere	nowhere
+67	5	coal	null	null	nowhere	nowhere
+67	6	coal	null	null	nowhere	nowhere
+67	7	coal	null	null	nowhere	nowhere
+67	8	coal	null	null	nowhere	nowhere
+67	9	coal	null	unk	nowhere	bottom of the swamp
+695	1	snow	null	null	nowhere	nowhere
+695	2	snow	null	null	nowhere	nowhere
+695	3	snow	null	null	nowhere	nowhere
+695	4	snow	null	null	nowhere	nowhere
+695	5	snow	null	unk	nowhere	earth
+695	6	snow	unk	unk	earth	earth
+695	7	snow	unk	unk	earth	nowhere
+695	1	sleet	null	null	nowhere	nowhere
+695	2	sleet	null	null	nowhere	nowhere
+695	3	sleet	null	null	nowhere	nowhere
+695	4	sleet	null	null	nowhere	nowhere
+695	5	sleet	null	unk	nowhere	earth
+695	6	sleet	unk	unk	earth	earth
+695	7	sleet	unk	unk	earth	nowhere
+695	1	rain	null	null	nowhere	nowhere
+695	2	rain	null	null	nowhere	nowhere
+695	3	rain	null	null	nowhere	nowhere
+695	4	rain	null	null	nowhere	nowhere
+695	5	rain	null	unk	nowhere	earth
+695	6	rain	unk	unk	earth	land
+695	7	rain	unk	unk	land	ocean , lake , or river
+695	1	water	unk	null	river or lake or the ocean	nowhere
+695	2	water	unk	lake	nowhere	nowhere
+695	3	water	earth	earth	nowhere	nowhere
+695	4	water	earth	earth	nowhere	nowhere
+695	5	water	earth	earth	nowhere	nowhere
+695	6	water	earth	earth	nowhere	nowhere
+695	7	water	earth	earth	nowhere	nowhere
+695	1	cloud	null	null	nowhere	nowhere
+695	2	cloud	null	null	nowhere	nowhere
+695	3	cloud	null	unk	nowhere	air
+695	4	cloud	unk	unk	air	air
+695	5	cloud	unk	unk	air	air
+695	6	cloud	unk	unk	air	air
+695	7	cloud	unk	unk	air	air
+695	1	steam	null	unk	nowhere	river or lake or the ocean
+695	2	steam	unk	lake	river or lake or the ocean	air
+695	3	steam	lake	lake	air	nowhere
+695	4	steam	lake	lake	nowhere	nowhere
+695	5	steam	lake	lake	nowhere	nowhere
+695	6	steam	lake	lake	nowhere	nowhere
+695	7	steam	lake	lake	nowhere	nowhere
+695	1	water vapor	unk	unk	nowhere	river or lake or the ocean
+695	2	water vapor	unk	lake	river or lake or the ocean	air
+695	3	water vapor	lake	lake	air	nowhere
+695	4	water vapor	lake	lake	nowhere	nowhere
+695	5	water vapor	lake	lake	nowhere	nowhere
+695	6	water vapor	lake	lake	nowhere	nowhere
+695	7	water vapor	lake	lake	nowhere	nowhere
+695	1	vapor	unk	unk	nowhere	river or lake or the ocean
+695	2	vapor	unk	lake	river or lake or the ocean	air
+695	3	vapor	lake	lake	air	nowhere
+695	4	vapor	lake	lake	nowhere	nowhere
+695	5	vapor	lake	lake	nowhere	nowhere
+695	6	vapor	lake	lake	nowhere	nowhere
+695	7	vapor	lake	lake	nowhere	nowhere
+695	1	hail	null	null	nowhere	nowhere
+695	2	hail	null	null	nowhere	nowhere
+695	3	hail	null	null	nowhere	nowhere
+695	4	hail	null	null	nowhere	nowhere
+695	5	hail	null	unk	nowhere	earth
+695	6	hail	unk	unk	earth	earth
+695	7	hail	unk	unk	earth	nowhere
+659	1	plant	unk	unk	soil	soil
+659	2	plant	unk	unk	soil	soil
+659	3	plant	unk	unk	soil	soil
+659	4	plant	unk	null	soil	nowhere
+659	5	plant	null	null	nowhere	nowhere
+659	6	plant	null	null	nowhere	nowhere
+659	1	nitrogen	unk	null	soil	nowhere
+659	2	nitrogen	unk	unk	nowhere	soil
+659	3	nitrogen	unk	unk	soil	plant
+659	4	nitrogen	unk	null	plant	nowhere
+659	5	nitrogen	unk	unk	nowhere	nowhere
+659	6	nitrogen	unk	unk	nowhere	nowhere
+659	1	extra nitrogen	unk	unk	soil	soil
+659	2	extra nitrogen	unk	unk	soil	soil
+659	3	extra nitrogen	unk	unk	soil	root
+659	4	extra nitrogen	unk	unk	root	soil
+659	5	extra nitrogen	unk	unk	soil	air
+659	6	extra nitrogen	unk	unk	air	air
+659	1	ammonium	unk	null	nowhere	soil
+659	2	ammonium	unk	null	soil	nowhere
+659	3	ammonium	null	null	nowhere	nowhere
+659	4	ammonium	null	ammonification	nowhere	soil
+659	5	ammonium	ammonification	ammonification	soil	soil
+659	6	ammonium	ammonification	ammonification	soil	soil
+659	1	nitrate	unk	unk	soil	nowhere
+659	2	nitrate	unk	unk	nowhere	soil
+659	3	nitrate	unk	unk	soil	plant
+659	4	nitrate	unk	unk	plant	nowhere
+659	5	nitrate	unk	unk	nowhere	nowhere
+659	6	nitrate	unk	unk	nowhere	nowhere
+653	1	seed	null	unk	somewhere	somewhere
+653	2	seed	unk	unk	somewhere	nowhere
+653	3	seed	unk	unk	nowhere	nowhere
+653	4	seed	unk	unk	nowhere	nowhere
+653	5	seed	unk	unk	nowhere	nowhere
+653	6	seed	unk	tree	nowhere	nowhere
+653	1	tree	null	null	nowhere	nowhere
+653	2	tree	null	null	nowhere	nowhere
+653	3	tree	null	null	nowhere	somewhere
+653	4	tree	null	null	somewhere	somewhere
+653	5	tree	null	null	somewhere	somewhere
+653	6	tree	null	null	somewhere	somewhere
+653	1	flower	null	null	nowhere	nowhere
+653	2	flower	null	null	nowhere	nowhere
+653	3	flower	null	null	nowhere	nowhere
+653	4	flower	null	null	nowhere	tree
+653	5	flower	null	null	tree	nowhere
+653	6	flower	null	null	nowhere	nowhere
+653	1	fruit	null	null	nowhere	nowhere
+653	2	fruit	null	null	nowhere	nowhere
+653	3	fruit	null	null	nowhere	nowhere
+653	4	fruit	null	null	nowhere	nowhere
+653	5	fruit	null	tree	nowhere	tree
+653	6	fruit	tree	tree	tree	tree
+411	1	electrochemical signal	null	null	nowhere	nowhere
+411	2	electrochemical signal	null	unk	nowhere	retina
+411	3	electrochemical signal	unk	unk	retina	retina
+411	4	electrochemical signal	unk	unk	retina	retina
+411	5	electrochemical signal	unk	unk	retina	retina
+411	6	electrochemical signal	unk	unk	retina	cerebral cortex
+411	7	electrochemical signal	unk	unk	cerebral cortex	cerebral cortex
+411	8	electrochemical signal	unk	unk	cerebral cortex	brain
+411	1	light	retina	retina	retina	retina
+411	2	light	unk	null	retina	nowhere
+411	3	light	null	null	nowhere	nowhere
+411	4	light	null	null	nowhere	nowhere
+411	5	light	null	null	nowhere	nowhere
+411	6	light	null	null	nowhere	nowhere
+411	7	light	null	null	nowhere	nowhere
+411	8	light	null	null	nowhere	nowhere
+70	1	rain	unk	unk	nowhere	somewhere
+70	2	rain	unk	unk	somewhere	somewhere
+70	3	rain	unk	unk	somewhere	somewhere
+70	4	rain	unk	unk	somewhere	somewhere
+70	5	rain	unk	unk	somewhere	somewhere
+70	6	rain	unk	unk	somewhere	nowhere
+70	7	rain	unk	unk	nowhere	nowhere
+70	8	rain	unk	unk	nowhere	nowhere
+70	1	water	river	river	somewhere	somewhere
+70	2	water	river	river	somewhere	somewhere
+70	3	water	unk	unk	somewhere	ground
+70	4	water	unk	unk	ground	street
+70	5	water	unk	unk	street	house
+70	6	water	unk	unk	house	somewhere
+70	7	water	unk	unk	somewhere	stream
+70	8	water	unk	unk	stream	nowhere
+70	1	stream	unk	unk	nowhere	nowhere
+70	2	stream	unk	unk	nowhere	nowhere
+70	3	stream	unk	unk	nowhere	nowhere
+70	4	stream	unk	unk	nowhere	nowhere
+70	5	stream	unk	unk	nowhere	nowhere
+70	6	stream	unk	unk	nowhere	nowhere
+70	7	stream	unk	unk	nowhere	somewhere
+70	8	stream	unk	unk	somewhere	somewhere
+70	1	water level	river	river	somewhere	somewhere
+70	2	water level	river	river	somewhere	river or lake
+70	3	water level	river	river	river or lake	somewhere
+70	4	water level	river	river	somewhere	somewhere
+70	5	water level	river	river	somewhere	somewhere
+70	6	water level	river	river	somewhere	somewhere
+70	7	water level	river	river	somewhere	somewhere
+70	8	water level	river	river	somewhere	somewhere
+725	1	rock	unk	unk	nowhere	nowhere
+725	2	rock	unk	unk	nowhere	nowhere
+725	3	rock	unk	unk	nowhere	somewhere
+725	4	rock	unk	unk	somewhere	somewhere
+725	5	rock	unk	unk	somewhere	somewhere
+725	6	rock	unk	unk	somewhere	somewhere
+725	1	plant	watery	watery	watery environment	mud and silt
+725	2	plant	watery	watery	mud and silt	nowhere
+725	3	plant	watery	watery	nowhere	nowhere
+725	4	plant	watery	watery	nowhere	nowhere
+725	5	plant	watery	watery	nowhere	nowhere
+725	6	plant	watery	watery	nowhere	nowhere
+725	1	stone replica	null	null	nowhere	nowhere
+725	2	stone replica	null	null	nowhere	nowhere
+725	3	stone replica	null	null	nowhere	nowhere
+725	4	stone replica	null	null	nowhere	nowhere
+725	5	stone replica	null	null	nowhere	nowhere
+725	6	stone replica	null	unk	nowhere	void leave behind
+725	1	sediment	unk	unk	somewhere	somewhere
+725	2	sediment	unk	unk	somewhere	somewhere
+725	3	sediment	unk	unk	somewhere	nowhere
+725	4	sediment	unk	unk	nowhere	nowhere
+725	5	sediment	unk	unk	nowhere	nowhere
+725	6	sediment	unk	unk	nowhere	nowhere
+725	1	fossil	unk	null	nowhere	nowhere
+725	2	fossil	null	null	nowhere	nowhere
+725	3	fossil	null	null	nowhere	nowhere
+725	4	fossil	null	null	nowhere	nowhere
+725	5	fossil	null	null	nowhere	nowhere
+725	6	fossil	null	null	nowhere	void leave behind
+725	1	bone	unk	unk	somewhere	somewhere
+725	2	bone	unk	unk	somewhere	somewhere
+725	3	bone	unk	unk	somewhere	somewhere
+725	4	bone	unk	unk	somewhere	nowhere
+725	5	bone	unk	unk	nowhere	nowhere
+725	6	bone	unk	unk	nowhere	nowhere
+725	1	animal	null	watery	watery environment	mud and silt
+725	2	animal	watery	watery	mud and silt	nowhere
+725	3	animal	watery	watery	nowhere	nowhere
+725	4	animal	watery	watery	nowhere	nowhere
+725	5	animal	watery	watery	nowhere	nowhere
+725	6	animal	watery	watery	nowhere	nowhere
+725	1	soft tissue	unk	unk	somewhere	somewhere
+725	2	soft tissue	unk	unk	somewhere	nowhere
+725	3	soft tissue	unk	unk	nowhere	nowhere
+725	4	soft tissue	unk	unk	nowhere	nowhere
+725	5	soft tissue	unk	unk	nowhere	nowhere
+725	6	soft tissue	unk	unk	nowhere	nowhere
+725	1	mineral	unk	unk	somewhere	somewhere
+725	2	mineral	unk	unk	somewhere	somewhere
+725	3	mineral	unk	unk	somewhere	somewhere
+725	4	mineral	unk	unk	somewhere	somewhere
+725	5	mineral	unk	unk	somewhere	somewhere
+725	6	mineral	unk	unk	somewhere	somewhere
+904	1	light	cornea	cornea	cornea and lens	nowhere
+904	2	light	cornea	cornea	nowhere	nowhere
+904	3	light	cornea	cornea	nowhere	nowhere
+904	4	light	cornea	cornea	nowhere	nowhere
+904	5	light	cornea	cornea	nowhere	nowhere
+904	1	small image	null	cornea	nowhere	retina
+904	2	small image	cornea	cornea	retina	retina
+904	3	small image	cornea	cornea	retina	nowhere
+904	4	small image	cornea	cornea	nowhere	nowhere
+904	5	small image	cornea	cornea	nowhere	nowhere
+904	1	retina 's rod and cone	unk	unk	retina	retina
+904	2	retina 's rod and cone	unk	unk	retina	retina
+904	3	retina 's rod and cone	unk	unk	retina	retina
+904	4	retina 's rod and cone	unk	unk	retina	retina
+904	5	retina 's rod and cone	unk	unk	retina	retina
+904	1	electrical pulse	retina	retina	nowhere	nowhere
+904	2	electrical pulse	retina	retina	nowhere	nowhere
+904	3	electrical pulse	retina	retina	nowhere	rod and cone
+904	4	electrical pulse	optic  canal	optic  canal	rod and cone	optic canal
+904	5	electrical pulse	optic  canal	optic  canal	optic canal	geniculate nucleus and the visual cortex
+249	1	rock	null	null	somewhere	somewhere
+249	2	rock	null	null	somewhere	somewhere
+249	3	rock	null	null	somewhere	somewhere
+249	4	rock	null	null	somewhere	somewhere
+249	5	rock	null	null	somewhere	nowhere
+249	6	rock	null	null	nowhere	nowhere
+249	7	rock	null	null	nowhere	nowhere
+249	8	rock	null	null	nowhere	nowhere
+249	1	smaller piece	null	null	somewhere	somewhere
+249	2	smaller piece	null	null	somewhere	somewhere
+249	3	smaller piece	null	unk	somewhere	somewhere
+249	4	smaller piece	unk	unk	somewhere	somewhere
+249	5	smaller piece	unk	unk	somewhere	nowhere
+249	6	smaller piece	unk	unk	nowhere	nowhere
+249	7	smaller piece	unk	unk	nowhere	nowhere
+249	8	smaller piece	unk	unk	nowhere	nowhere
+249	1	new type of rock	null	null	nowhere	nowhere
+249	2	new type of rock	null	null	nowhere	nowhere
+249	3	new type of rock	null	null	nowhere	nowhere
+249	4	new type of rock	null	null	nowhere	nowhere
+249	5	new type of rock	null	unk	nowhere	somewhere
+249	6	new type of rock	unk	unk	somewhere	somewhere
+249	7	new type of rock	unk	unk	somewhere	somewhere
+249	8	new type of rock	unk	unk	somewhere	water
+249	1	certain type of rock	unk	unk	nowhere	nowhere
+249	2	certain type of rock	unk	unk	nowhere	nowhere
+249	3	certain type of rock	unk	unk	nowhere	nowhere
+249	4	certain type of rock	unk	unk	nowhere	nowhere
+249	5	certain type of rock	unk	unk	nowhere	somewhere
+249	6	certain type of rock	unk	unk	somewhere	somewhere
+249	7	certain type of rock	unk	unk	somewhere	somewhere
+249	8	certain type of rock	unk	unk	somewhere	water
+249	1	oxygen	unk	unk	somewhere	somewhere
+249	2	oxygen	unk	unk	somewhere	somewhere
+249	3	oxygen	unk	unk	somewhere	somewhere
+249	4	oxygen	unk	rock	somewhere	rock
+249	5	oxygen	rock	rock	rock	nowhere
+249	6	oxygen	rock	rock	nowhere	nowhere
+249	7	oxygen	rock	rock	nowhere	nowhere
+249	8	oxygen	rock	rock	nowhere	nowhere
+249	1	new substance	unk	unk	nowhere	nowhere
+249	2	new substance	unk	unk	nowhere	nowhere
+249	3	new substance	unk	unk	nowhere	nowhere
+249	4	new substance	unk	unk	nowhere	nowhere
+249	5	new substance	unk	unk	nowhere	somewhere
+249	6	new substance	unk	unk	somewhere	somewhere
+249	7	new substance	unk	unk	somewhere	somewhere
+249	8	new substance	unk	unk	somewhere	water
+37	1	plant	unk	unk	watery environment	watery environment
+37	2	plant	unk	unk	watery environment	mud and silt
+37	3	plant	unk	unk	mud and silt	somewhere
+37	4	plant	unk	unk	somewhere	somewhere
+37	5	plant	unk	unk	somewhere	somewhere
+37	6	plant	unk	unk	somewhere	somewhere
+37	1	fossil	null	null	nowhere	nowhere
+37	2	fossil	null	null	nowhere	nowhere
+37	3	fossil	null	null	nowhere	nowhere
+37	4	fossil	null	null	nowhere	nowhere
+37	5	fossil	null	null	nowhere	nowhere
+37	6	fossil	null	unk	nowhere	rock
+37	1	bone	unk	unk	somewhere	somewhere
+37	2	bone	unk	unk	somewhere	somewhere
+37	3	bone	unk	unk	somewhere	somewhere
+37	4	bone	unk	unk	somewhere	somewhere
+37	5	bone	unk	unk	somewhere	nowhere
+37	6	bone	unk	unk	nowhere	nowhere
+37	1	animal	watery	watery	watery environment	watery environment
+37	2	animal	watery	watery	watery environment	mud and silt
+37	3	animal	watery	watery	mud and silt	somewhere
+37	4	animal	watery	watery	somewhere	somewhere
+37	5	animal	watery	watery	somewhere	somewhere
+37	6	animal	watery	watery	somewhere	somewhere
+37	1	soft tissue	unk	unk	somewhere	somewhere
+37	2	soft tissue	unk	unk	somewhere	somewhere
+37	3	soft tissue	unk	unk	somewhere	nowhere
+37	4	soft tissue	unk	unk	nowhere	nowhere
+37	5	soft tissue	unk	unk	nowhere	nowhere
+37	6	soft tissue	unk	unk	nowhere	nowhere
+37	1	mineral	unk	unk	somewhere	somewhere
+37	2	mineral	unk	unk	somewhere	somewhere
+37	3	mineral	unk	unk	somewhere	somewhere
+37	4	mineral	unk	unk	somewhere	somewhere
+37	5	mineral	unk	unk	somewhere	sediment
+37	6	mineral	unk	unk	sediment	somewhere
+503	1	gasoline	unk	unk	somewhere	car
+503	2	gasoline	unk	unk	car	car
+503	3	gasoline	unk	unk	car	car
+503	4	gasoline	unk	unk	car	car
+503	5	gasoline	unk	unk	car	car
+503	6	gasoline	unk	unk	car	car
+503	7	gasoline	unk	unk	car	car
+503	8	gasoline	unk	unk	car	car
+503	9	gasoline	unk	unk	car	car
+503	1	car	unk	unk	somewhere	somewhere
+503	2	car	unk	unk	somewhere	somewhere
+503	3	car	unk	null	somewhere	somewhere
+503	4	car	null	null	somewhere	somewhere
+503	5	car	null	null	somewhere	somewhere
+503	6	car	null	null	somewhere	somewhere
+503	7	car	null	null	somewhere	somewhere
+503	8	car	null	null	somewhere	somewhere
+503	9	car	null	null	somewhere	somewhere
+503	1	wheel	car	car	car	car
+503	2	wheel	car	car	car	car
+503	3	wheel	car	car	car	car
+503	4	wheel	car	car	car	car
+503	5	wheel	car	car	car	car
+503	6	wheel	car	car	car	car
+503	7	wheel	car	car	car	car
+503	8	wheel	car	car	car	car
+503	9	wheel	car	car	car	car
+503	1	gas	unk	unk	somewhere	car
+503	2	gas	unk	unk	car	car
+503	3	gas	unk	unk	car	car
+503	4	gas	unk	unk	car	car
+503	5	gas	unk	unk	car	car
+503	6	gas	unk	unk	car	car
+503	7	gas	unk	unk	car	car
+503	8	gas	unk	unk	car	car
+503	9	gas	unk	unk	car	car
+503	1	spark	null	null	nowhere	nowhere
+503	2	spark	null	null	nowhere	nowhere
+503	3	spark	null	unk	nowhere	car
+503	4	spark	unk	null	car	car
+503	5	spark	null	null	car	somewhere
+503	6	spark	null	null	somewhere	somewhere
+503	7	spark	null	null	somewhere	somewhere
+503	8	spark	null	null	somewhere	somewhere
+503	9	spark	null	null	somewhere	somewhere
+503	1	battery	unk	unk	car	car
+503	2	battery	unk	unk	car	car
+503	3	battery	unk	null	car	car
+503	4	battery	null	null	car	car
+503	5	battery	null	null	car	car
+503	6	battery	null	null	car	car
+503	7	battery	null	null	car	car
+503	8	battery	null	null	car	car
+503	9	battery	null	null	car	car
+503	1	crankshaft	car	car	car	car
+503	2	crankshaft	car	car	car	car
+503	3	crankshaft	car	car	car	car
+503	4	crankshaft	car	car	car	car
+503	5	crankshaft	car	car	car	car
+503	6	crankshaft	car	car	car	car
+503	7	crankshaft	car	car	car	car
+503	8	crankshaft	car	car	car	car
+503	9	crankshaft	car	car	car	car
+503	1	piston	unk	unk	car	car
+503	2	piston	unk	unk	car	car
+503	3	piston	unk	unk	car	car
+503	4	piston	unk	unk	car	car
+503	5	piston	unk	unk	car	car
+503	6	piston	unk	unk	car	car
+503	7	piston	unk	unk	car	car
+503	8	piston	unk	unk	car	car
+503	9	piston	unk	unk	car	car
+1188	1	comet	unk	outer  space	outer space	outer space
+1188	2	comet	unk	planet	outer space	close to a planet
+1188	3	comet	unk	unk	close to a planet	planet 's atmosphere
+1188	4	comet	unk	planet	planet 's atmosphere	nowhere
+1188	5	comet	planet	planet	nowhere	nowhere
+1188	1	hole	null	null	nowhere	nowhere
+1188	2	hole	null	null	nowhere	nowhere
+1188	3	hole	null	null	nowhere	nowhere
+1188	4	hole	null	null	nowhere	nowhere
+1188	5	hole	null	unk	nowhere	planet
+533	1	seed	unk	tree	tree	soil
+533	2	seed	tree	tree	soil	nowhere
+533	3	seed	tree	tree	nowhere	nowhere
+533	4	seed	tree	tree	nowhere	nowhere
+533	5	seed	tree	tree	nowhere	nowhere
+533	6	seed	tree	tree	nowhere	nowhere
+533	7	seed	tree	tree	nowhere	nowhere
+533	1	sprout	unk	unk	nowhere	nowhere
+533	2	sprout	unk	soil	nowhere	soil
+533	3	sprout	soil	soil	soil	nowhere
+533	4	sprout	soil	soil	nowhere	nowhere
+533	5	sprout	soil	soil	nowhere	nowhere
+533	6	sprout	soil	soil	nowhere	nowhere
+533	7	sprout	soil	soil	nowhere	nowhere
+533	1	sapling	unk	unk	nowhere	nowhere
+533	2	sapling	unk	unk	nowhere	nowhere
+533	3	sapling	unk	unk	nowhere	nowhere
+533	4	sapling	unk	unk	nowhere	soil
+533	5	sapling	unk	unk	soil	nowhere
+533	6	sapling	unk	unk	nowhere	nowhere
+533	7	sapling	unk	unk	nowhere	nowhere
+533	1	tree	null	null	nowhere	nowhere
+533	2	tree	null	null	nowhere	nowhere
+533	3	tree	null	null	nowhere	nowhere
+533	4	tree	null	null	nowhere	nowhere
+533	5	tree	null	null	nowhere	soil
+533	6	tree	null	null	soil	soil
+533	7	tree	null	null	soil	nowhere
+1146	1	hydrogen	unk	unk	star	star
+1146	2	hydrogen	unk	unk	star	star
+1146	3	hydrogen	unk	null	star	nowhere
+1146	4	hydrogen	null	null	nowhere	nowhere
+1146	5	hydrogen	null	null	nowhere	nowhere
+1146	6	hydrogen	null	null	nowhere	nowhere
+1146	7	hydrogen	null	null	nowhere	nowhere
+1146	8	hydrogen	null	null	nowhere	nowhere
+1146	9	hydrogen	null	null	nowhere	nowhere
+1146	10	hydrogen	null	null	nowhere	nowhere
+1146	1	energy	unk	unk	star	star
+1146	2	energy	unk	unk	star	star
+1146	3	energy	unk	unk	star	star
+1146	4	energy	unk	unk	star	nowhere
+1146	5	energy	unk	unk	nowhere	nowhere
+1146	6	energy	unk	unk	nowhere	nowhere
+1146	7	energy	unk	unk	nowhere	nowhere
+1146	8	energy	unk	unk	nowhere	nowhere
+1146	9	energy	unk	unk	nowhere	nowhere
+1146	10	energy	unk	unk	nowhere	nowhere
+1146	1	hydrogen fuel	unk	unk	star	star
+1146	2	hydrogen fuel	unk	unk	star	nowhere
+1146	3	hydrogen fuel	unk	unk	nowhere	nowhere
+1146	4	hydrogen fuel	unk	unk	nowhere	nowhere
+1146	5	hydrogen fuel	unk	unk	nowhere	nowhere
+1146	6	hydrogen fuel	unk	unk	nowhere	nowhere
+1146	7	hydrogen fuel	unk	unk	nowhere	nowhere
+1146	8	hydrogen fuel	unk	unk	nowhere	nowhere
+1146	9	hydrogen fuel	unk	unk	nowhere	nowhere
+1146	10	hydrogen fuel	unk	unk	nowhere	nowhere
+1146	1	star	unk	unk	space	nowhere
+1146	2	star	unk	unk	nowhere	nowhere
+1146	3	star	unk	unk	nowhere	nowhere
+1146	4	star	unk	unk	nowhere	nowhere
+1146	5	star	unk	unk	nowhere	nowhere
+1146	6	star	unk	unk	nowhere	nowhere
+1146	7	star	unk	unk	nowhere	nowhere
+1146	8	star	unk	unk	nowhere	nowhere
+1146	9	star	unk	unk	nowhere	nowhere
+1146	10	star	unk	unk	nowhere	nowhere
+1146	1	helium	null	null	nowhere	nowhere
+1146	2	helium	null	null	nowhere	nowhere
+1146	3	helium	null	unk	nowhere	star
+1146	4	helium	unk	unk	star	star
+1146	5	helium	unk	unk	star	star
+1146	6	helium	unk	unk	star	star
+1146	7	helium	unk	null	star	nowhere
+1146	8	helium	null	null	nowhere	nowhere
+1146	9	helium	null	null	nowhere	nowhere
+1146	10	helium	null	null	nowhere	nowhere
+1146	1	carbon atom	null	null	nowhere	nowhere
+1146	2	carbon atom	null	null	nowhere	nowhere
+1146	3	carbon atom	null	null	nowhere	nowhere
+1146	4	carbon atom	null	null	nowhere	nowhere
+1146	5	carbon atom	null	null	nowhere	nowhere
+1146	6	carbon atom	null	null	nowhere	nowhere
+1146	7	carbon atom	null	unk	nowhere	star
+1146	8	carbon atom	unk	unk	star	star
+1146	9	carbon atom	unk	unk	star	star
+1146	10	carbon atom	unk	unk	star	star
+401	1	sunlight	unk	unk	nowhere	nowhere
+401	2	sunlight	unk	unk	nowhere	solar panel
+401	3	sunlight	unk	unk	solar panel	top half of the solar panel
+401	4	sunlight	unk	unk	top half of the solar panel	bottom half of the solar panel
+401	5	sunlight	unk	unk	bottom half of the solar panel	nowhere
+401	6	sunlight	unk	unk	nowhere	nowhere
+401	7	sunlight	unk	unk	nowhere	nowhere
+401	1	direct current	null	null	nowhere	nowhere
+401	2	direct current	null	null	nowhere	nowhere
+401	3	direct current	null	null	nowhere	nowhere
+401	4	direct current	null	null	nowhere	nowhere
+401	5	direct current	null	null	nowhere	solar panel
+401	6	direct current	null	unk	solar panel	nowhere
+401	7	direct current	unk	unk	nowhere	nowhere
+401	1	alternate current	null	null	nowhere	nowhere
+401	2	alternate current	null	null	nowhere	nowhere
+401	3	alternate current	null	null	nowhere	nowhere
+401	4	alternate current	null	null	nowhere	nowhere
+401	5	alternate current	null	null	nowhere	nowhere
+401	6	alternate current	null	null	nowhere	inverter
+401	7	alternate current	null	null	inverter	house
+410	1	electric signal	null	null	nowhere	nowhere
+410	2	electric signal	null	null	nowhere	nowhere
+410	3	electric signal	null	null	nowhere	nowhere
+410	4	electric signal	null	retina	nowhere	retina
+410	5	electric signal	retina	retina	retina	brain
+410	6	electric signal	retina	retina	brain	brain
+410	1	light	unk	unk	somewhere	cornea
+410	2	light	unk	iris	cornea	iris
+410	3	light	eye	eye	iris	iris
+410	4	light	retina	retina	iris	nowhere
+410	5	light	retina	retina	nowhere	nowhere
+410	6	light	retina	retina	nowhere	nowhere
+69	1	plant	unk	null	somewhere	somewhere
+69	2	plant	null	null	somewhere	bottom of swamp
+69	3	plant	null	null	bottom of swamp	nowhere
+69	4	plant	null	null	nowhere	nowhere
+69	5	plant	null	null	nowhere	nowhere
+69	6	plant	null	null	nowhere	nowhere
+69	7	plant	null	null	nowhere	nowhere
+69	1	sand	unk	unk	bottom of swamp	bottom of swamp
+69	2	sand	unk	unk	bottom of swamp	bottom of swamp
+69	3	sand	unk	unk	bottom of swamp	bottom of swamp
+69	4	sand	unk	unk	bottom of swamp	bottom of swamp
+69	5	sand	unk	unk	bottom of swamp	nowhere
+69	6	sand	unk	unk	nowhere	nowhere
+69	7	sand	unk	unk	nowhere	nowhere
+69	1	pressure	peat	peat	nowhere	nowhere
+69	2	pressure	peat	peat	nowhere	nowhere
+69	3	pressure	peat	peat	nowhere	nowhere
+69	4	pressure	peat	peat	nowhere	nowhere
+69	5	pressure	peat	peat	nowhere	nowhere
+69	6	pressure	peat	peat	nowhere	bottom of swamp
+69	7	pressure	peat	peat	bottom of swamp	bottom of swamp
+69	1	sedimentary rock	null	null	nowhere	nowhere
+69	2	sedimentary rock	null	null	nowhere	nowhere
+69	3	sedimentary rock	null	null	nowhere	nowhere
+69	4	sedimentary rock	null	null	nowhere	nowhere
+69	5	sedimentary rock	null	peat	nowhere	bottom of swamp
+69	6	sedimentary rock	peat	peat	bottom of swamp	bottom of swamp
+69	7	sedimentary rock	peat	peat	bottom of swamp	bottom of swamp
+69	1	peat	null	null	nowhere	nowhere
+69	2	peat	null	null	nowhere	nowhere
+69	3	peat	null	plant	nowhere	bottom of swamp
+69	4	peat	plant	plant	bottom of swamp	bottom of swamp
+69	5	peat	plant	plant	bottom of swamp	bottom of swamp
+69	6	peat	plant	plant	bottom of swamp	bottom of swamp
+69	7	peat	plant	plant	bottom of swamp	nowhere
+69	1	water	unk	unk	bottom of swamp	bottom of swamp
+69	2	water	unk	unk	bottom of swamp	bottom of swamp
+69	3	water	unk	unk	bottom of swamp	peat
+69	4	water	unk	unk	peat	peat
+69	5	water	unk	unk	peat	peat
+69	6	water	unk	peat	peat	peat
+69	7	water	peat	peat	peat	peat
+69	1	tree	unk	null	somewhere	somewhere
+69	2	tree	plant	plant	somewhere	bottom of swamp
+69	3	tree	plant	plant	bottom of swamp	nowhere
+69	4	tree	plant	plant	nowhere	nowhere
+69	5	tree	plant	plant	nowhere	nowhere
+69	6	tree	plant	plant	nowhere	nowhere
+69	7	tree	plant	plant	nowhere	nowhere
+69	1	coal	null	null	nowhere	nowhere
+69	2	coal	null	null	nowhere	nowhere
+69	3	coal	null	null	nowhere	nowhere
+69	4	coal	null	null	nowhere	nowhere
+69	5	coal	null	null	nowhere	nowhere
+69	6	coal	null	null	nowhere	nowhere
+69	7	coal	null	unk	nowhere	somewhere
+69	1	clay	unk	unk	bottom of swamp	bottom of swamp
+69	2	clay	unk	unk	bottom of swamp	bottom of swamp
+69	3	clay	unk	unk	bottom of swamp	bottom of swamp
+69	4	clay	unk	unk	bottom of swamp	bottom of swamp
+69	5	clay	unk	unk	bottom of swamp	nowhere
+69	6	clay	unk	unk	nowhere	nowhere
+69	7	clay	unk	unk	nowhere	nowhere
+697	1	water	unk	body	body of water	somewhere
+697	2	water	unk	null	somewhere	cloud
+697	3	water	null	null	cloud	cloud
+697	4	water	null	null	cloud	cloud
+697	5	water	null	null	cloud	area below the cloud
+697	1	cloud	null	null	nowhere	nowhere
+697	2	cloud	null	body	nowhere	somewhere
+697	3	cloud	body	body	somewhere	somewhere
+697	4	cloud	body	body	somewhere	somewhere
+697	5	cloud	body	body	somewhere	somewhere
+697	1	rain	cloud	cloud	nowhere	nowhere
+697	2	rain	cloud	cloud	nowhere	nowhere
+697	3	rain	cloud	cloud	nowhere	nowhere
+697	4	rain	cloud	cloud	nowhere	nowhere
+697	5	rain	cloud	cloud	nowhere	area below the cloud
+99	1	a very different ecosystem	null	null	nowhere	nowhere
+99	2	a very different ecosystem	null	null	nowhere	nowhere
+99	3	a very different ecosystem	null	null	nowhere	nowhere
+99	4	a very different ecosystem	null	null	nowhere	nowhere
+99	5	a very different ecosystem	null	null	nowhere	nowhere
+99	6	a very different ecosystem	null	unk	nowhere	desert
+99	7	a very different ecosystem	unk	unk	desert	desert
+99	1	rain cloud	unk	unk	sky	sky
+99	2	rain cloud	unk	unk	sky	obstacle
+99	3	rain cloud	unk	unk	obstacle	obstacle
+99	4	rain cloud	unk	unk	obstacle	sky
+99	5	rain cloud	unk	unk	sky	sky
+99	6	rain cloud	unk	unk	sky	sky
+99	7	rain cloud	unk	unk	sky	sky
+99	1	desert	null	null	nowhere	nowhere
+99	2	desert	null	null	nowhere	nowhere
+99	3	desert	null	null	nowhere	nowhere
+99	4	desert	null	null	nowhere	nowhere
+99	5	desert	null	null	nowhere	nowhere
+99	6	desert	null	null	nowhere	nowhere
+99	7	desert	null	unk	nowhere	area that receive little rain
+99	1	rain	null	null	nowhere	nowhere
+99	2	rain	null	null	nowhere	nowhere
+99	3	rain	null	null	nowhere	cloud
+99	4	rain	null	null	cloud	mountain
+99	5	rain	null	null	mountain	mountain
+99	6	rain	null	null	mountain	mountain
+99	7	rain	null	unk	mountain	mountain
+99	1	cloud	unk	unk	sky	sky
+99	2	cloud	unk	unk	sky	sky
+99	3	cloud	unk	unk	sky	sky
+99	4	cloud	unk	unk	sky	sky
+99	5	cloud	unk	unk	sky	sky
+99	6	cloud	unk	unk	sky	sky
+99	7	cloud	unk	unk	sky	sky
+1032	1	rock	unk	unk	nowhere	nowhere
+1032	2	rock	unk	unk	nowhere	nowhere
+1032	3	rock	unk	unk	nowhere	nowhere
+1032	4	rock	unk	unk	nowhere	nowhere
+1032	5	rock	unk	unk	nowhere	nowhere
+1032	6	rock	unk	unk	nowhere	remains
+1032	1	plant	unk	null	wet environment	wet environment
+1032	2	plant	mud	mud	wet environment	mud
+1032	3	plant	mud	mud	mud	nowhere
+1032	4	plant	mud	mud	nowhere	nowhere
+1032	5	plant	mud	mud	nowhere	nowhere
+1032	6	plant	mud	mud	nowhere	nowhere
+1032	1	sediment	null	null	nowhere	nowhere
+1032	2	sediment	null	null	nowhere	nowhere
+1032	3	sediment	null	null	nowhere	nowhere
+1032	4	sediment	null	null	nowhere	nowhere
+1032	5	sediment	null	unk	nowhere	remains
+1032	6	sediment	unk	unk	remains	nowhere
+1032	1	remains	null	null	nowhere	nowhere
+1032	2	remains	null	null	nowhere	nowhere
+1032	3	remains	null	null	nowhere	mud
+1032	4	remains	null	null	mud	mud
+1032	5	remains	null	unk	mud	nowhere
+1032	6	remains	unk	unk	nowhere	nowhere
+1032	1	bone and hard tissue	unk	unk	nowhere	nowhere
+1032	2	bone and hard tissue	unk	unk	nowhere	nowhere
+1032	3	bone and hard tissue	unk	unk	nowhere	mud
+1032	4	bone and hard tissue	unk	unk	mud	mud
+1032	5	bone and hard tissue	unk	unk	mud	nowhere
+1032	6	bone and hard tissue	unk	unk	nowhere	nowhere
+1032	1	animal	unk	null	wet environment	wet environment
+1032	2	animal	mud	mud	wet environment	mud
+1032	3	animal	mud	mud	mud	nowhere
+1032	4	animal	mud	mud	nowhere	nowhere
+1032	5	animal	mud	mud	nowhere	nowhere
+1032	6	animal	mud	mud	nowhere	nowhere
+727	1	rock	unk	unk	nowhere	nowhere
+727	2	rock	unk	unk	nowhere	nowhere
+727	3	rock	unk	unk	nowhere	nowhere
+727	4	rock	unk	unk	nowhere	nowhere
+727	5	rock	unk	unk	nowhere	nowhere
+727	6	rock	unk	unk	nowhere	somewhere
+727	7	rock	unk	unk	somewhere	somewhere
+727	8	rock	unk	unk	somewhere	somewhere
+727	9	rock	unk	unk	somewhere	somewhere
+727	10	rock	unk	unk	somewhere	somewhere
+727	1	silt	unk	unk	somewhere	somewhere
+727	2	silt	unk	unk	somewhere	somewhere
+727	3	silt	unk	unk	somewhere	somewhere
+727	4	silt	unk	unk	somewhere	somewhere
+727	5	silt	unk	unk	somewhere	watery environment
+727	6	silt	unk	unk	watery environment	nowhere
+727	7	silt	unk	unk	nowhere	nowhere
+727	8	silt	unk	unk	nowhere	nowhere
+727	9	silt	unk	unk	nowhere	nowhere
+727	10	silt	unk	unk	nowhere	nowhere
+727	1	fossil	unk	unk	nowhere	nowhere
+727	2	fossil	unk	unk	nowhere	nowhere
+727	3	fossil	unk	unk	nowhere	nowhere
+727	4	fossil	unk	unk	nowhere	nowhere
+727	5	fossil	unk	unk	nowhere	nowhere
+727	6	fossil	unk	unk	nowhere	nowhere
+727	7	fossil	unk	unk	nowhere	nowhere
+727	8	fossil	unk	unk	nowhere	nowhere
+727	9	fossil	unk	unk	nowhere	nowhere
+727	10	fossil	unk	unk	nowhere	rock
+727	1	bone	unk	unk	animal	animal
+727	2	bone	unk	unk	animal	animal
+727	3	bone	unk	unk	animal	animal
+727	4	bone	unk	unk	animal	watery environment
+727	5	bone	unk	unk	watery environment	mud and silt
+727	6	bone	unk	unk	mud and silt	rock
+727	7	bone	unk	unk	rock	nowhere
+727	8	bone	unk	unk	nowhere	nowhere
+727	9	bone	unk	unk	nowhere	nowhere
+727	10	bone	unk	unk	nowhere	nowhere
+727	1	mud	unk	unk	somewhere	somewhere
+727	2	mud	unk	unk	somewhere	somewhere
+727	3	mud	unk	unk	somewhere	somewhere
+727	4	mud	unk	unk	somewhere	somewhere
+727	5	mud	unk	unk	somewhere	watery environment
+727	6	mud	unk	unk	watery environment	nowhere
+727	7	mud	unk	unk	nowhere	nowhere
+727	8	mud	unk	unk	nowhere	nowhere
+727	9	mud	unk	unk	nowhere	nowhere
+727	10	mud	unk	unk	nowhere	nowhere
+727	1	animal	unk	null	somewhere	somewhere
+727	2	animal	null	null	somewhere	watery environment
+727	3	animal	null	null	watery environment	nowhere
+727	4	animal	null	null	nowhere	nowhere
+727	5	animal	null	null	nowhere	nowhere
+727	6	animal	null	null	nowhere	nowhere
+727	7	animal	null	null	nowhere	nowhere
+727	8	animal	null	null	nowhere	nowhere
+727	9	animal	null	null	nowhere	nowhere
+727	10	animal	null	null	nowhere	nowhere
+727	1	soft tissue	unk	unk	animal	animal
+727	2	soft tissue	unk	unk	animal	animal
+727	3	soft tissue	unk	unk	animal	nowhere
+727	4	soft tissue	unk	unk	nowhere	nowhere
+727	5	soft tissue	unk	unk	nowhere	nowhere
+727	6	soft tissue	unk	unk	nowhere	nowhere
+727	7	soft tissue	unk	unk	nowhere	nowhere
+727	8	soft tissue	unk	unk	nowhere	nowhere
+727	9	soft tissue	unk	unk	nowhere	nowhere
+727	10	soft tissue	unk	unk	nowhere	nowhere
+727	1	mineral	unk	unk	somewhere	somewhere
+727	2	mineral	unk	unk	somewhere	somewhere
+727	3	mineral	unk	unk	somewhere	somewhere
+727	4	mineral	unk	unk	somewhere	somewhere
+727	5	mineral	unk	unk	somewhere	somewhere
+727	6	mineral	unk	unk	somewhere	somewhere
+727	7	mineral	unk	unk	somewhere	somewhere
+727	8	mineral	unk	unk	somewhere	bone
+727	9	mineral	unk	unk	bone	fossil
+727	10	mineral	unk	unk	fossil	fossil
+927	1	plant	null	null	ground	ground
+927	2	plant	null	null	ground	ground
+927	3	plant	null	null	ground	ground
+927	4	plant	null	null	ground	ground
+927	5	plant	null	unk	ground	nowhere
+927	6	plant	unk	unk	nowhere	nowhere
+927	1	land	unk	unk	somewhere	somewhere
+927	2	land	unk	unk	somewhere	somewhere
+927	3	land	unk	unk	somewhere	somewhere
+927	4	land	unk	unk	somewhere	somewhere
+927	5	land	unk	null	somewhere	nowhere
+927	6	land	null	null	nowhere	nowhere
+927	1	rain	null	null	somewhere	ground
+927	2	rain	null	null	ground	nowhere
+927	3	rain	null	null	nowhere	nowhere
+927	4	rain	null	null	nowhere	nowhere
+927	5	rain	null	null	nowhere	nowhere
+927	6	rain	null	null	nowhere	nowhere
+927	1	water	null	null	nowhere	nowhere
+927	2	water	null	unk	nowhere	ground
+927	3	water	unk	unk	ground	ground
+927	4	water	unk	soil	ground	ground
+927	5	water	unk	null	ground	ground
+927	6	water	null	null	ground	ground
+927	1	rain water	null	null	nowhere	nowhere
+927	2	rain water	null	null	nowhere	ground
+927	3	rain water	null	null	ground	ground
+927	4	rain water	null	null	ground	ground
+927	5	rain water	null	null	ground	ground
+927	6	rain water	null	null	ground	ground
+927	1	tree	null	null	ground	ground
+927	2	tree	null	null	ground	ground
+927	3	tree	null	null	ground	ground
+927	4	tree	null	null	ground	ground
+927	5	tree	null	unk	ground	nowhere
+927	6	tree	unk	unk	nowhere	nowhere
+903	1	visible light	unk	lens	somewhere	lens
+903	2	visible light	lens	lens	lens	retina
+903	3	visible light	lens	lens	retina	photoreceptor cell
+903	4	visible light	lens	lens	photoreceptor cell	nowhere
+903	5	visible light	lens	lens	nowhere	nowhere
+903	1	light	unk	lens	somewhere	lens
+903	2	light	unk	retina	lens	retina
+903	3	light	unk	unk	retina	photoreceptor cell
+903	4	light	unk	unk	photoreceptor cell	nowhere
+903	5	light	unk	unk	nowhere	nowhere
+903	1	chemical energy	null	null	nowhere	nowhere
+903	2	chemical energy	null	null	nowhere	nowhere
+903	3	chemical energy	null	null	nowhere	nowhere
+903	4	chemical energy	null	unk	nowhere	photoreceptor cell
+903	5	chemical energy	unk	unk	photoreceptor cell	brain
+903	1	image	unk	unk	nowhere	nowhere
+903	2	image	unk	unk	nowhere	nowhere
+903	3	image	unk	unk	nowhere	nowhere
+903	4	image	unk	unk	nowhere	nowhere
+903	5	image	unk	unk	nowhere	brain
+661	1	plant	null	null	soil	soil
+661	2	plant	null	null	soil	soil
+661	3	plant	null	null	soil	soil
+661	4	plant	null	null	soil	soil
+661	5	plant	null	null	soil	soil
+661	6	plant	null	null	soil	soil
+661	7	plant	null	unk	soil	nowhere
+661	8	plant	unk	unk	nowhere	nowhere
+661	9	plant	unk	unk	nowhere	nowhere
+661	1	nitrogen	unk	null	somewhere	nowhere
+661	2	nitrogen	soil	soil	nowhere	nowhere
+661	3	nitrogen	soil	soil	nowhere	nowhere
+661	4	nitrogen	soil	soil	nowhere	nowhere
+661	5	nitrogen	soil	soil	nowhere	plant
+661	6	nitrogen	null	null	plant	plant
+661	7	nitrogen	null	unk	plant	nowhere
+661	8	nitrogen	unk	unk	nowhere	nowhere
+661	9	nitrogen	unk	unk	nowhere	nowhere
+661	1	ammonium	null	null	nowhere	soil
+661	2	ammonium	null	null	soil	nowhere
+661	3	ammonium	null	null	nowhere	nowhere
+661	4	ammonium	null	null	nowhere	nowhere
+661	5	ammonium	null	null	nowhere	nowhere
+661	6	ammonium	null	null	nowhere	nowhere
+661	7	ammonium	null	unk	nowhere	soil
+661	8	ammonium	unk	unk	soil	air
+661	9	ammonium	unk	unk	air	air
+661	1	animal	null	null	somewhere	somewhere
+661	2	animal	null	null	somewhere	somewhere
+661	3	animal	null	null	somewhere	somewhere
+661	4	animal	null	null	somewhere	somewhere
+661	5	animal	null	null	somewhere	somewhere
+661	6	animal	null	null	somewhere	somewhere
+661	7	animal	null	unk	somewhere	nowhere
+661	8	animal	unk	unk	nowhere	nowhere
+661	9	animal	unk	unk	nowhere	nowhere
+661	1	nitrate	soil	soil	nowhere	nowhere
+661	2	nitrate	soil	soil	nowhere	soil
+661	3	nitrate	soil	soil	soil	soil
+661	4	nitrate	soil	soil	soil	soil
+661	5	nitrate	soil	soil	soil	nowhere
+661	6	nitrate	soil	soil	nowhere	nowhere
+661	7	nitrate	soil	soil	nowhere	nowhere
+661	8	nitrate	soil	soil	nowhere	nowhere
+661	9	nitrate	soil	soil	nowhere	nowhere
+1190	1	oxygenate blood	unk	unk	nowhere	nowhere
+1190	2	oxygenate blood	unk	unk	nowhere	nowhere
+1190	3	oxygenate blood	unk	unk	nowhere	nowhere
+1190	4	oxygenate blood	unk	unk	nowhere	nowhere
+1190	5	oxygenate blood	unk	unk	nowhere	nowhere
+1190	6	oxygenate blood	unk	unk	nowhere	lung
+1190	7	oxygenate blood	unk	left  atrium	lung	left atrium
+1190	8	oxygenate blood	left  atrium	left  atrium	left atrium	left ventricle
+1190	9	oxygenate blood	left  atrium	left  atrium	left ventricle	body
+1190	10	oxygenate blood	left  atrium	left  atrium	body	nowhere
+1190	1	deoxygenate blood	unk	unk	two large vein	heart
+1190	2	deoxygenate blood	unk	unk	heart	right atrium
+1190	3	deoxygenate blood	unk	unk	right atrium	tricuspid valve
+1190	4	deoxygenate blood	unk	unk	tricuspid valve	right ventricle
+1190	5	deoxygenate blood	unk	unk	right ventricle	lung
+1190	6	deoxygenate blood	unk	unk	lung	nowhere
+1190	7	deoxygenate blood	unk	unk	nowhere	nowhere
+1190	8	deoxygenate blood	unk	unk	nowhere	nowhere
+1190	9	deoxygenate blood	unk	unk	nowhere	nowhere
+1190	10	deoxygenate blood	unk	heart	nowhere	heart
+1190	1	oxygen	unk	unk	somewhere	somewhere
+1190	2	oxygen	unk	unk	somewhere	somewhere
+1190	3	oxygen	unk	unk	somewhere	somewhere
+1190	4	oxygen	unk	unk	somewhere	somewhere
+1190	5	oxygen	unk	unk	somewhere	somewhere
+1190	6	oxygen	unk	lung	somewhere	nowhere
+1190	7	oxygen	lung	lung	nowhere	nowhere
+1190	8	oxygen	lung	lung	nowhere	nowhere
+1190	9	oxygen	lung	lung	nowhere	nowhere
+1190	10	oxygen	lung	lung	nowhere	nowhere
+152	1	cloud droplet	unk	unk	nowhere	nowhere
+152	2	cloud droplet	unk	unk	nowhere	nowhere
+152	3	cloud droplet	unk	unk	nowhere	nowhere
+152	4	cloud droplet	unk	unk	nowhere	atmosphere
+152	5	cloud droplet	unk	unk	atmosphere	atmosphere
+152	6	cloud droplet	unk	unk	atmosphere	atmosphere
+152	1	solid	null	null	nowhere	nowhere
+152	2	solid	null	null	nowhere	nowhere
+152	3	solid	null	null	nowhere	nowhere
+152	4	solid	null	unk	nowhere	atmosphere
+152	5	solid	unk	unk	atmosphere	atmosphere
+152	6	solid	unk	unk	atmosphere	atmosphere
+152	1	lift vapor	unk	unk	atmosphere	atmosphere
+152	2	lift vapor	unk	unk	atmosphere	atmosphere
+152	3	lift vapor	unk	unk	atmosphere	atmosphere
+152	4	lift vapor	unk	unk	atmosphere	nowhere
+152	5	lift vapor	unk	unk	nowhere	nowhere
+152	6	lift vapor	unk	unk	nowhere	nowhere
+152	1	water vapor	unk	unk	atmosphere	atmosphere
+152	2	water vapor	unk	unk	atmosphere	atmosphere
+152	3	water vapor	unk	unk	atmosphere	atmosphere
+152	4	water vapor	unk	unk	atmosphere	nowhere
+152	5	water vapor	unk	unk	nowhere	nowhere
+152	6	water vapor	unk	unk	nowhere	nowhere
+152	1	vapor	unk	unk	atmosphere	atmosphere
+152	2	vapor	unk	unk	atmosphere	atmosphere
+152	3	vapor	unk	unk	atmosphere	atmosphere
+152	4	vapor	unk	null	atmosphere	nowhere
+152	5	vapor	null	null	nowhere	nowhere
+152	6	vapor	null	null	nowhere	nowhere
+933	1	water	unk	unk	somewhere	somewhere
+933	2	water	unk	null	somewhere	somewhere
+933	3	water	unk	unk	somewhere	mineral base material
+933	4	water	unk	unk	mineral base material	mineral base material
+933	5	water	unk	unk	mineral base material	mineral base material
+933	1	carbon dioxide	unk	unk	somewhere	somewhere
+933	2	carbon dioxide	unk	unk	somewhere	somewhere
+933	3	carbon dioxide	unk	unk	somewhere	somewhere
+933	4	carbon dioxide	unk	unk	somewhere	somewhere
+933	5	carbon dioxide	unk	unk	somewhere	somewhere
+933	1	mineral base material	unk	unk	somewhere	somewhere
+933	2	mineral base material	unk	unk	somewhere	somewhere
+933	3	mineral base material	unk	unk	somewhere	somewhere
+933	4	mineral base material	unk	unk	somewhere	somewhere
+933	5	mineral base material	unk	unk	somewhere	somewhere
+933	1	rock	unk	unk	somewhere	somewhere
+933	2	rock	unk	unk	somewhere	somewhere
+933	3	rock	unk	unk	somewhere	somewhere
+933	4	rock	unk	unk	somewhere	somewhere
+933	5	rock	unk	unk	somewhere	somewhere
+502	1	petrol	null	chamber	combustion chamber	nowhere
+502	2	petrol	chamber	chamber	nowhere	nowhere
+502	3	petrol	chamber	chamber	nowhere	nowhere
+502	4	petrol	chamber	chamber	nowhere	nowhere
+502	5	petrol	chamber	chamber	nowhere	nowhere
+502	1	energy	unk	null	nowhere	combustion chamber
+502	2	energy	unk	piston	combustion chamber	piston
+502	3	energy	piston	piston	piston	axle
+502	4	energy	piston	piston	axle	wheel
+502	5	energy	piston	piston	wheel	wheel
+502	1	car	unk	unk	somewhere	somewhere
+502	2	car	unk	unk	somewhere	somewhere
+502	3	car	unk	unk	somewhere	somewhere
+502	4	car	unk	unk	somewhere	somewhere
+502	5	car	unk	unk	somewhere	somewhere
+502	1	rotary motion	null	null	nowhere	nowhere
+502	2	rotary motion	null	null	nowhere	nowhere
+502	3	rotary motion	null	unk	nowhere	somewhere
+502	4	rotary motion	unk	unk	somewhere	somewhere
+502	5	rotary motion	unk	unk	somewhere	somewhere
+502	1	diesel	null	chamber	combustion chamber	nowhere
+502	2	diesel	chamber	chamber	nowhere	nowhere
+502	3	diesel	chamber	chamber	nowhere	nowhere
+502	4	diesel	chamber	chamber	nowhere	nowhere
+502	5	diesel	chamber	chamber	nowhere	nowhere
+502	1	piston motion	unk	unk	nowhere	somewhere
+502	2	piston motion	unk	unk	somewhere	somewhere
+502	3	piston motion	unk	unk	somewhere	nowhere
+502	4	piston motion	unk	unk	nowhere	nowhere
+502	5	piston motion	unk	unk	nowhere	nowhere
+502	1	piston	unk	unk	somewhere	somewhere
+502	2	piston	unk	unk	somewhere	somewhere
+502	3	piston	unk	unk	somewhere	somewhere
+502	4	piston	unk	unk	somewhere	somewhere
+502	5	piston	unk	unk	somewhere	somewhere
+583	1	updraft	null	null	nowhere	nowhere
+583	2	updraft	null	unk	nowhere	somewhere
+583	3	updraft	unk	unk	somewhere	somewhere
+583	4	updraft	unk	unk	somewhere	rotation
+583	5	updraft	unk	unk	rotation	funnel
+583	6	updraft	unk	unk	funnel	ground
+583	1	dry , cold high-pressure air	unk	unk	somewhere	somewhere
+583	2	dry , cold high-pressure air	unk	unk	somewhere	somewhere
+583	3	dry , cold high-pressure air	unk	unk	somewhere	updraft
+583	4	dry , cold high-pressure air	unk	unk	updraft	rotation
+583	5	dry , cold high-pressure air	unk	unk	rotation	funnel
+583	6	dry , cold high-pressure air	unk	unk	funnel	ground
+583	1	rotation	null	null	nowhere	nowhere
+583	2	rotation	null	null	nowhere	nowhere
+583	3	rotation	null	null	nowhere	nowhere
+583	4	rotation	null	null	nowhere	rotation
+583	5	rotation	null	null	rotation	funnel
+583	6	rotation	null	null	funnel	ground
+583	1	funnel	null	null	nowhere	nowhere
+583	2	funnel	null	null	nowhere	nowhere
+583	3	funnel	null	null	nowhere	nowhere
+583	4	funnel	null	null	nowhere	nowhere
+583	5	funnel	null	unk	nowhere	rotation
+583	6	funnel	unk	unk	rotation	ground
