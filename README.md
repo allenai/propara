@@ -24,18 +24,10 @@ These models can be trained and evaluated as described below.
 3. Install the requirements in the environment: 
 
   ```
-  sh scripts/install_requirements.sh
+  pip install -r requirements.txt
   ```
 
-4. Install pytorch version torch (0.3.1) as per instructions on <http://pytorch.org/>. 
-   Commands as of Mar. 20, 2018:
-
-  Mac (no CUDA): `pip3 install http://download.pytorch.org/whl/torch-0.3.1-cp36-cp36m-macosx_10_7_x86_64.whl`
-
-  Linux   (no CUDA): `pip3 install http://download.pytorch.org/whl/cpu/torch-0.3.1-cp36-cp36m-linux_x86_64.whl `
-
-
-6. Test installation
+4. Test installation
 
  ```
  pytest -v

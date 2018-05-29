@@ -39,7 +39,7 @@ class ProLocalPredictor(Predictor):
                                                         entity_vector=entity_vector,
                                                         state_change_types=state_change_types,
                                                         state_change_tags=state_change_tags)
-       outputs = self._model.forward_on_instance(instance, cuda_device)
+       outputs = self._model.forward_on_instance(instance=instance)
 
        predictions = {}
        predictions["paraid"] = paraid
