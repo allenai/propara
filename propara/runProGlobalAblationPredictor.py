@@ -13,4 +13,4 @@ from propara.service.predictors.proglobal_prediction import ProGlobalPredictor
 
 if __name__ == "__main__":
     predictor_overrides = {'ProGlobalAblation': 'ProGlobalPrediction'}
-    main(prog="python -m allennlp.run", predictor_overrides=predictor_overrides)
+    main(prog="python -m allennlp.run")#, predictor_overrides=predictor_overrides)

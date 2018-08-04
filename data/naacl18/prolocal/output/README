@@ -1,0 +1,13 @@
+Input to ProLocal model's predictor:  
+        propara.run1.<PARTITION>.pred.json
+
+Output of ProLocal model:
+	prolocal.naacl_cr.data_run1.model_run1.<PARTITION>.tsv
+Output record format:
+ParaID \t Step-ID \t Entity \t Before-state-value \t After-state-value
+
+Special state-value tokens: 
+    null: indicates the entity does not exist
+    unk: indicates the entity exists but its location is unknown
+
+

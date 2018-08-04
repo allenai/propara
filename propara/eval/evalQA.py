@@ -420,6 +420,7 @@ def main():
     paraIds = sys.argv[1]
     goldPred = sys.argv[2]
     fnPred = sys.argv[3]
+    qid_to_score = {}
 
     selPid = set([int(x) for x in open(paraIds).readlines()])
     gold_labels = readGold(goldPred)
@@ -431,13 +432,33 @@ def main():
     for Q in [Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10]:
         qid += 1
         tp, fp, tn, fn = Q(labels, predictions)
-        header,results = metrics(tp,fp,tn,fn)
+        header,results_str, results = metrics(tp,fp,tn,fn,qid)
         if blHeader:
             print("\t%s" % header)
             blHeader = False
-        print("Q%d\t%s" % (qid, results))
+        print("Q%d\t%s" % (qid, results_str))
+        qid_to_score[qid] = results[5]
 
-def metrics(tp, fp, tn, fn):
+    cat1_score = (qid_to_score[1] + qid_to_score[4] + qid_to_score[7]) / 3
+    cat2_score = (qid_to_score[2] + qid_to_score[5] + qid_to_score[8]) / 3
+    cat3_score = (qid_to_score[3] + qid_to_score[6] + qid_to_score[9] + qid_to_score[10]) / 4
+
+    macro_avg = (cat1_score + cat2_score + cat3_score) / 3
+    num_cat1_q = 750
+    num_cat2_q = 601
+    num_cat3_q = 823
+    micro_avg = ((cat1_score * num_cat1_q) + (cat2_score * num_cat2_q) + (cat3_score * num_cat3_q)) / \
+                (num_cat1_q + num_cat2_q + num_cat3_q)
+
+    print("\n\nCategory\tScore")
+    print("=========\t=====")
+    print(f"Cat-1\t\t{round(cat1_score,2)}")
+    print(f"Cat-2\t\t{round(cat2_score,2)}")
+    print(f"Cat-3\t\t{round(cat3_score,2)}")
+    print(f"macro-avg\t{round(macro_avg,2)}")
+    print(f"micro-avg\t{round(micro_avg,2)}")
+
+def metrics(tp, fp, tn, fn, qid):
     if (tp+fp > 0):
         prec = tp/(tp+fp)
     else:	 	
@@ -451,11 +472,14 @@ def metrics(tp, fp, tn, fn):
     else:
         f1 = 0.0
     accuracy = (tp+tn) / (tp + fp + tn + fn)
+    if qid == 8:
+        accuracy = f1   # this is because Q8 can have multiple valid answers and F1 makes more sense here
     total = tp + fp + tn + fn
 
     header = '\t'.join(["Total", "TP", "FP", "TN", "FN", "Accuracy", "Precision", "Recall", "F1"])
-    results = "%d\t%d\t%d\t%d\t%d\t%.2f\t%.2f\t%.2f\t%.2f" % (total, tp, fp, tn, fn, accuracy*100, prec*100, rec*100, f1*100)
-    return (header, results)
+    results = [total, tp, fp, tn, fn, accuracy*100, prec*100, rec*100, f1*100]
+    results_str = "%d\t%d\t%d\t%d\t%d\t%.2f\t%.2f\t%.2f\t%.2f" % (total, tp, fp, tn, fn, accuracy*100, prec*100, rec*100, f1*100)
+    return (header, results_str, results)
 
 #----------------------------------------------------------------------------------------------------------------
 

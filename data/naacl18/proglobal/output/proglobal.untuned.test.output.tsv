@@ -1,0 +1,1820 @@
+927	1	rain	unk	there
+927	2	rain	there	ground
+927	3	rain	ground	null
+927	4	rain	null	null
+927	5	rain	null	null
+927	6	rain	null	null
+927	1	plant	null	null
+927	2	plant	null	null
+927	3	plant	null	null
+927	4	plant	null	null
+927	5	plant	null	null
+927	6	plant	null	null
+927	1	tree	null	null
+927	2	tree	null	null
+927	3	tree	null	null
+927	4	tree	null	null
+927	5	tree	null	soil
+927	6	tree	soil	soil
+927	1	land	null	null
+927	2	land	null	null
+927	3	land	null	null
+927	4	land	null	null
+927	5	land	null	null
+927	6	land	null	null
+927	1	rain water	unk	there
+927	2	rain water	there	ground
+927	3	rain water	ground	ground
+927	4	rain water	ground	null
+927	5	rain water	null	null
+927	6	rain water	null	null
+927	1	water	unk	there
+927	2	water	there	absorb
+927	3	water	absorb	ground
+927	4	water	ground	soil
+927	5	water	soil	null
+927	6	water	null	null
+1240	1	heat	unk	fan blow
+1240	2	heat	fan blow	coil
+1240	3	heat	coil	null
+1240	4	heat	null	fan blow
+1240	5	heat	fan blow	null
+1240	6	heat	null	null
+1240	7	heat	null	condenser
+1240	8	heat	condenser	condenser
+1240	1	liquid	null	null
+1240	2	liquid	null	gas
+1240	3	liquid	gas	gas
+1240	4	liquid	gas	gas
+1240	5	liquid	gas	condenser
+1240	6	liquid	condenser	null
+1240	7	liquid	null	null
+1240	8	liquid	null	evaporator
+1240	1	air	unk	evaporator 's coil
+1240	2	air	evaporator 's coil	absorb
+1240	3	air	absorb	gas
+1240	4	air	gas	refrigerant
+1240	5	air	refrigerant	condenser
+1240	6	air	condenser	null
+1240	7	air	null	condenser
+1240	8	air	condenser	null
+932	1	rock	unk	water
+932	2	rock	water	null
+932	3	rock	null	water . chemical react
+932	4	rock	water . chemical react	different kind of rock
+932	5	rock	different kind of rock	air react
+932	6	rock	air react	different kind of rock
+932	1	chemical	null	water
+932	2	chemical	water	water
+932	3	chemical	water	null
+932	4	chemical	null	null
+932	5	chemical	null	null
+932	6	chemical	null	null
+932	1	water	unk	rock
+932	2	water	rock	flow by rock
+932	3	water	flow by rock	null
+932	4	water	null	rock
+932	5	water	rock	null
+932	6	water	null	null
+932	1	oxygen	null	air
+932	2	oxygen	air	kind
+932	3	oxygen	kind	null
+932	4	oxygen	null	rock
+932	5	oxygen	rock	air
+932	6	oxygen	air	air
+933	1	rock	null	null
+933	2	rock	null	null
+933	3	rock	null	null
+933	4	rock	null	base material
+933	5	rock	base material	null
+933	1	carbon dioxide	unk	water
+933	2	carbon dioxide	water	null
+933	3	carbon dioxide	null	mineral base material
+933	4	carbon dioxide	mineral base material	base material
+933	5	carbon dioxide	base material	null
+933	1	mineral base material	unk	dioxide
+933	2	mineral base material	dioxide	dioxide
+933	3	mineral base material	dioxide	dioxide
+933	4	mineral base material	dioxide	dioxide
+933	5	mineral base material	dioxide	geological phenomenon
+933	1	water	unk	dioxide
+933	2	water	dioxide	null
+933	3	water	null	mineral base material
+933	4	water	mineral base material	acidity
+933	5	water	acidity	null
+1033	1	rock	null	null
+1033	2	rock	null	null
+1033	3	rock	null	null
+1033	4	rock	null	mud
+1033	5	rock	mud	null
+1033	6	rock	null	null
+1033	1	skeleton	null	null
+1033	2	skeleton	null	null
+1033	3	skeleton	null	null
+1033	4	skeleton	null	null
+1033	5	skeleton	null	null
+1033	6	skeleton	null	mud
+1033	1	animal	unk	null
+1033	2	animal	null	animal
+1033	3	animal	animal	animal be bury fast under mud
+1033	4	animal	animal be bury fast under mud	null
+1033	5	animal	null	null
+1033	6	animal	null	null
+1033	1	mold	null	null
+1033	2	mold	null	null
+1033	3	mold	null	null
+1033	4	mold	null	null
+1033	5	mold	null	null
+1033	6	mold	null	mud
+1032	1	rock	null	null
+1032	2	rock	null	null
+1032	3	rock	null	null
+1032	4	rock	null	null
+1032	5	rock	null	null
+1032	6	rock	null	mud
+1032	1	plant	unk	wet environment
+1032	2	plant	wet environment	mud
+1032	3	plant	mud	mud
+1032	4	plant	mud	mud
+1032	5	plant	mud	mud
+1032	6	plant	mud	null
+1032	1	animal	unk	plant die in wet environment
+1032	2	animal	plant die in wet environment	mud
+1032	3	animal	mud	null
+1032	4	animal	null	null
+1032	5	animal	null	null
+1032	6	animal	null	null
+1032	1	remains	unk	mud
+1032	2	remains	mud	mud
+1032	3	remains	mud	null
+1032	4	remains	null	null
+1032	5	remains	null	mud
+1032	6	remains	mud	period of time
+1032	1	bone and hard tissue	unk	environment
+1032	2	bone and hard tissue	environment	mud
+1032	3	bone and hard tissue	mud	mud
+1032	4	bone and hard tissue	mud	mud
+1032	5	bone and hard tissue	mud	mud
+1032	6	bone and hard tissue	mud	rock
+1032	1	sediment	null	null
+1032	2	sediment	null	null
+1032	3	sediment	null	null
+1032	4	sediment	null	mud
+1032	5	sediment	mud	remains
+1032	6	sediment	remains	null
+1031	1	rock	null	null
+1031	2	rock	null	null
+1031	3	rock	null	null
+1031	4	rock	null	sediment
+1031	5	rock	sediment	null
+1031	1	bone	unk	soil
+1031	2	bone	soil	null
+1031	3	bone	null	sediment
+1031	4	bone	sediment	sediment become rock
+1031	5	bone	sediment become rock	rock
+1031	1	plant or animal	unk	mud or soil
+1031	2	plant or animal	mud or soil	mud or soil
+1031	3	plant or animal	mud or soil	mud or soil
+1031	4	plant or animal	mud or soil	mud or soil
+1031	5	plant or animal	mud or soil	mud or soil
+1031	1	fossil	null	null
+1031	2	fossil	null	null
+1031	3	fossil	null	null
+1031	4	fossil	null	null
+1031	5	fossil	null	rock
+1031	1	sediment	null	null
+1031	2	sediment	null	null
+1031	3	sediment	null	soil
+1031	4	sediment	soil	null
+1031	5	sediment	null	null
+1147	1	star	null	null
+1147	2	star	null	null
+1147	3	star	null	hydrogen
+1147	4	star	hydrogen	helium
+1147	5	star	helium	hydrogen
+1147	6	star	hydrogen	giant
+1147	1	helium atom	unk	hydrogen
+1147	2	helium atom	hydrogen	hydrogen
+1147	3	helium atom	hydrogen	star
+1147	4	helium atom	star	helium
+1147	5	helium atom	helium	hydrogen
+1147	6	helium atom	hydrogen	hydrogen
+1147	1	hydrogen	unk	helium
+1147	2	hydrogen	helium	null
+1147	3	hydrogen	null	null
+1147	4	hydrogen	null	null
+1147	5	hydrogen	null	null
+1147	6	hydrogen	null	null
+1147	1	helium	null	hydrogen
+1147	2	helium	hydrogen	hydrogen
+1147	3	helium	hydrogen	helium
+1147	4	helium	helium	helium
+1147	5	helium	helium	hydrogen
+1147	6	helium	hydrogen	null
+1147	1	hydrogen atom	unk	helium atom
+1147	2	hydrogen atom	helium atom	hydrogen
+1147	3	hydrogen atom	hydrogen	null
+1147	4	hydrogen atom	null	null
+1147	5	hydrogen atom	null	null
+1147	6	hydrogen atom	null	null
+1147	1	carbon atom	null	null
+1147	2	carbon atom	null	null
+1147	3	carbon atom	null	null
+1147	4	carbon atom	null	collapse
+1147	5	carbon atom	collapse	star
+1147	6	carbon atom	star	collapse
+1146	1	star	unk	space
+1146	2	star	space	null
+1146	3	star	null	helium
+1146	4	star	helium	hydrogen be turn into helium
+1146	5	star	hydrogen be turn into helium	hydrogen
+1146	6	star	hydrogen	itself
+1146	7	star	itself	helium
+1146	8	star	helium	space
+1146	9	star	space	helium
+1146	10	star	helium	red giant
+1146	1	hydrogen fuel	null	null
+1146	2	hydrogen fuel	null	space
+1146	3	hydrogen fuel	space	null
+1146	4	hydrogen fuel	null	space
+1146	5	hydrogen fuel	space	gravity take over
+1146	6	hydrogen fuel	gravity take over	null
+1146	7	hydrogen fuel	null	null
+1146	8	hydrogen fuel	null	null
+1146	9	hydrogen fuel	null	null
+1146	10	hydrogen fuel	null	null
+1146	1	hydrogen	null	space
+1146	2	hydrogen	space	space
+1146	3	hydrogen	space	null
+1146	4	hydrogen	null	null
+1146	5	hydrogen	null	null
+1146	6	hydrogen	null	null
+1146	7	hydrogen	null	null
+1146	8	hydrogen	null	null
+1146	9	hydrogen	null	null
+1146	10	hydrogen	null	null
+1146	1	helium	null	null
+1146	2	helium	null	null
+1146	3	helium	null	space
+1146	4	helium	space	null
+1146	5	helium	null	space
+1146	6	helium	space	space
+1146	7	helium	space	star
+1146	8	helium	star	out
+1146	9	helium	out	space
+1146	10	helium	space	null
+1146	1	energy	null	null
+1146	2	energy	null	null
+1146	3	energy	null	null
+1146	4	energy	null	hydrogen be turn into helium
+1146	5	energy	hydrogen be turn into helium	null
+1146	6	energy	null	null
+1146	7	energy	null	null
+1146	8	energy	null	null
+1146	9	energy	null	null
+1146	10	energy	null	null
+1146	1	carbon atom	null	null
+1146	2	carbon atom	null	null
+1146	3	carbon atom	null	null
+1146	4	carbon atom	null	null
+1146	5	carbon atom	null	null
+1146	6	carbon atom	null	null
+1146	7	carbon atom	null	helium
+1146	8	carbon atom	helium	space
+1146	9	carbon atom	space	space
+1146	10	carbon atom	space	space
+600	1	hot gas	unk	fuel be
+600	2	hot gas	fuel be	burning
+600	3	hot gas	burning	piston
+600	4	hot gas	piston	burning
+600	5	hot gas	burning	burning push the piston
+600	6	hot gas	burning push the piston	burning
+600	1	petrol	unk	energy when air
+600	2	petrol	energy when air	air
+600	3	petrol	air	piston
+600	4	petrol	piston	result energy power the crankshaft
+600	5	petrol	result energy power the crankshaft	gear
+600	6	petrol	gear	wheel
+600	1	fuel	unk	energy when
+600	2	fuel	energy when	air
+600	3	fuel	air	piston
+600	4	fuel	piston	burning
+600	5	fuel	burning	gear
+600	6	fuel	gear	gear
+600	1	air	unk	mix
+600	2	air	mix	car
+600	3	air	car	piston
+600	4	air	piston	piston
+600	5	air	piston	gear
+600	6	air	gear	gear
+600	1	energy	unk	fuel be
+600	2	energy	fuel be	fuel be convert
+600	3	energy	fuel be convert	piston
+600	4	energy	piston	piston
+600	5	energy	piston	gear
+600	6	energy	gear	wheel
+1145	1	red giant star	unk	exist
+1145	2	red giant star	exist	exist
+1145	3	red giant star	exist	helium atom
+1145	4	red giant star	helium atom	hydrogen
+1145	5	red giant star	hydrogen	stellar evolution
+1145	1	hydrogen fuel	null	null
+1145	2	hydrogen fuel	null	giant
+1145	3	hydrogen fuel	giant	helium
+1145	4	hydrogen fuel	helium	helium
+1145	5	hydrogen fuel	helium	helium
+1145	1	helium atom	null	null
+1145	2	helium atom	null	null
+1145	3	helium atom	null	hydrogen
+1145	4	helium atom	hydrogen	hydrogen
+1145	5	helium atom	hydrogen	hydrogen
+1145	1	hydrogen atom	null	null
+1145	2	hydrogen atom	null	null
+1145	3	hydrogen atom	null	helium
+1145	4	hydrogen atom	helium	helium
+1145	5	hydrogen atom	helium	null
+725	1	rock	null	null
+725	2	rock	null	null
+725	3	rock	null	watery
+725	4	rock	watery	null
+725	5	rock	null	null
+725	6	rock	null	null
+725	1	soft tissue	unk	plant
+725	2	soft tissue	plant	hard
+725	3	soft tissue	hard	rock
+725	4	soft tissue	rock	organic material cell by cell
+725	5	soft tissue	organic material cell by cell	null
+725	6	soft tissue	null	null
+725	1	plant	unk	null
+725	2	plant	null	null
+725	3	plant	null	null
+725	4	plant	null	null
+725	5	plant	null	null
+725	6	plant	null	null
+725	1	stone replica	null	null
+725	2	stone replica	null	null
+725	3	stone replica	null	null
+725	4	stone replica	null	null
+725	5	stone replica	null	null
+725	6	stone replica	null	organism
+725	1	animal	null	watery
+725	2	animal	watery	null
+725	3	animal	null	null
+725	4	animal	null	null
+725	5	animal	null	null
+725	6	animal	null	null
+725	1	bone	unk	decompose leave the hard
+725	2	bone	decompose leave the hard	null
+725	3	bone	null	null
+725	4	bone	null	organic material cell
+725	5	bone	organic material cell	null
+725	6	bone	null	organism
+725	1	mineral	null	null
+725	2	mineral	null	null
+725	3	mineral	null	rock
+725	4	mineral	rock	organic material cell
+725	5	mineral	organic material cell	organism
+725	6	mineral	organism	null
+725	1	fossil	unk	plant or animal
+725	2	fossil	plant or animal	hard
+725	3	fossil	hard	watery
+725	4	fossil	watery	null
+725	5	fossil	null	null
+725	6	fossil	null	null
+725	1	sediment	null	null
+725	2	sediment	null	top
+725	3	sediment	top	null
+725	4	sediment	null	null
+725	5	sediment	null	null
+725	6	sediment	null	null
+726	1	rock	null	null
+726	2	rock	null	null
+726	3	rock	null	null
+726	4	rock	null	null
+726	5	rock	null	null
+726	6	rock	null	null
+726	7	rock	null	null
+726	8	rock	null	mud
+726	9	rock	mud	null
+726	10	rock	null	skeleton
+726	1	hole	null	null
+726	2	hole	null	null
+726	3	hole	null	null
+726	4	hole	null	null
+726	5	hole	null	null
+726	6	hole	null	null
+726	7	hole	null	null
+726	8	hole	null	null
+726	9	hole	null	null
+726	10	hole	null	rock
+726	1	sand	unk	ocean
+726	2	sand	ocean	ocean
+726	3	sand	ocean	animal
+726	4	sand	animal	ocean
+726	5	sand	ocean	ocean
+726	6	sand	ocean	skeleton
+726	7	sand	skeleton	ocean
+726	8	sand	ocean	skeleton
+726	9	sand	skeleton	water
+726	10	sand	water	null
+726	1	animal 's skeleton	null	null
+726	2	animal 's skeleton	null	null
+726	3	animal 's skeleton	null	null
+726	4	animal 's skeleton	null	bottom of a ocean
+726	5	animal 's skeleton	bottom of a ocean	bottom of a ocean
+726	6	animal 's skeleton	bottom of a ocean	bottom of a ocean
+726	7	animal 's skeleton	bottom of a ocean	bottom of a ocean
+726	8	animal 's skeleton	bottom of a ocean	bottom of a ocean
+726	9	animal 's skeleton	bottom of a ocean	bottom of a ocean
+726	10	animal 's skeleton	bottom of a ocean	bottom of a ocean
+726	1	animal	unk	ocean
+726	2	animal	ocean	null
+726	3	animal	null	null
+726	4	animal	null	bottom of a ocean
+726	5	animal	bottom of a ocean	skeleton
+726	6	animal	skeleton	ocean
+726	7	animal	ocean	ocean
+726	8	animal	ocean	ocean
+726	9	animal	ocean	ocean
+726	10	animal	ocean	ocean
+726	1	mud	null	null
+726	2	mud	null	null
+726	3	mud	null	null
+726	4	mud	null	null
+726	5	mud	null	skeleton
+726	6	mud	skeleton	skeleton
+726	7	mud	skeleton	ocean
+726	8	mud	ocean	null
+726	9	mud	null	null
+726	10	mud	null	null
+727	1	rock	null	null
+727	2	rock	null	null
+727	3	rock	null	null
+727	4	rock	null	null
+727	5	rock	null	null
+727	6	rock	null	bone
+727	7	rock	bone	bone
+727	8	rock	bone	null
+727	9	rock	null	null
+727	10	rock	null	organic material
+727	1	soft tissue	unk	animal
+727	2	soft tissue	animal	watery environment
+727	3	soft tissue	watery environment	watery environment
+727	4	soft tissue	watery environment	null
+727	5	soft tissue	null	null
+727	6	soft tissue	null	null
+727	7	soft tissue	null	null
+727	8	soft tissue	null	null
+727	9	soft tissue	null	null
+727	10	soft tissue	null	null
+727	1	animal	unk	null
+727	2	animal	null	null
+727	3	animal	null	null
+727	4	animal	null	null
+727	5	animal	null	null
+727	6	animal	null	null
+727	7	animal	null	null
+727	8	animal	null	null
+727	9	animal	null	null
+727	10	animal	null	null
+727	1	bone	unk	null
+727	2	bone	null	watery environment
+727	3	bone	watery environment	watery environment
+727	4	bone	watery environment	null
+727	5	bone	null	bone
+727	6	bone	bone	null
+727	7	bone	null	bone
+727	8	bone	bone	minerals seep
+727	9	bone	minerals seep	organic material
+727	10	bone	organic material	organic material
+727	1	silt	null	null
+727	2	silt	null	null
+727	3	silt	null	null
+727	4	silt	null	null
+727	5	silt	null	bone
+727	6	silt	bone	null
+727	7	silt	null	null
+727	8	silt	null	null
+727	9	silt	null	null
+727	10	silt	null	null
+727	1	mineral	null	null
+727	2	mineral	null	null
+727	3	mineral	null	null
+727	4	mineral	null	null
+727	5	mineral	null	null
+727	6	mineral	null	null
+727	7	mineral	null	watery environment
+727	8	mineral	watery environment	watery environment
+727	9	mineral	watery environment	null
+727	10	mineral	null	organic material
+727	1	fossil	null	null
+727	2	fossil	null	null
+727	3	fossil	null	null
+727	4	fossil	null	null
+727	5	fossil	null	null
+727	6	fossil	null	null
+727	7	fossil	null	null
+727	8	fossil	null	null
+727	9	fossil	null	null
+727	10	fossil	null	organic material
+727	1	mud	null	null
+727	2	mud	null	null
+727	3	mud	null	watery environment
+727	4	mud	watery environment	watery environment
+727	5	mud	watery environment	watery environment
+727	6	mud	watery environment	null
+727	7	mud	null	null
+727	8	mud	null	null
+727	9	mud	null	null
+727	10	mud	null	null
+502	1	diesel	null	combustion chamber
+502	2	diesel	combustion chamber	null
+502	3	diesel	null	piston
+502	4	diesel	piston	null
+502	5	diesel	null	null
+502	1	rotary motion	null	null
+502	2	rotary motion	null	null
+502	3	rotary motion	null	crankshaft and axle
+502	4	rotary motion	crankshaft and axle	null
+502	5	rotary motion	null	null
+502	1	petrol	null	combustion chamber
+502	2	petrol	combustion chamber	high speed
+502	3	petrol	high speed	null
+502	4	petrol	null	null
+502	5	petrol	null	null
+502	1	piston	unk	combustion chamber
+502	2	piston	combustion chamber	high speed
+502	3	piston	high speed	null
+502	4	piston	null	crankshaft
+502	5	piston	crankshaft	null
+502	1	car	null	null
+502	2	car	null	null
+502	3	car	null	null
+502	4	car	null	piston motion
+502	5	car	piston motion	null
+502	1	piston motion	unk	null
+502	2	piston motion	null	null
+502	3	piston motion	null	null
+502	4	piston motion	null	crankshaft
+502	5	piston motion	crankshaft	crankshaft
+502	1	energy	null	null
+502	2	energy	null	piston
+502	3	energy	piston	rotary
+502	4	energy	rotary	this piston motion
+502	5	energy	this piston motion	this piston motion
+503	1	crankshaft	unk	car
+503	2	crankshaft	car	key
+503	3	crankshaft	key	someone
+503	4	crankshaft	someone	gas
+503	5	crankshaft	gas	gas
+503	6	crankshaft	gas	out
+503	7	crankshaft	out	piston
+503	8	crankshaft	piston	wheel
+503	9	crankshaft	wheel	null
+503	1	car	unk	gasoline -lrb- gas -rrb-
+503	2	car	gasoline -lrb- gas -rrb-	car
+503	3	car	car	car
+503	4	car	car	gas
+503	5	car	gas	gas
+503	6	car	gas	out
+503	7	car	out	several piston
+503	8	car	several piston	wheel
+503	9	car	wheel	wheel
+503	1	spark	null	null
+503	2	spark	null	null
+503	3	spark	null	someone
+503	4	spark	someone	gas
+503	5	spark	gas	gas
+503	6	spark	gas	piston out
+503	7	spark	piston out	several piston
+503	8	spark	several piston	motion of several
+503	9	spark	motion of several	wheel
+503	1	piston	null	null
+503	2	piston	null	null
+503	3	piston	null	null
+503	4	piston	null	gas
+503	5	piston	gas	gas
+503	6	piston	gas	burning gas
+503	7	piston	burning gas	several piston move the crankshaft
+503	8	piston	several piston move the crankshaft	crankshaft
+503	9	piston	crankshaft	body
+503	1	wheel	null	motion
+503	2	wheel	motion	motion
+503	3	wheel	motion	motion
+503	4	wheel	motion	gas
+503	5	wheel	gas	gas
+503	6	wheel	gas	piston out
+503	7	wheel	piston out	several piston
+503	8	wheel	several piston	several piston
+503	9	wheel	several piston	wheel
+503	1	gas	unk	car
+503	2	gas	car	car
+503	3	gas	car	someone
+503	4	gas	someone	-lrb- gas -rrb- . someone
+503	5	gas	-lrb- gas -rrb- . someone	someone
+503	6	gas	someone	piston out
+503	7	gas	piston out	several
+503	8	gas	several	wheel
+503	9	gas	wheel	wheel
+503	1	gasoline	unk	car
+503	2	gasoline	car	car
+503	3	gasoline	car	car
+503	4	gasoline	car	car
+503	5	gasoline	car	car
+503	6	gasoline	car	piston out
+503	7	gasoline	piston out	several piston
+503	8	gasoline	several piston	wheel
+503	9	gasoline	wheel	wheel
+503	1	battery	null	null
+503	2	battery	null	null
+503	3	battery	null	car
+503	4	battery	car	gas
+503	5	battery	gas	gas
+503	6	battery	gas	burning gas
+503	7	battery	burning gas	piston
+503	8	battery	piston	crankshaft
+503	9	battery	crankshaft	wheel
+1190	1	oxygenate blood	unk	lung
+1190	2	oxygenate blood	lung	blood
+1190	3	oxygenate blood	blood	blood
+1190	4	oxygenate blood	blood	right
+1190	5	oxygenate blood	right	lung
+1190	6	oxygenate blood	lung	lung
+1190	7	oxygenate blood	lung	left
+1190	8	oxygenate blood	left	lung
+1190	9	oxygenate blood	lung	lung
+1190	10	oxygenate blood	lung	body
+1190	1	deoxygenate blood	unk	blood
+1190	2	deoxygenate blood	blood	blood
+1190	3	deoxygenate blood	blood	blood
+1190	4	deoxygenate blood	blood	blood
+1190	5	deoxygenate blood	blood	blood
+1190	6	deoxygenate blood	blood	lung
+1190	7	deoxygenate blood	lung	blood
+1190	8	deoxygenate blood	blood	left
+1190	9	deoxygenate blood	left	body
+1190	10	deoxygenate blood	body	body
+1190	1	oxygen	unk	lung
+1190	2	oxygen	lung	lung
+1190	3	oxygen	lung	lung
+1190	4	oxygen	lung	lung
+1190	5	oxygen	lung	lung
+1190	6	oxygen	lung	lung
+1190	7	oxygen	lung	lung
+1190	8	oxygen	lung	left
+1190	9	oxygen	left	body
+1190	10	oxygen	body	body
+400	1	electricity	null	null
+400	2	electricity	null	null
+400	3	electricity	null	null
+400	4	electricity	null	null
+400	5	electricity	null	element
+400	1	energy	null	null
+400	2	energy	null	null
+400	3	energy	null	null
+400	4	energy	null	element
+400	5	energy	element	null
+401	1	sunlight	null	null
+401	2	sunlight	null	null
+401	3	sunlight	null	null
+401	4	sunlight	null	null
+401	5	sunlight	null	null
+401	6	sunlight	null	null
+401	7	sunlight	null	null
+401	1	direct current	null	null
+401	2	direct current	null	null
+401	3	direct current	null	null
+401	4	direct current	null	null
+401	5	direct current	null	top
+401	6	direct current	top	bottom
+401	7	direct current	bottom	null
+401	1	alternate current	null	null
+401	2	alternate current	null	null
+401	3	alternate current	null	null
+401	4	alternate current	null	null
+401	5	alternate current	null	null
+401	6	alternate current	null	top
+401	7	alternate current	top	house
+1189	1	crater	unk	null
+1189	2	crater	null	null
+1189	3	crater	null	null
+1189	4	crater	null	null
+1189	5	crater	null	null
+1189	6	crater	null	earth
+1189	1	chunk of rock	unk	rock
+1189	2	chunk of rock	rock	atmosphere
+1189	3	chunk of rock	atmosphere	rock
+1189	4	chunk of rock	rock	earth
+1189	5	chunk of rock	earth	earth
+1189	6	chunk of rock	earth	earth
+1188	1	hole	null	null
+1188	2	hole	null	null
+1188	3	hole	null	null
+1188	4	hole	null	null
+1188	5	hole	null	planet
+1188	1	comet	unk	outer space
+1188	2	comet	outer space	outer space
+1188	3	comet	outer space	atmosphere
+1188	4	comet	atmosphere	atmosphere
+1188	5	comet	atmosphere	atmosphere
+409	1	image	null	null
+409	2	image	null	null
+409	3	image	null	null
+409	4	image	null	retina
+409	5	image	retina	null
+409	6	image	null	null
+409	7	image	null	null
+409	1	electrical impulse	null	null
+409	2	electrical impulse	null	null
+409	3	electrical impulse	null	null
+409	4	electrical impulse	null	null
+409	5	electrical impulse	null	lens
+409	6	electrical impulse	lens	brain
+409	7	electrical impulse	brain	brain
+410	1	electric signal	null	null
+410	2	electric signal	null	null
+410	3	electric signal	null	null
+410	4	electric signal	null	retina
+410	5	electric signal	retina	signal to the brain
+410	6	electric signal	signal to the brain	light that reach
+410	1	light	unk	cornea
+410	2	light	cornea	iris
+410	3	light	iris	eye
+410	4	light	eye	eye
+410	5	light	eye	null
+410	6	light	null	null
+411	1	light	unk	retina
+411	2	light	retina	null
+411	3	light	null	null
+411	4	light	null	null
+411	5	light	null	null
+411	6	light	null	null
+411	7	light	null	null
+411	8	light	null	null
+411	1	electrochemical signal	null	null
+411	2	electrochemical signal	null	photoreceptor cell
+411	3	electrochemical signal	photoreceptor cell	light into electrochemical
+411	4	electrochemical signal	light into electrochemical	light into electrochemical
+411	5	electrochemical signal	light into electrochemical	null
+411	6	electrochemical signal	null	null
+411	7	electrochemical signal	null	null
+411	8	electrochemical signal	null	null
+653	1	seed	unk	plant
+653	2	seed	plant	null
+653	3	seed	null	null
+653	4	seed	null	null
+653	5	seed	null	null
+653	6	seed	null	null
+653	1	fruit	null	null
+653	2	fruit	null	null
+653	3	fruit	null	null
+653	4	fruit	null	null
+653	5	fruit	null	tree grow flower . the flower
+653	6	fruit	tree grow flower . the flower	tree
+653	1	tree	null	null
+653	2	tree	null	null
+653	3	tree	null	tree
+653	4	tree	tree	tree grow flower
+653	5	tree	tree grow flower	flower
+653	6	tree	flower	null
+653	1	flower	null	null
+653	2	flower	null	null
+653	3	flower	null	null
+653	4	flower	null	tree
+653	5	flower	tree	tree
+653	6	flower	tree	tree
+533	1	seed	unk	soil
+533	2	seed	soil	soil
+533	3	seed	soil	soil
+533	4	seed	soil	null
+533	5	seed	null	null
+533	6	seed	null	null
+533	7	seed	null	null
+533	1	sprout	null	null
+533	2	sprout	null	soil
+533	3	sprout	soil	tree
+533	4	sprout	tree	tree
+533	5	sprout	tree	tree
+533	6	sprout	tree	tree
+533	7	sprout	tree	tree
+533	1	sapling	null	null
+533	2	sapling	null	null
+533	3	sapling	null	null
+533	4	sapling	null	soil
+533	5	sapling	soil	null
+533	6	sapling	null	null
+533	7	sapling	null	null
+533	1	tree	null	soil
+533	2	tree	soil	soil
+533	3	tree	soil	soil
+533	4	tree	soil	soil
+533	5	tree	soil	soil
+533	6	tree	soil	null
+533	7	tree	null	null
+654	1	tree	null	null
+654	2	tree	null	null
+654	3	tree	null	seedling
+654	4	tree	seedling	ground
+654	5	tree	ground	null
+654	6	tree	null	null
+654	1	root system	null	null
+654	2	root system	null	seedling
+654	3	root system	seedling	seedling
+654	4	root system	seedling	tree
+654	5	root system	tree	null
+654	6	root system	null	null
+654	1	material for new growth	null	null
+654	2	material for new growth	null	null
+654	3	material for new growth	null	null
+654	4	material for new growth	null	null
+654	5	material for new growth	null	null
+654	6	material for new growth	null	tree
+896	1	oxygenate blood	unk	blood
+896	2	oxygenate blood	blood	right
+896	3	oxygenate blood	right	open tricuspid
+896	4	oxygenate blood	open tricuspid	open tricuspid
+896	5	oxygenate blood	open tricuspid	blood
+896	6	oxygenate blood	blood	blood
+896	7	oxygenate blood	blood	lung
+896	8	oxygenate blood	lung	left atrium
+896	9	oxygenate blood	left atrium	lung
+896	1	oxygen-depleted blood	unk	right
+896	2	oxygen-depleted blood	right	right
+896	3	oxygen-depleted blood	right	right
+896	4	oxygen-depleted blood	right	right
+896	5	oxygen-depleted blood	right	ventricle
+896	6	oxygen-depleted blood	ventricle	blood
+896	7	oxygen-depleted blood	blood	lung
+896	8	oxygen-depleted blood	lung	left
+896	9	oxygen-depleted blood	left	left
+896	1	blood	unk	right
+896	2	blood	right	right
+896	3	blood	right	open tricuspid valve
+896	4	blood	open tricuspid valve	open tricuspid
+896	5	blood	open tricuspid	open tricuspid
+896	6	blood	open tricuspid	null
+896	7	blood	null	lung
+896	8	blood	lung	left atrium
+896	9	blood	left atrium	body
+534	1	seed	unk	null
+534	2	seed	null	null
+534	3	seed	null	null
+534	4	seed	null	null
+534	5	seed	null	null
+534	6	seed	null	null
+534	7	seed	null	null
+534	1	fruit	null	null
+534	2	fruit	null	null
+534	3	fruit	null	null
+534	4	fruit	null	small tree
+534	5	fruit	small tree	null
+534	6	fruit	null	null
+534	7	fruit	null	null
+534	1	tree	null	null
+534	2	tree	null	plant
+534	3	tree	plant	tree
+534	4	tree	tree	small tree
+534	5	tree	small tree	flower
+534	6	tree	flower	null
+534	7	tree	null	null
+534	1	small tree	null	null
+534	2	small tree	null	plant
+534	3	small tree	plant	tree
+534	4	small tree	tree	tree . the small tree
+534	5	small tree	tree . the small tree	null
+534	6	small tree	null	null
+534	7	small tree	null	null
+534	1	flower	null	null
+534	2	flower	null	null
+534	3	flower	null	null
+534	4	flower	null	null
+534	5	flower	null	small tree
+534	6	flower	small tree	null
+534	7	flower	null	null
+659	1	nitrogen	unk	bacterium
+659	2	nitrogen	bacterium	null
+659	3	nitrogen	null	null
+659	4	nitrogen	null	null
+659	5	nitrogen	null	air
+659	6	nitrogen	air	air
+659	1	plant	unk	bacterium
+659	2	plant	bacterium	soil
+659	3	plant	soil	root
+659	4	plant	root	null
+659	5	plant	null	null
+659	6	plant	null	null
+659	1	ammonium	unk	fixation
+659	2	ammonium	fixation	nitrate
+659	3	ammonium	nitrate	plant
+659	4	ammonium	plant	ammonification
+659	5	ammonium	ammonification	null
+659	6	ammonium	null	air
+659	1	extra nitrogen	null	null
+659	2	extra nitrogen	null	null
+659	3	extra nitrogen	null	null
+659	4	extra nitrogen	null	null
+659	5	extra nitrogen	null	air
+659	6	extra nitrogen	air	air
+659	1	nitrate	unk	bacterium
+659	2	nitrate	bacterium	bacterium
+659	3	nitrate	bacterium	plant
+659	4	nitrate	plant	soil
+659	5	nitrate	soil	air
+659	6	nitrate	air	air
+660	1	waste	null	null
+660	2	waste	null	null
+660	3	waste	null	null
+660	4	waste	null	null
+660	5	waste	null	animal expel waste . fungus
+660	6	waste	animal expel waste . fungus	null
+660	7	waste	null	null
+660	8	waste	null	null
+660	9	waste	null	null
+660	1	organic nitrogen	unk	bacterium
+660	2	organic nitrogen	bacterium	plant
+660	3	organic nitrogen	plant	soil through they root . animal
+660	4	organic nitrogen	soil through they root . animal	plant . plant
+660	5	organic nitrogen	plant . plant	animal expel
+660	6	organic nitrogen	animal expel	fungus
+660	7	organic nitrogen	fungus	null
+660	8	organic nitrogen	null	null
+660	9	organic nitrogen	null	null
+660	1	plant	unk	soil
+660	2	plant	soil	soil
+660	3	plant	soil	null
+660	4	plant	null	null
+660	5	plant	null	null
+660	6	plant	null	null
+660	7	plant	null	null
+660	8	plant	null	null
+660	9	plant	null	null
+660	1	atmospheric nitrogen	unk	nitrogen-fixing bacterium
+660	2	atmospheric nitrogen	nitrogen-fixing bacterium	null
+660	3	atmospheric nitrogen	null	null
+660	4	atmospheric nitrogen	null	null
+660	5	atmospheric nitrogen	null	null
+660	6	atmospheric nitrogen	null	null
+660	7	atmospheric nitrogen	null	null
+660	8	atmospheric nitrogen	null	null
+660	9	atmospheric nitrogen	null	null
+660	1	ammonium	null	null
+660	2	ammonium	null	null
+660	3	ammonium	null	null
+660	4	ammonium	null	null
+660	5	ammonium	null	null
+660	6	ammonium	null	null
+660	7	ammonium	null	null
+660	8	ammonium	null	null
+660	9	ammonium	null	null
+660	1	animal	null	null
+660	2	animal	null	root
+660	3	animal	root	plant
+660	4	animal	plant	null
+660	5	animal	null	waste
+660	6	animal	waste	null
+660	7	animal	null	null
+660	8	animal	null	null
+660	9	animal	null	null
+660	1	nitrate	null	null
+660	2	nitrate	null	null
+660	3	nitrate	null	null
+660	4	nitrate	null	null
+660	5	nitrate	null	null
+660	6	nitrate	null	null
+660	7	nitrate	null	bacterium
+660	8	nitrate	bacterium	null
+660	9	nitrate	null	atmosphere
+660	1	nitrogen gas	null	null
+660	2	nitrogen gas	null	null
+660	3	nitrogen gas	null	null
+660	4	nitrogen gas	null	null
+660	5	nitrogen gas	null	null
+660	6	nitrogen gas	null	null
+660	7	nitrogen gas	null	null
+660	8	nitrogen gas	null	atmosphere
+660	9	nitrogen gas	atmosphere	atmosphere
+661	1	nitrogen	unk	plant
+661	2	nitrogen	plant	null
+661	3	nitrogen	null	null
+661	4	nitrogen	null	plant
+661	5	nitrogen	plant	root
+661	6	nitrogen	root	null
+661	7	nitrogen	null	amino
+661	8	nitrogen	amino	soil
+661	9	nitrogen	soil	soil
+661	1	plant	unk	ammonium
+661	2	plant	ammonium	null
+661	3	plant	null	soil
+661	4	plant	soil	plant
+661	5	plant	plant	root
+661	6	plant	root	root
+661	7	plant	root	null
+661	8	plant	null	null
+661	9	plant	null	null
+661	1	ammonium	null	plant
+661	2	ammonium	plant	nitrate by bacterium
+661	3	ammonium	nitrate by bacterium	plant
+661	4	ammonium	plant	plant
+661	5	ammonium	plant	null
+661	6	ammonium	null	null
+661	7	ammonium	null	amino
+661	8	ammonium	amino	null
+661	9	ammonium	null	null
+661	1	animal	null	null
+661	2	animal	null	null
+661	3	animal	null	null
+661	4	animal	null	null
+661	5	animal	null	null
+661	6	animal	null	null
+661	7	animal	null	null
+661	8	animal	null	null
+661	9	animal	null	null
+661	1	nitrate	unk	plant
+661	2	nitrate	plant	bacterium
+661	3	nitrate	bacterium	plant
+661	4	nitrate	plant	plant
+661	5	nitrate	plant	root
+661	6	nitrate	root	soil into they root
+661	7	nitrate	soil into they root	soil into they root
+661	8	nitrate	soil into they root	air
+661	9	nitrate	air	soil into they root
+429	1	waste	null	null
+429	2	waste	null	null
+429	3	waste	null	null
+429	4	waste	null	null
+429	5	waste	null	null
+429	6	waste	null	animal
+429	7	waste	animal	null
+429	8	waste	null	null
+429	9	waste	null	null
+429	10	waste	null	null
+429	1	gas-based form	null	null
+429	2	gas-based form	null	null
+429	3	gas-based form	null	null
+429	4	gas-based form	null	null
+429	5	gas-based form	null	null
+429	6	gas-based form	null	null
+429	7	gas-based form	null	null
+429	8	gas-based form	null	null
+429	9	gas-based form	null	soil
+429	10	gas-based form	soil	null
+429	1	nitrogen	unk	atmosphere
+429	2	nitrogen	atmosphere	atmosphere
+429	3	nitrogen	atmosphere	atmosphere
+429	4	nitrogen	atmosphere	plant
+429	5	nitrogen	plant	animal
+429	6	nitrogen	animal	atmosphere
+429	7	nitrogen	atmosphere	plant
+429	8	nitrogen	plant	soil
+429	9	nitrogen	soil	null
+429	10	nitrogen	null	atmosphere
+429	1	plant	unk	exist naturally in the atmosphere
+429	2	plant	exist naturally in the atmosphere	atmosphere
+429	3	plant	atmosphere	soil
+429	4	plant	soil	soil
+429	5	plant	soil	animal
+429	6	plant	animal	null
+429	7	plant	null	null
+429	8	plant	null	null
+429	9	plant	null	null
+429	10	plant	null	null
+429	1	usable nitrogen	null	null
+429	2	usable nitrogen	null	atmosphere
+429	3	usable nitrogen	atmosphere	null
+429	4	usable nitrogen	null	plant
+429	5	usable nitrogen	plant	animal
+429	6	usable nitrogen	animal	atmosphere
+429	7	usable nitrogen	atmosphere	plant
+429	8	usable nitrogen	plant	atmosphere
+429	9	usable nitrogen	atmosphere	atmosphere
+429	10	usable nitrogen	atmosphere	atmosphere
+791	1	ac electricity	null	null
+791	2	ac electricity	null	null
+791	3	ac electricity	null	null
+791	4	ac electricity	null	inverter
+791	5	ac electricity	inverter	home
+791	6	ac electricity	home	home
+791	1	dc electricity	unk	null
+791	2	dc electricity	null	null
+791	3	dc electricity	null	cell
+791	4	dc electricity	cell	null
+791	5	dc electricity	null	null
+791	6	dc electricity	null	null
+310	1	carbon dioxide	unk	lung
+310	2	carbon dioxide	lung	lung
+310	3	carbon dioxide	lung	blood
+310	4	carbon dioxide	blood	blood
+310	5	carbon dioxide	blood	blood
+310	6	carbon dioxide	blood	blood
+310	1	blood	unk	heart
+310	2	blood	heart	lung
+310	3	blood	lung	blood
+310	4	blood	blood	lung
+310	5	blood	lung	blood
+310	6	blood	blood	body
+310	1	oxygen	unk	blood
+310	2	oxygen	blood	lung
+310	3	oxygen	lung	lung
+310	4	oxygen	lung	blood
+310	5	oxygen	blood	blood
+310	6	oxygen	blood	blood return
+695	1	cloud	null	null
+695	2	cloud	null	null
+695	3	cloud	null	air
+695	4	cloud	air	air
+695	5	cloud	air	earth
+695	6	cloud	earth	ocean
+695	7	cloud	ocean	null
+695	1	rain	null	null
+695	2	rain	null	null
+695	3	rain	null	null
+695	4	rain	null	null
+695	5	rain	null	earth
+695	6	rain	earth	earth
+695	7	rain	earth	null
+695	1	vapor	unk	during
+695	2	vapor	during	air
+695	3	vapor	air	air
+695	4	vapor	air	air
+695	5	vapor	air	air
+695	6	vapor	air	null
+695	7	vapor	null	null
+695	1	water vapor	unk	ocean
+695	2	water vapor	ocean	air
+695	3	water vapor	air	air
+695	4	water vapor	air	air
+695	5	water vapor	air	air
+695	6	water vapor	air	ocean
+695	7	water vapor	ocean	null
+695	1	snow	null	null
+695	2	snow	null	null
+695	3	snow	null	null
+695	4	snow	null	null
+695	5	snow	null	rain
+695	6	snow	rain	earth
+695	7	snow	earth	ocean
+695	1	steam	unk	ocean
+695	2	steam	ocean	air
+695	3	steam	air	air
+695	4	steam	air	air
+695	5	steam	air	air
+695	6	steam	air	earth
+695	7	steam	earth	ocean
+695	1	hail	null	during
+695	2	hail	during	air
+695	3	hail	air	air
+695	4	hail	air	air
+695	5	hail	air	air
+695	6	hail	air	ocean
+695	7	hail	ocean	null
+695	1	sleet	null	null
+695	2	sleet	null	null
+695	3	sleet	null	null
+695	4	sleet	null	null
+695	5	sleet	null	earth
+695	6	sleet	earth	earth
+695	7	sleet	earth	ocean
+695	1	water	unk	during
+695	2	water	during	null
+695	3	water	null	null
+695	4	water	null	air
+695	5	water	air	null
+695	6	water	null	earth
+695	7	water	earth	ocean
+696	1	cloud	null	null
+696	2	cloud	null	null
+696	3	cloud	null	cloud
+696	4	cloud	cloud	null
+696	5	cloud	null	null
+696	6	cloud	null	null
+696	1	rain	null	null
+696	2	rain	null	null
+696	3	rain	null	null
+696	4	rain	null	null
+696	5	rain	null	null
+696	6	rain	null	null
+696	1	water vapor	unk	air
+696	2	water vapor	air	null
+696	3	water vapor	null	null
+696	4	water vapor	null	null
+696	5	water vapor	null	null
+696	6	water vapor	null	null
+696	1	water droplet	null	null
+696	2	water droplet	null	air
+696	3	water droplet	air	null
+696	4	water droplet	null	cloud
+696	5	water droplet	cloud	cloud
+696	6	water droplet	cloud	cloud
+697	1	cloud	null	null
+697	2	cloud	null	body
+697	3	cloud	body	cloud
+697	4	cloud	cloud	cloud
+697	5	cloud	cloud	cloud
+697	1	rain	null	null
+697	2	rain	null	null
+697	3	rain	null	null
+697	4	rain	null	null
+697	5	rain	null	cloud
+697	1	water	unk	body of water
+697	2	water	body of water	null
+697	3	water	null	cloud . the cloud
+697	4	water	cloud . the cloud	cloud
+697	5	water	cloud	cloud
+460	1	live thing	unk	live thing have carbon in they
+460	2	live thing	live thing have carbon in they	live thing have
+460	3	live thing	live thing have	null
+460	4	live thing	null	remains
+460	5	live thing	remains	null
+460	6	live thing	null	surface
+460	7	live thing	surface	earth 's surface
+460	8	live thing	earth 's surface	null
+460	9	live thing	null	null
+460	10	live thing	null	null
+460	1	fossil fuel	null	null
+460	2	fossil fuel	null	null
+460	3	fossil fuel	null	null
+460	4	fossil fuel	null	null
+460	5	fossil fuel	null	null
+460	6	fossil fuel	null	null
+460	7	fossil fuel	null	null
+460	8	fossil fuel	null	earth 's surface
+460	9	fossil fuel	earth 's surface	earth 's surface
+460	10	fossil fuel	earth 's surface	null
+460	1	carbon	unk	live
+460	2	carbon	live	live thing
+460	3	carbon	live thing	live thing
+460	4	carbon	live thing	live thing
+460	5	carbon	live thing	null
+460	6	carbon	null	null
+460	7	carbon	null	earth 's surface
+460	8	carbon	earth 's surface	earth
+460	9	carbon	earth	earth 's surface
+460	10	carbon	earth 's surface	earth 's surface
+460	1	carbon-based mixture	null	null
+460	2	carbon-based mixture	null	null
+460	3	carbon-based mixture	null	null
+460	4	carbon-based mixture	null	null
+460	5	carbon-based mixture	null	remains
+460	6	carbon-based mixture	remains	mixture
+460	7	carbon-based mixture	mixture	earth 's surface
+460	8	carbon-based mixture	earth 's surface	earth 's surface
+460	9	carbon-based mixture	earth 's surface	earth 's surface
+460	10	carbon-based mixture	earth 's surface	earth 's surface
+460	1	power	null	null
+460	2	power	null	null
+460	3	power	null	null
+460	4	power	null	null
+460	5	power	null	null
+460	6	power	null	null
+460	7	power	null	null
+460	8	power	null	null
+460	9	power	null	null
+460	10	power	null	earth 's surface
+460	1	remains of live thing	unk	live thing have carbon in
+460	2	remains of live thing	live thing have carbon in	live thing have
+460	3	remains of live thing	live thing have	null
+460	4	remains of live thing	null	surface
+460	5	remains of live thing	surface	long
+460	6	remains of live thing	long	surface
+460	7	remains of live thing	surface	earth 's surface
+460	8	remains of live thing	earth 's surface	null
+460	9	remains of live thing	null	null
+460	10	remains of live thing	null	null
+460	1	energy	null	null
+460	2	energy	null	null
+460	3	energy	null	null
+460	4	energy	null	null
+460	5	energy	null	null
+460	6	energy	null	null
+460	7	energy	null	null
+460	8	energy	null	earth
+460	9	energy	earth	earth 's surface
+460	10	energy	earth 's surface	null
+582	1	circular pattern	null	null
+582	2	circular pattern	null	null
+582	3	circular pattern	null	null
+582	4	circular pattern	null	null
+582	5	circular pattern	null	null
+582	6	circular pattern	null	null
+582	7	circular pattern	null	updraft
+582	8	circular pattern	updraft	null
+582	1	tornado	null	null
+582	2	tornado	null	null
+582	3	tornado	null	null
+582	4	tornado	null	null
+582	5	tornado	null	null
+582	6	tornado	null	null
+582	7	tornado	null	null
+582	8	tornado	null	air
+582	1	cool , dry air	unk	north
+582	2	cool , dry air	north	from north to south
+582	3	cool , dry air	from north to south	south
+582	4	cool , dry air	south	null
+582	5	cool , dry air	null	null
+582	6	cool , dry air	null	null
+582	7	cool , dry air	null	null
+582	8	cool , dry air	null	null
+582	1	air mass	unk	to south
+582	2	air mass	to south	south
+582	3	air mass	south	south
+582	4	air mass	south	air
+582	5	air mass	air	south
+582	6	air mass	south	south
+582	7	air mass	south	updraft
+582	8	air mass	updraft	updraft
+582	1	warm , moist air	unk	from
+582	2	warm , moist air	from	south
+582	3	warm , moist air	south	null
+582	4	warm , moist air	null	null
+582	5	warm , moist air	null	null
+582	6	warm , moist air	null	null
+582	7	warm , moist air	null	null
+582	8	warm , moist air	null	null
+582	1	mass	unk	warm
+582	2	mass	warm	south
+582	3	mass	south	air
+582	4	mass	air	south
+582	5	mass	south	air
+582	6	mass	air	null
+582	7	mass	null	null
+582	8	mass	null	null
+582	1	updraft	unk	warm
+582	2	updraft	warm	cool
+582	3	updraft	cool	air
+582	4	updraft	air	air
+582	5	updraft	air	way
+582	6	updraft	way	certain
+582	7	updraft	certain	null
+582	8	updraft	null	null
+582	1	wind	null	null
+582	2	wind	null	null
+582	3	wind	null	null
+582	4	wind	null	air
+582	5	wind	air	certain
+582	6	wind	certain	way because of how
+582	7	wind	way because of how	null
+582	8	wind	null	null
+583	1	dry , cold high-pressure air	null	null
+583	2	dry , cold high-pressure air	null	null
+583	3	dry , cold high-pressure air	null	strong updraft
+583	4	dry , cold high-pressure air	strong updraft	strong updraft
+583	5	dry , cold high-pressure air	strong updraft	strong updraft
+583	6	dry , cold high-pressure air	strong updraft	ground
+583	1	funnel	null	null
+583	2	funnel	null	null
+583	3	funnel	null	null
+583	4	funnel	null	null
+583	5	funnel	null	strong updraft
+583	6	funnel	strong updraft	null
+583	1	rotation	null	null
+583	2	rotation	null	null
+583	3	rotation	null	null
+583	4	rotation	null	opposing
+583	5	rotation	opposing	ground
+583	6	rotation	ground	ground
+583	1	updraft	null	null
+583	2	updraft	null	strong
+583	3	updraft	strong	strong
+583	4	updraft	strong	null
+583	5	updraft	null	null
+583	6	updraft	null	null
+463	1	ice particle	null	null
+463	2	ice particle	null	null
+463	3	ice particle	null	condensation nucleus and freeze
+463	4	ice particle	condensation nucleus and freeze	surface
+463	5	ice particle	surface	surface
+463	1	hailstone	null	null
+463	2	hailstone	null	null
+463	3	hailstone	null	null
+463	4	hailstone	null	surface
+463	5	hailstone	surface	earth
+463	1	raindrop	unk	thunderstorm carry
+463	2	raindrop	thunderstorm carry	small partus
+463	3	raindrop	small partus	condensation nucleus and freeze
+463	4	raindrop	condensation nucleus and freeze	null
+463	5	raindrop	null	null
+465	1	hail	unk	earth
+465	2	hail	earth	earth
+465	3	hail	earth	water
+465	4	hail	water	null
+465	5	hail	null	earth
+465	6	hail	earth	null
+465	7	hail	null	ground
+465	1	water	unk	catch
+465	2	water	catch	ground
+465	3	water	ground	fall
+465	4	water	fall	null
+465	5	water	null	earth
+465	6	water	earth	earth
+465	7	water	earth	ground
+249	1	rock	null	null
+249	2	rock	null	apart
+249	3	rock	apart	null
+249	4	rock	null	rock
+249	5	rock	rock	rock
+249	6	rock	rock	rock
+249	7	rock	rock	null
+249	8	rock	null	null
+249	1	certain type of rock	null	null
+249	2	certain type of rock	null	null
+249	3	certain type of rock	null	null
+249	4	certain type of rock	null	null
+249	5	certain type of rock	null	null
+249	6	certain type of rock	null	null
+249	7	certain type of rock	null	rock
+249	8	certain type of rock	rock	carbonation
+249	1	smaller piece	null	null
+249	2	smaller piece	null	null
+249	3	smaller piece	null	rock
+249	4	smaller piece	rock	rock
+249	5	smaller piece	rock	rock
+249	6	smaller piece	rock	rock
+249	7	smaller piece	rock	null
+249	8	smaller piece	null	null
+249	1	new type of rock	null	null
+249	2	new type of rock	null	null
+249	3	new type of rock	null	null
+249	4	new type of rock	null	null
+249	5	new type of rock	null	rock
+249	6	new type of rock	rock	rock
+249	7	new type of rock	rock	rock
+249	8	new type of rock	rock	solution
+249	1	new substance	unk	rock
+249	2	new substance	rock	null
+249	3	new substance	null	rock
+249	4	new substance	rock	null
+249	5	new substance	null	rock
+249	6	new substance	rock	rock
+249	7	new substance	rock	null
+249	8	new substance	null	null
+249	1	oxygen	null	null
+249	2	oxygen	null	null
+249	3	oxygen	null	null
+249	4	oxygen	null	rock
+249	5	oxygen	rock	rock
+249	6	oxygen	rock	rock
+249	7	oxygen	rock	null
+249	8	oxygen	null	null
+37	1	soft tissue	unk	environment
+37	2	soft tissue	environment	watery environment
+37	3	soft tissue	watery environment	watery environment
+37	4	soft tissue	watery environment	null
+37	5	soft tissue	null	null
+37	6	soft tissue	null	null
+37	1	plant	unk	null
+37	2	plant	null	null
+37	3	plant	null	null
+37	4	plant	null	null
+37	5	plant	null	null
+37	6	plant	null	null
+37	1	animal	unk	watery environment
+37	2	animal	watery environment	null
+37	3	animal	null	null
+37	4	animal	null	null
+37	5	animal	null	null
+37	6	animal	null	null
+37	1	bone	unk	plant of animal
+37	2	bone	plant of animal	environment
+37	3	bone	environment	environment
+37	4	bone	environment	null
+37	5	bone	null	rock
+37	6	bone	rock	mud
+37	1	mineral	null	null
+37	2	mineral	null	null
+37	3	mineral	null	environment
+37	4	mineral	environment	replace
+37	5	mineral	replace	replace
+37	6	mineral	replace	environment
+37	1	fossil	null	null
+37	2	fossil	null	null
+37	3	fossil	null	null
+37	4	fossil	null	null
+37	5	fossil	null	null
+37	6	fossil	null	replace
+38	1	rock	null	null
+38	2	rock	null	null
+38	3	rock	null	null
+38	4	rock	null	null
+38	5	rock	null	body
+38	6	rock	body	null
+38	7	rock	null	null
+38	1	animal	null	null
+38	2	animal	null	null
+38	3	animal	null	null
+38	4	animal	null	null
+38	5	animal	null	null
+38	6	animal	null	null
+38	7	animal	null	null
+38	1	soil	unk	animal
+38	2	soil	animal	body
+38	3	soil	body	body
+38	4	soil	body	body
+38	5	soil	body	rock
+38	6	soil	rock	body
+38	7	soil	body	body
+38	1	body	null	null
+38	2	body	null	null
+38	3	body	null	null
+38	4	body	null	soil
+38	5	body	soil	rock
+38	6	body	rock	body
+38	7	body	body	body
+38	1	fossil	null	null
+38	2	fossil	null	null
+38	3	fossil	null	null
+38	4	fossil	null	null
+38	5	fossil	null	null
+38	6	fossil	null	null
+38	7	fossil	null	rock
+152	1	cloud droplet	null	null
+152	2	cloud droplet	null	null
+152	3	cloud droplet	null	null
+152	4	cloud droplet	null	atmosphere
+152	5	cloud droplet	atmosphere	larger size
+152	6	cloud droplet	larger size	atmosphere
+152	1	solid	null	null
+152	2	solid	null	null
+152	3	solid	null	null
+152	4	solid	null	null
+152	5	solid	null	null
+152	6	solid	null	null
+152	1	vapor	null	atmosphere
+152	2	vapor	atmosphere	null
+152	3	vapor	null	null
+152	4	vapor	null	null
+152	5	vapor	null	null
+152	6	vapor	null	null
+152	1	water vapor	unk	atmosphere
+152	2	water vapor	atmosphere	null
+152	3	water vapor	null	null
+152	4	water vapor	null	null
+152	5	water vapor	null	null
+152	6	water vapor	null	null
+152	1	lift vapor	unk	atmosphere
+152	2	lift vapor	atmosphere	atmosphere
+152	3	lift vapor	atmosphere	null
+152	4	lift vapor	null	null
+152	5	lift vapor	null	null
+152	6	lift vapor	null	null
+67	1	dead plant	unk	plant
+67	2	dead plant	plant	plant
+67	3	dead plant	plant	swamp
+67	4	dead plant	swamp	area
+67	5	dead plant	area	bottom of the swamp
+67	6	dead plant	bottom of the swamp	null
+67	7	dead plant	null	null
+67	8	dead plant	null	null
+67	9	dead plant	null	null
+67	1	plant	null	null
+67	2	plant	null	plant
+67	3	plant	plant	swamp
+67	4	plant	swamp	swamp
+67	5	plant	swamp	null
+67	6	plant	null	null
+67	7	plant	null	null
+67	8	plant	null	null
+67	9	plant	null	null
+67	1	coal	null	null
+67	2	coal	null	null
+67	3	coal	null	null
+67	4	coal	null	null
+67	5	coal	null	null
+67	6	coal	null	null
+67	7	coal	null	null
+67	8	coal	null	null
+67	9	coal	null	null
+67	1	peat	null	null
+67	2	peat	null	null
+67	3	peat	null	null
+67	4	peat	null	null
+67	5	peat	null	null
+67	6	peat	null	sediment cover
+67	7	peat	sediment cover	null
+67	8	peat	null	null
+67	9	peat	null	null
+68	1	heat	null	null
+68	2	heat	null	null
+68	3	heat	null	null
+68	4	heat	null	null
+68	5	heat	null	null
+68	6	heat	null	null
+68	7	heat	null	null
+68	1	burial peat	null	null
+68	2	burial peat	null	null
+68	3	burial peat	null	null
+68	4	burial peat	null	null
+68	5	burial peat	null	null
+68	6	burial peat	null	null
+68	7	burial peat	null	null
+68	1	plant and tree remain	null	null
+68	2	plant and tree remain	null	bottom of steamy
+68	3	plant and tree remain	bottom of steamy	bottom
+68	4	plant and tree remain	bottom	null
+68	5	plant and tree remain	null	null
+68	6	plant and tree remain	null	null
+68	7	plant and tree remain	null	null
+68	1	plant	null	null
+68	2	plant	null	null
+68	3	plant	null	null
+68	4	plant	null	null
+68	5	plant	null	null
+68	6	plant	null	null
+68	7	plant	null	null
+68	1	tree	unk	null
+68	2	tree	null	bottom of steamy
+68	3	tree	bottom of steamy	null
+68	4	tree	null	null
+68	5	tree	null	null
+68	6	tree	null	null
+68	7	tree	null	null
+68	1	coal	null	null
+68	2	coal	null	null
+68	3	coal	null	null
+68	4	coal	null	null
+68	5	coal	null	null
+68	6	coal	null	null
+68	7	coal	null	null
+68	1	peat	null	null
+68	2	peat	null	null
+68	3	peat	null	null
+68	4	peat	null	bottom of steamy
+68	5	peat	bottom of steamy	null
+68	6	peat	null	null
+68	7	peat	null	null
+68	1	water	null	null
+68	2	water	null	null
+68	3	water	null	null
+68	4	water	null	bottom of steamy
+68	5	water	bottom of steamy	bottom of steamy
+68	6	water	bottom of steamy	material
+68	7	water	material	null
+69	1	sedimentary rock	null	null
+69	2	sedimentary rock	null	null
+69	3	sedimentary rock	null	null
+69	4	sedimentary rock	null	null
+69	5	sedimentary rock	null	sand
+69	6	sedimentary rock	sand	peat
+69	7	sedimentary rock	peat	water out of the peat
+69	1	sand	null	null
+69	2	sand	null	null
+69	3	sand	null	null
+69	4	sand	null	peat
+69	5	sand	peat	null
+69	6	sand	null	null
+69	7	sand	null	null
+69	1	plant	null	null
+69	2	plant	null	tree
+69	3	plant	tree	tree
+69	4	plant	tree	null
+69	5	plant	null	null
+69	6	plant	null	null
+69	7	plant	null	null
+69	1	tree	null	null
+69	2	tree	null	plant and tree
+69	3	tree	plant and tree	null
+69	4	tree	null	null
+69	5	tree	null	null
+69	6	tree	null	null
+69	7	tree	null	null
+69	1	coal	null	null
+69	2	coal	null	null
+69	3	coal	null	null
+69	4	coal	null	null
+69	5	coal	null	null
+69	6	coal	null	null
+69	7	coal	null	bottom of swamp
+69	1	pressure	null	null
+69	2	pressure	null	null
+69	3	pressure	null	null
+69	4	pressure	null	null
+69	5	pressure	null	null
+69	6	pressure	null	sand
+69	7	pressure	sand	null
+69	1	peat	null	null
+69	2	peat	null	null
+69	3	peat	null	tree
+69	4	peat	tree	bottom of swamp
+69	5	peat	bottom of swamp	null
+69	6	peat	null	null
+69	7	peat	null	null
+69	1	water	null	null
+69	2	water	null	null
+69	3	water	null	null
+69	4	water	null	null
+69	5	water	null	null
+69	6	water	null	peat
+69	7	water	peat	null
+69	1	clay	null	null
+69	2	clay	null	null
+69	3	clay	null	bottom of swamp . dead plant
+69	4	clay	bottom of swamp . dead plant	peat
+69	5	clay	peat	sand
+69	6	clay	sand	null
+69	7	clay	null	sand
+70	1	rain	unk	there
+70	2	rain	there	ground
+70	3	rain	ground	ground
+70	4	rain	ground	ground
+70	5	rain	ground	house
+70	6	rain	house	source of water
+70	7	rain	source of water	ground
+70	8	rain	ground	ground
+70	1	water level	unk	of rain
+70	2	water level	of rain	river or lake
+70	3	water level	river or lake	ground
+70	4	water level	ground	ground
+70	5	water level	ground	ground
+70	6	water level	ground	ground
+70	7	water level	ground	stream
+70	8	water level	stream	ground
+70	1	stream	unk	there
+70	2	stream	there	river or lake
+70	3	stream	river or lake	ground
+70	4	stream	ground	house
+70	5	stream	house	house
+70	6	stream	house	source
+70	7	stream	source	house
+70	8	stream	house	rest
+70	1	water	unk	of rain
+70	2	water	of rain	river or lake
+70	3	water	river or lake	ground
+70	4	water	ground	street
+70	5	water	street	house
+70	6	water	house	house
+70	7	water	house	stream
+70	8	water	stream	stream
+99	1	cloud	unk	sky
+99	2	cloud	sky	sky
+99	3	cloud	sky	rain
+99	4	cloud	rain	side of the obstacle
+99	5	cloud	side of the obstacle	side
+99	6	cloud	side	side
+99	7	cloud	side	null
+99	1	a very different ecosystem	null	null
+99	2	a very different ecosystem	null	null
+99	3	a very different ecosystem	null	null
+99	4	a very different ecosystem	null	null
+99	5	a very different ecosystem	null	null
+99	6	a very different ecosystem	null	side
+99	7	a very different ecosystem	side	area
+99	1	rain	unk	cloud travel across the sky
+99	2	rain	cloud travel across the sky	sky
+99	3	rain	sky	rain
+99	4	rain	rain	cloud
+99	5	rain	cloud	side
+99	6	rain	side	area
+99	7	rain	area	null
+99	1	rain cloud	unk	sky
+99	2	rain cloud	sky	sky
+99	3	rain cloud	sky	rain
+99	4	rain cloud	rain	side of the obstacle
+99	5	rain cloud	side of the obstacle	side
+99	6	rain cloud	side	side
+99	7	rain cloud	side	null
+99	1	desert	null	null
+99	2	desert	null	null
+99	3	desert	null	null
+99	4	desert	null	null
+99	5	desert	null	null
+99	6	desert	null	null
+99	7	desert	null	null
+903	1	image	null	null
+903	2	image	null	null
+903	3	image	null	null
+903	4	image	null	null
+903	5	image	null	brain
+903	1	light	unk	lens
+903	2	light	lens	retina
+903	3	light	retina	cell
+903	4	light	cell	retina
+903	5	light	retina	null
+903	1	visible light	unk	lens
+903	2	visible light	lens	retina
+903	3	visible light	retina	cell
+903	4	visible light	cell	null
+903	5	visible light	null	null
+903	1	chemical energy	null	null
+903	2	chemical energy	null	null
+903	3	chemical energy	null	null
+903	4	chemical energy	null	cell
+903	5	chemical energy	cell	null
+904	1	electrical pulse	null	null
+904	2	electrical pulse	null	null
+904	3	electrical pulse	null	retina
+904	4	electrical pulse	retina	optic
+904	5	electrical pulse	optic	lateral
+904	1	light	null	null
+904	2	light	null	null
+904	3	light	null	null
+904	4	light	null	null
+904	5	light	null	null
+904	1	small image	null	small image
+904	2	small image	small image	retina
+904	3	small image	retina	null
+904	4	small image	null	null
+904	5	small image	null	null
+904	1	retina 's rod and cone	unk	small image
+904	2	retina 's rod and cone	small image	retina
+904	3	retina 's rod and cone	retina	electrical pulse
+904	4	retina 's rod and cone	electrical pulse	retina
+904	5	retina 's rod and cone	retina	lateral

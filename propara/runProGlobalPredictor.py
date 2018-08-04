@@ -12,5 +12,5 @@ from propara.data.proglobal_dataset_reader import ProGlobalDatasetReader
 from propara.service.predictors.proglobal_prediction import ProGlobalPredictor
 
 if __name__ == "__main__":
-    predictor_overrides = {'ProGlobal': 'ProGlobalPrediction'}
-    main(prog="python -m allennlp.run", predictor_overrides=predictor_overrides)
+    #predictor_overrides = {'ProGlobal': 'ProGlobalPrediction'}
+    main(prog="python -m allennlp.run")#, predictor_overrides=predictor_overrides)
