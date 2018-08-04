@@ -450,7 +450,7 @@ def main():
     micro_avg = ((cat1_score * num_cat1_q) + (cat2_score * num_cat2_q) + (cat3_score * num_cat3_q)) / \
                 (num_cat1_q + num_cat2_q + num_cat3_q)
 
-    print("\n\nCategory\tScore")
+    print("\n\nCategory\tAccuracy Score")
     print("=========\t=====")
     print(f"Cat-1\t\t{round(cat1_score,2)}")
     print(f"Cat-2\t\t{round(cat2_score,2)}")
