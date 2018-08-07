@@ -11,3 +11,10 @@ Command for applying a pretrained ProGlocal model to predict labels on test file
 ```
   python propara/runProGlobalPredictor.py predict data/naacl/proglobal/proglobal.model.tar.gz data/naacl/proglobal/all.chain.test.v3.recurssive.json --output-file data/naacl/proglobal/output/test.prediction.txt
 ```
+
+Script for converting proglobal prediction output to evaluation format, with which you can directly run evalQA.py:
+```
+java -jar convertJson2Eval.jar data/naacl/proglobal/output/test.prediction.txt data/naacl/proglobal/output/test.prediction.eval.txt
+```
+
+The source function for convertJson2Eval.jar can be found in convertJson2Eval.java
