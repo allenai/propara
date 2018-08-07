@@ -33,7 +33,7 @@
         "type": "embedding",
         "vocab_namespace": "tokens_list",
         "embedding_dim": 100,
-        "pretrained_file": "tests/data/glove.6B.100d.txt",
+        "pretrained_file": "data/naacl18/proglobal/glove.6B.100d.txt",
         "trainable": true
       }
     },
