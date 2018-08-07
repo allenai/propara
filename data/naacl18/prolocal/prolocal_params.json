@@ -1,8 +1,8 @@
 {
   "dataset_reader":{"type":"ProLocalDatasetReader"},
-  "train_data_path": "tests/fixtures/prolocal_naacl18_data/propara.run1.train.tsv",
-  "validation_data_path": "tests/fixtures/prolocal_naacl18_data/propara.run1.dev.tsv",
-  "test_data_path": "tests/fixtures/prolocal_naacl18_data/propara.run1.test.tsv",
+  "train_data_path": "data/naacl18/prolocal/propara.run1.train.tsv",
+  "validation_data_path": "data/naacl18/prolocal/propara.run1.dev.tsv",
+  "test_data_path": "data/naacl18/prolocal/propara.run1.test.tsv",
   "evaluate_on_test": true,
 
     "model": {
@@ -11,7 +11,8 @@
       "tokens": {
         "type": "embedding",
         "embedding_dim": 100,
-        "pretrained_file": "/Users/bhavanad/knowledge_acquisition/data/causal_chains/process_v1/grids/VerbSemantics/ProPara_grids_v3/glove.6B.100d.txt.gz",
+        "pretrained_file": "data/glove.6B.100d.txt.gz",
+        // Download glove embeddings file from https://nlp.stanford.edu/projects/glove/
         "trainable": true
       }
     },
