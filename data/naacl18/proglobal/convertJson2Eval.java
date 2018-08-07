@@ -13,9 +13,11 @@ import java.text.DecimalFormat;
  */
 public class convertJson2Eval {
     public static void main(String[] args){
-        String systemOutput = "data/pro_global_prediction/all.chain.test.procAll.v3.pred.txt";
-        String systemEvalFile = "data/pro_global_prediction/all.chain.test.procAll.v3.pred.eval" +
-                ".txt";
+        // String systemOutput = "data/pro_global_prediction/all.chain.test.procAll.v3.pred.txt";
+        // String systemEvalFile = "data/pro_global_prediction/all.chain.test.procAll.v3.pred.eval" +
+        //         ".txt";
+        String systemOutput = args[0].toString();
+        String systemEvalFile = args[1].toString();
         evalChain1(systemOutput, systemEvalFile);
     }
 
