@@ -36,6 +36,7 @@
 	"pretrained_file": "data/glove.6B.100d.txt.gz",
         // Download glove embeddings file from https://nlp.stanford.edu/projects/glove/        
         "embedding_dim": 100,
+        "pretrained_file": "data/naacl18/proglobal/glove.6B.100d.txt",
         "trainable": true
       }
     },
