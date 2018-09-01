@@ -1,5 +1,7 @@
+# EMNLP 2018 Update
 Data and code related to our recent [EMNLP'18 paper] (https://arxiv.org/abs/1808.10012) will be released here soon...
-Reasoning about Actions and State Changes by Injecting Commonsense Knowledge, Niket Tandon, Bhavana Dalvi Mishra, Joel Grus, Wen-tau Yih, Antoine Bosselut, Peter Clark, EMNLP 2018
+
+```Reasoning about Actions and State Changes by Injecting Commonsense Knowledge, Niket Tandon, Bhavana Dalvi Mishra, Joel Grus, Wen-tau Yih, Antoine Bosselut, Peter Clark, EMNLP 2018```
 
 
 # ProPara
