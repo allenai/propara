@@ -1,0 +1,14 @@
+
+.idea/*
+
+*.pyc
+
+*.iml
+
+.cache/v/cache/lastfailed
+
+.pytest_cache/v/cache/lastfailed
+
+.pytest_cache/v/cache/nodeids
+
+data/glove.6B.100d.txt.gz

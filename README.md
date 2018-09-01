@@ -1,3 +1,7 @@
+Data and code related to our recent [EMNLP'18] (https://arxiv.org/abs/1808.10012) paper will be released here soon...
+Reasoning about Actions and State Changes by Injecting Commonsense Knowledge, Niket Tandon, Bhavana Dalvi Mishra, Joel Grus, Wen-tau Yih, Antoine Bosselut, Peter Clark, EMNLP 2018
+
+
 # ProPara
 A repository of the state change prediction models used for evaluation in the __Tracking State Changes in Procedural Text: A Challenge Dataset and Models for Process Paragraph Comprehension__ paper accepted to NAACL'18. It contains
 two models built using the PyTorch-based deep-learning NLP library, [AllenNLP](http://allennlp.org/).
