@@ -1,0 +1,216 @@
+37	1	plant OR animal	soft tissues	bones	mineral
+37	2	fossils
+37	3	
+37	4	
+38	1	animal OR body	soil	rock	fossil
+38	2	
+38	3	
+38	4	
+67	1	plants OR dead plants	coal
+67	2	
+67	3	
+67	4	
+68	1	heat
+68	2	coal
+68	3	
+68	4	
+69	1	sand
+69	2	plants;trees	peat
+69	3	sand++++plants;trees++++unk++++1
+69	4	
+70	1	
+70	2	streams
+70	3	
+70	4	water++++unk++++houses++++5	water++++houses++++unk++++6	water++++unk++++streams++++7	water++++streams++++unk++++8
+99	1	
+99	2	rain	a very different ecosystem	desert
+99	3	
+99	4	rain clouds++++unk++++sky++++1	rain clouds++++sky++++unk++++2	clouds++++unk++++sky++++1	clouds++++sky++++unk++++2
+152	1	water vapor  OR lifted vapor  OR vapor
+152	2	solid  OR cloud droplets
+152	3	
+152	4	solid  OR cloud droplets++++unk++++sky++++6
+249	1	
+249	2	new types of rocks  OR new substance  OR certain types of rocks
+249	3	
+249	4	
+310	1	
+310	2	
+310	3	
+310	4	blood++++unk++++heart++++1	blood++++heart++++lungs++++2	blood++++lungs++++unk++++3	blood++++unk++++heart++++5	blood++++heart++++body++++6	carbon dioxide++++unk++++blood++++3	carbon dioxide++++blood++++unk++++4	oxygen++++unk++++blood++++4	oxygen++++blood++++unk++++5
+400	1	energy
+400	2	electricity
+400	3	
+400	4	
+401	1	
+401	2	direct current	alternating current
+401	3	
+401	4	sunlight++++unk++++solar++++3	sunlight++++solar++++solar++++4	sunlight++++solar++++unk++++5
+409	1	image
+409	2	electrical impulses
+409	3	
+409	4	
+410	1	
+410	2	electric signal
+410	3	
+410	4	light++++unk++++iris++++2	light++++iris++++unk++++3
+411	1	electrochemical signals	light
+411	2	
+411	3	
+411	4	
+429	1	plants	waste
+429	2	gas-based form
+429	3	plants++++waste++++unk++++7
+429	4	nitrogen++++unk++++roots++++4	nitrogen++++roots++++unk++++5	nitrogen++++unk++++soil++++8	nitrogen++++soil++++bacteria++++9	nitrogen++++bacteria++++atmosphere++++10	fixed nitrogen OR usable nitrogen++++unk++++roots++++4	fixed nitrogen OR usable nitrogen++++roots++++unk++++5
+460	1	
+460	2	living things  OR remains of living things	carbon-based mixture	power
+460	3	
+460	4	carbon++++unk++++surface++++7	carbon++++surface++++unk++++8
+463	1	
+463	2	raindrops
+463	3	
+463	4	
+465	1	
+465	2	
+465	3	
+465	4	hail++++unk++++ground++++7
+502	1	diesel	energy
+502	2	petrol
+502	3	diesel AND energy++++petrol++++unk++++1
+502	4	pistons++++unk++++rotary++++3	pistons++++rotary++++unk++++4	piston motion++++unk++++rotary++++3	piston motion++++rotary++++unk++++4	rotary motion++++unk++++rotary++++3	rotary motion++++rotary++++unk++++4
+503	1	battery
+503	2	gasoline;gas	spark
+503	3	
+503	4	piston++++unk++++piston++++6	piston++++piston++++unk++++7
+533	1	
+533	2	seedling	sapling
+533	3	
+533	4	sprouts++++unk++++soil++++2	sprouts++++soil++++unk++++3
+534	1	seed
+534	2	small tree  OR tree	fruit
+534	3	
+534	4	
+582	1	
+582	2	tornado
+582	3	
+582	4	warm, moist air++++unk++++moist++++1	warm, moist air++++moist++++unk++++2	cool, dry air++++unk++++Cool++++2	cool, dry air++++Cool++++unk++++3
+583	1	
+583	2	warm, humd low-presure air	updraft	rotation	funnel OR tornado
+583	3	
+583	4	dry, cold high-pressure air++++unk++++punched++++3	dry, cold high-pressure air++++punched++++unk++++4
+600	1	air	petrol OR fuel	hot gas
+600	2	
+600	3	
+600	4	
+653	1	
+653	2	seedling	tree	flower	fruit
+653	3	
+653	4	
+654	1	
+654	2	root system	material for new growth
+654	3	
+654	4	
+659	1	nitrogen OR nitrates	plant
+659	2	
+659	3	
+659	4	nitrogen OR nitrates++++unk++++fixation++++1	nitrogen OR nitrates++++fixation++++unk++++2	nitrogen OR nitrates++++unk++++soil++++3	plant++++unk++++soil++++3	extra nitrogen++++unk++++air++++5	extra nitrogen++++air++++unk++++6
+660	1	atmospheric nitrogen	animals	plants	ammonium
+660	2	nitrate
+660	3	
+660	4	organic nitrogen++++unk++++soil++++2	organic nitrogen++++soil++++unk++++3	organic nitrogen++++unk++++Fungi++++6	organic nitrogen++++Fungi++++unk++++7	organic nitrogen++++unk++++atmosphere++++9	wastes++++unk++++Animals++++5	wastes++++Animals++++unk++++6	wastes++++unk++++atmosphere++++9	nitrate++++unk++++Bacteria++++8	nitrate++++Bacteria++++atmosphere++++9	nitrogen gas++++unk++++Bacteria++++8	nitrogen gas++++Bacteria++++atmosphere++++9
+661	1	nitrogen	ammonium	plant	animal
+661	2	
+661	3	
+661	4	nitrates++++unk++++soil into their roots++++5	nitrates++++soil into their roots++++unk++++6
+695	1	water
+695	2	clouds
+695	3	water++++vapor OR steam OR water vapor++++unk++++1	vapor OR steam OR water vapor++++water++++unk AND air++++2
+695	4	vapor OR steam OR water vapor++++unk++++air++++2	rain++++unk++++earth++++5	rain++++earth++++unk++++6	hail++++unk++++earth++++5	hail++++earth++++unk++++6	sleet++++unk++++earth++++5	sleet++++earth++++unk++++6	snow++++unk++++earth++++5	snow++++earth++++unk++++6
+696	1	
+696	2	water vapor	rain
+696	3	
+696	4	water droplets++++unk++++clouds++++3	water droplets++++clouds++++unk++++4
+697	1	water
+697	2	clouds
+697	3	
+697	4	rain++++unk++++clouds++++5
+1031	1	plant or animal	sediment	rock
+1031	2	fossil
+1031	3	rock++++sediment++++unk++++5
+1031	4	
+1032	1	animals	plants	bones and hard tissues  OR remains	sediment
+1032	2	rock
+1032	3	
+1032	4	
+1033	1	animal	skeleton
+1033	2	rock
+1033	3	
+1033	4	
+1145	1	hydrogen atoms
+1145	2	helium atoms	red giant star
+1145	3	
+1145	4	
+1146	1	star	hydrogen
+1146	2	helium	energy	carbon atoms	red giant star
+1146	3	
+1146	4	
+1147	1	hydrogen atoms	hydrogen	star
+1147	2	helium atoms	carbon atoms	red giant star
+1147	3	hydrogen atoms++++helium atoms AND helium AND red giant star++++unk++++1	hydrogen AND star++++hydrogen atoms++++unk++++2
+1147	4	helium++++unk++++All of the hydrogen++++2	helium++++All of the hydrogen++++unk++++3
+1188	1	
+1188	2	
+1188	3	
+1188	4	comet++++unk++++outer++++1	comet++++outer++++unk++++2	hole OR crater++++unk++++planet++++5
+1189	1	
+1189	2	
+1189	3	
+1189	4	
+1190	1	
+1190	2	
+1190	3	
+1190	4	oxygenated blood++++unk++++atrium++++7	oxygenated blood++++atrium++++unk++++8	deoxygenated blood++++unk++++heart++++10	oxygen++++unk++++lungs++++6	oxygen++++lungs++++unk++++7
+1240	1	
+1240	2	Refrigerent Liquid	Refrigerent Gas
+1240	3	
+1240	4	Air++++unk++++evaporator++++1	Air++++evaporator++++unk++++2	Air++++unk++++refrigerant++++3	Air++++refrigerant++++unk++++4	Heat++++unk++++refrigerant++++3	Heat++++refrigerant++++unk++++4	Heat++++unk++++condenser++++7	Heat++++condenser++++unk++++8	Liquid++++unk++++refrigerant++++3	Liquid++++refrigerant++++unk++++4	Liquid++++unk++++condenser++++6	Liquid++++condenser++++unk++++7	Liquid++++unk++++evaporator++++8
+725	1	plant OR animal
+725	2	
+725	3	
+725	4	
+726	1	animal	mud OR sand
+726	2	animal's skeleton	rock
+726	3	
+726	4	
+727	1	animal	soft tissues	bones	mud OR silt
+727	2	rock
+727	3	bones++++mud OR silt++++unk++++7
+727	4	minerals++++unk++++seep++++8	minerals++++seep++++unk++++9
+791	1	
+791	2	DC electricity
+791	3	
+791	4	
+896	1	
+896	2	
+896	3	
+896	4	oxygen-depleted blood  OR blood++++unk++++atrium++++1	oxygen-depleted blood  OR blood++++atrium++++unk++++2	oxygen-depleted blood  OR blood++++unk++++tricuspid++++3	oxygen-depleted blood  OR blood++++tricuspid++++unk++++4	oxygen-depleted blood  OR blood++++unk++++lungs++++6	oxygen-depleted blood  OR blood++++lungs++++unk++++7	oxygen-depleted blood  OR blood++++unk++++atrium++++8	oxygen-depleted blood  OR blood++++atrium++++body++++9	oxygenated blood  OR blood++++unk++++atrium++++1	oxygenated blood  OR blood++++atrium++++unk++++2	oxygenated blood  OR blood++++unk++++tricuspid++++3	oxygenated blood  OR blood++++tricuspid++++unk++++4	oxygenated blood  OR blood++++unk++++lungs++++6	oxygenated blood  OR blood++++lungs++++unk++++7	oxygenated blood  OR blood++++unk++++atrium++++8	oxygenated blood  OR blood++++atrium++++body++++9
+903	1	
+903	2	chemical energy
+903	3	
+903	4	visible light OR light++++unk++++lens++++1	visible light OR light++++lens++++retina++++2	visible light OR light++++retina++++photoreceptor++++3	visible light OR light++++photoreceptor++++unk++++4
+904	1	
+904	2	small image	retina's rods and cones	electrical pulses
+904	3	
+904	4	electrical pulses++++unk++++optic++++4	electrical pulses++++optic++++unk++++5
+927	1	
+927	2	
+927	3	
+927	4	rain water OR water++++unk++++plants++++5	rain water OR water++++plants++++unk++++6	land++++unk++++plants++++5	land++++plants++++unk++++6
+932	1	
+932	2	
+932	3	
+932	4	oxygen++++unk++++rocks++++5	oxygen++++rocks++++unk++++6
+933	1	water
+933	2	carbon dioxide	mineral based material
+933	3	water++++carbon dioxide AND mineral based material++++unk++++1
+933	4	
