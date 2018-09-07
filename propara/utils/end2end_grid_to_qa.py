@@ -301,7 +301,7 @@ def read_grid_input(
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='Evaluation script for ProStruct [https://arxiv.org/abs/1808.10012].',
-                                     usage="\tpython utils/end2end_grid_to_qa.py "
+                                     usage="\tpython propara/utils/end2end_grid_to_qa.py "
                                            "\n\t\t--predictions /path/to/predictions.tsv"
                                            "\n\t\t--path_to_store_derived_qa /tmp/derived_qa.tsv"
                                            "\n\t\t--testset_path /path/to/gold.tsv")
