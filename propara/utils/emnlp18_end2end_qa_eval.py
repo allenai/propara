@@ -288,7 +288,7 @@ def read_grid_input(
     out_file.close()
 
 # For sanity check, the output to the followingshould be 100.0 F1
-# python propara/utils/end2end_grid_to_qa.py --predictions data/emnlp18/prostruct.pred.test.tsv --path_to_store_derived_qa /tmp/sanity.tsv --testset_path data/emnlp18/prostruct.pred.test.qa.tsv
+# python propara/utils/emnlp18_end2end_qa_eval.py --predictions data/emnlp18/prostruct.pred.test.tsv --path_to_store_derived_qa /tmp/sanity.tsv --testset_path data/emnlp18/prostruct.pred.test.qa.tsv
 #
 # Expected output:
 # Reading model predictions from: data/emnlp18/prostruct.pred.test.tsv
@@ -301,7 +301,7 @@ def read_grid_input(
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='Evaluation script for ProStruct [https://arxiv.org/abs/1808.10012].',
-                                     usage="\tpython propara/utils/end2end_grid_to_qa.py "
+                                     usage="python propara/utils/emnlp18_end2end_qa_eval.py "
                                            "\n\t\t--predictions /path/to/predictions.tsv"
                                            "\n\t\t--path_to_store_derived_qa /tmp/derived_qa.tsv"
                                            "\n\t\t--testset_path /path/to/gold.tsv")
@@ -327,7 +327,7 @@ if __name__ == '__main__':
                         action='store',
                         dest='testset_path',
                         required=True,
-                        help='The testset containing'
+                        help='The testset containing: '
                              'para_id\tques_id\texpected_answer')
 
     args = parser.parse_args()
