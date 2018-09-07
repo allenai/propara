@@ -1,6 +1,9 @@
 from collections import OrderedDict
 import os
 import sys
+
+import argparse
+
 from propara.utils.propara_metadata import ProparaMetadata
 from propara.eval.emnlp18_eval import Evaluator
 
@@ -267,7 +270,7 @@ def read_grid_input(
         infile_path='data/emnlp18/prostruct.pred.test.tsv',
         outfile_path='data/emnlp18/prostruct.pred.test.qa.tsv'):
 
-    print("Reading from filepath: ", infile_path)
+    print(f"\nReading model predictions from: {infile_path}")
     load(input_filepath=str(infile_path))
 
     out_file = open(outfile_path, "w")
@@ -281,17 +284,59 @@ def read_grid_input(
         out_file.write(tupleSep.join([str(process_id), "3", '\t'.join(answer_q3(process_id))]) + "\n")
         out_file.write(tupleSep.join([str(process_id), "4", '\t'.join(answer_q4(process_id))]) + "\n")
 
+    print(f"Derived QA from model predictions in: {outfile_path}")
     out_file.close()
 
+# For sanity check, the output to the followingshould be 100.0 F1
+# python propara/utils/end2end_grid_to_qa.py --predictions data/emnlp18/prostruct.pred.test.tsv --path_to_store_derived_qa /tmp/sanity.tsv --testset_path data/emnlp18/prostruct.pred.test.qa.tsv
+#
+# Expected output:
+# Reading model predictions from: data/emnlp18/prostruct.pred.test.tsv
+# Derived QA from model predictions in: /tmp/sanity.tsv
+# =======================================================================
+#
+# Average Precision/Recall/F1 =  100.0	100.0	100.0
+#
+# =======================================================================
 if __name__ == '__main__':
-    infile = sys.argv[1]
-    outfile = sys.argv[2]
-    gold_file = sys.argv[3]
-    read_grid_input(infile_path=infile, outfile_path=outfile)
-    qa_from_grids_path = outfile
+
+    parser = argparse.ArgumentParser(description='Evaluation script for ProStruct [https://arxiv.org/abs/1808.10012].',
+                                     usage="\tpython utils/end2end_grid_to_qa.py "
+                                           "\n\t\t--predictions /path/to/predictions.tsv"
+                                           "\n\t\t--path_to_store_derived_qa /tmp/derived_qa.tsv"
+                                           "\n\t\t--testset_path /path/to/gold.tsv")
+
+    parser.add_argument('--predictions',
+                        action='store',
+                        dest='predictions',
+                        required=True,
+                        help='Path to the state-change grids predicted by the model, '
+                             'the expected format of this tsv file is: \n'
+                             '(para_id_from_test_partition\tstep_id_starts_from_1\tentity\tstate_change\tfrom_loc\tto_loc)'
+                             ' e.g., 310	1	blood	MOVE	?	arteries.\n')
+
+    parser.add_argument('--path_to_store_derived_qa',
+                        action='store',
+                        dest='path_to_store_derived_qa',
+                        required=True,
+                        help='Using the predictions (predicted state-change grid) derive answers to 4 QAs '
+                             'in ProStruct paper. These will be evaluated against testset. Format produced: '
+                             'para_id\tques_id\tanswer_tsv')
+
+    parser.add_argument('--testset_path',
+                        action='store',
+                        dest='testset_path',
+                        required=True,
+                        help='The testset containing'
+                             'para_id\tques_id\texpected_answer')
+
+    args = parser.parse_args()
+    read_grid_input(infile_path=args.predictions,
+                    outfile_path=args.path_to_store_derived_qa)
 
     # Evaluation code to get question wise and average F1 scores
-    evaluator = Evaluator(qa_from_grids_path, gold_file)
+    evaluator = Evaluator(system_file=args.path_to_store_derived_qa,
+                          gold_file=args.testset_path)
     metrics_all = evaluator.score_all_questions()
     # print(evaluator.pretty_print(metrics_all))
     q_wise = evaluator.ques_wise_overall_metric(metrics_all)
@@ -307,24 +352,23 @@ if __name__ == '__main__':
         q_wise_metrics.append(q_wise_PRF)
         # print("q_wise_PRF:", q_wise_PRF)
         # print(round(sum(q_wise_PRF) / len(q_wise_PRF), 3))
-        overall_PRF.append(str(round(sum(q_wise_PRF) / len(q_wise_PRF), 4)*100.0))
+        overall_PRF.append(str(round(sum(q_wise_PRF) / len(q_wise_PRF), 4) * 100.0))
 
     # Compute average F1 per question category
     average_f1 = 0.0
     for q_id in range(4):
         precision_qid = q_wise_metrics[0][q_id]
         recall_qid = q_wise_metrics[1][q_id]
-        f1_qid = round((2 * precision_qid * recall_qid) / (precision_qid + recall_qid),4)
+        f1_qid = round((2 * precision_qid * recall_qid) / (precision_qid + recall_qid), 4)
         # print(f"F1 for qid:{q_id} = {f1_qid}")
         average_f1 += f1_qid
-    average_f1 = average_f1/4.0
+    average_f1 = average_f1 / 4.0
 
     # Print Precision/Recall/F1 scores averaged across all questions
     overall_P = float(overall_PRF[0])
     overall_R = float(overall_PRF[1])
-    overall_F1 = round((2*overall_P*overall_R)/(overall_P+overall_R), 2)
+    overall_F1 = round((2 * overall_P * overall_R) / (overall_P + overall_R), 2)
     overall_PRF.append(str(overall_F1))
     print("=======================================================================")
     print("\nAverage Precision/Recall/F1 = ", '\t'.join(overall_PRF), "\n")
     print("=======================================================================")
-
