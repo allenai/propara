@@ -88,7 +88,7 @@ def preprocess_question_label(sid, participant, event_type, from_location, to_lo
 #----------------------------------------------------------------------------------------------------------------
 
 '''
-  Read the 'all-moves' tab in https://docs.google.com/spreadsheets/d/1kWdJFoMnvPDGigV7nxq5tkBFPt_QBHQLbA5seU6wXgY/edit#gid=1762733233
+  Read the gold file containing all records where an entity undergoes some state-change: create/destroy/move.
 '''
 def readLabels(fnLab, selPid=None, gold_labels=None):
     fLab = open(fnLab)
