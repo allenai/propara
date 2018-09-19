@@ -355,12 +355,16 @@ if __name__ == '__main__':
         overall_PRF.append(str(round(sum(q_wise_PRF) / len(q_wise_PRF), 4) * 100.0))
 
     # Compute average F1 per question category
+    print("=======================================================================")
+    print("\nQuestion category wise scores")
+    print("=======================================================================")
+    print(f"Cat\tP\tR\tF1")
     average_f1 = 0.0
     for q_id in range(4):
         precision_qid = q_wise_metrics[0][q_id]
         recall_qid = q_wise_metrics[1][q_id]
         f1_qid = round((2 * precision_qid * recall_qid) / (precision_qid + recall_qid), 4)
-        # print(f"F1 for qid:{q_id} = {f1_qid}")
+        print(f"{q_id+1}\t{precision_qid}\t{recall_qid}\t{f1_qid}")
         average_f1 += f1_qid
     average_f1 = average_f1 / 4.0
 
