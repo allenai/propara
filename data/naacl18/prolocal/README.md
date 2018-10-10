@@ -14,5 +14,12 @@ python propara/run.py predict --output-file /tmp/prolocal.test.pred.json --predi
 
 Command that takes the ProLocal model predictions and applies commonsense rules to complete the grids
 ```
-to be added soon
+python propara/utils/apply_inertia.py  --predictions data/naacl18/prolocal/output/propara.run1.test.pred.json  --full-grid data/naacl18/gold-full-grids.v3.tsv --output data/naacl18/prolocal/output/prolocal.naacl_cr.data_run1.completed.test.tsv
 ```
+
+Command that takes the completed ProLocal model predictions and evaluates on NAACL'18 task:
+```
+python propara/eval/evalQA.py tests/fixtures/eval/para_id.test.txt tests/fixtures/eval/gold_labels.test.tsv data/naacl18/prolocal/output/prolocal.naacl_cr.data_run1.model_run2.test.tsv
+```
+
+
