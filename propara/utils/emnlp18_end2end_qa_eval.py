@@ -126,7 +126,7 @@ def answer_q1(process_id: int):
 
 def is_this_action_seq_of_an_input(actions) -> bool:
     for action_id, action in enumerate(actions):
-        no_create_before = 'CREATE' not in actions[0:action_id-1]
+        no_create_before = 'CREATE' not in actions[0:action_id]
         current_destroy = actions[action_id] == 'DESTROY'
         no_create_move_later = 'CREATE' not in actions[action_id+1:] \
                           and 'MOVE' not in actions[action_id + 1:]
@@ -159,7 +159,7 @@ def answer_q2(process_id: int):
 
 def is_this_action_seq_of_an_output(actions) -> bool:
     for action_id, action in enumerate(actions):
-        no_destroy_move_before = 'DESTROY' not in actions[0:action_id - 1] and 'MOVE' not in actions[0:action_id - 1]
+        no_destroy_move_before = 'DESTROY' not in actions[0:action_id] and 'MOVE' not in actions[0:action_id]
         current_create = actions[action_id] == 'CREATE'
         no_destroy_later = 'DESTROY' not in actions[action_id + 1:]
         if no_destroy_move_before and current_create and no_destroy_later:
