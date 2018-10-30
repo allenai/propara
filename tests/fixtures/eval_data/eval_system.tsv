@@ -1,0 +1,15 @@
+# processid TAB    quesid TAB   answer_tsv
+#   multiple answers separated by `tab`,
+#   slots within each answer separated by `++++`
+100	1	tree
+100	2	leaf	mud
+100	3	tree++++root++++soil++++event1
+100	4	plant++++root++++soil++++event2
+101	1	langur	ape
+101	2	monkey
+101	3	animal++++tree++++branch++++event1
+101	4	-
+102	1
+102	2
+102	3
+102	4

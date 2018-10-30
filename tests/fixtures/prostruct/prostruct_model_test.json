@@ -1,0 +1,75 @@
+{
+  "dataset_reader":{"type":"ProParaDatasetReader"},
+
+  "train_data_path": "./tests/fixtures/state_changes/grids.small.tsv",
+  "validation_data_path": "./tests/fixtures/state_changes/grids.small.tsv",
+  "test_data_path": "./tests/fixtures/state_changes/grids.small.tsv",
+  "evaluate_on_test": true,
+
+  "model": {
+    "type": "ProStructModel",
+
+    "text_field_embedder": {
+      "tokens": {
+        "type": "embedding",
+        "embedding_dim": 100,
+        "trainable": false
+      }
+    },
+    "use_attention": true,
+    "seq2seq_encoder": {
+      "type": "lstm",
+      "bidirectional": true,
+      "input_size": 102,
+      "hidden_size": 50,
+      "num_layers": 2,
+      "dropout": 0.3
+    },
+    "seq2vec_encoder": {
+      "type": "lstm",
+      "bidirectional": true,
+      "input_size": 102,
+      "hidden_size": 50,
+      "num_layers": 2,
+      "dropout": 0.2
+    },
+    "span_end_encoder_after": {
+      "type": "lstm",
+      "input_size": 402, //fixme
+      "hidden_size": 10,
+      "num_layers": 1
+    },
+   "use_decoder_trainer": true,
+    "decoder_beam_search": {
+      "beam_size": 10
+    },
+    "other_configs": {
+      "constraint_rules_to_turn_on": "1,1,1,1"
+    },
+    "kb_configs": {
+      "kb_coefficient": 0.5,
+      "kb_to_use": "lexicalkb",
+      "lexical_kb_path": "tests/fixtures/decoder_data/kbs/kb3/lexical-kb-v0.tsv",
+      "partial_grids_path": "tests/fixtures/decoder_data/kbs/kb2/kb2-partialgrids.tsv",
+      "partialgrid_prompts_load_path": "tests/fixtures/decoder_data/kbs/kb2/partial-grids.tsv",
+      "fullgrid_prompts_load_path": "tests/fixtures/decoder_data/kbs/kb2/full-grids.tsv"
+    }
+  },
+  "iterator": {
+    "type": "bucket",
+    "sorting_keys": [["sentences", "num_fields"]],
+    "batch_size" : 1
+  },
+  "trainer": {
+    "num_epochs": 1,
+    "grad_clipping": 1.0,
+    "patience": 100,
+    "validation_metric": "-loss",//"+combined_metric",
+    "cuda_device": -1,
+    "optimizer": {
+      "type": "adadelta",
+      "rho": 0.9,
+      "lr": 0.2
+    }
+  }
+}

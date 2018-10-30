@@ -1,0 +1,1584 @@
+514	1	snow	MOVE	?	area	0.691445351
+514	1	snow	DESTROY	?	-	0.308446348
+514	1	snow	NONE	area	area	1.07242966E-4
+514	1	snow	CREATE	-	area	1.07930293E-6
+514	2	snow	NONE	?	?	0.99993497
+514	2	snow	MOVE	?	?	6.3007086E-5
+514	2	snow	DESTROY	?	-	1.7612444E-6
+514	2	snow	CREATE	-	?	2.8176362E-7
+514	3	snow	NONE	?	?	0.9999994
+514	3	snow	MOVE	?	?	5.8108958E-7
+514	3	snow	DESTROY	?	-	2.3641598E-9
+514	3	snow	CREATE	-	?	1.4353611E-9
+514	4	snow	NONE	?	?	0.999899507
+514	4	snow	DESTROY	?	-	1.00316975E-4
+514	4	snow	CREATE	-	?	1.68175561E-7
+514	4	snow	MOVE	?	?	1.49374948E-8
+514	5	mass	NONE	?	?	1.0
+514	5	mass	DESTROY	?	-	1.9199545E-8
+514	5	mass	CREATE	-	?	4.8613127E-11
+514	5	mass	MOVE	?	?	2.706595E-11
+514	6	glacier	CREATE	-	?	0.9999994
+514	6	glacier	NONE	?	?	3.9746052E-7
+514	6	glacier	MOVE	?	?	1.8895611E-7
+514	6	glacier	DESTROY	?	-	2.5513133E-12
+514	6	mass	DESTROY	?	-	0.99614763
+514	6	mass	MOVE	?	?	0.0022338121
+514	6	mass	NONE	?	?	0.00161848
+514	6	mass	CREATE	-	?	6.263781E-8
+514	7	glacier	NONE	?	?	1.0
+514	7	glacier	CREATE	-	?	2.1441438E-9
+514	7	glacier	MOVE	?	?	1.6170129E-9
+514	7	glacier	DESTROY	?	-	9.2376516E-11
+445	1	magma	MOVE	volcano	?	0.9999752
+445	1	magma	NONE	?	?	1.3360048E-5
+445	1	magma	DESTROY	volcano	-	1.1389266E-5
+445	1	magma	CREATE	-	?	6.6091438E-8
+445	2	magma	NONE	?	?	0.99964482
+445	2	magma	DESTROY	?	-	3.550667E-4
+445	2	magma	MOVE	?	?	9.7138354E-8
+445	2	magma	CREATE	-	?	3.307979E-9
+445	2	rock	CREATE	-	?	0.99868745
+445	2	rock	NONE	?	?	0.0013117298
+445	2	rock	MOVE	?	?	8.0357893E-7
+445	2	rock	DESTROY	?	-	7.6191648E-12
+445	3	rock	NONE	?	?	1.0
+445	3	rock	MOVE	?	?	1.0282202E-9
+445	3	rock	CREATE	-	?	1.2347105E-11
+445	3	rock	DESTROY	?	-	7.4800641E-15
+445	4	rock	NONE	?	?	0.88731843
+445	4	rock	CREATE	-	?	0.1126815
+445	4	rock	MOVE	?	?	6.7170355E-8
+445	4	rock	DESTROY	?	-	3.3898934E-10
+445	4	sedimentary rock	CREATE	-	?	0.99992561
+445	4	sedimentary rock	NONE	?	?	7.4359617E-5
+445	4	sedimentary rock	MOVE	?	?	1.2987049E-8
+445	4	sedimentary rock	DESTROY	?	-	1.422246E-12
+445	5	rock	NONE	?	?	0.98412347
+445	5	rock	CREATE	-	?	0.015617911
+445	5	rock	MOVE	?	?	2.5438538E-4
+445	5	rock	DESTROY	?	-	4.2097295E-6
+445	6	rock	CREATE	-	?	0.99997014
+445	6	rock	NONE	?	?	2.7082731E-5
+445	6	rock	MOVE	?	?	2.8052261E-6
+445	6	rock	DESTROY	?	-	1.4235573E-9
+445	6	third kind of rock	CREATE	-	?	0.9999999
+445	6	third kind of rock	MOVE	?	?	9.175134E-8
+445	6	third kind of rock	NONE	?	?	4.75387E-9
+445	6	third kind of rock	DESTROY	?	-	7.98979E-12
+445	7	rock	NONE	?	?	1.0
+445	7	rock	MOVE	?	?	1.5137407E-10
+445	7	rock	CREATE	-	?	3.1582764E-11
+445	7	rock	DESTROY	?	-	2.164637E-12
+394	1	fuel	DESTROY	?	-	0.98193061
+394	1	fuel	NONE	?	?	0.01806193
+394	1	fuel	CREATE	-	?	6.8895743E-6
+394	1	fuel	MOVE	?	?	5.5956662E-7
+394	1	heat	CREATE	-	?	0.99999475
+394	1	heat	NONE	?	?	2.8384011E-6
+394	1	heat	MOVE	?	?	2.3681532E-6
+394	1	heat	DESTROY	?	-	5.1193734E-8
+394	2	water	DESTROY	?	-	0.99994737
+394	2	water	NONE	?	?	5.0562379E-5
+394	2	water	MOVE	?	?	2.0337752E-6
+394	2	water	CREATE	-	?	1.0890489E-8
+394	2	steam	CREATE	-	?	0.99999636
+394	2	steam	MOVE	?	?	3.5525404E-6
+394	2	steam	NONE	?	?	9.5359937E-8
+394	2	steam	DESTROY	?	-	3.4143141E-10
+394	3	steam	NONE	?	?	0.64515877
+394	3	steam	MOVE	?	?	0.3545602
+394	3	steam	DESTROY	?	-	2.7631252E-4
+394	3	steam	CREATE	-	?	4.7104159E-6
+394	3	turbine	NONE	?	?	0.99976444
+394	3	turbine	CREATE	-	?	1.6670566E-4
+394	3	turbine	MOVE	?	?	5.357368E-5
+394	3	turbine	DESTROY	?	-	1.5255194E-5
+394	4	generator	CREATE	-	?	0.9989449
+394	4	generator	NONE	?	?	5.557174E-4
+394	4	generator	MOVE	?	?	4.96003E-4
+394	4	generator	DESTROY	?	-	3.421645E-6
+394	5	electricity	CREATE	-	?	0.99926639
+394	5	electricity	NONE	?	?	4.091603E-4
+394	5	electricity	DESTROY	?	-	2.3938803E-4
+394	5	electricity	MOVE	?	?	8.50574E-5
+394	6	electricity	MOVE	?	transformers	0.89213663
+394	6	electricity	DESTROY	?	-	0.10764136
+394	6	electricity	NONE	transformers	transformers	2.217805E-4
+394	6	electricity	CREATE	-	transformers	1.9764364E-7
+394	7	voltage	NONE	?	?	0.9990676
+394	7	voltage	CREATE	-	?	9.3038072E-4
+394	7	voltage	MOVE	?	?	1.9911413E-6
+394	7	voltage	DESTROY	?	-	2.9399754E-8
+708	1	rock	NONE	?	?	0.99999988
+708	1	rock	DESTROY	?	-	6.9165139E-8
+708	1	rock	CREATE	-	?	2.5337838E-8
+708	1	rock	MOVE	?	?	1.1611178E-8
+708	3	sediment	NONE	?	?	0.99919307
+708	3	sediment	CREATE	-	?	8.0611062E-4
+708	3	sediment	DESTROY	?	-	7.90873E-7
+708	3	sediment	MOVE	?	?	1.5190604E-8
+708	4	sediment	NONE	?	?	0.65517098
+708	4	sediment	CREATE	-	?	0.33154151
+708	4	sediment	MOVE	?	?	0.013268059
+708	4	sediment	DESTROY	?	-	1.9439796E-5
+708	5	sediment	CREATE	-	?	0.77494037
+708	5	sediment	NONE	?	?	0.16247043
+708	5	sediment	MOVE	?	?	0.062233478
+708	5	sediment	DESTROY	?	-	3.5571607E-4
+708	6	rock	CREATE	-	?	0.99653864
+708	6	rock	NONE	?	?	0.0034242689
+708	6	rock	MOVE	?	?	3.7055834E-5
+708	6	rock	DESTROY	?	-	1.566152E-8
+708	6	sediment	NONE	?	?	0.99999315
+708	6	sediment	MOVE	?	?	4.3706896E-6
+708	6	sediment	CREATE	-	?	2.4615724E-6
+708	6	sediment	DESTROY	?	-	6.927356E-9
+708	6	metamorphic rock	CREATE	-	?	0.99999988
+708	6	metamorphic rock	NONE	?	?	6.4098224E-8
+708	6	metamorphic rock	MOVE	?	?	2.8694124E-8
+708	6	metamorphic rock	DESTROY	?	-	6.4471976E-11
+708	7	rock	NONE	?	?	0.99997175
+708	7	rock	DESTROY	?	-	2.4027349E-5
+708	7	rock	CREATE	-	?	4.0884079E-6
+708	7	rock	MOVE	?	?	1.2028376E-7
+708	7	metamorphic rock	DESTROY	?	-	0.78642625
+708	7	metamorphic rock	NONE	?	?	0.20767899
+708	7	metamorphic rock	CREATE	-	?	0.0055860183
+708	7	metamorphic rock	MOVE	?	?	3.0872007E-4
+708	8	rock	NONE	?	?	0.99984258
+708	8	rock	DESTROY	?	-	1.5734936E-4
+708	8	rock	CREATE	-	?	4.814256E-8
+708	8	rock	MOVE	?	?	2.2996845E-8
+708	8	metamorphic rock	DESTROY	?	-	0.95921785
+708	8	metamorphic rock	NONE	?	?	0.040731616
+708	8	metamorphic rock	CREATE	-	?	4.754449E-5
+708	8	metamorphic rock	MOVE	?	?	2.9987834E-6
+708	9	rock	NONE	?	?	0.82414889
+708	9	rock	DESTROY	?	-	0.17585036
+708	9	rock	CREATE	-	?	6.823206E-7
+708	9	rock	MOVE	?	?	5.7818923E-8
+708	10	rock	NONE	surface	surface	0.64833546
+708	10	rock	MOVE	?	surface	0.35144943
+708	10	rock	DESTROY	?	-	2.1330557E-4
+708	10	rock	CREATE	-	surface	1.7994242E-6
+609	1	piston	MOVE	?	?	1.0
+609	1	piston	DESTROY	?	-	2.604098E-8
+609	1	piston	NONE	?	?	2.800717E-10
+609	1	piston	CREATE	-	?	1.686363E-10
+609	1	air	NONE	?	?	0.999999046
+609	1	air	MOVE	?	?	9.78665298E-7
+609	1	air	CREATE	-	?	1.02860953E-9
+609	1	air	DESTROY	?	-	1.08801614E-10
+609	1	gasoline	NONE	?	?	0.99994308
+609	1	gasoline	MOVE	?	?	5.6916488E-5
+609	1	gasoline	CREATE	-	?	4.5467963E-9
+609	1	gasoline	DESTROY	?	-	1.4159278E-10
+609	2	piston	DESTROY	?	-	0.99957246
+609	2	piston	MOVE	?	?	2.9394479E-4
+609	2	piston	NONE	?	?	1.3292984E-4
+609	2	piston	CREATE	-	?	6.7599876E-7
+609	3	explosion	NONE	?	?	0.99969923
+609	3	explosion	CREATE	-	?	2.9762107E-4
+609	3	explosion	DESTROY	?	-	2.1360213E-6
+609	3	explosion	MOVE	?	?	9.9571139E-7
+609	4	piston	NONE	?	?	0.99943292
+609	4	piston	MOVE	?	?	5.6705804E-4
+609	4	piston	DESTROY	?	-	1.0012777E-8
+609	4	piston	CREATE	-	?	4.4128437E-11
+609	4	gasoline	NONE	?	?	1.0
+609	4	gasoline	MOVE	?	?	1.4383299E-9
+609	4	gasoline	CREATE	-	?	2.6200016E-11
+609	4	gasoline	DESTROY	?	-	2.4190348E-13
+609	4	spark	NONE	?	?	1.0
+609	4	spark	MOVE	?	?	1.8378493E-9
+609	4	spark	CREATE	-	?	1.1425604E-12
+609	4	spark	DESTROY	?	-	2.3412796E-13
+609	5	piston	NONE	?	?	0.99854493
+609	5	piston	MOVE	?	?	0.0014550289
+609	5	piston	CREATE	-	?	2.8100279E-8
+609	5	piston	DESTROY	?	-	1.6174903E-8
+609	5	gasoline	MOVE	?	cylinder	0.98970586
+609	5	gasoline	DESTROY	?	-	0.010292951
+609	5	gasoline	NONE	cylinder	cylinder	6.7003822E-7
+609	5	gasoline	CREATE	-	cylinder	5.1910729E-7
+609	6	piston	MOVE	?	?	0.99999106
+609	6	piston	NONE	?	?	4.8522406E-6
+609	6	piston	DESTROY	?	-	4.0652908E-6
+609	6	piston	CREATE	-	?	1.5789894E-9
+609	6	exhaust	NONE	?	?	1.0
+609	6	exhaust	MOVE	?	?	2.5459E-8
+609	6	exhaust	CREATE	-	?	1.5270345E-9
+609	6	exhaust	DESTROY	?	-	1.4909261E-10
+349	1	sound	NONE	?	?	0.86452824
+349	1	sound	CREATE	-	?	0.13391423
+349	1	sound	MOVE	?	?	0.0015574869
+349	1	sound	DESTROY	?	-	3.2241774E-9
+349	2	sound	NONE	?	?	0.99995214
+349	2	sound	DESTROY	?	-	3.8969541E-5
+349	2	sound	MOVE	?	?	8.8988354E-6
+349	2	sound	CREATE	-	?	2.3655829E-8
+349	3	sound	MOVE	?	object	0.99999213
+349	3	sound	NONE	object	object	7.8024977E-6
+349	3	sound	DESTROY	?	-	8.735757E-8
+349	3	sound	CREATE	-	object	1.207502E-9
+349	3	sound waves	MOVE	?	object	0.9999997
+349	3	sound waves	NONE	object	object	2.3407725E-7
+349	3	sound waves	DESTROY	?	-	5.8725888E-8
+349	3	sound waves	CREATE	-	object	1.781909E-9
+349	4	sound	NONE	?	?	0.99999797
+349	4	sound	CREATE	-	?	1.8406461E-6
+349	4	sound	MOVE	?	?	2.0568983E-7
+349	4	sound	DESTROY	?	-	2.3762234E-12
+349	4	sound waves	NONE	?	?	0.954373
+349	4	sound waves	MOVE	?	?	0.03872742
+349	4	sound waves	CREATE	-	?	0.006836003
+349	4	sound waves	DESTROY	?	-	6.35593E-5
+349	5	sound	NONE	?	?	0.99999994
+349	5	sound	MOVE	?	?	3.9640021E-8
+349	5	sound	CREATE	-	?	2.8318342E-10
+349	5	sound	DESTROY	?	-	6.498643E-15
+349	5	sound waves	NONE	object	object	0.99703425
+349	5	sound waves	MOVE	?	object	0.0029616591
+349	5	sound waves	CREATE	-	object	4.0658374E-6
+349	5	sound waves	DESTROY	?	-	2.0455738E-12
+349	6	sound	NONE	?	?	1.0
+349	6	sound	MOVE	?	?	7.165938E-12
+349	6	sound	CREATE	-	?	3.199739E-14
+349	6	sound	DESTROY	?	-	5.036494E-16
+349	6	sound waves	NONE	?	?	1.0
+349	6	sound waves	MOVE	?	?	1.8763036E-10
+349	6	sound waves	CREATE	-	?	9.2119136E-14
+349	6	sound waves	DESTROY	?	-	1.2593205E-14
+349	7	sound	NONE	?	?	0.99880779
+349	7	sound	MOVE	?	?	0.0011908711
+349	7	sound	CREATE	-	?	1.3413561E-6
+349	7	sound	DESTROY	?	-	5.6691978E-11
+349	7	echoes	NONE	?	?	0.99987894
+349	7	echoes	MOVE	?	?	1.022244E-4
+349	7	echoes	CREATE	-	?	1.8818258E-5
+349	7	echoes	DESTROY	?	-	1.9044965E-11
+430	1	trash	NONE	?	?	0.97476906
+430	1	trash	DESTROY	?	-	0.02498774
+430	1	trash	MOVE	?	?	2.4222959E-4
+430	1	trash	CREATE	-	?	9.586073E-7
+430	2	trash	NONE	house	house	0.99999982
+430	2	trash	CREATE	-	house	1.5083388E-7
+430	2	trash	MOVE	?	house	3.1902783E-8
+430	2	trash	DESTROY	?	-	1.7355202E-8
+430	3	trash	MOVE	?	?	0.99979532
+430	3	trash	NONE	?	?	1.6676489E-4
+430	3	trash	DESTROY	?	-	3.7890808E-5
+430	3	trash	CREATE	-	?	1.0665985E-9
+430	4	trash	MOVE	curbside	?	0.9999963
+430	4	trash	DESTROY	curbside	-	3.6670092E-6
+430	4	trash	NONE	?	?	5.4351217E-9
+430	4	trash	CREATE	-	?	3.8140406E-9
+430	5	trash	NONE	?	?	0.99788249
+430	5	trash	MOVE	?	?	0.0021170883
+430	5	trash	CREATE	-	?	3.8852926E-7
+430	5	trash	DESTROY	?	-	1.0872148E-8
+430	6	trash	MOVE	?	truck	0.9999954
+430	6	trash	NONE	truck	truck	4.517386E-6
+430	6	trash	DESTROY	?	-	8.125675E-8
+430	6	trash	CREATE	-	truck	7.046602E-9
+430	6	truck	NONE	?	?	1.0
+430	6	truck	CREATE	-	?	1.625623E-8
+430	6	truck	MOVE	?	?	3.3911454E-9
+430	6	truck	DESTROY	?	-	2.1561895E-12
+430	7	truck	MOVE	?	landfill	0.99999994
+430	7	truck	NONE	landfill	landfill	2.9363216E-8
+430	7	truck	DESTROY	?	-	2.0739224E-9
+430	7	truck	CREATE	-	landfill	4.635462E-10
+430	8	trash	NONE	?	?	0.71266997
+430	8	trash	MOVE	?	?	0.28729022
+430	8	trash	DESTROY	?	-	3.9342132E-5
+430	8	trash	CREATE	-	?	4.4105406E-7
+430	9	trash	NONE	?	?	0.99998635
+430	9	trash	MOVE	?	?	1.3673086E-5
+430	9	trash	CREATE	-	?	1.1443999E-10
+430	9	trash	DESTROY	?	-	9.0517399E-11
+430	10	trash	MOVE	?	landfill	0.9999994
+430	10	trash	NONE	landfill	landfill	4.5501108E-7
+430	10	trash	DESTROY	?	-	1.5189379E-7
+430	10	trash	CREATE	-	landfill	2.0277038E-9
+388	1	waters	MOVE	?	?	0.99997264
+388	1	waters	NONE	?	?	2.2487831E-5
+388	1	waters	DESTROY	?	-	4.841012E-6
+388	1	waters	CREATE	-	?	1.5617537E-8
+388	1	water	MOVE	?	?	0.99997264
+388	1	water	NONE	?	?	2.2487831E-5
+388	1	water	DESTROY	?	-	4.841012E-6
+388	1	water	CREATE	-	?	1.5617537E-8
+388	3	waters	NONE	?	?	0.99986494
+388	3	waters	MOVE	?	?	1.3403872E-4
+388	3	waters	DESTROY	?	-	1.0263715E-6
+388	3	waters	CREATE	-	?	2.7226148E-8
+388	3	water	NONE	?	?	0.99986494
+388	3	water	MOVE	?	?	1.3403872E-4
+388	3	water	DESTROY	?	-	1.0263715E-6
+388	3	water	CREATE	-	?	2.7226148E-8
+388	3	turbines	NONE	?	?	0.99996454
+388	3	turbines	DESTROY	?	-	2.9374516E-5
+388	3	turbines	CREATE	-	?	4.9406344E-6
+388	3	turbines	MOVE	?	?	1.1515042E-6
+388	4	turbines	NONE	generators	generators	0.99980342
+388	4	turbines	MOVE	?	generators	1.867688E-4
+388	4	turbines	DESTROY	?	-	9.7849115E-6
+388	4	turbines	CREATE	-	generators	7.4506259E-9
+388	4	generators	NONE	?	?	0.99999988
+388	4	generators	MOVE	?	?	6.1146039E-8
+388	4	generators	CREATE	-	?	3.6042156E-8
+388	4	generators	DESTROY	?	-	3.5944051E-8
+388	5	generators	NONE	?	?	0.99999911
+388	5	generators	DESTROY	?	-	7.0241987E-7
+388	5	generators	CREATE	-	?	1.9053633E-7
+388	5	generators	MOVE	?	?	2.1250075E-8
+388	5	electricity	CREATE	-	generators	0.99999893
+388	5	electricity	NONE	generators	generators	9.5703797E-7
+388	5	electricity	MOVE	?	generators	1.3817807E-7
+388	5	electricity	DESTROY	?	-	3.3231749E-12
+388	6	waters	MOVE	?	dam	0.99713117
+388	6	waters	NONE	dam	dam	0.0028656707
+388	6	waters	DESTROY	?	-	3.1093894E-6
+388	6	waters	CREATE	-	dam	6.4087565E-8
+388	6	water	MOVE	?	dam	0.99713117
+388	6	water	NONE	dam	dam	0.0028656707
+388	6	water	DESTROY	?	-	3.1093894E-6
+388	6	water	CREATE	-	dam	6.4087565E-8
+1007	1	plant	DESTROY	?	-	0.99948025
+1007	1	plant	NONE	?	?	5.0481613E-4
+1007	1	plant	MOVE	?	?	1.452305E-5
+1007	1	plant	CREATE	-	?	4.2983615E-7
+1007	2	plant	NONE	?	?	0.99999988
+1007	2	plant	DESTROY	?	-	1.0876203E-7
+1007	2	plant	CREATE	-	?	3.6892065E-9
+1007	2	plant	MOVE	?	?	6.4244356E-12
+1007	2	microbes	NONE	?	?	0.99999923
+1007	2	microbes	DESTROY	?	-	7.4901112E-7
+1007	2	microbes	CREATE	-	?	1.9046704E-8
+1007	2	microbes	MOVE	?	?	1.063397E-9
+1007	3	material	NONE	?	?	0.99713755
+1007	3	material	DESTROY	?	-	0.002605557
+1007	3	material	CREATE	-	?	2.2228455E-4
+1007	3	material	MOVE	?	?	3.4597528E-5
+1007	3	microbes	NONE	?	?	0.99999952
+1007	3	microbes	DESTROY	?	-	2.5036536E-7
+1007	3	microbes	CREATE	-	?	2.2643746E-7
+1007	3	microbes	MOVE	?	?	2.0557099E-10
+1007	5	material	DESTROY	?	-	0.99997997
+1007	5	material	NONE	?	?	1.9653175E-5
+1007	5	material	MOVE	?	?	2.4573217E-7
+1007	5	material	CREATE	-	?	1.2590957E-7
+1007	6	plant	NONE	?	?	0.99973673
+1007	6	plant	DESTROY	?	-	2.6232534E-4
+1007	6	plant	MOVE	?	?	9.2387535E-7
+1007	6	plant	CREATE	-	?	1.9186695E-8
+1303	1	food	NONE	?	?	0.99999994
+1303	1	food	MOVE	?	?	5.8716044E-8
+1303	1	food	CREATE	-	?	7.2250927E-11
+1303	1	food	DESTROY	?	-	1.7947308E-13
+1303	1	milk	NONE	?	?	0.99999988
+1303	1	milk	MOVE	?	?	1.3044588E-7
+1303	1	milk	CREATE	-	?	1.2333788E-10
+1303	1	milk	DESTROY	?	-	2.8379561E-13
+1303	2	food	NONE	?	?	0.99999982
+1303	2	food	MOVE	?	?	1.487399E-7
+1303	2	food	CREATE	-	?	2.8286434E-10
+1303	2	food	DESTROY	?	-	2.3795113E-12
+1303	3	food	NONE	?	?	1.0
+1303	3	food	CREATE	-	?	7.7575169E-11
+1303	3	food	MOVE	?	?	4.8581863E-12
+1303	3	food	DESTROY	?	-	6.8193589E-15
+1303	3	microbes	NONE	?	?	1.0
+1303	3	microbes	CREATE	-	?	9.8361631E-12
+1303	3	microbes	MOVE	?	?	4.9172537E-12
+1303	3	microbes	DESTROY	?	-	4.4566448E-15
+1303	5	food	NONE	?	?	1.0
+1303	5	food	MOVE	?	?	2.2799416E-8
+1303	5	food	CREATE	-	?	1.5130487E-9
+1303	5	food	DESTROY	?	-	9.8943909E-10
+630	1	trash	MOVE	?	garbage	0.99995542
+630	1	trash	NONE	garbage	garbage	4.3695974E-5
+630	1	trash	CREATE	-	garbage	4.5653323E-7
+630	1	trash	DESTROY	?	-	4.2154667E-7
+630	2	trash	MOVE	?	centralized	0.99999976
+630	2	trash	NONE	centralized	centralized	2.05742E-7
+630	2	trash	CREATE	-	centralized	6.9233863E-9
+630	2	trash	DESTROY	?	-	5.048752E-10
+630	3	trash	MOVE	?	?	0.99994189
+630	3	trash	NONE	?	?	4.9666542E-5
+630	3	trash	DESTROY	?	-	8.2592969E-6
+630	3	trash	CREATE	-	?	1.6104447E-7
+630	4	trash	NONE	large  truck	large  truck	0.98363608
+630	4	trash	MOVE	?	large  truck	0.016361656
+630	4	trash	CREATE	-	large  truck	2.24991E-6
+630	4	trash	DESTROY	?	-	2.1778971E-11
+630	4	truck	NONE	?	?	0.99998599
+630	4	truck	MOVE	?	?	1.4029136E-5
+630	4	truck	CREATE	-	?	1.7277603E-9
+630	4	truck	DESTROY	?	-	5.1017089E-14
+630	5	truck	MOVE	?	landfill	1.0
+630	5	truck	NONE	landfill	landfill	8.4020071E-9
+630	5	truck	DESTROY	?	-	1.1983774E-9
+630	5	truck	CREATE	-	landfill	4.0013112E-10
+630	6	trash	MOVE	truck	landfill	1.0
+630	6	trash	NONE	landfill	landfill	5.5118182E-10
+630	6	trash	DESTROY	truck	-	3.2185368E-10
+630	6	trash	CREATE	-	landfill	1.864079E-10
+630	6	truck	MOVE	?	landfill	1.0
+630	6	truck	DESTROY	?	-	5.1198834E-10
+630	6	truck	NONE	landfill	landfill	4.8135029E-10
+630	6	truck	CREATE	-	landfill	2.3569696E-10
+5	1	algae	NONE	?	?	0.99358326
+5	1	algae	MOVE	?	?	0.0063437712
+5	1	algae	DESTROY	?	-	4.5670902E-5
+5	1	algae	CREATE	-	?	2.7266946E-5
+5	1	plankton	NONE	?	?	0.99936908
+5	1	plankton	MOVE	?	?	4.2325005E-4
+5	1	plankton	DESTROY	?	-	1.1206821E-4
+5	1	plankton	CREATE	-	?	9.5616713E-5
+5	2	algae	NONE	?	?	1.0
+5	2	algae	MOVE	?	?	1.1019948E-8
+5	2	algae	CREATE	-	?	1.250095E-10
+5	2	algae	DESTROY	?	-	1.1891398E-13
+5	2	plankton	NONE	?	?	1.0
+5	2	plankton	MOVE	?	?	2.2091704E-9
+5	2	plankton	CREATE	-	?	1.2744488E-11
+5	2	plankton	DESTROY	?	-	5.9108588E-14
+5	2	sediment	NONE	?	?	1.0
+5	2	sediment	MOVE	?	?	5.096597E-10
+5	2	sediment	CREATE	-	?	2.3431895E-11
+5	2	sediment	DESTROY	?	-	2.113476E-13
+5	3	sediment	NONE	?	?	0.90899503
+5	3	sediment	DESTROY	?	-	0.090996534
+5	3	sediment	MOVE	?	?	7.8102003E-6
+5	3	sediment	CREATE	-	?	6.4384955E-7
+5	4	sediment	NONE	?	?	0.99999946
+5	4	sediment	MOVE	?	?	5.1781507E-7
+5	4	sediment	CREATE	-	?	9.6547492E-11
+5	4	sediment	DESTROY	?	-	1.1035995E-11
+5	5	sediment	NONE	?	?	0.99257118
+5	5	sediment	DESTROY	?	-	0.006220697
+5	5	sediment	MOVE	?	?	0.0011954084
+5	5	sediment	CREATE	-	?	1.2723266E-5
+5	7	material	DESTROY	?	-	0.84774595
+5	7	material	NONE	?	?	0.15018941
+5	7	material	MOVE	?	?	0.002062883
+5	7	material	CREATE	-	?	1.7382989E-6
+5	8	oil	CREATE	-	?	0.9999969
+5	8	oil	NONE	?	?	3.0316921E-6
+5	8	oil	MOVE	?	?	8.626435E-8
+5	8	oil	DESTROY	?	-	9.7821605E-11
+5	9	oil	MOVE	?	?	0.99997848
+5	9	oil	NONE	?	?	2.1377175E-5
+5	9	oil	DESTROY	?	-	1.2802541E-7
+5	9	oil	CREATE	-	?	7.3561974E-9
+543	1	blood	MOVE	?	kidneys	0.99999744
+543	1	blood	DESTROY	?	-	2.4866549E-6
+543	1	blood	NONE	kidneys	kidneys	6.1451516E-8
+543	1	blood	CREATE	-	kidneys	2.1702334E-8
+543	2	blood	NONE	?	?	0.99999994
+543	2	blood	MOVE	?	?	6.20228846E-8
+543	2	blood	DESTROY	?	-	1.09826636E-11
+543	2	blood	CREATE	-	?	2.55373934E-12
+543	3	blood	MOVE	?	?	0.99896181
+543	3	blood	NONE	?	?	0.001011539
+543	3	blood	CREATE	-	?	2.5579868E-5
+543	3	blood	DESTROY	?	-	1.0858435E-6
+543	3	waste	MOVE	blood	?	0.99999887
+543	3	waste	DESTROY	blood	-	1.1059575E-6
+543	3	waste	CREATE	-	?	3.9023412E-8
+543	3	waste	NONE	?	?	2.4002256E-9
+543	4	waste	DESTROY	?	-	0.99999571
+543	4	waste	NONE	?	?	4.2898077E-6
+543	4	waste	MOVE	?	?	7.9149731E-10
+543	4	waste	CREATE	-	?	1.976413E-11
+543	4	urine	CREATE	-	?	0.999999702
+543	4	urine	MOVE	?	?	1.88431784E-7
+543	4	urine	NONE	?	?	1.16568714E-7
+543	4	urine	DESTROY	?	-	8.01445011E-13
+543	5	urine	CREATE	-	?	0.99999332
+543	5	urine	DESTROY	?	-	4.0163977E-6
+543	5	urine	MOVE	?	?	2.4030949E-6
+543	5	urine	NONE	?	?	2.5737924E-7
+543	7	blood	NONE	body	body	0.77634549
+543	7	blood	MOVE	?	body	0.22329603
+543	7	blood	DESTROY	?	-	3.4605921E-4
+543	7	blood	CREATE	-	body	1.242258E-5
+432	1	trash	NONE	house	house	0.99767238
+432	1	trash	MOVE	?	house	0.0023265576
+432	1	trash	CREATE	-	house	1.086419E-6
+432	1	trash	DESTROY	?	-	3.8334763E-10
+432	2	garbage	NONE	?	?	0.99999785
+432	2	garbage	MOVE	?	?	2.1345982E-6
+432	2	garbage	CREATE	-	?	1.2362739E-9
+432	2	garbage	DESTROY	?	-	1.2641617E-11
+432	2	garbage truck	NONE	?	?	0.99999911
+432	2	garbage truck	MOVE	?	?	9.0000549E-7
+432	2	garbage truck	CREATE	-	?	5.7229812E-9
+432	2	garbage truck	DESTROY	?	-	6.9219452E-12
+432	2	trash	MOVE	?	truck	0.99999994
+432	2	trash	NONE	truck	truck	3.8359065E-8
+432	2	trash	DESTROY	?	-	8.3810709E-9
+432	2	trash	CREATE	-	truck	3.3321179E-10
+432	3	garbage	MOVE	?	sorting  center	0.99686462
+432	3	garbage	NONE	sorting  center	sorting  center	0.003135172
+432	3	garbage	CREATE	-	sorting  center	1.6628768E-7
+432	3	garbage	DESTROY	?	-	3.1014604E-8
+432	3	garbage truck	MOVE	?	sorting  center	0.9999994
+432	3	garbage truck	NONE	sorting  center	sorting  center	5.6930168E-7
+432	3	garbage truck	DESTROY	?	-	6.932158E-9
+432	3	garbage truck	CREATE	-	sorting  center	3.1887604E-9
+432	4	garbage	NONE	?	?	0.99994802
+432	4	garbage	MOVE	?	?	5.1953059E-5
+432	4	garbage	DESTROY	?	-	1.5058022E-8
+432	4	garbage	CREATE	-	?	3.8672643E-9
+432	5	garbage	MOVE	?	?	0.99295163
+432	5	garbage	NONE	?	?	0.0070463005
+432	5	garbage	DESTROY	?	-	2.0252016E-6
+432	5	garbage	CREATE	-	?	3.2113874E-8
+432	6	garbage	MOVE	?	landfill	1.0
+432	6	garbage	DESTROY	?	-	6.887602E-9
+432	6	garbage	NONE	landfill	landfill	6.4620522E-9
+432	6	garbage	CREATE	-	landfill	1.6310596E-10
+396	1	uranium fuel	MOVE	?	nuclear  reactor	0.93762422
+396	1	uranium fuel	CREATE	-	nuclear  reactor	0.060135473
+396	1	uranium fuel	DESTROY	?	-	0.0022124364
+396	1	uranium fuel	NONE	nuclear  reactor	nuclear  reactor	2.7881224E-5
+396	2	uranium atoms	DESTROY	?	-	0.99999744
+396	2	uranium atoms	NONE	?	?	2.5386225E-6
+396	2	uranium atoms	MOVE	?	?	9.4454169E-9
+396	2	uranium atoms	CREATE	-	?	4.0063564E-10
+396	2	heat	CREATE	-	?	0.99999815
+396	2	heat	NONE	?	?	1.8174611E-6
+396	2	heat	MOVE	?	?	3.1065724E-8
+396	2	heat	DESTROY	?	-	5.6305455E-12
+396	3	heat	DESTROY	?	-	0.99999994
+396	3	heat	NONE	?	?	4.5187249E-8
+396	3	heat	MOVE	?	?	3.7477516E-10
+396	3	heat	CREATE	-	?	3.0272889E-12
+396	3	water	DESTROY	?	-	0.99999976
+396	3	water	NONE	?	?	2.3940552E-7
+396	3	water	MOVE	?	?	2.0509883E-9
+396	3	water	CREATE	-	?	2.3399243E-11
+396	3	steam	CREATE	-	?	0.99981999
+396	3	steam	MOVE	?	?	1.7996038E-4
+396	3	steam	NONE	?	?	3.874538E-8
+396	3	steam	DESTROY	?	-	3.8606158E-9
+396	4	steam	MOVE	?	turbine	0.99999905
+396	4	steam	NONE	turbine	turbine	9.3265447E-7
+396	4	steam	DESTROY	?	-	2.4537327E-8
+396	4	steam	CREATE	-	turbine	2.4408889E-10
+396	6	electricity	CREATE	-	?	0.99959934
+396	6	electricity	NONE	?	?	4.0046917E-4
+396	6	electricity	MOVE	?	?	1.7209958E-7
+396	6	electricity	DESTROY	?	-	3.7191868E-11
+1114	1	rainwater	MOVE	?	soil	0.99999976
+1114	1	rainwater	DESTROY	?	-	2.0401789E-7
+1114	1	rainwater	NONE	soil	soil	5.6230505E-9
+1114	1	rainwater	CREATE	-	soil	6.6309297E-10
+1114	2	rainwater	MOVE	?	soil	0.99999994
+1114	2	rainwater	DESTROY	?	-	5.9976983E-8
+1114	2	rainwater	NONE	soil	soil	1.6407744E-8
+1114	2	rainwater	CREATE	-	soil	4.2883935E-10
+1114	3	water	MOVE	?	bedrock	0.99978417
+1114	3	water	NONE	bedrock	bedrock	2.1580636E-4
+1114	3	water	CREATE	-	bedrock	3.2816686E-8
+1114	3	water	DESTROY	?	-	4.6386336E-11
+1114	3	bedrock	NONE	?	?	0.99997252
+1114	3	bedrock	CREATE	-	?	2.7350476E-5
+1114	3	bedrock	MOVE	?	?	1.4550157E-7
+1114	3	bedrock	DESTROY	?	-	1.8972943E-9
+1114	4	bedrock	NONE	?	?	0.99992222
+1114	4	bedrock	DESTROY	?	-	7.5452095E-5
+1114	4	bedrock	MOVE	?	?	2.3077882E-6
+1114	4	bedrock	CREATE	-	?	4.9607124E-8
+1114	5	bedrock	DESTROY	?	-	0.83870876
+1114	5	bedrock	NONE	?	?	0.1612909
+1114	5	bedrock	MOVE	?	?	3.4206388E-7
+1114	5	bedrock	CREATE	-	?	2.4468978E-8
+1114	5	funnels	CREATE	-	?	0.99980432
+1114	5	funnels	NONE	?	?	1.956676E-4
+1114	5	funnels	MOVE	?	?	1.2292805E-8
+1114	5	funnels	DESTROY	?	-	4.3515427E-11
+1114	6	funnels	NONE	?	?	0.99999982
+1114	6	funnels	MOVE	?	?	1.3462606E-7
+1114	6	funnels	DESTROY	?	-	2.4944535E-8
+1114	6	funnels	CREATE	-	?	2.2044051E-9
+1114	7	funnels	MOVE	?	?	0.96806759
+1114	7	funnels	NONE	?	?	0.031919386
+1114	7	funnels	DESTROY	?	-	1.2974147E-5
+1114	7	funnels	CREATE	-	?	2.9859891E-8
+1114	7	caves	CREATE	-	?	0.8961463
+1114	7	caves	NONE	?	?	0.1038503
+1114	7	caves	MOVE	?	?	3.3964714E-6
+1114	7	caves	DESTROY	?	-	7.2931616E-10
+1260	2	silk	MOVE	?	spider	0.9999333
+1260	2	silk	NONE	spider	spider	6.6608576E-5
+1260	2	silk	DESTROY	?	-	7.736385E-8
+1260	2	silk	CREATE	-	spider	2.0828224E-9
+1260	3	web	NONE	?	?	1.0
+1260	3	web	MOVE	?	?	6.2862746E-9
+1260	3	web	CREATE	-	?	1.2508218E-11
+1260	3	web	DESTROY	?	-	3.0432064E-14
+1260	4	silk	MOVE	?	?	0.99999946
+1260	4	silk	NONE	?	?	5.5810784E-7
+1260	4	silk	DESTROY	?	-	7.8278495E-10
+1260	4	silk	CREATE	-	?	1.4559992E-10
+1260	5	web	CREATE	-	?	0.99994421
+1260	5	web	NONE	?	?	5.5602271E-5
+1260	5	web	MOVE	?	?	2.042012E-7
+1260	5	web	DESTROY	?	-	3.6929153E-9
+390	1	reservoir	CREATE	-	?	0.99998027
+390	1	reservoir	NONE	?	?	1.9610718E-5
+390	1	reservoir	MOVE	?	?	1.0747395E-7
+390	1	reservoir	DESTROY	?	-	2.6263369E-9
+390	2	water	MOVE	?	?	0.99915338
+390	2	water	NONE	?	?	8.440396E-4
+390	2	water	DESTROY	?	-	1.9793501E-6
+390	2	water	CREATE	-	?	5.842316E-7
+390	3	reservoir	NONE	?	?	0.9999975
+390	3	reservoir	CREATE	-	?	2.4495159E-6
+390	3	reservoir	DESTROY	?	-	2.4428624E-8
+390	3	reservoir	MOVE	?	?	2.3431102E-9
+390	3	water	NONE	turbine	turbine	0.84897977
+390	3	water	MOVE	?	turbine	0.14787287
+390	3	water	DESTROY	?	-	0.0031470333
+390	3	water	CREATE	-	turbine	3.3094329E-7
+390	3	turbine	CREATE	-	?	0.60140222
+390	3	turbine	NONE	?	?	0.39859343
+390	3	turbine	MOVE	?	?	3.9968845E-6
+390	3	turbine	DESTROY	?	-	3.4083141E-7
+390	4	turbine	NONE	?	?	0.99999952
+390	4	turbine	MOVE	?	?	4.9164385E-7
+390	4	turbine	CREATE	-	?	1.37024E-9
+390	4	turbine	DESTROY	?	-	1.3018694E-11
+390	4	generator	NONE	?	?	0.97293091
+390	4	generator	MOVE	?	?	0.02706865
+390	4	generator	DESTROY	?	-	2.465558E-7
+390	4	generator	CREATE	-	?	1.6852623E-7
+390	5	water	DESTROY	?	-	0.99999958
+390	5	water	NONE	?	?	4.1919114E-7
+390	5	water	MOVE	?	?	2.3040684E-11
+390	5	water	CREATE	-	?	1.0498353E-11
+390	5	water's energy	DESTROY	?	-	1.0
+390	5	water's energy	NONE	?	?	5.6732941E-10
+390	5	water's energy	MOVE	?	?	5.134726E-11
+390	5	water's energy	CREATE	-	?	2.9247622E-12
+390	5	electrical energy	CREATE	-	?	0.99999994
+390	5	electrical energy	MOVE	?	?	2.8574192E-8
+390	5	electrical energy	NONE	?	?	1.3497331E-9
+390	5	electrical energy	DESTROY	?	-	3.3105393E-11
+390	6	generator	NONE	?	?	1.0
+390	6	generator	MOVE	?	?	2.058424E-12
+390	6	generator	CREATE	-	?	1.2403252E-12
+390	6	generator	DESTROY	?	-	5.3486832E-13
+390	6	electrical energy	CREATE	-	?	0.90464777
+390	6	electrical energy	DESTROY	?	-	0.048288871
+390	6	electrical energy	MOVE	?	?	0.047047567
+390	6	electrical energy	NONE	?	?	1.5766753E-5
+390	6	high voltage	CREATE	-	?	0.99648142
+390	6	high voltage	NONE	?	?	0.0035033252
+390	6	high voltage	MOVE	?	?	1.5099871E-5
+390	6	high voltage	DESTROY	?	-	1.3055578E-7
+390	7	high voltage	NONE	?	?	0.99999958
+390	7	high voltage	DESTROY	?	-	3.8885111E-7
+390	7	high voltage	CREATE	-	?	2.9637606E-9
+390	7	high voltage	MOVE	?	?	2.8598302E-14
+390	7	electricity	NONE	?	?	0.99999869
+390	7	electricity	CREATE	-	?	1.0927284E-6
+390	7	electricity	DESTROY	?	-	2.3133008E-7
+390	7	electricity	MOVE	?	?	3.5863321E-9
+4	1	plants	DESTROY	?	-	0.99979776
+4	1	plants	NONE	?	?	1.5166309E-4
+4	1	plants	CREATE	-	?	2.8882563E-5
+4	1	plants	MOVE	?	?	2.1691701E-5
+4	2	sediment	NONE	?	?	0.9999873
+4	2	sediment	MOVE	?	?	8.643292E-6
+4	2	sediment	CREATE	-	?	3.705435E-6
+4	2	sediment	DESTROY	?	-	3.50241E-7
+4	3	sediment	NONE	?	?	1.0
+4	3	sediment	CREATE	-	?	1.2276394E-8
+4	3	sediment	MOVE	?	?	4.5586893E-10
+4	3	sediment	DESTROY	?	-	3.6131927E-11
+4	4	sediment	NONE	?	?	1.0
+4	4	sediment	MOVE	?	?	3.757517E-9
+4	4	sediment	CREATE	-	?	9.6511826E-11
+4	4	sediment	DESTROY	?	-	1.0639968E-12
+4	7	plants	NONE	?	?	0.99999475
+4	7	plants	MOVE	?	?	4.5729871E-6
+4	7	plants	CREATE	-	?	6.8010229E-7
+4	7	plants	DESTROY	?	-	3.9062453E-10
+4	7	sediment	NONE	?	?	0.99999934
+4	7	sediment	MOVE	?	?	5.6029376E-7
+4	7	sediment	CREATE	-	?	6.7613563E-8
+4	7	sediment	DESTROY	?	-	3.2779029E-11
+4	8	plants	DESTROY	?	-	0.9999994
+4	8	plants	NONE	?	?	6.0278199E-7
+4	8	plants	MOVE	?	?	8.6529344E-9
+4	8	plants	CREATE	-	?	7.7533746E-10
+4	8	sediment	DESTROY	?	-	0.99999988
+4	8	sediment	NONE	?	?	1.1997518E-7
+4	8	sediment	MOVE	?	?	1.5770047E-9
+4	8	sediment	CREATE	-	?	1.3209377E-10
+4	10	oil	CREATE	-	?	0.98959738
+4	10	oil	NONE	?	?	0.0102797225
+4	10	oil	MOVE	?	?	1.22398153E-4
+4	10	oil	DESTROY	?	-	4.85136923E-7
+632	1	electricity	MOVE	?	?	0.9999994
+632	1	electricity	DESTROY	?	-	5.1679729E-7
+632	1	electricity	CREATE	-	?	3.8129997E-8
+632	1	electricity	NONE	?	?	2.4028848E-8
+632	2	electricity	MOVE	?	?	0.99941736
+632	2	electricity	DESTROY	?	-	5.8239175E-4
+632	2	electricity	NONE	?	?	2.6523142E-7
+632	2	electricity	CREATE	-	?	3.5532421E-9
+632	3	electricity	MOVE	?	?	0.99991864
+632	3	electricity	NONE	?	?	6.9029156E-5
+632	3	electricity	DESTROY	?	-	1.2337005E-5
+632	3	electricity	CREATE	-	?	2.2572728E-9
+632	4	heat	MOVE	?	?	1.0
+632	4	heat	DESTROY	?	-	9.0923287E-9
+632	4	heat	NONE	?	?	3.8396673E-9
+632	4	heat	CREATE	-	?	2.8877494E-9
+632	5	electricity	MOVE	?	display	0.99982738
+632	5	electricity	DESTROY	?	-	1.5737653E-4
+632	5	electricity	NONE	display	display	1.5254336E-5
+632	5	electricity	CREATE	-	display	7.8627913E-9
+632	6	electricity	NONE	?	?	0.99999702
+632	6	electricity	CREATE	-	?	2.5226184E-6
+632	6	electricity	MOVE	?	?	4.1513454E-7
+632	6	electricity	DESTROY	?	-	3.0660686E-8
+632	6	light	NONE	?	?	0.9993766
+632	6	light	CREATE	-	?	5.8018608E-4
+632	6	light	MOVE	?	?	3.7205617E-5
+632	6	light	DESTROY	?	-	6.0317666E-6
+758	1	gas	NONE	?	?	1.0
+758	1	gas	MOVE	?	?	1.35361E-10
+758	1	gas	DESTROY	?	-	4.2712816E-11
+758	1	gas	CREATE	-	?	2.7406495E-13
+758	1	fuel source	NONE	?	?	0.99998522
+758	1	fuel source	DESTROY	?	-	1.3536476E-5
+758	1	fuel source	MOVE	?	?	1.2717525E-6
+758	1	fuel source	CREATE	-	?	3.0637279E-9
+758	2	fuel source	DESTROY	?	-	1.0
+758	2	fuel source	NONE	?	?	2.13894111E-8
+758	2	fuel source	MOVE	?	?	2.00387401E-10
+758	2	fuel source	CREATE	-	?	1.07963874E-10
+758	3	mechanical energy	DESTROY	?	-	0.99999988
+758	3	mechanical energy	MOVE	?	?	1.0191925E-7
+758	3	mechanical energy	CREATE	-	?	1.5946996E-9
+758	3	mechanical energy	NONE	?	?	7.388003E-10
+758	3	electrical energy	CREATE	-	alternator	0.9999465
+758	3	electrical energy	MOVE	?	alternator	4.645227E-5
+758	3	electrical energy	NONE	alternator	alternator	6.998151E-6
+758	3	electrical energy	DESTROY	?	-	9.564224E-8
+758	4	electrical energy	MOVE	?	?	0.99999344
+758	4	electrical energy	NONE	?	?	6.3398502E-6
+758	4	electrical energy	DESTROY	?	-	1.7011749E-7
+758	4	electrical energy	CREATE	-	?	1.8933585E-8
+758	5	electrons	MOVE	?	?	0.99999744
+758	5	electrons	NONE	?	?	1.7764187E-6
+758	5	electrons	DESTROY	?	-	7.6517222E-7
+758	5	electrons	CREATE	-	?	2.7978708E-9
+758	6	electrons	CREATE	-	?	0.99991691
+758	6	electrons	MOVE	?	?	6.5474786E-5
+758	6	electrons	NONE	?	?	1.6109836E-5
+758	6	electrons	DESTROY	?	-	1.5065038E-6
+608	1	fuel	NONE	?	?	0.99911445
+608	1	fuel	MOVE	?	?	8.81024E-4
+608	1	fuel	DESTROY	?	-	4.495661E-6
+608	1	fuel	CREATE	-	?	8.0264195E-10
+608	2	fuel	NONE	?	?	0.99999988
+608	2	fuel	DESTROY	?	-	5.269731E-8
+608	2	fuel	MOVE	?	?	3.9246636E-8
+608	2	fuel	CREATE	-	?	5.3546749E-9
+608	2	air	NONE	?	?	1.0
+608	2	air	MOVE	?	?	8.7934875E-11
+608	2	air	DESTROY	?	-	2.807176E-11
+608	2	air	CREATE	-	?	1.2127312E-11
+608	3	fuel	DESTROY	?	-	0.99054545
+608	3	fuel	NONE	?	?	0.009316857
+608	3	fuel	CREATE	-	?	1.2874426E-4
+608	3	fuel	MOVE	?	?	8.9682208E-6
+608	3	air	NONE	?	?	0.99999988
+608	3	air	DESTROY	?	-	1.1009027E-7
+608	3	air	CREATE	-	?	4.0989758E-9
+608	3	air	MOVE	?	?	1.9823734E-9
+608	3	piston	NONE	?	?	0.99995732
+608	3	piston	DESTROY	?	-	4.1476706E-5
+608	3	piston	MOVE	?	?	1.1430776E-6
+608	3	piston	CREATE	-	?	3.0772014E-8
+608	4	piston	NONE	?	?	0.999999881
+608	4	piston	CREATE	-	?	7.61009602E-8
+608	4	piston	MOVE	?	?	1.32418805E-8
+608	4	piston	DESTROY	?	-	2.63995742E-10
+608	4	spark	NONE	?	?	0.99856985
+608	4	spark	CREATE	-	?	0.0014285372
+608	4	spark	MOVE	?	?	1.6284273E-6
+608	4	spark	DESTROY	?	-	1.1598466E-8
+608	5	piston	NONE	?	?	0.87730801
+608	5	piston	MOVE	?	?	0.12085766
+608	5	piston	DESTROY	?	-	0.0018339145
+608	5	piston	CREATE	-	?	3.9199506E-7
+608	5	explosion	NONE	?	?	0.99999893
+608	5	explosion	DESTROY	?	-	5.4302456E-7
+608	5	explosion	MOVE	?	?	3.0814746E-7
+608	5	explosion	CREATE	-	?	2.4930756E-7
+608	6	fuel	NONE	?	?	0.99995089
+608	6	fuel	MOVE	?	?	4.9098508E-5
+608	6	fuel	CREATE	-	?	2.7957682E-8
+608	6	fuel	DESTROY	?	-	5.9567249E-9
+608	6	air	NONE	?	?	0.99957371
+608	6	air	MOVE	?	?	4.2580336E-4
+608	6	air	CREATE	-	?	3.4558306E-7
+608	6	air	DESTROY	?	-	1.3063075E-7
+608	6	piston	NONE	?	?	0.99999964
+608	6	piston	MOVE	?	?	3.3462231E-7
+608	6	piston	CREATE	-	?	1.4311549E-8
+608	6	piston	DESTROY	?	-	1.7467962E-10
+608	7	fuel	NONE	?	?	0.98940313
+608	7	fuel	MOVE	?	?	0.010596217
+608	7	fuel	DESTROY	?	-	6.5095747E-7
+608	7	fuel	CREATE	-	?	1.3888139E-8
+608	7	air	NONE	?	?	0.96896923
+608	7	air	MOVE	?	?	0.031030566
+608	7	air	DESTROY	?	-	1.7121434E-7
+608	7	air	CREATE	-	?	1.41794E-8
+608	8	piston	NONE	?	?	1.0
+608	8	piston	MOVE	?	?	3.5576317E-10
+608	8	piston	DESTROY	?	-	6.5054157E-11
+608	8	piston	CREATE	-	?	2.2908214E-12
+608	9	piston	NONE	?	?	0.99999559
+608	9	piston	MOVE	?	?	4.4106005E-6
+608	9	piston	CREATE	-	?	2.3066999E-9
+608	9	piston	DESTROY	?	-	8.7101361E-11
+716	1	blood	MOVE	?	kidneys	0.99999923
+716	1	blood	NONE	kidneys	kidneys	6.1252024E-7
+716	1	blood	DESTROY	?	-	1.7430987E-7
+716	1	blood	CREATE	-	kidneys	1.6995628E-9
+716	1	waste	MOVE	blood	kidneys	1.0
+716	1	waste	DESTROY	blood	-	2.0408127E-8
+716	1	waste	NONE	kidneys	kidneys	2.9643159E-9
+716	1	waste	CREATE	-	kidneys	1.1874554E-10
+716	1	kidney	NONE	?	?	0.99995834
+716	1	kidney	MOVE	?	?	4.1149502E-5
+716	1	kidney	CREATE	-	?	5.2881012E-7
+716	1	kidney	DESTROY	?	-	7.9566947E-10
+716	2	kidney	NONE	?	?	0.9999817
+716	2	kidney	MOVE	?	?	1.8152721E-5
+716	2	kidney	DESTROY	?	-	1.2968476E-7
+716	2	kidney	CREATE	-	?	7.8149703E-10
+716	3	blood	NONE	?	?	0.76549697
+716	3	blood	MOVE	?	?	0.23441228
+716	3	blood	CREATE	-	?	9.0765709E-5
+716	3	blood	DESTROY	?	-	8.0021039E-9
+716	3	kidney	NONE	?	?	0.9998408
+716	3	kidney	MOVE	?	?	1.5921023E-4
+716	3	kidney	CREATE	-	?	8.5001961E-9
+716	3	kidney	DESTROY	?	-	4.9435546E-11
+716	4	urine	CREATE	-	?	0.99982995
+716	4	urine	NONE	?	?	1.564969E-4
+716	4	urine	MOVE	?	?	1.3352541E-5
+716	4	urine	DESTROY	?	-	1.858777E-7
+716	5	kidney	MOVE	?	urine	0.9607957
+716	5	kidney	NONE	urine	urine	0.038307011
+716	5	kidney	CREATE	-	urine	6.7085313E-4
+716	5	kidney	DESTROY	?	-	2.264096E-4
+716	5	urine	MOVE	kidneys	?	0.99999994
+716	5	urine	NONE	?	?	2.8075549E-8
+716	5	urine	DESTROY	kidneys	-	2.7703244E-8
+716	5	urine	CREATE	-	?	4.6989523E-9
+716	6	blood	NONE	body	body	0.99494082
+716	6	blood	DESTROY	?	-	0.0045508328
+716	6	blood	MOVE	?	body	4.8283042E-4
+716	6	blood	CREATE	-	body	2.5497955E-5
+375	1	electricity	MOVE	?	computer	0.99999779
+375	1	electricity	DESTROY	?	-	2.1492851E-6
+375	1	electricity	NONE	computer	computer	4.843724E-8
+375	1	electricity	CREATE	-	computer	7.3241768E-10
+375	2	electricity	DESTROY	?	-	0.99387813
+375	2	electricity	NONE	?	?	0.0061214645
+375	2	electricity	MOVE	?	?	3.4581819E-7
+375	2	electricity	CREATE	-	?	5.2480406E-8
+375	2	light	CREATE	-	?	0.99999237
+375	2	light	NONE	?	?	7.0906717E-6
+375	2	light	MOVE	?	?	5.3216064E-7
+375	2	light	DESTROY	?	-	6.3239816E-11
+375	3	light	NONE	?	?	0.99999487
+375	3	light	DESTROY	?	-	5.0902959E-6
+375	3	light	MOVE	?	?	2.7426925E-8
+375	3	light	CREATE	-	?	3.3083865E-9
+375	3	heat	NONE	?	?	0.97030675
+375	3	heat	DESTROY	?	-	0.02967892
+375	3	heat	MOVE	?	?	1.3548064E-5
+375	3	heat	CREATE	-	?	7.6758153E-7
+375	4	electricity	NONE	?	?	0.924522519
+375	4	electricity	DESTROY	?	-	0.0754770637
+375	4	electricity	CREATE	-	?	4.29901405E-7
+375	4	electricity	MOVE	?	?	1.43503955E-8
+375	4	motion	DESTROY	?	-	0.90160066
+375	4	motion	NONE	?	?	0.098366305
+375	4	motion	CREATE	-	?	3.2964479E-5
+375	4	motion	MOVE	?	?	5.69854E-8
+375	5	heat	CREATE	-	?	0.99998093
+375	5	heat	MOVE	?	?	1.6161128E-5
+375	5	heat	NONE	?	?	2.8928587E-6
+375	5	heat	DESTROY	?	-	7.6218074E-11
+375	5	motion	CREATE	-	?	0.9953835
+375	5	motion	NONE	?	?	0.0044947374
+375	5	motion	MOVE	?	?	1.2167312E-4
+375	5	motion	DESTROY	?	-	1.1102508E-7
+375	5	motion energy	CREATE	-	?	0.99996221
+375	5	motion energy	MOVE	?	?	2.152038E-5
+375	5	motion energy	NONE	?	?	1.6212074E-5
+375	5	motion energy	DESTROY	?	-	6.4141794E-8
+629	1	trash	MOVE	?	plastic  bag	0.99999166
+629	1	trash	NONE	plastic  bag	plastic  bag	8.0403888E-6
+629	1	trash	DESTROY	?	-	2.3936113E-7
+629	1	trash	CREATE	-	plastic  bag	5.3992764E-8
+629	1	plastic bag	NONE	?	?	0.99999946
+629	1	plastic bag	CREATE	-	?	5.149966E-7
+629	1	plastic bag	MOVE	?	?	3.8656487E-9
+629	1	plastic bag	DESTROY	?	-	1.8670863E-12
+629	2	plastic bag	MOVE	?	garbage	0.82949233
+629	2	plastic bag	NONE	garbage	garbage	0.17050381
+629	2	plastic bag	CREATE	-	garbage	3.8289072E-6
+629	2	plastic bag	DESTROY	?	-	2.3368043E-9
+629	2	garbage can	NONE	plastic	plastic	0.99999851
+629	2	garbage can	MOVE	?	plastic	1.1941391E-6
+629	2	garbage can	CREATE	-	plastic	1.9560213E-7
+629	2	garbage can	DESTROY	?	-	1.2296184E-7
+629	3	garbage can	MOVE	?	?	0.9999398
+629	3	garbage can	NONE	?	?	6.0177543E-5
+629	3	garbage can	DESTROY	?	-	2.9048326E-9
+629	3	garbage can	CREATE	-	?	1.5786615E-9
+629	4	garbage truck	MOVE	?	house	1.0
+629	4	garbage truck	NONE	house	house	1.4156256E-9
+629	4	garbage truck	CREATE	-	house	4.5351348E-10
+629	4	garbage truck	DESTROY	?	-	3.0062958E-10
+629	4	truck	MOVE	?	house	1.0
+629	4	truck	NONE	house	house	2.395586E-9
+629	4	truck	CREATE	-	house	2.6395247E-10
+629	4	truck	DESTROY	?	-	1.7238598E-10
+629	5	plastic bag	MOVE	?	truck	0.99999946
+629	5	plastic bag	NONE	truck	truck	5.4317036E-7
+629	5	plastic bag	DESTROY	?	-	1.7728782E-8
+629	5	plastic bag	CREATE	-	truck	1.9108476E-10
+629	5	garbage can	NONE	truck	truck	0.99994868
+629	5	garbage can	MOVE	?	truck	5.1331466E-5
+629	5	garbage can	CREATE	-	truck	5.323566E-9
+629	5	garbage can	DESTROY	?	-	5.1854233E-11
+629	5	truck	NONE	?	?	1.0
+629	5	truck	MOVE	?	?	9.985512E-9
+629	5	truck	CREATE	-	?	9.8116966E-11
+629	5	truck	DESTROY	?	-	3.4523025E-13
+629	6	truck	MOVE	?	landfill	0.99999994
+629	6	truck	NONE	landfill	landfill	2.1009093E-8
+629	6	truck	DESTROY	?	-	1.3886163E-8
+629	6	truck	CREATE	-	landfill	4.5104454E-10
+629	7	trash	MOVE	truck	landfill	1.0
+629	7	trash	NONE	landfill	landfill	5.5118182E-10
+629	7	trash	DESTROY	truck	-	3.2185368E-10
+629	7	trash	CREATE	-	landfill	1.864079E-10
+629	7	truck	MOVE	?	landfill	1.0
+629	7	truck	DESTROY	?	-	5.1198834E-10
+629	7	truck	NONE	landfill	landfill	4.8135029E-10
+629	7	truck	CREATE	-	landfill	2.3569696E-10
+826	1	heat	CREATE	-	?	0.99999803
+826	1	heat	MOVE	?	?	1.6490809E-6
+826	1	heat	DESTROY	?	-	2.5220353E-7
+826	1	heat	NONE	?	?	3.6936022E-8
+826	2	heat	NONE	?	?	0.99923605
+826	2	heat	DESTROY	?	-	7.3412061E-4
+826	2	heat	MOVE	?	?	2.9241663E-5
+826	2	heat	CREATE	-	?	6.1172591E-7
+826	2	steam	CREATE	-	?	0.99999517
+826	2	steam	NONE	?	?	4.6716405E-6
+826	2	steam	MOVE	?	?	1.8543882E-7
+826	2	steam	DESTROY	?	-	1.9895021E-11
+826	3	steam	MOVE	?	turbines	0.99999189
+826	3	steam	DESTROY	?	-	7.9250649E-6
+826	3	steam	NONE	turbines	turbines	1.091169E-7
+826	3	steam	CREATE	-	turbines	5.0670174E-8
+826	4	electricity	CREATE	-	turbines	0.99999696
+826	4	electricity	NONE	turbines	turbines	2.8977895E-6
+826	4	electricity	MOVE	?	turbines	1.2260568E-7
+826	4	electricity	DESTROY	?	-	2.243818E-11
+826	5	electricity	MOVE	?	station	0.99999648
+826	5	electricity	DESTROY	?	-	3.3829181E-6
+826	5	electricity	NONE	station	station	1.0623065E-7
+826	5	electricity	CREATE	-	station	2.3679494E-8
+542	1	waste	CREATE	-	blood	0.99973327
+542	1	waste	MOVE	?	blood	1.1333399E-4
+542	1	waste	NONE	blood	blood	9.4030052E-5
+542	1	waste	DESTROY	?	-	5.9382452E-5
+542	1	blood	MOVE	?	?	0.91285974
+542	1	blood	NONE	?	?	0.087137751
+542	1	blood	CREATE	-	?	2.138401E-6
+542	1	blood	DESTROY	?	-	3.5422948E-7
+542	2	blood	MOVE	?	kidney	0.99999923
+542	2	blood	NONE	kidney	kidney	6.4893692E-7
+542	2	blood	DESTROY	?	-	1.3446663E-7
+542	2	blood	CREATE	-	kidney	1.282638E-9
+542	3	blood	NONE	?	?	1.0
+542	3	blood	CREATE	-	?	1.11111245E-8
+542	3	blood	DESTROY	?	-	7.7492246E-10
+542	3	blood	MOVE	?	?	3.62701119E-10
+542	4	waste	MOVE	?	?	0.9997713
+542	4	waste	DESTROY	?	-	2.2864615E-4
+542	4	waste	NONE	?	?	4.1435168E-8
+542	4	waste	CREATE	-	?	1.7373117E-9
+542	5	blood	MOVE	?	?	0.99999988
+542	5	blood	DESTROY	?	-	1.4581741E-7
+542	5	blood	NONE	?	?	8.4685453E-10
+542	5	blood	CREATE	-	?	1.1356568E-10
+542	6	waste	DESTROY	?	-	0.99999821
+542	6	waste	NONE	?	?	1.7658077E-6
+542	6	waste	MOVE	?	?	1.4293108E-9
+542	6	waste	CREATE	-	?	6.2916068E-11
+542	6	urine	CREATE	-	?	0.99999797
+542	6	urine	MOVE	?	?	1.7424029E-6
+542	6	urine	NONE	?	?	2.9957849E-7
+542	6	urine	DESTROY	?	-	4.4798432E-11
+542	7	urine	MOVE	kidney	bladder	0.99999774
+542	7	urine	DESTROY	kidney	-	2.2798104E-6
+542	7	urine	CREATE	-	bladder	5.286902E-9
+542	7	urine	NONE	bladder	bladder	3.3107928E-10
+1197	1	food	MOVE	?	mouth	0.9999618
+1197	1	food	NONE	mouth	mouth	3.738202E-5
+1197	1	food	DESTROY	?	-	8.296814E-7
+1197	1	food	CREATE	-	mouth	5.991507E-10
+1197	2	food	NONE	?	?	0.99999708
+1197	2	food	DESTROY	?	-	2.8502207E-6
+1197	2	food	MOVE	?	?	7.0880681E-8
+1197	2	food	CREATE	-	?	8.9832497E-10
+1197	3	food	NONE	?	?	0.99999237
+1197	3	food	MOVE	?	?	7.5801177E-6
+1197	3	food	CREATE	-	?	2.4783914E-8
+1197	3	food	DESTROY	?	-	7.4922237E-9
+1197	4	food	NONE	?	?	0.99841142
+1197	4	food	DESTROY	?	-	0.0015885192
+1197	4	food	MOVE	?	?	7.5531425E-8
+1197	4	food	CREATE	-	?	1.2067188E-8
+1197	5	food	MOVE	?	small  intestine	0.99999189
+1197	5	food	NONE	small  intestine	small  intestine	7.7276136E-6
+1197	5	food	DESTROY	?	-	3.6461483E-7
+1197	5	food	CREATE	-	small  intestine	2.4950952E-8
+1197	7	food	NONE	?	?	0.99999994
+1197	7	food	MOVE	?	?	6.65976E-8
+1197	7	food	CREATE	-	?	4.6313411E-11
+1197	7	food	DESTROY	?	-	1.3273905E-14
+1197	7	sugar	NONE	?	?	0.9999997
+1197	7	sugar	MOVE	?	?	2.806303E-7
+1197	7	sugar	CREATE	-	?	2.2186274E-10
+1197	7	sugar	DESTROY	?	-	4.7952356E-15
+1197	8	sugar	MOVE	?	body	0.99998462
+1197	8	sugar	NONE	body	body	1.1370653E-5
+1197	8	sugar	DESTROY	?	-	4.0228297E-6
+1197	8	sugar	CREATE	-	body	8.1756529E-10
+1197	9	sugar	NONE	?	?	0.87735116
+1197	9	sugar	MOVE	?	?	0.12264182
+1197	9	sugar	DESTROY	?	-	6.9845632E-6
+1197	9	sugar	CREATE	-	?	3.6157626E-8
+1197	9	energy	MOVE	?	?	0.9999997
+1197	9	energy	NONE	?	?	2.6822912E-7
+1197	9	energy	DESTROY	?	-	5.3939955E-9
+1197	9	energy	CREATE	-	?	4.3827744E-11
+509	1	fuel	MOVE	?	chamber	0.99999672
+509	1	fuel	DESTROY	?	-	3.2647279E-6
+509	1	fuel	NONE	chamber	chamber	1.8475763E-8
+509	1	fuel	CREATE	-	chamber	2.6522842E-10
+509	2	piston	MOVE	?	?	0.93309492
+509	2	piston	NONE	?	?	0.066904224
+509	2	piston	DESTROY	?	-	7.6665538E-7
+509	2	piston	CREATE	-	?	9.9201934E-8
+509	3	fuel	DESTROY	?	-	0.56962812
+509	3	fuel	NONE	?	?	0.3658475
+509	3	fuel	MOVE	?	?	0.06437169
+509	3	fuel	CREATE	-	?	1.5270039E-4
+509	4	fuel	DESTROY	?	-	0.99888957
+509	4	fuel	MOVE	?	?	0.0010480743
+509	4	fuel	NONE	?	?	5.9343769E-5
+509	4	fuel	CREATE	-	?	3.0300509E-6
+509	5	chemical energy	DESTROY	?	-	0.9021565
+509	5	chemical energy	CREATE	-	?	0.05680306
+509	5	chemical energy	MOVE	?	?	0.03989257
+509	5	chemical energy	NONE	?	?	0.00114788
+509	5	thermal energy	CREATE	-	?	0.99999905
+509	5	thermal energy	MOVE	?	?	9.1239468E-7
+509	5	thermal energy	NONE	?	?	1.5239788E-8
+509	5	thermal energy	DESTROY	?	-	1.271346E-9
+509	6	explosion	MOVE	?	?	0.9547146
+509	6	explosion	NONE	?	?	0.045259751
+509	6	explosion	CREATE	-	?	2.3513316E-5
+509	6	explosion	DESTROY	?	-	2.133459E-6
+509	6	piston	NONE	?	?	0.99859667
+509	6	piston	MOVE	?	?	0.0013907237
+509	6	piston	DESTROY	?	-	1.2062139E-5
+509	6	piston	CREATE	-	?	5.1652137E-7
+509	7	piston	MOVE	?	?	0.90029609
+509	7	piston	NONE	?	?	0.099701367
+509	7	piston	CREATE	-	?	2.0185325E-6
+509	7	piston	DESTROY	?	-	4.9620394E-7
+509	8	fuel	DESTROY	?	-	0.9909687
+509	8	fuel	NONE	?	?	0.0056377519
+509	8	fuel	MOVE	?	?	0.0033934494
+509	8	fuel	CREATE	-	?	8.2438952E-8
+509	9	fuel	NONE	?	?	0.99992061
+509	9	fuel	DESTROY	?	-	7.8354009E-5
+509	9	fuel	MOVE	?	?	5.7722082E-7
+509	9	fuel	CREATE	-	?	4.3823783E-7
+509	9	new fuel	NONE	?	?	0.96631992
+509	9	new fuel	DESTROY	?	-	0.028879942
+509	9	new fuel	CREATE	-	?	0.0042128195
+509	9	new fuel	MOVE	?	?	5.8732799E-4
+446	1	magma	MOVE	volcano	?	0.99994534
+446	1	magma	NONE	?	?	3.8693979E-5
+446	1	magma	DESTROY	volcano	-	1.5951178E-5
+446	1	magma	CREATE	-	?	2.1383428E-8
+446	2	magma	NONE	?	?	0.99999404
+446	2	magma	MOVE	?	?	5.2856708E-6
+446	2	magma	DESTROY	?	-	6.5906033E-7
+446	2	magma	CREATE	-	?	7.0418626E-9
+446	3	magma	DESTROY	?	-	0.9999947
+446	3	magma	NONE	?	?	5.2429505E-6
+446	3	magma	MOVE	?	?	7.006021E-8
+446	3	magma	CREATE	-	?	3.2639811E-11
+446	3	crystals	CREATE	-	igneous  rocks	0.99859875
+446	3	crystals	DESTROY	?	-	0.0013682282
+446	3	crystals	NONE	igneous  rocks	igneous  rocks	1.8840034E-5
+446	3	crystals	MOVE	?	igneous  rocks	1.4183239E-5
+446	3	igneous rocks	CREATE	-	?	0.99998939
+446	3	igneous rocks	NONE	?	?	1.06250573E-5
+446	3	igneous rocks	MOVE	?	?	1.2079196E-10
+446	3	igneous rocks	DESTROY	?	-	1.12599506E-10
+446	4	igneous rocks	NONE	?	?	0.84449279
+446	4	igneous rocks	DESTROY	?	-	0.15549414
+446	4	igneous rocks	CREATE	-	?	1.063986E-5
+446	4	igneous rocks	MOVE	?	?	2.460469E-6
+446	4	sedimentary rocks	CREATE	-	?	0.99999994
+446	4	sedimentary rocks	NONE	?	?	2.8600363E-8
+446	4	sedimentary rocks	MOVE	?	?	2.3023758E-9
+446	4	sedimentary rocks	DESTROY	?	-	8.2470586E-13
+446	5	sedimentary rocks	NONE	?	?	0.99999177
+446	5	sedimentary rocks	DESTROY	?	-	5.4916886E-6
+446	5	sedimentary rocks	CREATE	-	?	2.5336283E-6
+446	5	sedimentary rocks	MOVE	?	?	2.278246E-7
+446	5	metamorphic rock	CREATE	-	?	0.99998593
+446	5	metamorphic rock	NONE	?	?	1.3351619E-5
+446	5	metamorphic rock	MOVE	?	?	6.9099599E-7
+446	5	metamorphic rock	DESTROY	?	-	5.9558314E-9
+446	6	magma	CREATE	-	?	0.99917442
+446	6	magma	MOVE	?	?	6.9025956E-4
+446	6	magma	NONE	?	?	1.3394972E-4
+446	6	magma	DESTROY	?	-	1.3685437E-6
+431	1	trash	MOVE	?	household  trashbag	0.99999994
+431	1	trash	NONE	household  trashbag	household  trashbag	4.800177E-8
+431	1	trash	DESTROY	?	-	6.9743886E-9
+431	1	trash	CREATE	-	household  trashbag	6.849501E-10
+431	1	trashbags	NONE	?	?	0.99999982
+431	1	trashbags	CREATE	-	?	1.9628783E-7
+431	1	trashbags	MOVE	?	?	3.3072969E-10
+431	1	trashbags	DESTROY	?	-	2.1486037E-11
+431	2	trashbags	NONE	?	?	0.99997854
+431	2	trashbags	MOVE	?	?	1.9928229E-5
+431	2	trashbags	DESTROY	?	-	1.5233619E-6
+431	2	trashbags	CREATE	-	?	3.7160822E-10
+431	3	trash	NONE	?	?	0.99997652
+431	3	trash	MOVE	?	?	2.3423485E-5
+431	3	trash	CREATE	-	?	3.4156827E-8
+431	3	trash	DESTROY	?	-	6.2213512E-11
+431	3	trash truck	NONE	?	?	0.9999941
+431	3	trash truck	MOVE	?	?	5.8713017E-6
+431	3	trash truck	CREATE	-	?	4.092119E-8
+431	3	trash truck	DESTROY	?	-	8.1904084E-12
+431	4	trash	MOVE	?	landfill	1.0
+431	4	trash	NONE	landfill	landfill	5.0160245E-9
+431	4	trash	DESTROY	?	-	2.1973114E-9
+431	4	trash	CREATE	-	landfill	2.0653279E-10
+431	4	trash truck	MOVE	?	landfill	1.0
+431	4	trash truck	DESTROY	?	-	1.9353958E-9
+431	4	trash truck	NONE	landfill	landfill	1.4431994E-9
+431	4	trash truck	CREATE	-	landfill	1.8761281E-10
+431	5	trash	MOVE	?	?	0.98215556
+431	5	trash	NONE	?	?	0.017842723
+431	5	trash	DESTROY	?	-	1.6340705E-6
+431	5	trash	CREATE	-	?	8.3420964E-8
+1113	1	rainwater	MOVE	?	carbon	0.99999821
+1113	1	rainwater	NONE	carbon	carbon	1.792637E-6
+1113	1	rainwater	CREATE	-	carbon	6.0416222E-10
+1113	1	rainwater	DESTROY	?	-	3.5408504E-10
+1113	1	carbon dioxide	MOVE	air	rainwater	0.99999994
+1113	1	carbon dioxide	DESTROY	air	-	3.420535E-8
+1113	1	carbon dioxide	NONE	rainwater	rainwater	2.3600759E-8
+1113	1	carbon dioxide	CREATE	-	rainwater	1.5482678E-9
+1113	2	rainwater	MOVE	?	soil	0.99997842
+1113	2	rainwater	NONE	soil	soil	2.0602527E-5
+1113	2	rainwater	DESTROY	?	-	9.9945862E-7
+1113	2	rainwater	CREATE	-	soil	3.8827923E-9
+1113	3	carbon dioxide	MOVE	?	soil	0.99999148
+1113	3	carbon dioxide	DESTROY	?	-	8.1702765E-6
+1113	3	carbon dioxide	NONE	soil	soil	3.4259992E-7
+1113	3	carbon dioxide	CREATE	-	soil	8.3114293E-10
+1113	3	water	NONE	?	?	0.99796504
+1113	3	water	MOVE	?	?	0.0020349077
+1113	3	water	DESTROY	?	-	7.3556862E-8
+1113	3	water	CREATE	-	?	7.4693052E-10
+1113	4	water	DESTROY	?	-	0.96916574
+1113	4	water	NONE	?	?	0.030834127
+1113	4	water	MOVE	?	?	1.4118318E-7
+1113	4	water	CREATE	-	?	1.4837632E-8
+1113	4	weak acid	CREATE	-	?	0.99999976
+1113	4	weak acid	MOVE	?	?	2.1480915E-7
+1113	4	weak acid	NONE	?	?	4.6972424E-8
+1113	4	weak acid	DESTROY	?	-	1.378443E-12
+1113	5	water	NONE	?	?	0.61199152
+1113	5	water	DESTROY	?	-	0.38783807
+1113	5	water	MOVE	?	?	1.7027507E-4
+1113	5	water	CREATE	-	?	1.5390958E-7
+1113	5	limestone	NONE	?	?	0.92533177
+1113	5	limestone	DESTROY	?	-	0.070843823
+1113	5	limestone	MOVE	?	?	0.0029059555
+1113	5	limestone	CREATE	-	?	9.1843068E-4
+1113	6	limestone	NONE	?	?	0.98929465
+1113	6	limestone	DESTROY	?	-	0.010532688
+1113	6	limestone	CREATE	-	?	1.6662003E-4
+1113	6	limestone	MOVE	?	?	6.0414322E-6
+1113	6	caves	DESTROY	?	-	0.57966751
+1113	6	caves	NONE	?	?	0.41878849
+1113	6	caves	CREATE	-	?	0.0013927364
+1113	6	caves	MOVE	?	?	1.5129744E-4
+272	1	fuel	MOVE	?	generator	0.999906
+272	1	fuel	NONE	generator	generator	9.2795628E-5
+272	1	fuel	DESTROY	?	-	1.1922684E-6
+272	1	fuel	CREATE	-	generator	9.4508201E-10
+272	2	mechanical energy	DESTROY	?	-	0.99823201
+272	2	mechanical energy	CREATE	-	?	0.0016994146
+272	2	mechanical energy	MOVE	?	?	3.5025932E-5
+272	2	mechanical energy	NONE	?	?	3.3579548E-5
+272	2	electrical energy	CREATE	-	generator	0.99999964
+272	2	electrical energy	MOVE	?	generator	3.3091914E-7
+272	2	electrical energy	NONE	generator	generator	3.5614343E-9
+272	2	electrical energy	DESTROY	?	-	2.7101222E-11
+272	3	magnet	MOVE	?	?	0.99999923
+272	3	magnet	NONE	?	?	7.5596847E-7
+272	3	magnet	CREATE	-	?	3.2092874E-8
+272	3	magnet	DESTROY	?	-	6.4354673E-9
+272	4	flow of electrons	CREATE	-	?	0.99999952
+272	4	flow of electrons	NONE	?	?	4.3266186E-7
+272	4	flow of electrons	MOVE	?	?	3.9367702E-8
+272	4	flow of electrons	DESTROY	?	-	5.8303384E-10
+272	5	electricity	MOVE	?	wire	0.99999946
+272	5	electricity	NONE	wire	wire	3.0156193E-7
+272	5	electricity	DESTROY	?	-	2.2113173E-7
+272	5	electricity	CREATE	-	wire	6.2881267E-10
+272	6	electricity	MOVE	?	generator	0.99999988
+272	6	electricity	DESTROY	?	-	8.5791555E-8
+272	6	electricity	NONE	generator	generator	4.3872626E-9
+272	6	electricity	CREATE	-	generator	1.0028585E-9
+631	1	trash	MOVE	?	?	0.72231072
+631	1	trash	NONE	?	?	0.27533489
+631	1	trash	CREATE	-	?	0.002178866
+631	1	trash	DESTROY	?	-	1.7554552E-4
+631	1	bags	NONE	?	?	0.99961841
+631	1	bags	MOVE	?	?	3.144645E-4
+631	1	bags	DESTROY	?	-	5.1276162E-5
+631	1	bags	CREATE	-	?	1.5821932E-5
+631	2	bags	MOVE	?	trashcan	0.99999988
+631	2	bags	DESTROY	?	-	7.3556855E-8
+631	2	bags	NONE	trashcan	trashcan	7.0475785E-8
+631	2	bags	CREATE	-	trashcan	1.0153052E-9
+631	2	trashcan	NONE	?	?	0.9999994
+631	2	trashcan	CREATE	-	?	5.6826292E-7
+631	2	trashcan	MOVE	?	?	1.4980523E-9
+631	2	trashcan	DESTROY	?	-	2.8445636E-11
+631	3	trashcan	NONE	?	?	0.99091202
+631	3	trashcan	MOVE	?	?	0.0067164609
+631	3	trashcan	CREATE	-	?	0.0023694229
+631	3	trashcan	DESTROY	?	-	2.1194924E-6
+631	4	trash	NONE	?	?	0.9999994
+631	4	trash	MOVE	?	?	3.9149964E-7
+631	4	trash	CREATE	-	?	1.7678613E-7
+631	4	trash	DESTROY	?	-	7.6274391E-9
+631	4	trash truck	NONE	?	?	0.99959934
+631	4	trash truck	MOVE	?	?	3.5993036E-4
+631	4	trash truck	CREATE	-	?	4.0256487E-5
+631	4	trash truck	DESTROY	?	-	4.7936646E-7
+631	4	truck	NONE	?	?	0.99999952
+631	4	truck	CREATE	-	?	3.253723E-7
+631	4	truck	MOVE	?	?	1.2599875E-7
+631	4	truck	DESTROY	?	-	3.1709053E-9
+631	5	trash	NONE	?	?	0.99999946
+631	5	trash	MOVE	?	?	5.6231193E-7
+631	5	trash	CREATE	-	?	1.0784964E-9
+631	5	trash	DESTROY	?	-	2.6456006E-11
+631	5	truck	NONE	?	?	0.99999994
+631	5	truck	MOVE	?	?	3.9373198E-8
+631	5	truck	CREATE	-	?	1.6887502E-11
+631	5	truck	DESTROY	?	-	6.8984376E-12
+631	6	truck	MOVE	?	landfill	1.0
+631	6	truck	NONE	landfill	landfill	1.0034E-9
+631	6	truck	DESTROY	?	-	2.0568013E-10
+631	6	truck	CREATE	-	landfill	5.3135874E-11
+631	7	truck	MOVE	?	landfill	1.0
+631	7	truck	NONE	landfill	landfill	2.5389497E-9
+631	7	truck	DESTROY	?	-	7.5747258E-10
+631	7	truck	CREATE	-	landfill	1.3735083E-10
+1008	3	enzymes	CREATE	-	?	0.521285
+1008	3	enzymes	NONE	?	?	0.4786984
+1008	3	enzymes	DESTROY	?	-	9.7118345E-6
+1008	3	enzymes	MOVE	?	?	6.9245234E-6
+1008	4	enzymes	NONE	?	?	0.99921441
+1008	4	enzymes	MOVE	?	?	7.3295739E-4
+1008	4	enzymes	DESTROY	?	-	5.263471E-5
+1008	4	enzymes	CREATE	-	?	1.3031258E-9
+1008	4	plant cells	NONE	?	?	0.8912825
+1008	4	plant cells	MOVE	?	?	0.10758016
+1008	4	plant cells	DESTROY	?	-	0.001137356
+1008	4	plant cells	CREATE	-	?	4.1771409E-9
+1008	4	components	NONE	?	?	0.99999696
+1008	4	components	MOVE	?	?	3.0200169E-6
+1008	4	components	CREATE	-	?	7.5562649E-9
+1008	4	components	DESTROY	?	-	3.9187012E-10
+1008	5	bacteria	NONE	?	?	1.0
+1008	5	bacteria	CREATE	-	?	1.0063714E-8
+1008	5	bacteria	MOVE	?	?	5.9048533E-10
+1008	5	bacteria	DESTROY	?	-	4.6900323E-10
+1008	5	components	NONE	?	?	0.99999928
+1008	5	components	CREATE	-	?	7.2262469E-7
+1008	5	components	MOVE	?	?	1.1442936E-8
+1008	5	components	DESTROY	?	-	6.9884154E-10
+1259	1	web	NONE	?	?	0.999999046
+1259	1	web	MOVE	?	?	8.55704172E-7
+1259	1	web	CREATE	-	?	1.01002655E-7
+1259	1	web	DESTROY	?	-	1.61695567E-13
+1259	2	thread	MOVE	?	?	0.99126238
+1259	2	thread	NONE	?	?	0.0087023852
+1259	2	thread	CREATE	-	?	3.5249752E-5
+1259	2	thread	DESTROY	?	-	2.3982918E-9
+1259	4	thread	NONE	?	?	0.82987517
+1259	4	thread	CREATE	-	?	0.17004246
+1259	4	thread	MOVE	?	?	7.5546865E-5
+1259	4	thread	DESTROY	?	-	6.8177815E-6
+1259	4	web	CREATE	-	?	0.99984848
+1259	4	web	NONE	?	?	1.5128954E-4
+1259	4	web	MOVE	?	?	2.3869796E-7
+1259	4	web	DESTROY	?	-	1.6433593E-9
+1259	5	web	NONE	?	?	0.99999988
+1259	5	web	MOVE	?	?	1.0034545E-7
+1259	5	web	CREATE	-	?	3.0374512E-8
+1259	5	web	DESTROY	?	-	7.8762795E-12
+1226	1	food	MOVE	?	gut	0.99999434
+1226	1	food	NONE	gut	gut	5.643104E-6
+1226	1	food	DESTROY	?	-	3.4090558E-10
+1226	1	food	CREATE	-	gut	3.1785047E-10
+1226	2	enyzmes	CREATE	-	pancreas	0.99861085
+1226	2	enyzmes	NONE	pancreas	pancreas	0.0013859994
+1226	2	enyzmes	MOVE	?	pancreas	3.1396066E-6
+1226	2	enyzmes	DESTROY	?	-	1.0112495E-8
+1226	3	fat	NONE	?	?	0.51861691
+1226	3	fat	DESTROY	?	-	0.48120311
+1226	3	fat	MOVE	?	?	1.2530228E-4
+1226	3	fat	CREATE	-	?	5.4697717E-5
+1226	4	carbohydrates	NONE	?	?	0.97375298
+1226	4	carbohydrates	DESTROY	?	-	0.023013467
+1226	4	carbohydrates	MOVE	?	?	0.0031937859
+1226	4	carbohydrates	CREATE	-	?	3.9771341E-5
+1226	5	food	NONE	?	?	0.82814449
+1226	5	food	DESTROY	?	-	0.16943644
+1226	5	food	CREATE	-	?	0.0024187262
+1226	5	food	MOVE	?	?	3.0584732E-7
+1002	1	dirty laundry	MOVE	?	?	0.99999982
+1002	1	dirty laundry	NONE	?	?	1.8414686E-7
+1002	1	dirty laundry	DESTROY	?	-	7.2516348E-9
+1002	1	dirty laundry	CREATE	-	?	5.0656004E-11
+1002	2	laundry detergent	MOVE	?	?	0.99999982
+1002	2	laundry detergent	NONE	?	?	1.6393815E-7
+1002	2	laundry detergent	DESTROY	?	-	1.6525394E-8
+1002	2	laundry detergent	CREATE	-	?	8.6482054E-12
+634	1	electricity	MOVE	?	power  supply	0.99905658
+634	1	electricity	DESTROY	?	-	5.5607059E-4
+634	1	electricity	NONE	power  supply	power  supply	3.1491515E-4
+634	1	electricity	CREATE	-	power  supply	7.2424671E-5
+634	2	electricity	CREATE	-	?	0.79692227
+634	2	electricity	NONE	?	?	0.19148311
+634	2	electricity	DESTROY	?	-	0.010875804
+634	2	electricity	MOVE	?	?	7.1883918E-4
+634	3	electricity	CREATE	-	?	0.99291784
+634	3	electricity	MOVE	?	?	0.0049541881
+634	3	electricity	DESTROY	?	-	0.002121177
+634	3	electricity	NONE	?	?	6.7736773E-6
+634	4	electricity	DESTROY	?	-	0.99999613
+634	4	electricity	NONE	?	?	3.8772796E-6
+634	4	electricity	MOVE	?	?	3.9165907E-10
+634	4	electricity	CREATE	-	?	3.7083642E-11
+634	5	visual signals	CREATE	-	?	0.99999952
+634	5	visual signals	NONE	?	?	2.7368276E-7
+634	5	visual signals	MOVE	?	?	2.2948801E-7
+634	5	visual signals	DESTROY	?	-	4.2692878E-13
+634	6	energy	DESTROY	?	-	0.9999994
+634	6	energy	NONE	?	?	5.7052239E-7
+634	6	energy	MOVE	?	?	5.2307186E-10
+634	6	energy	CREATE	-	?	1.3867917E-12
+634	6	computations	CREATE	-	?	0.99999452
+634	6	computations	NONE	?	?	5.2845039E-6
+634	6	computations	MOVE	?	?	1.7044975E-7
+634	6	computations	DESTROY	?	-	8.1679004E-12
+544	1	fluids and liquids	CREATE	-	?	0.99998963
+544	1	fluids and liquids	MOVE	?	?	8.0048876E-6
+544	1	fluids and liquids	NONE	?	?	2.1867309E-6
+544	1	fluids and liquids	DESTROY	?	-	1.7046892E-7
+544	1	fluid	CREATE	-	?	0.98916954
+544	1	fluid	NONE	?	?	0.010735009
+544	1	fluid	MOVE	?	?	7.0866088E-5
+544	1	fluid	DESTROY	?	-	2.4561934E-5
+544	2	fluid	MOVE	?	?	0.88295072
+544	2	fluid	NONE	?	?	0.11495888
+544	2	fluid	DESTROY	?	-	0.0020783674
+544	2	fluid	CREATE	-	?	1.2054856E-5
+544	3	toxins	CREATE	-	?	0.99926269
+544	3	toxins	NONE	?	?	7.3549338E-4
+544	3	toxins	MOVE	?	?	1.4374854E-6
+544	3	toxins	DESTROY	?	-	3.9351545E-7
+544	4	urine	CREATE	-	?	0.99982995
+544	4	urine	NONE	?	?	1.564969E-4
+544	4	urine	MOVE	?	?	1.3352541E-5
+544	4	urine	DESTROY	?	-	1.858777E-7
+544	5	urine	CREATE	-	?	0.99612844
+544	5	urine	NONE	?	?	0.0038015817
+544	5	urine	MOVE	?	?	6.5163425E-5
+544	5	urine	DESTROY	?	-	4.8235697E-6
+544	6	nutrients	MOVE	?	body	0.99999976
+544	6	nutrients	NONE	body	body	2.423387E-7
+544	6	nutrients	DESTROY	?	-	6.1818648E-9
+544	6	nutrients	CREATE	-	body	3.4183708E-11
+825	1	uranium	NONE	?	?	0.9488192
+825	1	uranium	MOVE	?	?	0.03998676
+825	1	uranium	CREATE	-	?	0.00927244
+825	1	uranium	DESTROY	?	-	0.00192155
+825	2	uranium	CREATE	-	?	0.99996257
+825	2	uranium	NONE	?	?	2.0214778E-5
+825	2	uranium	MOVE	?	?	1.5874042E-5
+825	2	uranium	DESTROY	?	-	1.3643227E-6
+825	3	uranium	DESTROY	?	-	0.99999839
+825	3	uranium	MOVE	?	?	1.602866E-6
+825	3	uranium	NONE	?	?	1.6627336E-8
+825	3	uranium	CREATE	-	?	9.8366497E-9
+825	4	uranium	DESTROY	?	-	0.9229449
+825	4	uranium	NONE	?	?	0.05881793
+825	4	uranium	MOVE	?	?	0.01769174
+825	4	uranium	CREATE	-	?	5.454025E-4
+825	4	uranium atoms	CREATE	-	?	0.5088735
+825	4	uranium atoms	DESTROY	?	-	0.471458
+825	4	uranium atoms	MOVE	?	?	0.01718177
+825	4	uranium atoms	NONE	?	?	0.00248674
+825	5	uranium	NONE	?	?	0.99994648
+825	5	uranium	CREATE	-	?	5.2356456E-5
+825	5	uranium	MOVE	?	?	1.1808681E-6
+825	5	uranium	DESTROY	?	-	1.7877237E-9
+825	5	heat energy	CREATE	-	?	0.99355394
+825	5	heat energy	MOVE	?	?	0.0064316108
+825	5	heat energy	DESTROY	?	-	8.185586E-6
+825	5	heat energy	NONE	?	?	6.2746462E-6
+825	6	heat energy	DESTROY	?	-	1.0
+825	6	heat energy	NONE	?	?	7.9785494E-9
+825	6	heat energy	CREATE	-	?	4.8960729E-9
+825	6	heat energy	MOVE	?	?	3.5248482E-9
+825	6	water	DESTROY	?	-	0.99999839
+825	6	water	NONE	?	?	1.2615474E-6
+825	6	water	MOVE	?	?	2.9296726E-7
+825	6	water	CREATE	-	?	4.5698997E-8
+825	6	steam	CREATE	-	?	0.99999911
+825	6	steam	MOVE	?	?	8.5217636E-7
+825	6	steam	NONE	?	?	3.2174142E-8
+825	6	steam	DESTROY	?	-	1.5846184E-11
+825	7	steam	MOVE	?	?	0.62240422
+825	7	steam	NONE	?	?	0.37668902
+825	7	steam	DESTROY	?	-	9.0635952E-4
+825	7	steam	CREATE	-	?	3.7682915E-7
+825	9	electricity	CREATE	-	generators	0.99999636
+825	9	electricity	MOVE	?	generators	2.4793801E-6
+825	9	electricity	NONE	generators	generators	1.1400651E-6
+825	9	electricity	DESTROY	?	-	1.2902966E-10
+825	10	water	NONE	?	?	0.99929059
+825	10	water	CREATE	-	?	6.9060613E-4
+825	10	water	DESTROY	?	-	1.8715418E-5
+825	10	water	MOVE	?	?	9.3119098E-8
+825	10	steam	MOVE	?	water	0.99979627
+825	10	steam	DESTROY	?	-	2.0370026E-4
+825	10	steam	NONE	water	water	2.3901293E-8
+825	10	steam	CREATE	-	water	4.7965432E-9
+610	1	fuel	NONE	?	?	0.97696662
+610	1	fuel	DESTROY	?	-	0.023033082
+610	1	fuel	CREATE	-	?	1.6173928E-7
+610	1	fuel	MOVE	?	?	1.2233757E-7
+610	2	fuel	DESTROY	?	-	0.99985307
+610	2	fuel	NONE	?	?	1.4692303E-4
+610	2	fuel	MOVE	?	?	4.0219796E-9
+610	2	fuel	CREATE	-	?	2.8123825E-9
+610	3	air	MOVE	?	cylinder	0.99608284
+610	3	air	NONE	cylinder	cylinder	0.0039162184
+610	3	air	CREATE	-	cylinder	8.9973895E-7
+610	3	air	DESTROY	?	-	1.2359194E-8
+610	4	air	NONE	?	?	0.99898034
+610	4	air	MOVE	?	?	0.0010184508
+610	4	air	DESTROY	?	-	1.155488E-6
+610	4	air	CREATE	-	?	3.8329972E-8
+610	5	fuel	NONE	?	?	0.67403531
+610	5	fuel	MOVE	?	?	0.32517484
+610	5	fuel	DESTROY	?	-	7.8959664E-4
+610	5	fuel	CREATE	-	?	2.6373758E-7
+610	5	air	MOVE	?	?	0.99959117
+610	5	air	NONE	?	?	2.5894059E-4
+610	5	air	DESTROY	?	-	1.4988476E-4
+610	5	air	CREATE	-	?	1.3093087E-9
+610	5	spark	MOVE	?	?	0.92549324
+610	5	spark	NONE	?	?	0.074448705
+610	5	spark	DESTROY	?	-	5.7412701E-5
+610	5	spark	CREATE	-	?	6.6007095E-7
+610	6	pressure	MOVE	?	piston	0.99975735
+610	6	pressure	NONE	piston	piston	2.4135786E-4
+610	6	pressure	DESTROY	?	-	9.364785E-7
+610	6	pressure	CREATE	-	piston	3.5593391E-7
+610	8	air	MOVE	?	cylinder	0.99994552
+610	8	air	DESTROY	?	-	4.8192564E-5
+610	8	air	NONE	cylinder	cylinder	6.2575486E-6
+610	8	air	CREATE	-	cylinder	7.6775392E-10
+1112	1	limestone	NONE	?	?	0.79472011
+1112	1	limestone	CREATE	-	?	0.20526335
+1112	1	limestone	DESTROY	?	-	8.5872252E-6
+1112	1	limestone	MOVE	?	?	7.9297834E-6
+1112	1	caves	CREATE	-	?	0.99913889
+1112	1	caves	NONE	?	?	8.5995637E-4
+1112	1	caves	MOVE	?	?	1.1417478E-6
+1112	1	caves	DESTROY	?	-	2.2521348E-8
+1112	2	carbon dioxide	MOVE	air	rain	0.9998886
+1112	2	carbon dioxide	DESTROY	air	-	1.11325E-4
+1112	2	carbon dioxide	NONE	rain	rain	4.7773938E-8
+1112	2	carbon dioxide	CREATE	-	rain	2.8733428E-8
+1112	2	rain	NONE	?	?	0.99941379
+1112	2	rain	CREATE	-	?	3.44659E-4
+1112	2	rain	MOVE	?	?	2.1762893E-4
+1112	2	rain	DESTROY	?	-	2.3925933E-5
+1112	3	rain	NONE	?	?	0.96019483
+1112	3	rain	MOVE	?	?	0.03582276
+1112	3	rain	CREATE	-	?	0.0039381781
+1112	3	rain	DESTROY	?	-	4.4211454E-5
+1112	3	acid	NONE	?	?	0.99987268
+1112	3	acid	CREATE	-	?	1.0010041E-4
+1112	3	acid	MOVE	?	?	2.7216536E-5
+1112	3	acid	DESTROY	?	-	1.9288544E-10
+1112	4	acid	NONE	?	?	0.99999535
+1112	4	acid	MOVE	?	?	4.2091133E-6
+1112	4	acid	CREATE	-	?	4.4687206E-7
+1112	4	acid	DESTROY	?	-	1.965144E-10
+1112	4	limestone	NONE	?	?	0.9999999
+1112	4	limestone	CREATE	-	?	6.36811E-8
+1112	4	limestone	MOVE	?	?	4.223016E-8
+1112	4	limestone	DESTROY	?	-	4.960087E-11
+1112	5	caves	CREATE	-	?	0.99996293
+1112	5	caves	NONE	?	?	3.6864574E-5
+1112	5	caves	MOVE	?	?	2.2072459E-7
+1112	5	caves	DESTROY	?	-	2.5425943E-11

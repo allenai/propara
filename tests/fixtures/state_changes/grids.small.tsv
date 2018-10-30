@@ -1,0 +1,61 @@
+4	SID	PARTICIPANTS	plants	bacteria	sediment	oil
+4		PROMPT: How does oil form?	-=====	-=====	-=====	-=====
+4	state1		?	?	?	-
+4	event1	Plants die.
+4	state2		?	?	?	-
+4	event2	They are buried in sediment.
+4	state3		sediment	?	?	-
+4	event3	Bacteria is buried in the sediment.
+4	state4		sediment	sediment	?	-
+4	event4	Large amounts of sediment gradually pile on top of the original sediment.
+4	state5		sediment	sediment	?	-
+4	event5	Pressure builds up.
+4	state6		sediment	sediment	?	-
+4	event6	Heat increases.
+4	state7		sediment	sediment	?	-
+4	event7	The chemical structure of the buried sediment and plants changes.
+4	state8		sediment	sediment	?	-
+4	event8	The sediment and plants are at least one mile underground.
+4	state9		one mile underground	sediment	underground	-
+4	event9	The buried area is extremely hot.
+4	state10		one mile underground	sediment	underground	-
+4	event10	More chemical changes happen eand the buried material becomes oil.
+4	state11		-	-	underground	underground
+
+
+5	SID	PARTICIPANTS	algae	plankton	sediment	material	oil
+5		PROMPT: How does oil form?	-=====	-=====	-=====	-=====	-=====
+5	state1		?	?	seafloor	-	-
+5	event1	Algae and plankton die.
+5	state2		seafloor	seafloor	seafloor	-	-
+5	event2	The dead algae and plankton end up part of sediment on a seafloor.
+5	state3		-	-	seafloor	-	-
+5	event3	The sediment breaks down.
+5	state4		-	-	seafloor	-	-
+5	event4	The bottom layers of sediment become compacted by pressure.
+5	state5		-	-	seafloor	-	-
+5	event5	Higher pressure causes the sediment to heat up.
+5	state6		-	-	seafloor	-	-
+5	event6	The heat causes chemical processes.
+5	state7		-	-	-	seafloor	-
+5	event7	The material becomes a liquid.
+5	state8		-	-	-	-	rock
+5	event8	Is known as oil.
+5	state9		-	-	-	-	rock
+5	event9	Oil moves up through rock.
+5	state10		-	-	-	-	rock
+
+
+1299	SID	PARTICIPANTS	blood ; clean blood	waste	urine
+1299		PROMPT: How do kidneys filter blood?	-=====	-=====	-=====
+1299	state1		?	-	-
+1299	event1	Blood enters the kidney.
+1299	state2		kidney	-	-
+1299	event2	The blood travels into the neophrons.
+1299	state3		neophron	-	-
+1299	event3	Waste is expelled via the neophrons.
+1299	state4		neophron	bladder	-
+1299	event4	The waste goes to the bladder in the form of urine.
+1299	state5		neophron	-	bladder
+1299	event5	The clean blood exits the kidneys.
+1299	state6		?	-	bladder

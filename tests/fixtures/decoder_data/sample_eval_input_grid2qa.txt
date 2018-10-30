@@ -1,0 +1,268 @@
+514	0	snow	DESTROY	?	-
+514	1	snow	NONE	?	?
+514	2	snow	NONE	?	?
+514	3	snow	NONE	?	?
+514	4	mass	NONE	?	?
+514	5	glacier	CREATE	-	?
+514	6	glacier	NONE	?	?
+445	0	magma	MOVE	volcano	?
+445	1	magma	NONE	?	?
+445	2	rock	NONE	?	?
+445	3	rock	NONE	?	?
+445	4	rock	NONE	?	?
+445	5	rock	CREATE	-	?
+445	6	rock	NONE	?	?
+394	0	fuel	DESTROY	?	-
+394	1	water	DESTROY	?	-
+394	2	steam	MOVE	?	?
+394	3	generator	CREATE	-	?
+394	4	electricity	CREATE	-	?
+394	5	electricity	MOVE	?	transformers
+394	6	voltage	NONE	?	?
+708	0	rock	NONE	?	?
+708	1	sediment	NONE	?	?
+708	2	sediment	CREATE	-	?
+708	3	sediment	CREATE	-	?
+708	4	rock	CREATE	-	?
+708	5	rock	NONE	?	?
+708	6	rock	NONE	?	?
+708	7	rock	NONE	?	?
+708	8	rock	NONE	surface	surface
+609	0	piston	MOVE	?	?
+609	1	piston	DESTROY	?	-
+609	2	explosion	NONE	?	?
+609	3	piston	NONE	?	?
+609	4	piston	NONE	?	?
+609	5	piston	MOVE	?	?
+349	0	sound	NONE	?	?
+349	1	sound	NONE	?	?
+349	2	sound	MOVE	?	object
+349	3	sound	NONE	?	?
+349	4	sound	NONE	?	?
+349	5	sound	NONE	?	?
+349	6	sound	NONE	?	?
+430	0	trash	NONE	?	?
+430	1	trash	NONE	house	house
+430	2	trash	MOVE	?	?
+430	3	trash	MOVE	curbside	?
+430	4	trash	NONE	?	?
+430	5	trash	MOVE	?	truck
+430	6	truck	MOVE	?	landfill
+430	7	trash	MOVE	?	?
+430	8	trash	NONE	?	?
+430	9	trash	MOVE	?	landfill
+388	0	waters	MOVE	?	?
+388	1	waters	NONE	?	?
+388	2	turbines	NONE	generators	generators
+388	3	generators	NONE	?	?
+388	4	waters	MOVE	?	dam
+1007	0	plant	DESTROY	?	-
+1007	1	plant	NONE	?	?
+1007	2	material	NONE	?	?
+1007	3	material	DESTROY	?	-
+1007	4	plant	NONE	?	?
+1303	0	food	NONE	?	?
+1303	1	food	NONE	?	?
+1303	2	food	NONE	?	?
+1303	3	food	NONE	?	?
+630	0	trash	MOVE	?	garbage
+630	1	trash	MOVE	?	centralized
+630	2	trash	MOVE	?	?
+630	3	trash	NONE	large  truck	large  truck
+630	4	truck	MOVE	?	landfill
+630	5	trash	MOVE	truck	landfill
+5	0	algae	NONE	?	?
+5	1	algae	NONE	?	?
+5	2	sediment	NONE	?	?
+5	3	sediment	NONE	?	?
+5	4	sediment	NONE	?	?
+5	5	material	DESTROY	?	-
+5	6	oil	CREATE	-	?
+5	7	oil	MOVE	?	?
+543	0	blood	MOVE	?	kidneys
+543	1	blood	NONE	?	?
+543	2	blood	MOVE	?	?
+543	3	waste	DESTROY	?	-
+543	4	urine	CREATE	-	?
+543	5	blood	MOVE	?	body
+432	0	trash	NONE	house	house
+432	1	garbage	NONE	?	?
+432	2	garbage	MOVE	?	sorting  center
+432	3	garbage	NONE	?	?
+432	4	garbage	MOVE	?	?
+432	5	garbage	MOVE	?	landfill
+396	0	uranium fuel	MOVE	?	nuclear  reactor
+396	1	uranium atoms	DESTROY	?	-
+396	2	heat	DESTROY	?	-
+396	3	steam	MOVE	?	turbine
+396	4	electricity	CREATE	-	?
+1114	0	rainwater	MOVE	?	soil
+1114	1	rainwater	MOVE	?	soil
+1114	2	water	MOVE	?	bedrock
+1114	3	bedrock	NONE	?	?
+1114	4	bedrock	DESTROY	?	-
+1114	5	funnels	NONE	?	?
+1114	6	funnels	MOVE	?	?
+1260	0	silk	MOVE	?	spider
+1260	1	web	NONE	?	?
+1260	2	silk	MOVE	?	?
+1260	3	web	CREATE	-	?
+390	0	reservoir	CREATE	-	?
+390	1	water	MOVE	?	?
+390	2	reservoir	NONE	?	?
+390	3	turbine	NONE	?	?
+390	4	water	DESTROY	?	-
+390	5	generator	NONE	?	?
+390	6	high voltage	NONE	?	?
+4	0	plants	DESTROY	?	-
+4	1	sediment	NONE	?	?
+4	2	sediment	NONE	?	?
+4	3	sediment	NONE	?	?
+4	4	plants	NONE	?	?
+4	5	plants	DESTROY	?	-
+4	6	oil	CREATE	-	?
+632	0	electricity	MOVE	?	?
+632	1	electricity	MOVE	?	?
+632	2	electricity	MOVE	?	?
+632	3	heat	MOVE	?	?
+632	4	electricity	MOVE	?	display
+632	5	electricity	NONE	?	?
+758	0	gas	NONE	?	?
+758	1	fuel source	DESTROY	?	-
+758	2	mechanical energy	DESTROY	?	-
+758	3	electrical energy	MOVE	?	?
+758	4	electrons	MOVE	?	?
+758	5	electrons	CREATE	-	?
+608	0	fuel	NONE	?	?
+608	1	fuel	NONE	?	?
+608	2	fuel	DESTROY	?	-
+608	3	piston	NONE	?	?
+608	4	piston	NONE	?	?
+608	5	fuel	NONE	?	?
+608	6	fuel	NONE	?	?
+608	7	piston	NONE	?	?
+608	8	piston	NONE	?	?
+716	0	blood	MOVE	?	kidneys
+716	1	kidney	NONE	?	?
+716	2	blood	MOVE	?	?
+716	3	urine	CREATE	-	?
+716	4	kidney	MOVE	?	urine
+716	5	blood	NONE	body	body
+375	0	electricity	MOVE	?	computer
+375	1	electricity	DESTROY	?	-
+375	2	light	NONE	?	?
+375	3	electricity	NONE	?	?
+375	4	heat	CREATE	-	?
+629	0	trash	MOVE	?	plastic  bag
+629	1	plastic bag	MOVE	?	garbage
+629	2	garbage can	MOVE	?	?
+629	3	garbage truck	MOVE	?	house
+629	4	plastic bag	MOVE	?	truck
+629	5	truck	MOVE	?	landfill
+629	6	trash	MOVE	truck	landfill
+826	0	heat	CREATE	-	?
+826	1	heat	NONE	?	?
+826	2	steam	MOVE	?	turbines
+826	3	electricity	CREATE	-	turbines
+826	4	electricity	MOVE	?	station
+542	0	waste	CREATE	-	blood
+542	1	blood	MOVE	?	kidney
+542	2	blood	NONE	?	?
+542	3	waste	MOVE	?	?
+542	4	blood	MOVE	?	?
+542	5	waste	DESTROY	?	-
+542	6	urine	MOVE	kidney	bladder
+1197	0	food	MOVE	?	mouth
+1197	1	food	NONE	?	?
+1197	2	food	NONE	?	?
+1197	3	food	NONE	?	?
+1197	4	food	MOVE	?	small  intestine
+1197	5	food	NONE	?	?
+1197	6	sugar	MOVE	?	body
+1197	7	sugar	NONE	?	?
+509	0	fuel	MOVE	?	chamber
+509	1	piston	MOVE	?	?
+509	2	fuel	DESTROY	?	-
+509	3	fuel	DESTROY	?	-
+509	4	chemical energy	DESTROY	?	-
+509	5	explosion	MOVE	?	?
+509	6	piston	MOVE	?	?
+509	7	fuel	DESTROY	?	-
+509	8	fuel	NONE	?	?
+446	0	magma	MOVE	volcano	?
+446	1	magma	NONE	?	?
+446	2	magma	DESTROY	?	-
+446	3	igneous rocks	NONE	?	?
+446	4	sedimentary rocks	NONE	?	?
+446	5	magma	CREATE	-	?
+431	0	trash	MOVE	?	household  trashbag
+431	1	trashbags	NONE	?	?
+431	2	trash	NONE	?	?
+431	3	trash	MOVE	?	landfill
+431	4	trash	MOVE	?	?
+1113	0	rainwater	MOVE	?	carbon
+1113	1	rainwater	MOVE	?	soil
+1113	2	carbon dioxide	MOVE	?	soil
+1113	3	water	DESTROY	?	-
+1113	4	water	NONE	?	?
+1113	5	limestone	NONE	?	?
+272	0	fuel	MOVE	?	generator
+272	1	mechanical energy	DESTROY	?	-
+272	2	magnet	MOVE	?	?
+272	3	flow of electrons	CREATE	-	?
+272	4	electricity	MOVE	?	wire
+272	5	electricity	MOVE	?	generator
+631	0	trash	MOVE	?	?
+631	1	bags	MOVE	?	trashcan
+631	2	trashcan	NONE	?	?
+631	3	trash	NONE	?	?
+631	4	trash	NONE	?	?
+631	5	truck	MOVE	?	landfill
+631	6	truck	MOVE	?	landfill
+1008	0	enzymes	CREATE	-	?
+1008	1	enzymes	NONE	?	?
+1008	2	bacteria	NONE	?	?
+1259	0	web	NONE	?	?
+1259	1	thread	MOVE	?	?
+1259	2	thread	NONE	?	?
+1259	3	web	NONE	?	?
+1226	0	food	MOVE	?	gut
+1226	1	enyzmes	CREATE	-	pancreas
+1226	2	fat	NONE	?	?
+1226	3	carbohydrates	NONE	?	?
+1226	4	food	NONE	?	?
+1002	0	dirty laundry	MOVE	?	?
+1002	1	laundry detergent	MOVE	?	?
+634	0	electricity	MOVE	?	power  supply
+634	1	electricity	CREATE	-	?
+634	2	electricity	CREATE	-	?
+634	3	electricity	DESTROY	?	-
+634	4	visual signals	CREATE	-	?
+634	5	energy	DESTROY	?	-
+544	0	fluids and liquids	CREATE	-	?
+544	1	fluid	MOVE	?	?
+544	2	toxins	CREATE	-	?
+544	3	urine	CREATE	-	?
+544	4	urine	CREATE	-	?
+544	5	nutrients	MOVE	?	body
+825	0	uranium	NONE	?	?
+825	1	uranium	CREATE	-	?
+825	2	uranium	DESTROY	?	-
+825	3	uranium	DESTROY	?	-
+825	4	uranium	NONE	?	?
+825	5	heat energy	DESTROY	?	-
+825	6	steam	MOVE	?	?
+825	7	electricity	CREATE	-	generators
+825	8	water	NONE	?	?
+610	0	fuel	NONE	?	?
+610	1	fuel	DESTROY	?	-
+610	2	air	MOVE	?	cylinder
+610	3	air	NONE	?	?
+610	4	fuel	MOVE	?	?
+610	5	pressure	MOVE	?	piston
+610	6	air	MOVE	?	cylinder
+1112	0	limestone	NONE	?	?
+1112	1	carbon dioxide	MOVE	air	rain
+1112	2	rain	NONE	?	?
+1112	3	acid	NONE	?	?
+1112	4	caves	CREATE	-	?
