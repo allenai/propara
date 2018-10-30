@@ -1,6 +1,6 @@
 # EMNLP 2018 Update
 Data and code related to our recent [EMNLP'18 paper] (https://arxiv.org/abs/1808.10012) is released on 31st Oct 2018.
-Contributors: Niket Tandon, Bhavana Dalvi Mishra, Joel Grus
+**Code contributors: Niket Tandon, Bhavana Dalvi Mishra, Joel Grus
 
 Detailed instructions to train your own ProStruct model can be found at: data/emnlp18/README.md
 
@@ -20,14 +20,14 @@ These models are built using the PyTorch-based deep-learning NLP library, [Allen
 ProLocal and Proglobal are described in our NAACL'18 paper.
 
   ```
-    Reasoning about Actions and State Changes by Injecting Commonsense Knowledge, Bhavana Dalvi Mishra, Lifu Huang, Niket Tandon, Wen-tau Yih, Peter Clark, NAACL 2018```
+    Reasoning about Actions and State Changes by Injecting Commonsense Knowledge, Bhavana Dalvi Mishra, Lifu Huang, Niket Tandon, Wen-tau Yih, Peter Clark, NAACL 2018
   ```
   ** Bhavana Dalvi Mishra and Lifu Huang contributed equally to this work.
 
 
 ProStruct model is described in our EMNLP'18 paper:
    ```
-    Reasoning about Actions and State Changes by Injecting Commonsense Knowledge, Niket Tandon, Bhavana Dalvi Mishra, Joel Grus, Wen-tau Yih, Antoine Bosselut, Peter Clark, EMNLP 2018```
+    Reasoning about Actions and State Changes by Injecting Commonsense Knowledge, Niket Tandon, Bhavana Dalvi Mishra, Joel Grus, Wen-tau Yih, Antoine Bosselut, Peter Clark, EMNLP 2018
    ```
    ** Niket Tandon and Bhavana Dalvi Mishra contributed equally to this work.
 
