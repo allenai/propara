@@ -2,8 +2,8 @@
 #  2. input commonsense based on para_id.
 #  3. (resulting input to beam) score per step
 #      based on model score and paragraph coherence.
-from processes.commonsense import model_output_loader
-from processes.commonsense.background_knowledge.kb import KB
+from propara.commonsense import model_output_loader
+from propara.commonsense.background_knowledge.kb import KB
 
 
 class BackgroundInjection:

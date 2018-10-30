@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from processes.evaluation.metrics import Metrics
+from propara.evaluation.metrics import Metrics
 
 
 class TestMetrics(TestCase):

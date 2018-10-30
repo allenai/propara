@@ -1,6 +1,6 @@
 import logging
 
-from processes.evaluation.metrics import Metrics
+from propara.evaluation.metrics import Metrics
 from nltk import PorterStemmer
 
 logger = logging.getLogger(__name__)  # pylint: disable=invalid-name

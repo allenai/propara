@@ -1,0 +1,1 @@
+from propara.models.prostruct_model import ProStructModel

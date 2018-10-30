@@ -1,7 +1,7 @@
 from unittest import TestCase
 import os
 
-from processes.evaluation.eval import Evaluator
+from propara.evaluation.eval import Evaluator
 
 
 class TestEval(TestCase):

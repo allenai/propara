@@ -4,7 +4,7 @@ import os
 import spacy
 from allennlp.common.file_utils import cached_path
 
-from processes.evaluation.eval import Evaluator
+from propara.evaluation.eval import Evaluator
 
 # Looking up lexicon with stem and roots.
 nlp = spacy.load('en_core_web_sm')

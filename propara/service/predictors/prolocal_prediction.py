@@ -10,7 +10,7 @@ from propara.data.prolocal_dataset_reader import ProLocalDatasetReader
 @Predictor.register('prolocal-prediction')
 class ProLocalPredictor(Predictor):
     """
-    Wrapper for the :class:`processes.models.StateChangeModelCombinedLossBothAttention` model.
+    Wrapper for the :class:`propara.models.StateChangeModelCombinedLossBothAttention` model.
     """
     @overrides
     def predict_json(self, inputs: JsonDict, cuda_device: int = -1) -> JsonDict:

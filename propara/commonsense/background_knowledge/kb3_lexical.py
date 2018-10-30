@@ -1,16 +1,7 @@
 from math import exp
 
-from processes.commonsense import model_output_loader
-from processes.commonsense.background_knowledge.kb import KB
-
-
-# To create the lexical kb: First: DeepEx over BUSC2, then, TestAI2Lexicon.test_endtoend
-# (allennlp) nikett:processes nikett$ python -m processes.commands.run
-# cmd_predict_scisrlv2 --archive_file
-# /Users/nikett/quick/allennlp-models/scisrlv2/deepex22k-withelmo.tk_63iqn8wdimee.model.tar.gz
-# --input_file ~/quick/busc2kb/inputs/
-# --output_file ~/quick/busc2kb/outputs/deepex-v2.0-overall-prostruct-busc2.txt
-# --output_format deepex
+from propara.commonsense import model_output_loader
+from propara.commonsense.background_knowledge.kb import KB
 
 
 class KBLexical(KB):
