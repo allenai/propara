@@ -33,7 +33,13 @@ These models can be trained and evaluated as described below.
   pip install -r requirements.txt
   ```
 
-4. Test installation
+4. Install Spacy models
+
+    ```
+        python -m spacy download en
+    ```
+
+5. Test installation
 
  ```
  pytest -v
