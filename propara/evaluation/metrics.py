@@ -23,6 +23,9 @@ class Metrics:
     def fn_increment(self, increment_by):
         self.fn += increment_by
 
+    # def score_numerator_increment(self, increment_by):
+    #     self.score_total += increment_by
+
     def set_precision(self, val):
         self.precision = val
 
@@ -58,6 +61,12 @@ class Metrics:
 
         accuracy = (self.tp + self.tn) / (self.tp + self.fp + self.tn + self.fn)
         return accuracy, prec, rec, f1
+
+    # # Situations where instead of a standard precision, recall
+    # # a precomputed score is normalized.
+    # # e.g., precision = score1 + score2 / (num of pred = 2)
+    # def get_scores(self, divide_by: float):
+    #     return 0.0 if divide_by == 0 else self.score_total/divide_by
 
     def str(self):
         return str(self.get_scores()[3])
