@@ -26,7 +26,7 @@ Evaluate a model's predictions on the EMNLP'18 task:
 
 ```
     ** Under construction
-    Download the evaluator code from Aristo leaderboard repository (https://github.com/allenai/aristo-leaderboard):
+    Download the evaluator code from Aristo leaderboard repository:
     “code link with the instructions to run the evaluation will be available soon”
 
 ```
