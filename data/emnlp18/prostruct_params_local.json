@@ -1,7 +1,7 @@
 {
   "dataset_reader":{"type":"ProParaDatasetReader"},
 
-  "train_data_path": "./data/emnlp18/grids.v1.dev.tsv",
+  "train_data_path": "./data/emnlp18/grids.v1.train.tsv",
   "validation_data_path": "./data/emnlp18/grids.v1.dev.tsv",
   "test_data_path": "./data/emnlp18/grids.v1.test.tsv",
   "evaluate_on_test": true,
