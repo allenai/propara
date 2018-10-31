@@ -1,0 +1,795 @@
+
+
+4	SID	PARTICIPANTS	plants	bacteria	sediment	oil
+4		PROMPT: How does oil form?	-=====	-=====	-=====	-=====
+4	state1		?	?	?	-
+4	event1	Plants die.
+4	state2		?	?	?	-
+4	event2	They are buried in sediment.
+4	state3		sediment	?	?	-
+4	event3	Bacteria is buried in the sediment.
+4	state4		sediment	sediment	?	-
+4	event4	Large amounts of sediment gradually pile on top of the original sediment.
+4	state5		sediment	sediment	?	-
+4	event5	Pressure builds up.
+4	state6		sediment	sediment	?	-
+4	event6	Heat increases.
+4	state7		sediment	sediment	?	-
+4	event7	The chemical structure of the buried sediment and plants changes.
+4	state8		sediment	sediment	?	-
+4	event8	The sediment and plants are at least one mile underground.
+4	state9		one mile underground	sediment	underground	-
+4	event9	The buried area is extremely hot.
+4	state10		one mile underground	sediment	underground	-
+4	event10	More chemical changes happen and the buried material becomes oil.
+4	state11		-	-	underground	underground
+
+
+5	SID	PARTICIPANTS	algae	plankton	sediment	material	oil
+5		PROMPT: How does oil form?	-=====	-=====	-=====	-=====	-=====
+5	state1		?	?	seafloor	-	-
+5	event1	Algae and plankton die.
+5	state2		seafloor	seafloor	seafloor	-	-
+5	event2	The dead algae and plankton end up part of sediment on a seafloor.
+5	state3		-	-	seafloor	-	-
+5	event3	The sediment breaks down.
+5	state4		-	-	seafloor	-	-
+5	event4	The bottom layers of sediment become compacted by pressure.
+5	state5		-	-	seafloor	-	-
+5	event5	Higher pressure causes the sediment to heat up.
+5	state6		-	-	seafloor	-	-
+5	event6	The heat causes chemical processes.
+5	state7		-	-	-	seafloor	-
+5	event7	The material becomes a liquid.
+5	state8		-	-	-	-	rock
+5	event8	Is known as oil.
+5	state9		-	-	-	-	rock
+5	event9	Oil moves up through rock.
+5	state10		-	-	-	-	rock
+
+
+272	SID	PARTICIPANTS	fuel	mechanical energy	electrical energy	magnet	flow of electrons ; electricity
+272		PROMPT: How do electric generators work?	-=====	-=====	-=====	-=====	-=====
+272	state1		?	?	-	?	-
+272	event1	A fuel goes into the generator.
+272	state2		generator	generator	-	?	-
+272	event2	The generator converts mechanical energy into electrical energy.
+272	state3		-	-	generator	?	-
+272	event3	A magnet moves near a wire.
+272	state4		-	-	generator	near a wire	-
+272	event4	A steady flow of electrons is C.
+272	state5		-	-	generator	generator	wire
+272	event5	Electricity flows through a wire.
+272	state6		-	-	wire	generator	wire
+272	event6	Electricity comes out of the generator.
+272	state7		-	-	generator	generator	wire
+
+
+349	SID	PARTICIPANTS	sound ; sound waves	echoes
+349		PROMPT: How do echoes occur?	-=====	-=====
+349	state1		-	-
+349	event1	Something happens to produce a sound.
+349	state2		?	-
+349	event2	The sound travels in waves.
+349	state3		?	-
+349	event3	The sound waves hit an object.
+349	state4		object	-
+349	event4	The object absorbs some of the sound waves.
+349	state5		object	-
+349	event5	Some of the sound waves bounce off of the object.
+349	state6		?	-
+349	event6	The reflected sound waves can be heard, though they have slightly different properties than the original sound.
+349	state7		?	-
+349	event7	The sound continues to bounce off of things and produce echoes until it is totally absorbed or dissipated.
+349	state8		-	?
+
+
+375	SID	PARTICIPANTS	electricity	light	heat	motion	motion energy
+375		PROMPT: Describe the energy transformations in a computer	-=====	-=====	-=====	-=====	-=====
+375	state1		?	-	-	-	-
+375	event1	Electricity enters the computer.
+375	state2		computer	-	-	-	-
+375	event2	Some electricity becomes light.
+375	state3		computer	computer	-	-	-
+375	event3	Some light becomes heat when it hits something.
+375	state4		computer	computer	computer	-	-
+375	event4	Some electricity becomes motion in a hard drive, dvd drive or fan.
+375	state5		computer	computer	computer	hard drive , dvd drive or fan	hard drive , dvd drive or fan
+375	event5	Motion energy also becomes heat.
+375	state6		computer	computer	computer	hard drive , dvd drive or fan	-
+
+
+388	SID	PARTICIPANTS	waters;water	turbines	generators	electricity
+388		PROMPT: How is hydroelectric electricity generated?	-=====	-=====	-=====	-=====
+388	state1		?	power plant	power plant	-
+388	event1	Waters flows downwards thanks to gravity.
+388	state2		?	power plant	power plant	-
+388	event2	Enters the dam at high pressure.
+388	state3		dam	power plant	power plant	-
+388	event3	The moving water spins the turbines in the power plant.
+388	state4		turbine	power plant	power plant	-
+388	event4	The turbines turn the generators.
+388	state5		turbine	power plant	power plant	-
+388	event5	The generators spin, and produce electricity.
+388	state6		turbine	power plant	power plant	generator
+388	event6	The water leaves the dam at the bottom.
+388	state7		?	power plant	power plant	generator
+
+
+390	SID	PARTICIPANTS	reservoir	water	turbine	generator	water's energy	electrical energy	high voltage ; electricity
+390		PROMPT: How is hydroelectric electricity generated?	-=====	-=====	-=====	-=====	-=====	-=====	-=====
+390	state1		-	?	reservoir	?	-	-	-
+390	event1	A reservoir is formed.
+390	state2		?	reservoir	reservoir	?	-	-	-
+390	event2	The collects water converting the water's from kinectic to potential.
+390	state3		?	reservoir	reservoir	?	-	-	-
+390	event3	The water is forced through a turbine under the reservoir.
+390	state4		?	turbine	reservoir	?	-	-	-
+390	event4	The turbine spins and so does the generator connected to it.
+390	state5		?	turbine	reservoir	reservoir	turbine	-	-
+390	event5	The water's energy is turned into electrical energy.
+390	state6		?	?	reservoir	reservoir	-	generator	-
+390	event6	The transformer converts electrical energy from the generator to a high voltage.
+390	state7		?	?	reservoir	reservoir	-	-	transformer
+390	event7	The national grid uses high voltages to transmit electricity through the power lines.
+390	state8		?	?	reservoir	reservoir	-	-	power line
+
+
+394	SID	PARTICIPANTS	fuel	heat	water	steam	turbine	generator	electricity	voltage
+394		PROMPT: How does a nuclear-powered power station generate electricity?	-=====	-=====	-=====	-=====	-=====	-=====	-=====	-=====
+394	state1		?	-	?	-	generator	?	-	-
+394	event1	Fuel produces heat.
+394	state2		-	?	?	-	generator	?	-	-
+394	event2	Water is boiled to make steam.
+394	state3		-	-	-	turbine	generator	?	-	-
+394	event3	Steam spins turbine.
+394	state4		-	-	-	?	generator	?	-	-
+394	event4	Generator is turned.
+394	state5		-	-	-	?	generator	?	-	-
+394	event5	Makes electricity.
+394	state6		-	-	-	?	generator	?	generator	-
+394	event6	Electricity transfers to transformers.
+394	state7		-	-	-	?	generator	?	transformer	-
+394	event7	Produces the correct voltage.
+394	state8		-	-	-	?	generator	?	transformer	transformer
+
+
+396	SID	PARTICIPANTS	uranium fuel	uranium atoms	heat	water	steam	electricity
+396		PROMPT: How does a nuclear-powered power station generate electricity?	-=====	-=====	-=====	-=====	-=====	-=====
+396	state1		nuclear reactor	-	-	?	-	-
+396	event1	Uranium fuel is placed in the nuclear reactor.
+396	state2		-	?	-	?	-	-
+396	event2	The uranium atoms are split (fission) to produce heat.
+396	state3		-	-	nuclear reactor	?	-	-
+396	event3	The heat is used to turn water into steam.
+396	state4		-	-	-	-	turbine	-
+396	event4	The steam drives a turbine.
+396	state5		-	-	-	-	turbine	-
+396	event5	The turbine spins a genator.
+396	state6		-	-	-	-	turbine	-
+396	event6	The spinning generator creates electricity.
+396	state7		-	-	-	-	turbine	generator
+
+
+430	SID	PARTICIPANTS	trash	truck	Recycling
+430		PROMPT: Describe how trash travels from the house to the landfill	-=====	-=====	-=====
+430	state1		-	?	-
+430	event1	Trash is made during household activities.
+430	state2		house	?	-
+430	event2	Trash is collected within the house.
+430	state3		house	?	-
+430	event3	Sometimes trash is sorted into recycling.
+430	state4		house	?	?
+430	event4	Trash is put out at the curbside.
+430	state5		curbside	?	?
+430	event5	The city collects the trash.
+430	state6		curbside	?	?
+430	event6	The trash is placed into a truck.
+430	state7		truck	curbside	truck
+430	event7	The truck drives to a landfill.
+430	state8		landfill	landfill	?
+430	event8	The trash is unloaded.
+430	state9		landfill	landfill	?
+430	event9	Sometimes the trash might be sorted more.
+430	state10		landfill	?	?
+430	event10	The trash is put into the landfill.
+430	state11		landfill	?	?
+
+
+431	SID	PARTICIPANTS	trash	trash truck	trashbags
+431		PROMPT: Describe how trash travels from the house to the landfill	-=====	-=====	-=====
+431	state1		house	?	house
+431	event1	Trash is put into a household trashbag.
+431	state2		trashbag	?	house
+431	event2	The trashbags are thrown into a large outdoor trashcan.
+431	state3		trashcan	?	trashcan
+431	event3	The trashcan is emptied by a large trash truck.
+431	state4		trash truck	?	trash truck
+431	event4	The trash truck travels to the landfill.
+431	state5		landfill	landfill	landfill
+431	event5	Unloads all the trash the truck has collected.
+431	state6		landfill	landfill	landfill
+
+
+432	SID	PARTICIPANTS	garbage	garbage truck	trash	recycling
+432		PROMPT: Describe how trash travels from the house to the landfill	-=====	-=====	-=====	-=====
+432	state1		?	?	?	-
+432	event1	Trash is deposited in a large can or in bags outside of the house.
+432	state2		can or bag	?	can or bag	-
+432	event2	The trash is picked up by workers who put it on a garbage truck.
+432	state3		truck	outside of the house	truck	-
+432	event3	The garbage truck is driven to a sorting center.
+432	state4		sort center	sort center	sort center	-
+432	event4	The garbage is sorted.
+432	state5		sort center	?	sort center	-
+432	event5	Some of the garbage is saved for recycling.
+432	state6		sort center	?	sort center	sort center
+432	event6	The rest of the garbage is driven to the landfill.
+432	state7		landfill	landfill	landfill	?
+
+
+445	SID	PARTICIPANTS	magma	rock	sedimentary rock	third kind of rock
+445		PROMPT: Describe the rock cycle	-=====	-=====	-=====	-=====
+445	state1		-	-	-	-
+445	event1	The magma comes out from a volcano.
+445	state2		volcano	-	-	-
+445	event2	The magma cools and becomes a rock.
+445	state3		-	?	-	-
+445	event3	Over time the rock picks up sediment which changes the type of rock.
+445	state4		-	-	?	-
+445	event4	This creates a sedimentary rock.
+445	state5		-	-	?	-
+445	event5	The heat from inside and outside can cook a rock.
+445	state6		-	-	?	-
+445	event6	This heat forms a third kind of rock.
+445	state7		-	-	-	?
+445	event7	The cycle continues around the three types of rocks.
+445	state8		-	-	-	?
+
+
+446	SID	PARTICIPANTS	magma	crystals	igneous rocks	sedimentary rocks	metamorphic rock
+446		PROMPT: Describe the rock cycle	-=====	-=====	-=====	-=====	-=====
+446	state1		volcano	-	-	-	-
+446	event1	Rock begins as magma from a volcano.
+446	state2		volcano	-	-	-	-
+446	event2	The magma cools.
+446	state3		volcano	-	-	-	-
+446	event3	Crystals form and the magma become igneous rocks.
+446	state4		-	igneous rock	volcano	-	-
+446	event4	The igneous rocks break down into sediment become sedimentary rocks.
+446	state5		-	sedimentary rock	-	?	-
+446	event5	If subjected to heat and/or pressure from plate-tectonic activity the sedimentary rocks become metamorphic rock.
+446	state6		-	?	-	-	?
+446	event6	The metaphoric rocks melt becoming magma again.
+446	state7		?	?	-	-	-
+
+
+509	SID	PARTICIPANTS	chemical energy	explosion	fuel ; spent fuel	new fuel	thermal energy	piston
+509		PROMPT: Describe how an internal combustion engine works	-=====	-=====	-=====	-=====	-=====	-=====
+509	state1		fuel	?	?	-	-	?
+509	event1	Fuel is injected into the chamber.
+509	state2		fuel	?	chamber	-	-	?
+509	event2	The piston moves upwards.
+509	state3		fuel	?	chamber	-	-	upward
+509	event3	Compresses the fuel.
+509	state4		fuel	?	chamber	-	-	?
+509	event4	The fuel explodes.
+509	state5		fuel	chamber	chamber	-	-	?
+509	event5	Chemical energy becomes thermal energy.
+509	state6		-	chamber	chamber	-	chamber	?
+509	event6	The explosion pushes the piston downward.
+509	state7		-	?	chamber	-	chamber	downward
+509	event7	The piston moves upwards again.
+509	state8		-	?	chamber	-	chamber	?
+509	event8	The spent fuel is ejected.
+509	state9		-	?	-	-	chamber	?
+509	event9	New fuel is injected.
+509	state10		-	?	-	chamber	chamber	?
+509	event10	The cycle repeats.
+509	state11		-	?	-	chamber	chamber	?
+
+
+514	SID	PARTICIPANTS	glacier	snow	mass
+514		PROMPT: How do glaciers form and move?	-=====	-=====	-=====
+514	state1		-	area	-
+514	event1	Snow falls in an area for a very long time.
+514	state2		-	area	-
+514	event2	The snow builds up for a very long time.
+514	state3		-	area	-
+514	event3	The snow starts to become packed very firmly.
+514	state4		-	area	-
+514	event4	The snow becomes something that's more like ice.
+514	state5		-	-	-
+514	event5	Air pockets in the mass continue to grow smaller.
+514	state6		-	-	area
+514	event6	The mass becomes solid and heavy enough to be called a glacier.
+514	state7		area	-	area
+514	event7	The glacier moves because of gravity.
+514	state8		area	-	area
+
+
+542	SID	PARTICIPANTS	waste	blood	cleaned blood	filtered waste	urine
+542		PROMPT: Describe what kidneys do	-=====	-=====	-=====	-=====	-=====
+542	state1		blood	?	-	-	-
+542	event1	Waste builds up in the blood.
+542	state2		blood	?	-	-	-
+542	event2	Blood enters the kidney.
+542	state3		blood	kidney	-	-	-
+542	event3	Blood passes through nephrons in the kidney.
+542	state4		blood	kidney	-	-	-
+542	event4	Different kinds of waste are momentarily trapped in the kidney.
+542	state5		kidney	-	kidney	kidney	-
+542	event5	Cleaned blood flows out of the kidney.
+542	state6		kidney	-	?	kidney	-
+542	event6	Filtered waste accumulates in liquid form (urine).
+542	state7		urine	-	?	-	kidney
+542	event7	Urine flows out of the kidney into the bladder.
+542	state8		bladder	-	?	-	bladder
+
+
+543	SID	PARTICIPANTS	blood	waste	urine	filtered blood
+543		PROMPT: Describe what kidneys do	-=====	-=====	-=====	-=====
+543	state1		renal artery	blood	-	-
+543	event1	Blood is carried into the kidneys by the renal artery.
+543	state2		kidney	blood	-	-
+543	event2	Kidneys filter that blood tiny filters inside the kidneys called nephrons.
+543	state3		kidney	blood	-	-
+543	event3	Remove the waste from the blood.
+543	state4		-	kidney	-	kidney
+543	event4	The waste that is collected combines with water to become urine.
+543	state5		-	-	kidney	kidney
+543	event5	As each kidney makes urine, the urine slides down a long tube called the ureter.
+543	state6		-	-	ureter	kidney
+543	event6	Collects in the bladder.
+543	state7		-	-	bladder	kidney
+543	event7	The filtered blood is sent back into the body.
+543	state8		-	-	bladder	body
+
+
+544	SID	PARTICIPANTS	fluids and liquids ; fluid ; nutrients	toxins	urine
+544		PROMPT: Describe what kidneys do	-=====	-=====	-=====
+544	state1		?	fluid	-
+544	event1	They take in fluids and liquids.
+544	state2		kidney	fluid	-
+544	event2	They process the fluid.
+544	state3		kidney	fluid	-
+544	event3	They take out the toxins.
+544	state4		kidney	kidney	-
+544	event4	Produce urine.
+544	state5		kidney	-	kidney
+544	event5	Urine is released.
+544	state6		?	-	?
+544	event6	The nutrients are returned to the body.
+544	state7		?	-	?
+
+
+608	SID	PARTICIPANTS	fuel	air	piston	spark	explosion
+608		PROMPT: Describe how an internal combustion engine works	-=====	-=====	-=====	-=====	-=====
+608	state1		carburetor	?	engine	-	-
+608	event1	Fuel enters the engine through a carburetor or fuel injectors.
+608	state2		engine	engine	engine	-	-
+608	event2	Air is let into the engine at the same time as the fuel.
+608	state3		engine	engine	engine	-	-
+608	event3	The piston in the engine moves downwards compressing the air and fuel mixture.
+608	state4		engine	engine	engine	-	-
+608	event4	A spark plug causes a spark at the bottom stroke of the piston.
+608	state5		engine	engine	engine	engine	-
+608	event5	An explosion occurs in the engine forcing the piston back upwards.
+608	state6		engine	engine	engine	-	engine
+608	event6	As the piston goes up the valves for fuel and air open again.
+608	state7		engine	engine	engine	-	-
+608	event7	Fuel and air go in, and the process repeats.
+608	state8		engine	engine	engine	-	-
+608	event8	The moving pistons are attached via connecting rods to a shaft.
+608	state9		engine	engine	engine	-	-
+608	event9	The shaft rotates out of the motor to turn the piston energy into rotational energy.
+608	state10		engine	engine	engine	-	-
+
+
+609	SID	PARTICIPANTS	piston	air	gasoline	spark	explosion	exhaust
+609		PROMPT: Describe how an internal combustion engine works	-=====	-=====	-=====	-=====	-=====	-=====
+609	state1		engine	?	?	-	-	-
+609	event1	The piston starts at the top, the intake valve opens, and the piston moves down to let the engine take in a cylinder-full of air and gasoline.
+609	state2		engine	cylinder	cylinder	-	-	-
+609	event2	Then the piston moves back up to compress this fuel/air mixture.
+609	state3		engine	cylinder	cylinder	-	-	-
+609	event3	Compression makes the explosion more powerful.
+609	state4		engine	cylinder	cylinder	-	-	-
+609	event4	When the piston reaches the top of its stroke, the spark plug emits a spark to ignite the gasoline.
+609	state5		engine	cylinder	cylinder	cylinder	-	-
+609	event5	The gasoline charge in the cylinder explodes, driving the piston down.
+609	state6		engine	-	-	-	cylinder	cylinder
+609	event6	Once the piston hits the bottom of its stroke, the exhaust valve opens and the exhaust leaves the cylinder to go out the tailpipe.
+609	state7		engine	-	-	-	cylinder	tailpipe
+
+
+610	SID	PARTICIPANTS	fuel	air	spark	pressure
+610		PROMPT: Describe how an internal combustion engine works	-=====	-=====	-=====	-=====
+610	state1		combustion chamber	?	-	-
+610	event1	Fuels burns in the combustion chamber.
+610	state2		combustion chamber	?	-	-
+610	event2	The burning fuel creates energy.
+610	state3		combustion chamber	?	-	-
+610	event3	The upward motion cause air to be released into the cylinder.
+610	state4		combustion chamber	cylinder	-	-
+610	event4	The piston compresses the air.
+610	state5		combustion chamber	cylinder	-	-
+610	event5	A spark ignites the fuel and air inside the cylinder.
+610	state6		combustion chamber	cylinder	cylinder	cylinder
+610	event6	The pressure pushes the piston down.
+610	state7		combustion chamber	cylinder	-	cylinder
+610	event7	The exhaust valve opens.
+610	state8		combustion chamber	cylinder	-	cylinder
+610	event8	The piston pushes the air out of the cylinder.
+610	state9		combustion chamber	?	-	cylinder
+
+
+629	SID	PARTICIPANTS	trash	plastic bag	garbage can	garbage truck; truck
+629		PROMPT: Describe how trash travels from the house to the landfill	-=====	-=====	-=====	-=====
+629	state1		?	?	?	?
+629	event1	People put trash in a plastic bag.
+629	state2		plastic bag	?	?	?
+629	event2	The plastic bag is put into a garbage can.
+629	state3		plastic bag	garbage can	?	?
+629	event3	The garbage can is rolled outside.
+629	state4		plastic bag	garbage can	outside	?
+629	event4	The garbage truck comes to the house.
+629	state5		plastic bag	garbage can	outside	house
+629	event5	Workers take the plastic bag out of the garbage can and place it in the truck.
+629	state6		plastic bag	truck	outside	house
+629	event6	The truck drives to the landfill.
+629	state7		plastic bag	truck	outside	landfill
+629	event7	The truck dumps the trash into the landfill.
+629	state8		landfill	landfill	outside	landfill
+
+
+630	SID	PARTICIPANTS	trash	truck
+630		PROMPT: Describe how trash travels from the house to the landfill	-=====	-=====
+630	state1		house	?
+630	event1	Trash is placed into a garbage container in the house.
+630	state2		garbage container	?
+630	event2	The trash is moved to a centralized container for the house.
+630	state3		centralize container	?
+630	event3	Trash is picked up by a sanitation company.
+630	state4		truck	?
+630	event4	The trash is combined in a large truck with trash from all around the city.
+630	state5		truck	?
+630	event5	The truck goes to the landfill.
+630	state6		truck	landfill
+630	event6	The truck dumps the trash into the landfill.
+630	state7		landfill	landfill
+
+
+631	SID	PARTICIPANTS	trash	bags	trashcan	trash truck; truck
+631		PROMPT: Describe how trash travels from the house to the landfill	-=====	-=====	-=====	-=====
+631	state1		?	?	?	?
+631	event1	Trash is bagged up.
+631	state2		bag	?	?	?
+631	event2	Bags get carried out to the trashcan.
+631	state3		bag	trashcan	?	?
+631	event3	Trashcan is put at the curb once a week.
+631	state4		bag	trashcan	curb	?
+631	event4	Can gets emptied into trash truck.
+631	state5		bag	trash truck	curb	curb
+631	event5	As the truck fills it will compact the trash.
+631	state6		bag	trash truck	curb	?
+631	event6	When the truck is full it heads to the landfill.
+631	state7		bag	trash truck	curb	landfill
+631	event7	The truck dumps its load into the landfill.
+631	state8		bag	landfill	curb	landfill
+
+
+632	SID	PARTICIPANTS	electricity	heat	light
+632		PROMPT: Describe the energy transformations in a computer	-=====	-=====	-=====
+632	state1		plug	-	-
+632	event1	Electricity comes into the computer from the plug.
+632	state2		computer	-	-
+632	event2	The electricity runs the components in the computer.
+632	state3		component	computer	-
+632	event3	Electricity turns the fan to keep the components cool.
+632	state4		fan	computer	-
+632	event4	Heat is released from the computer.
+632	state5		fan	computer	-
+632	event5	Electricity runs the computer's display.
+632	state6		display	computer	electricity
+632	event6	Light is formed from the electricity.
+632	state7		display	computer	electricity
+
+
+634	SID	PARTICIPANTS	electricity; energy	visual signals	computations
+634		PROMPT: Describe the energy transformations in a computer	-=====	-=====	-=====
+634	state1		?	-	-
+634	event1	Electricity enters the power supply unit.
+634	state2		power supply unit	-	-
+634	event2	The power supply gives electricity to transistors.
+634	state3		transistor	-	-
+634	event3	The power supply gives electricity to the CPU.
+634	state4		cpu	-	-
+634	event4	The systems use electricity to complete tasks.
+634	state5		cpu	-	-
+634	event5	The signals they complete are sent out as visual signals.
+634	state6		cpu	cpu	-
+634	event6	The energy is used to complete computations.
+634	state7		-	cpu	cpu
+
+
+1002	SID	PARTICIPANTS	dirty laundry	laundry detergent
+1002		PROMPT: How do you use a washing machine?	-=====	-=====
+1002	state1		?	?
+1002	event1	Add dirty laundry to the washing machine.
+1002	state2		wash machine	?
+1002	event2	Add laundry detergent to the washing machine.
+1002	state3		wash machine	wash machine
+1002	event3	Select the setting for the load of laundry.
+1002	state4		wash machine	wash machine
+1002	event4	Close the door of the washing machine.
+1002	state5		wash machine	wash machine
+1002	event5	Turn on the washing machine.
+1002	state6		wash machine	wash machine
+
+
+1007	SID	PARTICIPANTS	plant ; material	microbes
+1007		PROMPT: How do bacteria break down dead plants?	-=====	-=====
+1007	state1		?	?
+1007	event1	A plant dies and withers.
+1007	state2		?	?
+1007	event2	The dead plant starts to draw microbes.
+1007	state3		?	dead plant
+1007	event3	The microbes break down the material.
+1007	state4		?	dead plant
+1007	event4	Forms decay.
+1007	state5		?	dead plant
+1007	event5	The resulting material disappears.
+1007	state6		-	soil
+1007	event6	The plant becomes one with the soil.
+1007	state7		-	soil
+
+
+1008	SID	PARTICIPANTS	bacteria	enzymes	plant cells	components
+1008		PROMPT: How do bacteria break down dead plants?	-=====	-=====	-=====	-=====
+1008	state1		ground	bacterium	plant	-
+1008	event1	A plant dies.
+1008	state2		ground	bacterium	plant	-
+1008	event2	Bacteria from the ground migrate to the plant material.
+1008	state3		plant material	bacterium	plant	-
+1008	event3	Bacteria release enzymes onto the plant material.
+1008	state4		plant material	plant material	plant	-
+1008	event4	The enzymes break down the plant cells to simpler components.
+1008	state5		plant material	plant material	-	plant
+1008	event5	The bacteria absorb the resulting components.
+1008	state6		plant material	plant material	-	-
+
+
+1112	SID	PARTICIPANTS	carbon dioxide	rain	acid	limestone	caves
+1112		PROMPT: How do caves form?	-=====	-=====	-=====	-=====	-=====
+1112	state1		air	air	-	soil	-
+1112	event1	Dissolution of limestone forms caves.
+1112	state2		air	air	-	soil	-
+1112	event2	Rain gets carbon dioxide from the air.
+1112	state3		-	air	-	soil	-
+1112	event3	When rain goes into soil it creates an acid.
+1112	state4		-	-	soil	soil	-
+1112	event4	The acid dissolves the limestone along cracks.
+1112	state5		-	-	soil	-	-
+1112	event5	Some will dissolve enough to form caves.
+1112	state6		-	-	cave	-	limestone
+
+
+1113	SID	PARTICIPANTS	rainwater	carbon dioxide	water	weak acid	limestone	caves
+1113		PROMPT: How do caves form?	-=====	-=====	-=====	-=====	-=====	-=====
+1113	state1		air	air	air	-	soil	-
+1113	event1	Rainwater picks up carbon dioxide from the air.
+1113	state2		air	rainwater	air	-	soil	-
+1113	event2	Rainwater goes into soil.
+1113	state3		soil	rainwater	soil	-	soil	-
+1113	event3	Water with carbon dioxide percolates through soil.
+1113	state4		soil	rainwater	soil	-	soil	-
+1113	event4	The water becomes a weak acid.
+1113	state5		soil	rainwater	-	soil	soil	-
+1113	event5	The water dissolves limestone.
+1113	state6		limestone	rainwater	-	limestone	-	-
+1113	event6	Caves form where the limestone was dissolved.
+1113	state7		soil	rainwater	-	soil	-	limestone
+
+
+1114	SID	PARTICIPANTS	rainwater; water	bedrock	funnels	caves
+1114		PROMPT: How do caves form?	-=====	-=====	-=====	-=====
+1114	state1		?	below	-	-
+1114	event1	Rainwater falls onto the soil.
+1114	state2		soil	below	-	-
+1114	event2	The rainwater seeps into the soil.
+1114	state3		soil	below	-	-
+1114	event3	The water starts going into the bedrock below.
+1114	state4		bedrock	soil	-	-
+1114	event4	The bedrock erodes after much time passes.
+1114	state5		bedrock	soil	-	-
+1114	event5	The bedrock forms funnels.
+1114	state6		bedrock	-	bedrock	-
+1114	event6	The funnels grow larger and wider.
+1114	state7		bedrock	-	bedrock	-
+1114	event7	The funnels finally become caves.
+1114	state8		bedrock	-	-	funnel
+
+
+1197	SID	PARTICIPANTS	food	broken down food	sugar	energy
+1197		PROMPT: How does eating food result in energy for your muscles?	-=====	-=====	-=====	-=====
+1197	state1		?	-	-	-
+1197	event1	Food enters the mouth.
+1197	state2		mouth	-	-	-
+1197	event2	Food mixes with saliva.
+1197	state3		mouth	-	-	-
+1197	event3	Food is swallowed.
+1197	state4		stomach	-	-	-
+1197	event4	Enzymes in the stomach break down the food.
+1197	state5		-	stomach	-	-
+1197	event5	The food moves to the small intestine.
+1197	state6		-	small intestine	-	-
+1197	event6	Hormones from the pancreas move to the small intestine.
+1197	state7		-	small intestine	-	-
+1197	event7	The hormones create the amount of sugar in the blood from the food.
+1197	state8		-	-	blood	-
+1197	event8	The sugar in the blood travels to the body.
+1197	state9		-	-	body	-
+1197	event9	The sugar provides energy for the muscles.
+1197	state10		-	-	-	muscle
+
+
+1226	SID	PARTICIPANTS	Food	Enyzmes	Fat	Carbohydrates
+1226		PROMPT: What does the pancreas do?	-=====	-=====	-=====	-=====
+1226	state1		?	-	food	food
+1226	event1	Food is entered into the gut.
+1226	state2		gut	-	food	gut
+1226	event2	The pancreas secretes enyzmes.
+1226	state3		-	pancreas	food	gut
+1226	event3	Some of the enzymes break down fat.
+1226	state4		-	pancreas	-	gut
+1226	event4	It breaks down carbohydrates.
+1226	state5		-	pancreas	-	-
+1226	event5	The broken down food can be passed.
+1226	state6		-	pancreas	-	-
+1226	event6	Absorbed by the body.
+1226	state7		-	pancreas	-	-
+
+
+1259	SID	PARTICIPANTS	Thread	Web
+1259		PROMPT: How does a spider make its web?	-=====	-=====
+1259	state1		-	-
+1259	event1	A spider must find a suitable place for its web.
+1259	state2		-	-
+1259	event2	The spider produces a thread from one its glands from one point to another.
+1259	state3		gland	-
+1259	event3	The spider does this in several points.
+1259	state4		several point	-
+1259	event4	The spider threads through each of the other threads forming a web.
+1259	state5		web	suitable place
+1259	event5	The spider reinforces the web.
+1259	state6		web	suitable place
+
+
+1303	SID	PARTICIPANTS	food	milk	microbes
+1303		PROMPT: Describe the process of pasteurization.	-=====	-=====	-=====
+1303	state1		?	?	food or milk
+1303	event1	Food or milk that could spoil easily is brought in.
+1303	state2		?	?	food or milk
+1303	event2	Through methods of heating the food is treated.
+1303	state3		?	?	food or milk
+1303	event3	The microbes that may proliferate in the food are destroyed.
+1303	state4		?	?	-
+1303	event4	Depending on the treatment this happens a few more times.
+1303	state5		?	?	-
+1303	event5	The food is considered pasteurized.
+1303	state6		?	?	-
+
+
+708	SID	PARTICIPANTS	rock	sediment	metamorphic rock	melted rock
+708		PROMPT: Describe the rock cycle	-=====	-=====	-=====	-=====
+708	state1		?	-	-	-
+708	event1	Rocks are constantly worn down and broken by erosion.
+708	state2		?	-	-	-
+708	event2	Erosion can be wind or water.
+708	state3		?	-	-	-
+708	event3	Erosion breaks them down to sediment.
+708	state4		-	?	-	-
+708	event4	Sediment gets compressed and heated or gets buried.
+708	state5		-	?	-	-
+708	event5	When sediment is buried it then gets melted.
+708	state6		-	?	-	-
+708	event6	When sediment is compressed it becomes metamorphic rock.
+708	state7		-	-	?	-
+708	event7	Metamorphic rock gets buried.
+708	state8		-	-	bury	-
+708	event8	Buried metamorphic rock gets melted.
+708	state9		-	-	-	?
+708	event9	Melted rock eventually cools.
+708	state10		-	-	-	?
+708	event10	Rock pushed back to the surface.
+708	state11		surface	-	-	-
+
+
+716	SID	PARTICIPANTS	blood	waste	kidney	urine	cleaned blood
+716		PROMPT: Describe what kidneys do	-=====	-=====	-=====	-=====	-=====
+716	state1		?	blood	?	-	?
+716	event1	Blood filled with waste flows into the kidneys.
+716	state2		kidney	kidney	body	-	?
+716	event2	The kidneys are made up of filtering units called nephrons.
+716	state3		kidney	kidney	body	-	?
+716	event3	The nephrons in the kidneys filter the blood.
+716	state4		kidney	kidney	body	-	?
+716	event4	Produce urine.
+716	state5		kidney	?	body	kidney	?
+716	event5	The urine leaves the kidneys.
+716	state6		kidney	?	body	?	?
+716	event6	The cleaned blood goes back into the body.
+716	state7		body	?	body	?	body
+
+
+758	SID	PARTICIPANTS	gas; fuel source	mechanical energy	electrical energy; electrons
+758		PROMPT: How do electric generators work?	-=====	-=====	-=====
+758	state1		?	-	-
+758	event1	An engine must be powered by gas or some fuel source.
+758	state2		engine	-	-
+758	event2	The fuel source will power an alternator.
+758	state3		-	alternator	-
+758	event3	An alternator will convert mechanical energy in to measurable electrical energy.
+758	state4		-	-	alternator
+758	event4	Electrical energy will be channeled and moved.
+758	state5		-	-	alternator
+758	event5	The electrons will run through to the outlets of the generator.
+758	state6		-	-	outlet of the generator .
+758	event6	When you plug something in to the outlets of the generator, a flow of current will conduct electrons.
+758	state7		-	-	?
+
+
+825	SID	PARTICIPANTS	uranium ; uranium atoms	heat energy	water	steam	electricity
+825		PROMPT: How does a nuclear-powered power station generate electricity?	-=====	-=====	-=====	-=====	-=====
+825	state1		underground	-	?	-	-
+825	event1	Uranium is underground.
+825	state2		underground	-	?	-	-
+825	event2	Uranium is dug up.
+825	state3		?	-	?	-	-
+825	event3	Uranium is brought to nuclear power plants.
+825	state4		nuclear power plant	-	?	-	-
+825	event4	Uranium atoms are split into two smaller atoms.
+825	state5		-	nuclear power plant	?	-	-
+825	event5	Heat energy is released from the uranium.
+825	state6		-	nuclear power plant	?	-	-
+825	event6	The heat energy turns water into steam in a nuclear reactor.
+825	state7		-	nuclear reactor	-	nuclear reactor	-
+825	event7	The steam turns big turbines.
+825	state8		-	nuclear reactor	-	turbine	-
+825	event8	The turbines drive generators.
+825	state9		-	nuclear reactor	-	nuclear reactor	-
+825	event9	The generators make electricity.
+825	state10		-	nuclear reactor	-	nuclear reactor	generator
+825	event10	The steam turns back into water.
+825	state11		-	nuclear reactor	generator	-	generator
+
+
+826	SID	PARTICIPANTS	heat	steam	electricity
+826		PROMPT: How does a nuclear-powered power station generate electricity?	-=====	-=====	-=====
+826	state1		?	-	-
+826	event1	A nuclear reactor generates heat by nuclear fission.
+826	state2		nuclear reactor	-	-
+826	event2	The heat created raises steam.
+826	state3		nuclear reactor	nuclear reactor	-
+826	event3	The steam runs through turbines.
+826	state4		nuclear reactor	turbine	-
+826	event4	The turbines generate electricity.
+826	state5		nuclear reactor	turbine	turbine
+826	event5	The electricity leaves the station.
+826	state6		nuclear reactor	turbine	turbine
+
+
+1260	SID	PARTICIPANTS	silk	web
+1260		PROMPT: How does a spider make its web?	-=====	-=====
+1260	state1		-	-
+1260	event1	The spider picks a suitable place.
+1260	state2		-	-
+1260	event2	The spider produces sticky silk from its abdomen.
+1260	state3		abdomen	-
+1260	event3	The spider attaches it to objects where it wants to build the web.
+1260	state4		object	-
+1260	event4	The spider strings this silk back and forth between objects.
+1260	state5		object	-
+1260	event5	A web is created.
+1260	state6		-	object

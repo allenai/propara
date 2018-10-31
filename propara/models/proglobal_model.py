@@ -52,7 +52,7 @@ class ProGlobal(Model):
 
         Sample commandline
         ------------------
-        python processes/run.py train -s /output_folder experiment_config/ProGlobal.json
+        python propara/run.py train -s /output_folder experiment_config/ProGlobal.json
         """
 
         super(ProGlobal, self).__init__(vocab)

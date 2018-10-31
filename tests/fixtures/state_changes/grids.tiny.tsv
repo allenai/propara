@@ -1,0 +1,14 @@
+4	SID	PARTICIPANTS	plants	they	sediment
+4		PROMPT: How does oil form?	-=====	-=====	-=====
+4	state1		-	?	-
+4	event1	Plants die.
+4	state2		?	?	die
+4	event2	They are buried in sediment.
+4	state3		sediment	-	?
+
+
+44	SID	PARTICIPANTS	plants
+44		PROMPT: How does oil form?	-=====
+44	state1		?
+44	event1	Plants die.
+44	state2		?

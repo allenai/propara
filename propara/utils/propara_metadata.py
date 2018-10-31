@@ -1,7 +1,3 @@
-# This class reads ProPara grids in the following format
-# and stores them in accessible data structures
-#
-#
 # 4	SID	PARTICIPANTS	plants	bacteria	sediment	oil
 # 4		PROMPT: How does oil form?	-=====	-=====	-=====	-=====
 # 4	state1		?	?	?	-

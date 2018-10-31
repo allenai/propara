@@ -1,0 +1,1307 @@
+514	1	glacier	null	null	nowhere	nowhere
+514	2	glacier	null	null	nowhere	nowhere
+514	3	glacier	null	null	nowhere	nowhere
+514	4	glacier	null	null	nowhere	nowhere
+514	5	glacier	null	null	nowhere	nowhere
+514	6	glacier	null	null	nowhere	area
+514	7	glacier	null	null	area	area
+514	1	snow	unk	area	somewhere	area
+514	2	snow	area	area	area	area
+514	3	snow	area	area	area	area
+514	4	snow	area	area	area	nowhere
+514	5	snow	area	area	nowhere	nowhere
+514	6	snow	area	area	nowhere	nowhere
+514	7	snow	area	area	nowhere	nowhere
+514	1	mass	unk	unk	nowhere	nowhere
+514	2	mass	unk	unk	nowhere	nowhere
+514	3	mass	unk	unk	nowhere	nowhere
+514	4	mass	unk	unk	nowhere	nowhere
+514	5	mass	unk	unk	nowhere	area
+514	6	mass	unk	null	area	area
+514	7	mass	null	null	area	area
+445	1	magma	volcano	volcano	nowhere	volcano
+445	2	magma	volcano	volcano	volcano	nowhere
+445	3	magma	volcano	volcano	nowhere	nowhere
+445	4	magma	volcano	volcano	nowhere	nowhere
+445	5	magma	volcano	volcano	nowhere	nowhere
+445	6	magma	volcano	volcano	nowhere	nowhere
+445	7	magma	volcano	volcano	nowhere	nowhere
+445	1	rock	null	null	nowhere	nowhere
+445	2	rock	null	null	nowhere	somewhere
+445	3	rock	null	null	somewhere	nowhere
+445	4	rock	null	null	nowhere	nowhere
+445	5	rock	null	null	nowhere	nowhere
+445	6	rock	null	null	nowhere	nowhere
+445	7	rock	null	null	nowhere	nowhere
+445	1	sedimentary rock	null	null	nowhere	nowhere
+445	2	sedimentary rock	null	null	nowhere	nowhere
+445	3	sedimentary rock	null	null	nowhere	somewhere
+445	4	sedimentary rock	null	unk	somewhere	somewhere
+445	5	sedimentary rock	unk	unk	somewhere	somewhere
+445	6	sedimentary rock	unk	unk	somewhere	nowhere
+445	7	sedimentary rock	unk	unk	nowhere	nowhere
+445	1	third kind of rock	null	null	nowhere	nowhere
+445	2	third kind of rock	null	null	nowhere	nowhere
+445	3	third kind of rock	null	null	nowhere	nowhere
+445	4	third kind of rock	null	null	nowhere	nowhere
+445	5	third kind of rock	null	null	nowhere	nowhere
+445	6	third kind of rock	null	unk	nowhere	somewhere
+445	7	third kind of rock	unk	unk	somewhere	somewhere
+394	1	generator	null	null	somewhere	somewhere
+394	2	generator	null	null	somewhere	somewhere
+394	3	generator	null	null	somewhere	somewhere
+394	4	generator	null	unk	somewhere	somewhere
+394	5	generator	unk	unk	somewhere	somewhere
+394	6	generator	unk	unk	somewhere	somewhere
+394	7	generator	unk	unk	somewhere	somewhere
+394	1	fuel	unk	null	somewhere	nowhere
+394	2	fuel	null	null	nowhere	nowhere
+394	3	fuel	null	null	nowhere	nowhere
+394	4	fuel	null	null	nowhere	nowhere
+394	5	fuel	null	null	nowhere	nowhere
+394	6	fuel	null	null	nowhere	nowhere
+394	7	fuel	null	null	nowhere	nowhere
+394	1	water	unk	unk	somewhere	somewhere
+394	2	water	unk	null	somewhere	nowhere
+394	3	water	null	null	nowhere	nowhere
+394	4	water	null	null	nowhere	nowhere
+394	5	water	null	null	nowhere	nowhere
+394	6	water	null	null	nowhere	nowhere
+394	7	water	null	null	nowhere	nowhere
+394	1	turbine	unk	unk	generator	generator
+394	2	turbine	unk	unk	generator	generator
+394	3	turbine	unk	unk	generator	generator
+394	4	turbine	unk	unk	generator	generator
+394	5	turbine	unk	unk	generator	generator
+394	6	turbine	unk	unk	generator	generator
+394	7	turbine	unk	unk	generator	generator
+394	1	steam	null	null	nowhere	nowhere
+394	2	steam	null	null	nowhere	turbine
+394	3	steam	null	null	turbine	somewhere
+394	4	steam	null	null	somewhere	somewhere
+394	5	steam	null	null	somewhere	somewhere
+394	6	steam	null	null	somewhere	somewhere
+394	7	steam	null	null	somewhere	somewhere
+394	1	heat	null	unk	nowhere	somewhere
+394	2	heat	unk	unk	somewhere	nowhere
+394	3	heat	unk	unk	nowhere	nowhere
+394	4	heat	unk	unk	nowhere	nowhere
+394	5	heat	unk	unk	nowhere	nowhere
+394	6	heat	unk	unk	nowhere	nowhere
+394	7	heat	unk	unk	nowhere	nowhere
+394	1	electricity	null	null	nowhere	nowhere
+394	2	electricity	null	null	nowhere	nowhere
+394	3	electricity	null	null	nowhere	nowhere
+394	4	electricity	null	null	nowhere	nowhere
+394	5	electricity	null	unk	nowhere	generator
+394	6	electricity	unk	transformers	generator	transformer
+394	7	electricity	transformers	transformers	transformer	transformer
+394	1	voltage	unk	unk	nowhere	nowhere
+394	2	voltage	unk	unk	nowhere	nowhere
+394	3	voltage	unk	unk	nowhere	nowhere
+394	4	voltage	unk	unk	nowhere	nowhere
+394	5	voltage	unk	unk	nowhere	nowhere
+394	6	voltage	unk	unk	nowhere	nowhere
+394	7	voltage	unk	unk	nowhere	transformer
+708	1	rock	null	null	somewhere	somewhere
+708	2	rock	null	null	somewhere	somewhere
+708	3	rock	null	null	somewhere	nowhere
+708	4	rock	null	null	nowhere	nowhere
+708	5	rock	null	null	nowhere	nowhere
+708	6	rock	null	surface	nowhere	nowhere
+708	7	rock	surface	surface	nowhere	nowhere
+708	8	rock	surface	surface	nowhere	nowhere
+708	9	rock	surface	surface	nowhere	nowhere
+708	10	rock	surface	surface	nowhere	nowhere
+708	1	sediment	null	null	nowhere	nowhere
+708	2	sediment	null	null	nowhere	nowhere
+708	3	sediment	null	null	nowhere	somewhere
+708	4	sediment	null	null	somewhere	somewhere
+708	5	sediment	null	null	somewhere	somewhere
+708	6	sediment	null	null	somewhere	nowhere
+708	7	sediment	null	null	nowhere	nowhere
+708	8	sediment	null	null	nowhere	nowhere
+708	9	sediment	null	null	nowhere	nowhere
+708	10	sediment	null	null	nowhere	nowhere
+708	1	metamorphic rock	null	null	nowhere	nowhere
+708	2	metamorphic rock	null	null	nowhere	nowhere
+708	3	metamorphic rock	null	null	nowhere	nowhere
+708	4	metamorphic rock	null	null	nowhere	nowhere
+708	5	metamorphic rock	null	null	nowhere	nowhere
+708	6	metamorphic rock	null	unk	nowhere	somewhere
+708	7	metamorphic rock	unk	null	somewhere	bury
+708	8	metamorphic rock	unk	null	bury	nowhere
+708	9	metamorphic rock	null	null	nowhere	nowhere
+708	10	metamorphic rock	null	null	nowhere	nowhere
+708	1	melted rock	unk	unk	nowhere	nowhere
+708	2	melted rock	unk	unk	nowhere	nowhere
+708	3	melted rock	unk	unk	nowhere	nowhere
+708	4	melted rock	unk	unk	nowhere	nowhere
+708	5	melted rock	unk	unk	nowhere	nowhere
+708	6	melted rock	unk	unk	nowhere	nowhere
+708	7	melted rock	unk	unk	nowhere	nowhere
+708	8	melted rock	unk	unk	nowhere	somewhere
+708	9	melted rock	unk	unk	somewhere	somewhere
+708	10	melted rock	unk	unk	somewhere	nowhere
+609	1	gasoline	unk	unk	somewhere	cylinder
+609	2	gasoline	unk	unk	cylinder	cylinder
+609	3	gasoline	unk	unk	cylinder	cylinder
+609	4	gasoline	unk	unk	cylinder	cylinder
+609	5	gasoline	unk	cylinder	cylinder	nowhere
+609	6	gasoline	cylinder	cylinder	nowhere	nowhere
+609	1	exhaust	unk	unk	nowhere	nowhere
+609	2	exhaust	unk	unk	nowhere	nowhere
+609	3	exhaust	unk	unk	nowhere	nowhere
+609	4	exhaust	unk	unk	nowhere	nowhere
+609	5	exhaust	unk	unk	nowhere	cylinder
+609	6	exhaust	unk	unk	cylinder	tailpipe
+609	1	explosion	unk	unk	nowhere	nowhere
+609	2	explosion	unk	unk	nowhere	nowhere
+609	3	explosion	unk	unk	nowhere	nowhere
+609	4	explosion	unk	unk	nowhere	nowhere
+609	5	explosion	unk	unk	nowhere	cylinder
+609	6	explosion	unk	unk	cylinder	cylinder
+609	1	spark	unk	unk	nowhere	nowhere
+609	2	spark	unk	unk	nowhere	nowhere
+609	3	spark	unk	unk	nowhere	nowhere
+609	4	spark	unk	unk	nowhere	cylinder
+609	5	spark	unk	unk	cylinder	nowhere
+609	6	spark	unk	unk	nowhere	nowhere
+609	1	air	unk	unk	somewhere	cylinder
+609	2	air	unk	unk	cylinder	cylinder
+609	3	air	unk	unk	cylinder	cylinder
+609	4	air	unk	unk	cylinder	cylinder
+609	5	air	unk	unk	cylinder	nowhere
+609	6	air	unk	unk	nowhere	nowhere
+609	1	piston	unk	unk	engine	engine
+609	2	piston	unk	null	engine	engine
+609	3	piston	unk	unk	engine	engine
+609	4	piston	unk	unk	engine	engine
+609	5	piston	unk	unk	engine	engine
+609	6	piston	unk	unk	engine	engine
+349	1	sound	unk	unk	nowhere	somewhere
+349	2	sound	unk	unk	somewhere	somewhere
+349	3	sound	unk	object	somewhere	object
+349	4	sound	object	object	object	object
+349	5	sound	object	object	object	somewhere
+349	6	sound	object	object	somewhere	somewhere
+349	7	sound	object	object	somewhere	nowhere
+349	1	sound waves	unk	unk	nowhere	somewhere
+349	2	sound waves	unk	unk	somewhere	somewhere
+349	3	sound waves	unk	object	somewhere	object
+349	4	sound waves	object	object	object	object
+349	5	sound waves	object	object	object	somewhere
+349	6	sound waves	object	object	somewhere	somewhere
+349	7	sound waves	object	object	somewhere	nowhere
+349	1	echoes	unk	unk	nowhere	nowhere
+349	2	echoes	unk	unk	nowhere	nowhere
+349	3	echoes	unk	unk	nowhere	nowhere
+349	4	echoes	unk	unk	nowhere	nowhere
+349	5	echoes	unk	unk	nowhere	nowhere
+349	6	echoes	unk	unk	nowhere	nowhere
+349	7	echoes	unk	unk	nowhere	somewhere
+430	1	trash	house	house	nowhere	house
+430	2	trash	house	house	house	house
+430	3	trash	unk	curbside	house	house
+430	4	trash	curbside	unk	house	curbside
+430	5	trash	unk	unk	curbside	curbside
+430	6	trash	unk	truck	curbside	truck
+430	7	trash	unk	unk	truck	landfill
+430	8	trash	unk	unk	landfill	landfill
+430	9	trash	unk	unk	landfill	landfill
+430	10	trash	unk	landfill	landfill	landfill
+430	1	truck	unk	unk	somewhere	somewhere
+430	2	truck	unk	unk	somewhere	somewhere
+430	3	truck	unk	unk	somewhere	somewhere
+430	4	truck	unk	unk	somewhere	somewhere
+430	5	truck	unk	unk	somewhere	somewhere
+430	6	truck	unk	unk	somewhere	somewhere
+430	7	truck	unk	landfill	somewhere	landfill
+430	8	truck	landfill	landfill	landfill	landfill
+430	9	truck	landfill	landfill	landfill	somewhere
+430	10	truck	landfill	landfill	somewhere	somewhere
+430	1	recycling	unk	unk	nowhere	nowhere
+430	2	recycling	unk	unk	nowhere	nowhere
+430	3	recycling	unk	unk	nowhere	somewhere
+430	4	recycling	unk	unk	somewhere	somewhere
+430	5	recycling	unk	unk	somewhere	somewhere
+430	6	recycling	unk	unk	somewhere	somewhere
+430	7	recycling	unk	unk	somewhere	somewhere
+430	8	recycling	unk	unk	somewhere	somewhere
+430	9	recycling	unk	unk	somewhere	somewhere
+430	10	recycling	unk	unk	somewhere	somewhere
+388	1	turbines	generators	generators	power plant	power plant
+388	2	turbines	generators	generators	power plant	power plant
+388	3	turbines	generators	generators	power plant	power plant
+388	4	turbines	generators	generators	power plant	power plant
+388	5	turbines	generators	generators	power plant	power plant
+388	6	turbines	generators	generators	power plant	power plant
+388	1	generators	unk	unk	power plant	power plant
+388	2	generators	unk	unk	power plant	power plant
+388	3	generators	unk	unk	power plant	power plant
+388	4	generators	unk	unk	power plant	power plant
+388	5	generators	unk	unk	power plant	power plant
+388	6	generators	unk	unk	power plant	power plant
+388	1	water	unk	unk	somewhere	somewhere
+388	2	water	unk	unk	somewhere	dam
+388	3	water	unk	unk	dam	turbine
+388	4	water	unk	unk	turbine	turbine
+388	5	water	unk	unk	turbine	turbine
+388	6	water	unk	dam	turbine	somewhere
+388	1	waters	unk	unk	somewhere	somewhere
+388	2	waters	unk	unk	somewhere	dam
+388	3	waters	unk	unk	dam	turbine
+388	4	waters	unk	unk	turbine	turbine
+388	5	waters	unk	unk	turbine	turbine
+388	6	waters	unk	dam	turbine	somewhere
+388	1	electricity	null	null	nowhere	nowhere
+388	2	electricity	null	null	nowhere	nowhere
+388	3	electricity	null	null	nowhere	nowhere
+388	4	electricity	null	null	nowhere	nowhere
+388	5	electricity	null	generators	nowhere	generator
+388	6	electricity	generators	generators	generator	generator
+1007	1	plant	unk	null	somewhere	somewhere
+1007	2	plant	null	null	somewhere	somewhere
+1007	3	plant	null	null	somewhere	somewhere
+1007	4	plant	null	null	somewhere	somewhere
+1007	5	plant	null	null	somewhere	nowhere
+1007	6	plant	null	null	nowhere	nowhere
+1007	1	material	unk	unk	somewhere	somewhere
+1007	2	material	unk	unk	somewhere	somewhere
+1007	3	material	unk	unk	somewhere	somewhere
+1007	4	material	unk	unk	somewhere	somewhere
+1007	5	material	unk	null	somewhere	nowhere
+1007	6	material	null	null	nowhere	nowhere
+1007	1	microbes	unk	unk	somewhere	dead plant
+1007	2	microbes	unk	unk	dead plant	dead plant
+1007	3	microbes	unk	unk	dead plant	dead plant
+1007	4	microbes	unk	unk	dead plant	dead plant
+1007	5	microbes	unk	unk	dead plant	soil
+1007	6	microbes	unk	unk	soil	soil
+1303	1	food	unk	unk	somewhere	somewhere
+1303	2	food	unk	unk	somewhere	somewhere
+1303	3	food	unk	unk	somewhere	somewhere
+1303	4	food	unk	unk	somewhere	somewhere
+1303	5	food	unk	unk	somewhere	somewhere
+1303	1	milk	unk	unk	somewhere	somewhere
+1303	2	milk	unk	unk	somewhere	somewhere
+1303	3	milk	unk	unk	somewhere	somewhere
+1303	4	milk	unk	unk	somewhere	somewhere
+1303	5	milk	unk	unk	somewhere	somewhere
+1303	1	microbes	unk	unk	food or milk	food or milk
+1303	2	microbes	unk	unk	food or milk	food or milk
+1303	3	microbes	unk	unk	food or milk	nowhere
+1303	4	microbes	unk	unk	nowhere	nowhere
+1303	5	microbes	unk	unk	nowhere	nowhere
+630	1	trash	unk	garbage	somewhere	garbage container
+630	2	trash	unk	centralized	garbage container	centralize container
+630	3	trash	unk	large  truck	centralize container	truck
+630	4	trash	large  truck	large  truck	truck	truck
+630	5	trash	truck	truck	truck	truck
+630	6	trash	truck	landfill	truck	landfill
+630	1	truck	unk	unk	somewhere	somewhere
+630	2	truck	unk	unk	somewhere	somewhere
+630	3	truck	unk	unk	somewhere	somewhere
+630	4	truck	unk	unk	somewhere	somewhere
+630	5	truck	unk	landfill	somewhere	landfill
+630	6	truck	unk	landfill	landfill	landfill
+5	1	sediment	unk	unk	seafloor	seafloor
+5	2	sediment	unk	unk	seafloor	seafloor
+5	3	sediment	unk	unk	seafloor	seafloor
+5	4	sediment	unk	unk	seafloor	seafloor
+5	5	sediment	unk	unk	seafloor	seafloor
+5	6	sediment	unk	unk	seafloor	nowhere
+5	7	sediment	unk	unk	nowhere	nowhere
+5	8	sediment	unk	unk	nowhere	nowhere
+5	9	sediment	unk	unk	nowhere	nowhere
+5	1	plankton	unk	unk	somewhere	seafloor
+5	2	plankton	unk	unk	seafloor	nowhere
+5	3	plankton	unk	unk	nowhere	nowhere
+5	4	plankton	unk	unk	nowhere	nowhere
+5	5	plankton	unk	unk	nowhere	nowhere
+5	6	plankton	unk	unk	nowhere	nowhere
+5	7	plankton	unk	unk	nowhere	nowhere
+5	8	plankton	unk	unk	nowhere	nowhere
+5	9	plankton	unk	unk	nowhere	nowhere
+5	1	algae	unk	unk	somewhere	seafloor
+5	2	algae	unk	unk	seafloor	nowhere
+5	3	algae	unk	unk	nowhere	nowhere
+5	4	algae	unk	unk	nowhere	nowhere
+5	5	algae	unk	unk	nowhere	nowhere
+5	6	algae	unk	unk	nowhere	nowhere
+5	7	algae	unk	unk	nowhere	nowhere
+5	8	algae	unk	unk	nowhere	nowhere
+5	9	algae	unk	unk	nowhere	nowhere
+5	1	oil	null	null	nowhere	nowhere
+5	2	oil	null	null	nowhere	nowhere
+5	3	oil	null	null	nowhere	nowhere
+5	4	oil	null	null	nowhere	nowhere
+5	5	oil	null	null	nowhere	nowhere
+5	6	oil	null	null	nowhere	nowhere
+5	7	oil	null	null	nowhere	rock
+5	8	oil	null	unk	rock	rock
+5	9	oil	unk	unk	rock	rock
+5	1	material	unk	unk	nowhere	nowhere
+5	2	material	unk	unk	nowhere	nowhere
+5	3	material	unk	unk	nowhere	nowhere
+5	4	material	unk	unk	nowhere	nowhere
+5	5	material	unk	unk	nowhere	nowhere
+5	6	material	unk	unk	nowhere	rock
+5	7	material	unk	null	rock	nowhere
+5	8	material	null	null	nowhere	nowhere
+5	9	material	null	null	nowhere	nowhere
+543	1	blood	unk	kidneys	renal artery	kidney
+543	2	blood	unk	unk	kidney	kidney
+543	3	blood	unk	body	kidney	nowhere
+543	4	blood	body	body	nowhere	nowhere
+543	5	blood	body	body	nowhere	nowhere
+543	6	blood	body	body	nowhere	nowhere
+543	7	blood	body	body	nowhere	nowhere
+543	1	waste	blood	blood	blood	blood
+543	2	waste	blood	blood	blood	blood
+543	3	waste	blood	unk	blood	kidney
+543	4	waste	unk	null	kidney	nowhere
+543	5	waste	null	null	nowhere	nowhere
+543	6	waste	null	null	nowhere	nowhere
+543	7	waste	null	null	nowhere	nowhere
+543	1	urine	null	null	nowhere	nowhere
+543	2	urine	null	null	nowhere	nowhere
+543	3	urine	null	null	nowhere	nowhere
+543	4	urine	null	null	nowhere	kidney
+543	5	urine	null	unk	kidney	ureter
+543	6	urine	unk	unk	ureter	bladder
+543	7	urine	unk	unk	bladder	bladder
+543	1	filtered blood	unk	unk	nowhere	nowhere
+543	2	filtered blood	unk	unk	nowhere	nowhere
+543	3	filtered blood	unk	unk	nowhere	kidney
+543	4	filtered blood	unk	unk	kidney	kidney
+543	5	filtered blood	unk	unk	kidney	kidney
+543	6	filtered blood	unk	unk	kidney	kidney
+543	7	filtered blood	unk	unk	kidney	body
+432	1	garbage	unk	unk	somewhere	can or in bag
+432	2	garbage	unk	unk	can or in bag	truck
+432	3	garbage	unk	sorting  center	truck	sort center
+432	4	garbage	unk	unk	sort center	sort center
+432	5	garbage	unk	unk	sort center	sort center
+432	6	garbage	unk	landfill	sort center	landfill
+432	1	garbage truck	unk	unk	somewhere	somewhere
+432	2	garbage truck	unk	unk	somewhere	house
+432	3	garbage truck	unk	sorting  center	house	sort center
+432	4	garbage truck	sorting  center	sorting  center	sort center	somewhere
+432	5	garbage truck	sorting  center	sorting  center	somewhere	somewhere
+432	6	garbage truck	sorting  center	sorting  center	somewhere	somewhere
+432	1	trash	house	house	somewhere	can or in bag
+432	2	trash	unk	truck	can or in bag	truck
+432	3	trash	truck	truck	truck	sort center
+432	4	trash	truck	truck	sort center	sort center
+432	5	trash	truck	truck	sort center	sort center
+432	6	trash	truck	truck	sort center	landfill
+432	1	recycling	unk	unk	nowhere	nowhere
+432	2	recycling	unk	unk	nowhere	nowhere
+432	3	recycling	unk	unk	nowhere	nowhere
+432	4	recycling	unk	unk	nowhere	nowhere
+432	5	recycling	unk	unk	nowhere	sort center
+432	6	recycling	unk	unk	sort center	somewhere
+396	1	water	unk	unk	somewhere	somewhere
+396	2	water	unk	unk	somewhere	somewhere
+396	3	water	unk	null	somewhere	nowhere
+396	4	water	null	null	nowhere	nowhere
+396	5	water	null	null	nowhere	nowhere
+396	6	water	null	null	nowhere	nowhere
+396	1	steam	null	null	nowhere	nowhere
+396	2	steam	null	null	nowhere	nowhere
+396	3	steam	null	unk	nowhere	turbine
+396	4	steam	unk	turbine	turbine	turbine
+396	5	steam	turbine	turbine	turbine	turbine
+396	6	steam	turbine	turbine	turbine	turbine
+396	1	uranium atoms	unk	unk	nowhere	somewhere
+396	2	uranium atoms	unk	null	somewhere	nowhere
+396	3	uranium atoms	null	null	nowhere	nowhere
+396	4	uranium atoms	null	null	nowhere	nowhere
+396	5	uranium atoms	null	null	nowhere	nowhere
+396	6	uranium atoms	null	null	nowhere	nowhere
+396	1	heat	null	null	nowhere	nowhere
+396	2	heat	null	unk	nowhere	uranium atom
+396	3	heat	unk	null	uranium atom	nowhere
+396	4	heat	null	null	nowhere	nowhere
+396	5	heat	null	null	nowhere	nowhere
+396	6	heat	null	null	nowhere	nowhere
+396	1	electricity	null	null	nowhere	nowhere
+396	2	electricity	null	null	nowhere	nowhere
+396	3	electricity	null	null	nowhere	nowhere
+396	4	electricity	null	null	nowhere	nowhere
+396	5	electricity	null	null	nowhere	nowhere
+396	6	electricity	null	unk	nowhere	spin generator
+396	1	uranium fuel	unk	nuclear  reactor	nuclear reactor	nowhere
+396	2	uranium fuel	nuclear  reactor	nuclear  reactor	nowhere	nowhere
+396	3	uranium fuel	nuclear  reactor	nuclear  reactor	nowhere	nowhere
+396	4	uranium fuel	nuclear  reactor	nuclear  reactor	nowhere	nowhere
+396	5	uranium fuel	nuclear  reactor	nuclear  reactor	nowhere	nowhere
+396	6	uranium fuel	nuclear  reactor	nuclear  reactor	nowhere	nowhere
+1114	1	caves	null	null	nowhere	nowhere
+1114	2	caves	null	null	nowhere	nowhere
+1114	3	caves	null	null	nowhere	nowhere
+1114	4	caves	null	null	nowhere	nowhere
+1114	5	caves	null	null	nowhere	nowhere
+1114	6	caves	null	null	nowhere	nowhere
+1114	7	caves	null	unk	nowhere	nowhere
+1114	1	bedrock	unk	unk	nowhere	soil
+1114	2	bedrock	unk	unk	soil	soil
+1114	3	bedrock	unk	unk	soil	soil
+1114	4	bedrock	unk	unk	soil	soil
+1114	5	bedrock	unk	null	soil	nowhere
+1114	6	bedrock	null	null	nowhere	nowhere
+1114	7	bedrock	null	null	nowhere	nowhere
+1114	1	funnels	null	null	nowhere	nowhere
+1114	2	funnels	null	null	nowhere	nowhere
+1114	3	funnels	null	null	nowhere	nowhere
+1114	4	funnels	null	null	nowhere	nowhere
+1114	5	funnels	null	unk	nowhere	bedrock
+1114	6	funnels	unk	unk	bedrock	bedrock
+1114	7	funnels	unk	unk	bedrock	nowhere
+1114	1	water	unk	unk	somewhere	soil
+1114	2	water	unk	unk	soil	soil
+1114	3	water	unk	bedrock	soil	bedrock
+1114	4	water	bedrock	bedrock	bedrock	bedrock
+1114	5	water	bedrock	bedrock	bedrock	bedrock
+1114	6	water	bedrock	bedrock	bedrock	bedrock
+1114	7	water	bedrock	bedrock	bedrock	bedrock
+1114	1	rainwater	unk	soil	somewhere	soil
+1114	2	rainwater	unk	soil	soil	soil
+1114	3	rainwater	soil	soil	soil	bedrock
+1114	4	rainwater	soil	soil	bedrock	bedrock
+1114	5	rainwater	soil	soil	bedrock	bedrock
+1114	6	rainwater	soil	soil	bedrock	bedrock
+1114	7	rainwater	soil	soil	bedrock	bedrock
+1260	1	silk	unk	unk	nowhere	nowhere
+1260	2	silk	unk	spider	nowhere	abdomen
+1260	3	silk	unk	unk	abdomen	object
+1260	4	silk	unk	unk	object	object
+1260	5	silk	unk	unk	object	nowhere
+1260	1	web	null	null	nowhere	nowhere
+1260	2	web	null	null	nowhere	nowhere
+1260	3	web	null	null	nowhere	nowhere
+1260	4	web	null	null	nowhere	nowhere
+1260	5	web	null	unk	nowhere	object
+390	1	generator	unk	unk	somewhere	somewhere
+390	2	generator	unk	unk	somewhere	somewhere
+390	3	generator	unk	unk	somewhere	somewhere
+390	4	generator	unk	unk	somewhere	reservoir
+390	5	generator	unk	unk	reservoir	reservoir
+390	6	generator	unk	unk	reservoir	reservoir
+390	7	generator	unk	unk	reservoir	reservoir
+390	1	water's energy	unk	unk	nowhere	nowhere
+390	2	water's energy	unk	unk	nowhere	nowhere
+390	3	water's energy	unk	unk	nowhere	nowhere
+390	4	water's energy	unk	unk	nowhere	turbine
+390	5	water's energy	unk	null	turbine	nowhere
+390	6	water's energy	null	null	nowhere	nowhere
+390	7	water's energy	null	null	nowhere	nowhere
+390	1	water	unk	unk	somewhere	reservoir
+390	2	water	unk	turbine	reservoir	reservoir
+390	3	water	turbine	turbine	reservoir	turbine
+390	4	water	unk	unk	turbine	somewhere
+390	5	water	unk	null	somewhere	somewhere
+390	6	water	null	null	somewhere	somewhere
+390	7	water	null	null	somewhere	somewhere
+390	1	electrical energy	null	null	nowhere	nowhere
+390	2	electrical energy	null	null	nowhere	nowhere
+390	3	electrical energy	null	null	nowhere	nowhere
+390	4	electrical energy	null	null	nowhere	nowhere
+390	5	electrical energy	null	null	nowhere	generator
+390	6	electrical energy	null	unk	generator	nowhere
+390	7	electrical energy	unk	unk	nowhere	nowhere
+390	1	turbine	null	null	somewhere	somewhere
+390	2	turbine	null	null	somewhere	somewhere
+390	3	turbine	null	null	somewhere	reservoir
+390	4	turbine	null	null	reservoir	reservoir
+390	5	turbine	null	null	reservoir	reservoir
+390	6	turbine	null	null	reservoir	reservoir
+390	7	turbine	null	null	reservoir	reservoir
+390	1	reservoir	null	null	nowhere	somewhere
+390	2	reservoir	null	null	somewhere	somewhere
+390	3	reservoir	null	null	somewhere	somewhere
+390	4	reservoir	null	null	somewhere	somewhere
+390	5	reservoir	null	null	somewhere	somewhere
+390	6	reservoir	null	null	somewhere	somewhere
+390	7	reservoir	null	null	somewhere	somewhere
+390	1	electricity	unk	unk	nowhere	nowhere
+390	2	electricity	unk	unk	nowhere	nowhere
+390	3	electricity	unk	unk	nowhere	nowhere
+390	4	electricity	unk	unk	nowhere	nowhere
+390	5	electricity	unk	unk	nowhere	nowhere
+390	6	electricity	unk	unk	nowhere	generator
+390	7	electricity	unk	unk	generator	power line
+390	1	high voltage	null	null	nowhere	nowhere
+390	2	high voltage	null	null	nowhere	nowhere
+390	3	high voltage	null	null	nowhere	nowhere
+390	4	high voltage	null	null	nowhere	nowhere
+390	5	high voltage	null	null	nowhere	nowhere
+390	6	high voltage	null	null	nowhere	generator
+390	7	high voltage	null	null	generator	power line
+4	1	plants	unk	null	somewhere	somewhere
+4	2	plants	unk	unk	somewhere	sediment
+4	3	plants	unk	unk	sediment	sediment
+4	4	plants	unk	unk	sediment	sediment
+4	5	plants	unk	unk	sediment	sediment
+4	6	plants	unk	unk	sediment	sediment
+4	7	plants	unk	unk	sediment	sediment
+4	8	plants	unk	null	sediment	underground
+4	9	plants	null	null	underground	underground
+4	10	plants	null	null	underground	nowhere
+4	1	bacteria	unk	unk	somewhere	somewhere
+4	2	bacteria	unk	unk	somewhere	somewhere
+4	3	bacteria	unk	unk	somewhere	sediment
+4	4	bacteria	unk	unk	sediment	sediment
+4	5	bacteria	unk	unk	sediment	sediment
+4	6	bacteria	unk	unk	sediment	sediment
+4	7	bacteria	unk	unk	sediment	sediment
+4	8	bacteria	unk	unk	sediment	sediment
+4	9	bacteria	unk	unk	sediment	sediment
+4	10	bacteria	unk	unk	sediment	nowhere
+4	1	sediment	unk	unk	somewhere	somewhere
+4	2	sediment	unk	unk	somewhere	somewhere
+4	3	sediment	unk	unk	somewhere	somewhere
+4	4	sediment	unk	unk	somewhere	somewhere
+4	5	sediment	unk	unk	somewhere	somewhere
+4	6	sediment	unk	unk	somewhere	somewhere
+4	7	sediment	unk	unk	somewhere	somewhere
+4	8	sediment	unk	null	somewhere	underground
+4	9	sediment	null	null	underground	underground
+4	10	sediment	null	null	underground	underground
+4	1	oil	null	null	nowhere	nowhere
+4	2	oil	null	null	nowhere	nowhere
+4	3	oil	null	null	nowhere	nowhere
+4	4	oil	null	null	nowhere	nowhere
+4	5	oil	null	null	nowhere	nowhere
+4	6	oil	null	null	nowhere	nowhere
+4	7	oil	null	null	nowhere	nowhere
+4	8	oil	null	null	nowhere	nowhere
+4	9	oil	null	null	nowhere	nowhere
+4	10	oil	null	unk	nowhere	underground
+632	1	electricity	unk	unk	plug	computer
+632	2	electricity	unk	unk	computer	component
+632	3	electricity	unk	unk	component	fan
+632	4	electricity	unk	unk	fan	fan
+632	5	electricity	unk	display	fan	display
+632	6	electricity	display	display	display	display
+632	1	heat	unk	unk	nowhere	nowhere
+632	2	heat	unk	unk	nowhere	computer
+632	3	heat	unk	unk	computer	computer
+632	4	heat	unk	unk	computer	computer
+632	5	heat	unk	unk	computer	computer
+632	6	heat	unk	unk	computer	computer
+632	1	light	unk	unk	nowhere	nowhere
+632	2	light	unk	unk	nowhere	nowhere
+632	3	light	unk	unk	nowhere	nowhere
+632	4	light	unk	unk	nowhere	nowhere
+632	5	light	unk	unk	nowhere	electricity
+632	6	light	unk	unk	electricity	electricity
+758	1	fuel source	unk	unk	somewhere	engine
+758	2	fuel source	unk	null	engine	nowhere
+758	3	fuel source	null	null	nowhere	nowhere
+758	4	fuel source	null	null	nowhere	nowhere
+758	5	fuel source	null	null	nowhere	nowhere
+758	6	fuel source	null	null	nowhere	nowhere
+758	1	gas	unk	unk	somewhere	engine
+758	2	gas	unk	unk	engine	nowhere
+758	3	gas	unk	unk	nowhere	nowhere
+758	4	gas	unk	unk	nowhere	nowhere
+758	5	gas	unk	unk	nowhere	nowhere
+758	6	gas	unk	unk	nowhere	nowhere
+758	1	mechanical energy	unk	unk	nowhere	nowhere
+758	2	mechanical energy	unk	unk	nowhere	alternator
+758	3	mechanical energy	unk	null	alternator	nowhere
+758	4	mechanical energy	null	null	nowhere	nowhere
+758	5	mechanical energy	null	null	nowhere	nowhere
+758	6	mechanical energy	null	null	nowhere	nowhere
+758	1	electrons	unk	unk	nowhere	nowhere
+758	2	electrons	unk	unk	nowhere	nowhere
+758	3	electrons	unk	unk	nowhere	alternator
+758	4	electrons	unk	unk	alternator	alternator
+758	5	electrons	unk	null	alternator	generator
+758	6	electrons	null	unk	generator	somewhere
+758	1	electrical energy	null	null	nowhere	nowhere
+758	2	electrical energy	null	null	nowhere	nowhere
+758	3	electrical energy	null	alternator	nowhere	alternator
+758	4	electrical energy	unk	unk	alternator	alternator
+758	5	electrical energy	unk	unk	alternator	generator
+758	6	electrical energy	unk	unk	generator	somewhere
+608	1	fuel	unk	unk	carburetor	engine
+608	2	fuel	unk	unk	engine	engine
+608	3	fuel	unk	null	engine	engine
+608	4	fuel	null	null	engine	engine
+608	5	fuel	null	null	engine	engine
+608	6	fuel	null	null	engine	engine
+608	7	fuel	null	null	engine	engine
+608	8	fuel	null	null	engine	engine
+608	9	fuel	null	null	engine	engine
+608	1	explosion	unk	unk	nowhere	nowhere
+608	2	explosion	unk	unk	nowhere	nowhere
+608	3	explosion	unk	unk	nowhere	nowhere
+608	4	explosion	unk	unk	nowhere	nowhere
+608	5	explosion	unk	unk	nowhere	engine
+608	6	explosion	unk	unk	engine	nowhere
+608	7	explosion	unk	unk	nowhere	nowhere
+608	8	explosion	unk	unk	nowhere	nowhere
+608	9	explosion	unk	unk	nowhere	nowhere
+608	1	spark	unk	unk	nowhere	nowhere
+608	2	spark	unk	unk	nowhere	nowhere
+608	3	spark	unk	unk	nowhere	nowhere
+608	4	spark	unk	unk	nowhere	engine
+608	5	spark	unk	unk	engine	nowhere
+608	6	spark	unk	unk	nowhere	nowhere
+608	7	spark	unk	unk	nowhere	nowhere
+608	8	spark	unk	unk	nowhere	nowhere
+608	9	spark	unk	unk	nowhere	nowhere
+608	1	air	unk	unk	somewhere	somewhere
+608	2	air	unk	unk	somewhere	engine
+608	3	air	unk	unk	engine	engine
+608	4	air	unk	unk	engine	engine
+608	5	air	unk	unk	engine	engine
+608	6	air	unk	unk	engine	engine
+608	7	air	unk	unk	engine	engine
+608	8	air	unk	unk	engine	engine
+608	9	air	unk	unk	engine	engine
+608	1	piston	unk	unk	engine	engine
+608	2	piston	unk	unk	engine	engine
+608	3	piston	unk	unk	engine	engine
+608	4	piston	unk	unk	engine	engine
+608	5	piston	unk	unk	engine	engine
+608	6	piston	unk	unk	engine	engine
+608	7	piston	unk	unk	engine	engine
+608	8	piston	unk	unk	engine	engine
+608	9	piston	unk	unk	engine	engine
+716	1	cleaned blood	unk	unk	somewhere	somewhere
+716	2	cleaned blood	unk	unk	somewhere	somewhere
+716	3	cleaned blood	unk	unk	somewhere	somewhere
+716	4	cleaned blood	unk	unk	somewhere	somewhere
+716	5	cleaned blood	unk	unk	somewhere	somewhere
+716	6	cleaned blood	unk	unk	somewhere	body
+716	1	urine	null	null	nowhere	nowhere
+716	2	urine	null	null	nowhere	nowhere
+716	3	urine	null	null	nowhere	nowhere
+716	4	urine	null	kidneys	nowhere	kidney
+716	5	urine	kidneys	unk	kidney	somewhere
+716	6	urine	unk	unk	somewhere	somewhere
+716	1	kidney	unk	unk	somewhere	body
+716	2	kidney	unk	unk	body	body
+716	3	kidney	unk	unk	body	body
+716	4	kidney	unk	unk	body	body
+716	5	kidney	unk	urine	body	body
+716	6	kidney	urine	urine	body	body
+716	1	waste	blood	kidneys	somewhere	kidney
+716	2	waste	kidneys	kidneys	kidney	kidney
+716	3	waste	kidneys	kidneys	kidney	kidney
+716	4	waste	kidneys	kidneys	kidney	somewhere
+716	5	waste	kidneys	kidneys	somewhere	somewhere
+716	6	waste	kidneys	kidneys	somewhere	somewhere
+716	1	blood	unk	kidneys	somewhere	kidney
+716	2	blood	body	body	kidney	kidney
+716	3	blood	body	body	kidney	kidney
+716	4	blood	body	body	kidney	kidney
+716	5	blood	body	body	kidney	kidney
+716	6	blood	body	body	kidney	body
+375	1	motion energy	null	null	nowhere	nowhere
+375	2	motion energy	null	null	nowhere	nowhere
+375	3	motion energy	null	null	nowhere	nowhere
+375	4	motion energy	null	null	nowhere	hard drive , dvd drive or fan
+375	5	motion energy	null	unk	hard drive , dvd drive or fan	nowhere
+375	1	motion	unk	unk	nowhere	nowhere
+375	2	motion	unk	unk	nowhere	nowhere
+375	3	motion	unk	unk	nowhere	nowhere
+375	4	motion	unk	null	nowhere	hard drive , dvd drive or fan
+375	5	motion	null	unk	hard drive , dvd drive or fan	hard drive , dvd drive or fan
+375	1	heat	null	null	nowhere	nowhere
+375	2	heat	null	null	nowhere	nowhere
+375	3	heat	null	null	nowhere	computer
+375	4	heat	null	null	computer	computer
+375	5	heat	null	unk	computer	computer
+375	1	electricity	unk	computer	somewhere	computer
+375	2	electricity	unk	null	computer	computer
+375	3	electricity	null	null	computer	computer
+375	4	electricity	null	null	computer	computer
+375	5	electricity	null	null	computer	computer
+375	1	light	null	null	nowhere	nowhere
+375	2	light	null	computer	nowhere	computer
+375	3	light	computer	computer	computer	computer
+375	4	light	computer	computer	computer	computer
+375	5	light	computer	computer	computer	computer
+629	1	plastic bag	unk	unk	somewhere	somewhere
+629	2	plastic bag	unk	garbage	somewhere	garbage can
+629	3	plastic bag	unk	unk	garbage can	garbage can
+629	4	plastic bag	unk	unk	garbage can	garbage can
+629	5	plastic bag	unk	truck	garbage can	truck
+629	6	plastic bag	truck	truck	truck	truck
+629	7	plastic bag	truck	truck	truck	landfill
+629	1	truck	unk	unk	somewhere	somewhere
+629	2	truck	unk	unk	somewhere	somewhere
+629	3	truck	unk	unk	somewhere	somewhere
+629	4	truck	unk	house	somewhere	house
+629	5	truck	unk	unk	house	house
+629	6	truck	unk	landfill	house	landfill
+629	7	truck	unk	landfill	landfill	landfill
+629	1	garbage can	plastic	plastic	somewhere	somewhere
+629	2	garbage can	plastic	plastic	somewhere	somewhere
+629	3	garbage can	unk	truck	somewhere	outside
+629	4	garbage can	truck	truck	outside	outside
+629	5	garbage can	truck	truck	outside	outside
+629	6	garbage can	truck	truck	outside	outside
+629	7	garbage can	truck	truck	outside	outside
+629	1	garbage truck	unk	unk	somewhere	somewhere
+629	2	garbage truck	unk	unk	somewhere	somewhere
+629	3	garbage truck	unk	unk	somewhere	somewhere
+629	4	garbage truck	unk	house	somewhere	house
+629	5	garbage truck	house	house	house	house
+629	6	garbage truck	house	house	house	landfill
+629	7	garbage truck	house	house	landfill	landfill
+629	1	trash	unk	plastic  bag	somewhere	plastic bag
+629	2	trash	truck	truck	plastic bag	plastic bag
+629	3	trash	truck	truck	plastic bag	plastic bag
+629	4	trash	truck	truck	plastic bag	plastic bag
+629	5	trash	truck	truck	plastic bag	plastic bag
+629	6	trash	truck	truck	plastic bag	plastic bag
+629	7	trash	truck	landfill	plastic bag	plastic bag
+826	1	heat	null	null	nuclear reactor	nuclear reactor
+826	2	heat	null	null	nuclear reactor	nuclear reactor
+826	3	heat	null	null	nuclear reactor	nuclear reactor
+826	4	heat	null	null	nuclear reactor	nuclear reactor
+826	5	heat	null	null	nuclear reactor	nuclear reactor
+826	1	steam	null	null	nowhere	nowhere
+826	2	steam	null	unk	nowhere	nuclear reactor
+826	3	steam	unk	turbines	nuclear reactor	turbine
+826	4	steam	turbines	turbines	turbine	turbine
+826	5	steam	turbines	turbines	turbine	turbine
+826	1	electricity	null	null	nowhere	nowhere
+826	2	electricity	null	null	nowhere	nowhere
+826	3	electricity	null	null	nowhere	nowhere
+826	4	electricity	null	turbines	nowhere	turbine
+826	5	electricity	unk	station	turbine	turbine
+542	1	filtered waste	unk	unk	nowhere	nowhere
+542	2	filtered waste	unk	unk	nowhere	nowhere
+542	3	filtered waste	unk	unk	nowhere	nowhere
+542	4	filtered waste	unk	unk	nowhere	kidney
+542	5	filtered waste	unk	unk	kidney	kidney
+542	6	filtered waste	unk	unk	kidney	nowhere
+542	7	filtered waste	unk	unk	nowhere	nowhere
+542	1	cleaned blood	unk	unk	nowhere	nowhere
+542	2	cleaned blood	unk	unk	nowhere	nowhere
+542	3	cleaned blood	unk	unk	nowhere	nowhere
+542	4	cleaned blood	unk	unk	nowhere	kidney
+542	5	cleaned blood	unk	unk	kidney	somewhere
+542	6	cleaned blood	unk	unk	somewhere	somewhere
+542	7	cleaned blood	unk	unk	somewhere	somewhere
+542	1	urine	null	null	nowhere	nowhere
+542	2	urine	null	null	nowhere	nowhere
+542	3	urine	null	null	nowhere	nowhere
+542	4	urine	null	null	nowhere	nowhere
+542	5	urine	null	null	nowhere	nowhere
+542	6	urine	null	blood	nowhere	kidney
+542	7	urine	kidney	bladder	kidney	bladder
+542	1	waste	null	blood	blood	blood
+542	2	waste	unk	unk	blood	blood
+542	3	waste	unk	unk	blood	blood
+542	4	waste	unk	unk	blood	kidney
+542	5	waste	unk	unk	kidney	kidney
+542	6	waste	unk	null	kidney	urine
+542	7	waste	null	null	urine	bladder
+542	1	blood	unk	unk	somewhere	somewhere
+542	2	blood	unk	kidney	somewhere	kidney
+542	3	blood	unk	unk	kidney	kidney
+542	4	blood	unk	unk	kidney	nowhere
+542	5	blood	unk	unk	nowhere	nowhere
+542	6	blood	unk	unk	nowhere	nowhere
+542	7	blood	unk	unk	nowhere	nowhere
+1197	1	food	unk	mouth	somewhere	mouth
+1197	2	food	unk	unk	mouth	mouth
+1197	3	food	unk	unk	mouth	stomach
+1197	4	food	unk	unk	stomach	nowhere
+1197	5	food	unk	small  intestine	nowhere	nowhere
+1197	6	food	small  intestine	small  intestine	nowhere	nowhere
+1197	7	food	small  intestine	small  intestine	nowhere	nowhere
+1197	8	food	small  intestine	small  intestine	nowhere	nowhere
+1197	9	food	small  intestine	small  intestine	nowhere	nowhere
+1197	1	broken down food	unk	unk	nowhere	nowhere
+1197	2	broken down food	unk	unk	nowhere	nowhere
+1197	3	broken down food	unk	unk	nowhere	nowhere
+1197	4	broken down food	unk	unk	nowhere	stomach
+1197	5	broken down food	unk	unk	stomach	small intestine
+1197	6	broken down food	unk	unk	small intestine	small intestine
+1197	7	broken down food	unk	unk	small intestine	nowhere
+1197	8	broken down food	unk	unk	nowhere	nowhere
+1197	9	broken down food	unk	unk	nowhere	nowhere
+1197	1	sugar	unk	unk	nowhere	nowhere
+1197	2	sugar	unk	unk	nowhere	nowhere
+1197	3	sugar	unk	unk	nowhere	nowhere
+1197	4	sugar	unk	unk	nowhere	nowhere
+1197	5	sugar	unk	unk	nowhere	nowhere
+1197	6	sugar	unk	unk	nowhere	nowhere
+1197	7	sugar	unk	unk	nowhere	blood
+1197	8	sugar	unk	body	blood	body
+1197	9	sugar	body	body	body	nowhere
+1197	1	energy	unk	unk	nowhere	nowhere
+1197	2	energy	unk	unk	nowhere	nowhere
+1197	3	energy	unk	unk	nowhere	nowhere
+1197	4	energy	unk	unk	nowhere	nowhere
+1197	5	energy	unk	unk	nowhere	nowhere
+1197	6	energy	unk	unk	nowhere	nowhere
+1197	7	energy	unk	unk	nowhere	nowhere
+1197	8	energy	unk	unk	nowhere	nowhere
+1197	9	energy	unk	unk	nowhere	muscle
+509	1	fuel	unk	chamber	somewhere	chamber
+509	2	fuel	unk	unk	chamber	chamber
+509	3	fuel	unk	null	chamber	chamber
+509	4	fuel	unk	null	chamber	chamber
+509	5	fuel	unk	unk	chamber	chamber
+509	6	fuel	unk	unk	chamber	chamber
+509	7	fuel	unk	unk	chamber	chamber
+509	8	fuel	unk	null	chamber	nowhere
+509	9	fuel	null	null	nowhere	nowhere
+509	10	fuel	null	null	nowhere	nowhere
+509	1	chemical energy	unk	unk	fuel	fuel
+509	2	chemical energy	unk	unk	fuel	fuel
+509	3	chemical energy	unk	unk	fuel	fuel
+509	4	chemical energy	unk	unk	fuel	fuel
+509	5	chemical energy	unk	null	fuel	nowhere
+509	6	chemical energy	null	null	nowhere	nowhere
+509	7	chemical energy	null	null	nowhere	nowhere
+509	8	chemical energy	null	null	nowhere	nowhere
+509	9	chemical energy	null	null	nowhere	nowhere
+509	10	chemical energy	null	null	nowhere	nowhere
+509	1	explosion	unk	unk	somewhere	somewhere
+509	2	explosion	unk	unk	somewhere	somewhere
+509	3	explosion	unk	unk	somewhere	somewhere
+509	4	explosion	unk	unk	somewhere	chamber
+509	5	explosion	unk	unk	chamber	chamber
+509	6	explosion	unk	unk	chamber	chamber
+509	7	explosion	unk	unk	chamber	somewhere
+509	8	explosion	unk	unk	somewhere	somewhere
+509	9	explosion	unk	unk	somewhere	somewhere
+509	10	explosion	unk	unk	somewhere	somewhere
+509	1	thermal energy	null	null	nowhere	nowhere
+509	2	thermal energy	null	null	nowhere	nowhere
+509	3	thermal energy	null	null	nowhere	nowhere
+509	4	thermal energy	null	null	nowhere	nowhere
+509	5	thermal energy	null	unk	nowhere	chamber
+509	6	thermal energy	unk	unk	chamber	chamber
+509	7	thermal energy	unk	unk	chamber	chamber
+509	8	thermal energy	unk	unk	chamber	chamber
+509	9	thermal energy	unk	unk	chamber	chamber
+509	10	thermal energy	unk	unk	chamber	chamber
+509	1	spent fuel	unk	unk	somewhere	chamber
+509	2	spent fuel	unk	unk	chamber	chamber
+509	3	spent fuel	unk	unk	chamber	chamber
+509	4	spent fuel	unk	unk	chamber	chamber
+509	5	spent fuel	unk	unk	chamber	chamber
+509	6	spent fuel	unk	unk	chamber	chamber
+509	7	spent fuel	unk	unk	chamber	chamber
+509	8	spent fuel	unk	unk	chamber	nowhere
+509	9	spent fuel	unk	unk	nowhere	nowhere
+509	10	spent fuel	unk	unk	nowhere	nowhere
+509	1	new fuel	unk	unk	nowhere	nowhere
+509	2	new fuel	unk	unk	nowhere	nowhere
+509	3	new fuel	unk	unk	nowhere	nowhere
+509	4	new fuel	unk	unk	nowhere	nowhere
+509	5	new fuel	unk	unk	nowhere	nowhere
+509	6	new fuel	unk	unk	nowhere	nowhere
+509	7	new fuel	unk	unk	nowhere	nowhere
+509	8	new fuel	unk	unk	nowhere	nowhere
+509	9	new fuel	unk	unk	nowhere	chamber
+509	10	new fuel	unk	unk	chamber	chamber
+509	1	piston	unk	unk	somewhere	somewhere
+509	2	piston	unk	unk	somewhere	somewhere
+509	3	piston	unk	unk	somewhere	somewhere
+509	4	piston	unk	unk	somewhere	somewhere
+509	5	piston	unk	unk	somewhere	somewhere
+509	6	piston	unk	unk	somewhere	somewhere
+509	7	piston	unk	unk	somewhere	somewhere
+509	8	piston	unk	unk	somewhere	somewhere
+509	9	piston	unk	unk	somewhere	somewhere
+509	10	piston	unk	unk	somewhere	somewhere
+446	1	crystals	null	null	nowhere	nowhere
+446	2	crystals	null	null	nowhere	nowhere
+446	3	crystals	null	igneous  rocks	nowhere	igneous rock
+446	4	crystals	igneous  rocks	igneous  rocks	igneous rock	sedimentary rock
+446	5	crystals	igneous  rocks	igneous  rocks	sedimentary rock	metamorphic rock
+446	6	crystals	igneous  rocks	igneous  rocks	metamorphic rock	magma
+446	1	sedimentary rocks	null	null	nowhere	nowhere
+446	2	sedimentary rocks	null	null	nowhere	nowhere
+446	3	sedimentary rocks	null	null	nowhere	nowhere
+446	4	sedimentary rocks	null	null	nowhere	somewhere
+446	5	sedimentary rocks	null	null	somewhere	nowhere
+446	6	sedimentary rocks	null	null	nowhere	nowhere
+446	1	magma	volcano	unk	volcano	volcano
+446	2	magma	unk	unk	volcano	volcano
+446	3	magma	unk	null	volcano	nowhere
+446	4	magma	null	null	nowhere	nowhere
+446	5	magma	null	null	nowhere	nowhere
+446	6	magma	null	unk	nowhere	nowhere
+446	1	metamorphic rock	null	null	nowhere	nowhere
+446	2	metamorphic rock	null	null	nowhere	nowhere
+446	3	metamorphic rock	null	null	nowhere	nowhere
+446	4	metamorphic rock	null	null	nowhere	nowhere
+446	5	metamorphic rock	null	unk	nowhere	somewhere
+446	6	metamorphic rock	unk	unk	somewhere	nowhere
+446	1	igneous rocks	null	null	nowhere	nowhere
+446	2	igneous rocks	null	null	nowhere	nowhere
+446	3	igneous rocks	null	null	nowhere	volcano
+446	4	igneous rocks	null	null	volcano	nowhere
+446	5	igneous rocks	null	null	nowhere	nowhere
+446	6	igneous rocks	null	null	nowhere	nowhere
+431	1	trash	unk	household  trashbag	house	trashbag
+431	2	trash	unk	unk	trashbag	trashcan
+431	3	trash	unk	unk	trashcan	trash truck
+431	4	trash	unk	landfill	trash truck	landfill
+431	5	trash	unk	unk	landfill	landfill
+431	1	trash truck	unk	unk	somewhere	somewhere
+431	2	trash truck	unk	unk	somewhere	somewhere
+431	3	trash truck	unk	unk	somewhere	somewhere
+431	4	trash truck	unk	landfill	somewhere	landfill
+431	5	trash truck	landfill	landfill	landfill	landfill
+431	1	trashbags	unk	unk	house	house
+431	2	trashbags	unk	unk	house	trashcan
+431	3	trashbags	unk	unk	trashcan	trash truck
+431	4	trashbags	unk	unk	trash truck	landfill
+431	5	trashbags	unk	unk	landfill	landfill
+1113	1	caves	unk	unk	nowhere	nowhere
+1113	2	caves	unk	unk	nowhere	nowhere
+1113	3	caves	unk	unk	nowhere	nowhere
+1113	4	caves	unk	unk	nowhere	nowhere
+1113	5	caves	unk	unk	nowhere	nowhere
+1113	6	caves	unk	null	nowhere	limestone
+1113	1	limestone	unk	unk	soil	soil
+1113	2	limestone	unk	unk	soil	soil
+1113	3	limestone	unk	unk	soil	soil
+1113	4	limestone	unk	unk	soil	soil
+1113	5	limestone	unk	unk	soil	nowhere
+1113	6	limestone	unk	unk	nowhere	nowhere
+1113	1	weak acid	null	null	nowhere	nowhere
+1113	2	weak acid	null	null	nowhere	nowhere
+1113	3	weak acid	null	null	nowhere	nowhere
+1113	4	weak acid	null	unk	nowhere	soil
+1113	5	weak acid	unk	unk	soil	limestone
+1113	6	weak acid	unk	unk	limestone	limestone
+1113	1	water	unk	unk	air	air
+1113	2	water	unk	unk	air	soil
+1113	3	water	unk	unk	soil	soil
+1113	4	water	unk	null	soil	nowhere
+1113	5	water	null	null	nowhere	nowhere
+1113	6	water	null	null	nowhere	nowhere
+1113	1	rainwater	unk	carbon	air	air
+1113	2	rainwater	unk	soil	air	soil
+1113	3	rainwater	soil	soil	soil	soil
+1113	4	rainwater	soil	soil	soil	soil
+1113	5	rainwater	soil	soil	soil	limestone
+1113	6	rainwater	soil	soil	limestone	limestone
+1113	1	carbon dioxide	air	rainwater	air	rainwater
+1113	2	carbon dioxide	unk	unk	rainwater	rainwater
+1113	3	carbon dioxide	unk	soil	rainwater	rainwater
+1113	4	carbon dioxide	soil	soil	rainwater	rainwater
+1113	5	carbon dioxide	soil	soil	rainwater	rainwater
+1113	6	carbon dioxide	soil	soil	rainwater	rainwater
+272	1	magnet	unk	unk	somewhere	somewhere
+272	2	magnet	unk	unk	somewhere	somewhere
+272	3	magnet	unk	unk	somewhere	near a wire
+272	4	magnet	unk	unk	near a wire	somewhere
+272	5	magnet	unk	unk	somewhere	somewhere
+272	6	magnet	unk	unk	somewhere	somewhere
+272	1	fuel	unk	generator	somewhere	generator
+272	2	fuel	generator	generator	generator	nowhere
+272	3	fuel	generator	generator	nowhere	nowhere
+272	4	fuel	generator	generator	nowhere	nowhere
+272	5	fuel	generator	generator	nowhere	nowhere
+272	6	fuel	generator	generator	nowhere	nowhere
+272	1	mechanical energy	unk	unk	somewhere	generator
+272	2	mechanical energy	unk	null	generator	nowhere
+272	3	mechanical energy	null	null	nowhere	nowhere
+272	4	mechanical energy	null	null	nowhere	nowhere
+272	5	mechanical energy	null	null	nowhere	nowhere
+272	6	mechanical energy	null	null	nowhere	nowhere
+272	1	flow of electrons	null	null	nowhere	nowhere
+272	2	flow of electrons	null	null	nowhere	nowhere
+272	3	flow of electrons	null	null	nowhere	nowhere
+272	4	flow of electrons	null	unk	nowhere	somewhere
+272	5	flow of electrons	unk	unk	somewhere	wire
+272	6	flow of electrons	unk	unk	wire	generator
+272	1	electrical energy	null	null	nowhere	nowhere
+272	2	electrical energy	null	generator	nowhere	generator
+272	3	electrical energy	generator	generator	generator	generator
+272	4	electrical energy	generator	generator	generator	generator
+272	5	electrical energy	generator	generator	generator	generator
+272	6	electrical energy	generator	generator	generator	generator
+272	1	electricity	unk	unk	nowhere	nowhere
+272	2	electricity	unk	unk	nowhere	nowhere
+272	3	electricity	unk	unk	nowhere	nowhere
+272	4	electricity	unk	unk	nowhere	somewhere
+272	5	electricity	unk	wire	somewhere	wire
+272	6	electricity	unk	generator	wire	generator
+631	1	bags	unk	unk	somewhere	somewhere
+631	2	bags	unk	trashcan	somewhere	trashcan
+631	3	bags	trashcan	trashcan	trashcan	trashcan
+631	4	bags	trashcan	trashcan	trashcan	trash truck
+631	5	bags	trashcan	trashcan	trash truck	trash truck
+631	6	bags	trashcan	trashcan	trash truck	trash truck
+631	7	bags	trashcan	trashcan	trash truck	landfill
+631	1	trashcan	unk	unk	somewhere	somewhere
+631	2	trashcan	unk	unk	somewhere	somewhere
+631	3	trashcan	unk	unk	somewhere	curb
+631	4	trashcan	unk	unk	curb	curb
+631	5	trashcan	unk	unk	curb	curb
+631	6	trashcan	unk	unk	curb	curb
+631	7	trashcan	unk	unk	curb	curb
+631	1	truck	unk	unk	somewhere	somewhere
+631	2	truck	unk	unk	somewhere	somewhere
+631	3	truck	unk	unk	somewhere	somewhere
+631	4	truck	unk	unk	somewhere	curb
+631	5	truck	unk	unk	curb	somewhere
+631	6	truck	unk	landfill	somewhere	landfill
+631	7	truck	unk	landfill	landfill	somewhere
+631	1	trash truck	unk	unk	somewhere	somewhere
+631	2	trash truck	unk	unk	somewhere	somewhere
+631	3	trash truck	unk	unk	somewhere	somewhere
+631	4	trash truck	unk	unk	somewhere	curb
+631	5	trash truck	unk	unk	curb	somewhere
+631	6	trash truck	unk	unk	somewhere	landfill
+631	7	trash truck	unk	unk	landfill	somewhere
+631	1	trash	unk	unk	somewhere	bag
+631	2	trash	unk	unk	bag	bag
+631	3	trash	unk	unk	bag	bag
+631	4	trash	unk	unk	bag	bag
+631	5	trash	unk	unk	bag	bag
+631	6	trash	unk	unk	bag	bag
+631	7	trash	unk	unk	bag	bag
+1008	1	bacteria	unk	unk	ground	ground
+1008	2	bacteria	unk	unk	ground	plant material
+1008	3	bacteria	unk	unk	plant material	plant material
+1008	4	bacteria	unk	unk	plant material	plant material
+1008	5	bacteria	unk	unk	plant material	plant material
+1008	1	enzymes	null	null	bacterium	bacterium
+1008	2	enzymes	null	null	bacterium	bacterium
+1008	3	enzymes	null	null	bacterium	plant material
+1008	4	enzymes	null	null	plant material	plant material
+1008	5	enzymes	null	null	plant material	plant material
+1008	1	plant cells	unk	unk	plant	plant
+1008	2	plant cells	unk	unk	plant	plant
+1008	3	plant cells	unk	unk	plant	plant
+1008	4	plant cells	unk	unk	plant	nowhere
+1008	5	plant cells	unk	unk	nowhere	nowhere
+1008	1	components	unk	unk	nowhere	nowhere
+1008	2	components	unk	unk	nowhere	nowhere
+1008	3	components	unk	unk	nowhere	nowhere
+1008	4	components	unk	unk	nowhere	plant
+1008	5	components	unk	unk	plant	nowhere
+1259	1	thread	unk	unk	nowhere	nowhere
+1259	2	thread	unk	unk	nowhere	gland
+1259	3	thread	unk	unk	gland	several point
+1259	4	thread	unk	unk	several point	web
+1259	5	thread	unk	unk	web	web
+1259	1	web	null	null	nowhere	nowhere
+1259	2	web	null	null	nowhere	nowhere
+1259	3	web	null	null	nowhere	nowhere
+1259	4	web	null	null	nowhere	suitable place
+1259	5	web	null	null	suitable place	suitable place
+1226	1	food	unk	gut	somewhere	gut
+1226	2	food	gut	gut	gut	nowhere
+1226	3	food	gut	gut	nowhere	nowhere
+1226	4	food	gut	gut	nowhere	nowhere
+1226	5	food	gut	gut	nowhere	nowhere
+1226	6	food	gut	gut	nowhere	nowhere
+1226	1	enyzmes	null	null	nowhere	nowhere
+1226	2	enyzmes	null	pancreas	nowhere	pancreas
+1226	3	enyzmes	pancreas	pancreas	pancreas	pancreas
+1226	4	enyzmes	pancreas	pancreas	pancreas	pancreas
+1226	5	enyzmes	pancreas	pancreas	pancreas	pancreas
+1226	6	enyzmes	pancreas	pancreas	pancreas	pancreas
+1226	1	fat	unk	unk	food	food
+1226	2	fat	unk	unk	food	food
+1226	3	fat	unk	unk	food	nowhere
+1226	4	fat	unk	unk	nowhere	nowhere
+1226	5	fat	unk	unk	nowhere	nowhere
+1226	6	fat	unk	unk	nowhere	nowhere
+1226	1	carbohydrates	unk	unk	food	food
+1226	2	carbohydrates	unk	unk	food	food
+1226	3	carbohydrates	unk	unk	food	food
+1226	4	carbohydrates	unk	unk	food	nowhere
+1226	5	carbohydrates	unk	unk	nowhere	nowhere
+1226	6	carbohydrates	unk	unk	nowhere	nowhere
+1002	1	dirty laundry	unk	unk	somewhere	wash machine
+1002	2	dirty laundry	unk	unk	wash machine	wash machine
+1002	3	dirty laundry	unk	unk	wash machine	wash machine
+1002	4	dirty laundry	unk	unk	wash machine	wash machine
+1002	5	dirty laundry	unk	unk	wash machine	wash machine
+1002	1	laundry detergent	unk	unk	somewhere	somewhere
+1002	2	laundry detergent	unk	unk	somewhere	wash machine
+1002	3	laundry detergent	unk	unk	wash machine	wash machine
+1002	4	laundry detergent	unk	unk	wash machine	wash machine
+1002	5	laundry detergent	unk	unk	wash machine	wash machine
+634	1	electricity	unk	power  supply	somewhere	power supply unit
+634	2	electricity	null	null	power supply unit	transistor
+634	3	electricity	null	unk	transistor	cpu
+634	4	electricity	unk	null	cpu	cpu
+634	5	electricity	null	null	cpu	cpu
+634	6	electricity	null	null	cpu	nowhere
+634	1	energy	unk	unk	somewhere	power supply unit
+634	2	energy	unk	unk	power supply unit	transistor
+634	3	energy	unk	unk	transistor	cpu
+634	4	energy	unk	unk	cpu	cpu
+634	5	energy	unk	unk	cpu	cpu
+634	6	energy	unk	null	cpu	nowhere
+634	1	visual signals	null	null	nowhere	nowhere
+634	2	visual signals	null	null	nowhere	nowhere
+634	3	visual signals	null	null	nowhere	nowhere
+634	4	visual signals	null	null	nowhere	nowhere
+634	5	visual signals	null	unk	nowhere	cpu
+634	6	visual signals	unk	unk	cpu	cpu
+634	1	computations	null	null	nowhere	nowhere
+634	2	computations	null	null	nowhere	nowhere
+634	3	computations	null	null	nowhere	nowhere
+634	4	computations	null	null	nowhere	nowhere
+634	5	computations	null	null	nowhere	nowhere
+634	6	computations	null	unk	nowhere	cpu
+544	1	fluid	null	unk	somewhere	kidney
+544	2	fluid	unk	unk	kidney	kidney
+544	3	fluid	unk	unk	kidney	kidney
+544	4	fluid	unk	unk	kidney	urine
+544	5	fluid	unk	unk	urine	somewhere
+544	6	fluid	unk	unk	somewhere	somewhere
+544	1	toxins	null	null	fluid	fluid
+544	2	toxins	null	null	fluid	fluid
+544	3	toxins	null	unk	fluid	kidney
+544	4	toxins	unk	unk	kidney	nowhere
+544	5	toxins	unk	unk	nowhere	nowhere
+544	6	toxins	unk	unk	nowhere	nowhere
+544	1	fluids and liquids	null	unk	somewhere	kidney
+544	2	fluids and liquids	unk	unk	kidney	kidney
+544	3	fluids and liquids	unk	unk	kidney	kidney
+544	4	fluids and liquids	unk	unk	kidney	urine
+544	5	fluids and liquids	unk	unk	urine	somewhere
+544	6	fluids and liquids	unk	unk	somewhere	somewhere
+544	1	urine	null	null	nowhere	nowhere
+544	2	urine	null	null	nowhere	nowhere
+544	3	urine	null	null	nowhere	nowhere
+544	4	urine	null	null	nowhere	kidney
+544	5	urine	null	unk	kidney	somewhere
+544	6	urine	unk	unk	somewhere	somewhere
+544	1	nutrients	unk	unk	somewhere	kidney
+544	2	nutrients	unk	unk	kidney	kidney
+544	3	nutrients	unk	unk	kidney	kidney
+544	4	nutrients	unk	unk	kidney	urine
+544	5	nutrients	unk	unk	urine	somewhere
+544	6	nutrients	unk	body	somewhere	somewhere
+825	1	heat energy	null	null	nowhere	nowhere
+825	2	heat energy	null	null	nowhere	nowhere
+825	3	heat energy	null	null	nowhere	nowhere
+825	4	heat energy	null	null	nowhere	somewhere
+825	5	heat energy	null	unk	somewhere	uranium
+825	6	heat energy	unk	null	uranium	uranium
+825	7	heat energy	null	null	uranium	nuclear reactor
+825	8	heat energy	null	null	nuclear reactor	nuclear reactor
+825	9	heat energy	null	null	nuclear reactor	nuclear reactor
+825	10	heat energy	null	null	nuclear reactor	nuclear reactor
+825	1	water	unk	unk	somewhere	somewhere
+825	2	water	unk	unk	somewhere	somewhere
+825	3	water	unk	unk	somewhere	somewhere
+825	4	water	unk	unk	somewhere	somewhere
+825	5	water	unk	unk	somewhere	somewhere
+825	6	water	unk	null	somewhere	nowhere
+825	7	water	null	null	nowhere	nowhere
+825	8	water	null	null	nowhere	nowhere
+825	9	water	null	null	nowhere	nowhere
+825	10	water	null	null	nowhere	nuclear power plant
+825	1	steam	null	null	nowhere	nowhere
+825	2	steam	null	null	nowhere	nowhere
+825	3	steam	null	null	nowhere	nowhere
+825	4	steam	null	null	nowhere	nowhere
+825	5	steam	null	null	nowhere	nowhere
+825	6	steam	null	unk	nowhere	nuclear reactor
+825	7	steam	unk	unk	nuclear reactor	nuclear reactor
+825	8	steam	unk	unk	nuclear reactor	nuclear reactor
+825	9	steam	unk	unk	nuclear reactor	nuclear reactor
+825	10	steam	unk	water	nuclear reactor	nowhere
+825	1	uranium atoms	null	null	underground	underground
+825	2	uranium atoms	null	null	underground	somewhere
+825	3	uranium atoms	null	null	somewhere	nuclear power plant
+825	4	uranium atoms	null	unk	nuclear power plant	nowhere
+825	5	uranium atoms	unk	unk	nowhere	nowhere
+825	6	uranium atoms	unk	unk	nowhere	nowhere
+825	7	uranium atoms	unk	unk	nowhere	nowhere
+825	8	uranium atoms	unk	unk	nowhere	nowhere
+825	9	uranium atoms	unk	unk	nowhere	nowhere
+825	10	uranium atoms	unk	unk	nowhere	nowhere
+825	1	electricity	null	null	nowhere	nowhere
+825	2	electricity	null	null	nowhere	nowhere
+825	3	electricity	null	null	nowhere	nowhere
+825	4	electricity	null	null	nowhere	nowhere
+825	5	electricity	null	null	nowhere	nowhere
+825	6	electricity	null	null	nowhere	nowhere
+825	7	electricity	null	null	nowhere	nowhere
+825	8	electricity	null	null	nowhere	nowhere
+825	9	electricity	null	generators	nowhere	generator
+825	10	electricity	generators	generators	generator	generator
+825	1	uranium	null	null	underground	underground
+825	2	uranium	null	unk	underground	somewhere
+825	3	uranium	unk	null	somewhere	nuclear power plant
+825	4	uranium	unk	null	nuclear power plant	nowhere
+825	5	uranium	null	null	nowhere	nowhere
+825	6	uranium	null	null	nowhere	nowhere
+825	7	uranium	null	null	nowhere	nowhere
+825	8	uranium	null	null	nowhere	nowhere
+825	9	uranium	null	null	nowhere	nowhere
+825	10	uranium	null	null	nowhere	nowhere
+610	1	fuel	unk	unk	combustion chamber	combustion chamber
+610	2	fuel	unk	null	combustion chamber	combustion chamber
+610	3	fuel	null	null	combustion chamber	combustion chamber
+610	4	fuel	null	null	combustion chamber	combustion chamber
+610	5	fuel	null	null	combustion chamber	combustion chamber
+610	6	fuel	null	null	combustion chamber	combustion chamber
+610	7	fuel	null	null	combustion chamber	combustion chamber
+610	8	fuel	null	null	combustion chamber	combustion chamber
+610	1	air	unk	unk	somewhere	somewhere
+610	2	air	unk	unk	somewhere	somewhere
+610	3	air	unk	cylinder	somewhere	cylinder
+610	4	air	unk	unk	cylinder	cylinder
+610	5	air	unk	unk	cylinder	cylinder
+610	6	air	unk	unk	cylinder	cylinder
+610	7	air	unk	unk	cylinder	cylinder
+610	8	air	unk	cylinder	cylinder	somewhere
+610	1	spark	unk	unk	nowhere	nowhere
+610	2	spark	unk	unk	nowhere	nowhere
+610	3	spark	unk	unk	nowhere	nowhere
+610	4	spark	unk	unk	nowhere	nowhere
+610	5	spark	unk	unk	nowhere	cylinder
+610	6	spark	unk	unk	cylinder	nowhere
+610	7	spark	unk	unk	nowhere	nowhere
+610	8	spark	unk	unk	nowhere	nowhere
+610	1	pressure	unk	unk	nowhere	nowhere
+610	2	pressure	unk	unk	nowhere	nowhere
+610	3	pressure	unk	unk	nowhere	nowhere
+610	4	pressure	unk	unk	nowhere	nowhere
+610	5	pressure	unk	unk	nowhere	cylinder
+610	6	pressure	unk	piston	cylinder	cylinder
+610	7	pressure	piston	piston	cylinder	cylinder
+610	8	pressure	piston	piston	cylinder	cylinder
+1112	1	caves	null	null	nowhere	nowhere
+1112	2	caves	null	null	nowhere	nowhere
+1112	3	caves	null	null	nowhere	nowhere
+1112	4	caves	null	null	nowhere	nowhere
+1112	5	caves	null	unk	nowhere	limestone
+1112	1	limestone	unk	unk	soil	soil
+1112	2	limestone	unk	unk	soil	soil
+1112	3	limestone	unk	unk	soil	soil
+1112	4	limestone	unk	unk	soil	nowhere
+1112	5	limestone	unk	unk	nowhere	nowhere
+1112	1	rain	unk	unk	air	air
+1112	2	rain	unk	unk	air	air
+1112	3	rain	unk	unk	air	nowhere
+1112	4	rain	unk	unk	nowhere	nowhere
+1112	5	rain	unk	unk	nowhere	nowhere
+1112	1	acid	unk	unk	nowhere	nowhere
+1112	2	acid	unk	unk	nowhere	nowhere
+1112	3	acid	unk	unk	nowhere	soil
+1112	4	acid	unk	unk	soil	soil
+1112	5	acid	unk	unk	soil	cave
+1112	1	carbon dioxide	air	air	air	air
+1112	2	carbon dioxide	air	rain	air	nowhere
+1112	3	carbon dioxide	rain	rain	nowhere	nowhere
+1112	4	carbon dioxide	rain	rain	nowhere	nowhere
+1112	5	carbon dioxide	rain	rain	nowhere	nowhere
