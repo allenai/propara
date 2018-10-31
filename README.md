@@ -59,7 +59,7 @@ ProStruct model is described in our EMNLP'18 paper:
 
 
 # Download the dataset
-You can download the dataset used in the NAACL'18 paper from 
+You can download the ProPara dataset from
   ```
    http://data.allenai.org/propara/
   ``` 
@@ -72,10 +72,10 @@ Detailed instructions are given in the following READMEs:
 
 If you find these models helpful in your work, please cite:
 ```
-@inproceedings{proparNaacl2018,
+@article{proparNaacl2018,
      Title = {Tracking State Changes in Procedural Text: A Challenge Dataset and Models for Process Paragraph Comprehension},
-     Author = { {Bhavana Dalvi, Lifu Huang}, Niket Tandon, Wen-tau Yih, Peter Clark},
-     Booktitle = {NAACL},
+     Author = {Bhavana Dalvi and Lifu Huang and Niket Tandon and Wen-tau Yih and Peter Clark},
+     journal = {NAACL},
      Year = {2018}
 }
 
