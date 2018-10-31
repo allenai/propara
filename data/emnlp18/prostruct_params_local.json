@@ -46,6 +46,12 @@
     },
     "other_configs": {
       "constraint_rules_to_turn_on": "1,1,1,1",
+      // rule-1: "No toggling predictions of create,destroy,create,destroy for a single entity"
+      // rule-2: "No more than fraction=x participants change in any given step, x define by rule_2_fraction_participants below"
+      // rule-3: "A single entity does not change in more than fraction=y steps in the process, y defined by rule_3_fraction_steps below."
+      // rule-4: "An entity doesnot change at step-t unless it is mentioned anywhere in steps 1 to t, t included."
+      // We set these rules to "1,1,1,1" while trainign the model, and relax them to "0,0,0,1" at the prediction time.
+      // To change the rule selection, you need to unzip the learned model and change the constraint_rules_to_turn_on in config.json file.
       "rule_2_fraction_participants": 0.5,
       "rule_3_fraction_steps": 0.5
     },
