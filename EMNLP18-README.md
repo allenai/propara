@@ -1,6 +1,4 @@
-Download glove embeddings file from https://nlp.stanford.edu/projects/glove/ and store it as data/glove.6B.100d.txt.gz
-
-Initialize the environment created as per the main README in this GitHub project
+Initialize the environment created as per the file README.md in the root directory.
 ```
     source activate propara
     export PYTHONPATH=.
@@ -27,7 +25,8 @@ Command that takes the ProStruct model predictions in json format and converts t
 Evaluate a model's predictions on the EMNLP'18 task:
 
 ```
-    Download the evaluator code from AI2 leaderboard website:
+    ** Under construction
+    Download the evaluator code from Aristo leaderboard repository (https://github.com/allenai/aristo-leaderboard):
     “code link with the instructions to run the evaluation will be available soon”
 
 ```

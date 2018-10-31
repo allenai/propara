@@ -2,7 +2,7 @@
 Data and code related to our recent [EMNLP'18 paper] (https://arxiv.org/abs/1808.10012) is released on 31st Oct 2018.
 **Code contributors: Niket Tandon, Bhavana Dalvi Mishra, Joel Grus
 
-Detailed instructions to train your own ProStruct model can be found at: data/emnlp18/README.md
+Detailed instructions to train your own ProStruct model can be found in: EMNLP18-README.md
 
 ** Evaluation code for this task will soon be released on our public leaderboard: Link to appear soon....
 
@@ -51,13 +51,7 @@ ProStruct model is described in our EMNLP'18 paper:
   pip install -r requirements.txt
   ```
 
-4. Install Spacy models
-
-    ```
-        python -m spacy download en
-    ```
-
-5. Test installation
+4. Test installation
 
  ```
  pytest -v
