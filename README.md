@@ -5,8 +5,16 @@ Data and code related to our recent [EMNLP'18 paper] (https://arxiv.org/abs/1808
 
 Detailed instructions to train your own ProStruct model can be found in: EMNLP18-README.md
 
-** Evaluation code for this task will soon be released on our public leaderboard: Link to appear soon....
+Evaluate your model's predictions on the ProPara task (EMNLP'18):
+```
+    Download the evaluator code from a separate leaderboard repository:
+    https://github.com/allenai/aristo-leaderboard/tree/master/propara
+```
 
+ProPara leaderboard is now live at:
+```
+https://leaderboard.allenai.org/propara/submissions/get-started
+```
 
 # ProPara
 The ProPara dataset is designed to train and test comprehension of simple paragraphs describing processes, e.g., photosynthesis. We treat the comprehension task as that of predicting, tracking, and answering questions about how entities change during the process.
@@ -69,7 +77,7 @@ You can download the ProPara dataset from
 Detailed instructions are given in the following READMEs:
  * ProLocal: data/naacl18/prolocal/README.md
  * ProGlobal: data/naacl18/proglobal/README.md
- * ProStruct: data/emnlp18/README.md
+ * ProStruct: EMNLP18-README.md
 
 If you find these models helpful in your work, please cite:
 ```

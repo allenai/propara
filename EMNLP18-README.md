@@ -25,7 +25,6 @@ Command that takes the ProStruct model predictions in json format and converts t
 Evaluate a model's predictions on the EMNLP'18 task:
 
 ```
-    ** Under construction
     Download the evaluator code from a separate leaderboard repository:
     https://github.com/allenai/aristo-leaderboard/tree/master/propara
 ```
