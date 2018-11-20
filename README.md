@@ -8,12 +8,12 @@ Detailed instructions to train your own ProStruct model can be found in: EMNLP18
 Evaluate your model's predictions on the ProPara task (EMNLP'18):
 ```
     Download the evaluator code from a separate leaderboard repository:
-    https://github.com/allenai/aristo-leaderboard/tree/master/propara
+    (https://github.com/allenai/aristo-leaderboard/tree/master/propara)
 ```
 
 ProPara leaderboard is now live at:
 ```
-https://leaderboard.allenai.org/propara/submissions/get-started
+(https://leaderboard.allenai.org/propara)
 ```
 
 # ProPara
