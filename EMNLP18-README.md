@@ -23,7 +23,7 @@ Command that takes the ProStruct model predictions in json format and converts t
 ```
 
 To evaluate your model's predictions on the ProPara task (EMNLP'18),
-please Download the evaluator code from a separate leaderboard repository: (https://github.com/allenai/aristo-leaderboard/tree/master/propara)
+please Download the evaluator code from a separate leaderboard repository: https://github.com/allenai/aristo-leaderboard/tree/master/propara
 
 
-ProPara leaderboard is now live at: (https://leaderboard.allenai.org/propara)
+ProPara leaderboard is now live at: https://leaderboard.allenai.org/propara
