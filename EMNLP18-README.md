@@ -27,6 +27,10 @@ Evaluate a model's predictions on the EMNLP'18 task:
 ```
     ** Under construction
     Download the evaluator code from a separate leaderboard repository:
-    “code link with the instructions to run the evaluation will be available soon”
+    https://github.com/allenai/aristo-leaderboard/tree/master/propara
+```
 
+Our public leaderboard is now live at:
+```
+https://leaderboard.allenai.org/propara/submissions/get-started
 ```
