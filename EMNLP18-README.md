@@ -22,14 +22,8 @@ Command that takes the ProStruct model predictions in json format and converts t
     python propara/utils/prostruct_predicted_json_to_tsv_grid.py /tmp/pl1/predictions/pred.test.json /tmp/pl1/predictions/pred.test.tsv
 ```
 
-Evaluate a model's predictions on the EMNLP'18 task:
+To evaluate your model's predictions on the ProPara task (EMNLP'18),
+please Download the evaluator code from a separate leaderboard repository: (https://github.com/allenai/aristo-leaderboard/tree/master/propara)
 
-```
-    Download the evaluator code from a separate leaderboard repository:
-    (https://github.com/allenai/aristo-leaderboard/tree/master/propara)
-```
 
-Our public leaderboard is now live at:
-```
-(https://leaderboard.allenai.org/propara)
-```
+ProPara leaderboard is now live at: (https://leaderboard.allenai.org/propara)
