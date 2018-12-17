@@ -1,7 +1,7 @@
 # EMNLP 2018 Update
 Data and code related to our recent [EMNLP'18 paper] (https://arxiv.org/abs/1808.10012) is released on 31st Oct 2018.
 
-**Code contributors: Niket Tandon, Bhavana Dalvi Mishra, Joel Grus
+**Code contributors: Bhavana Dalvi Mishra, Niket Tandon, Joel Grus
 
 Detailed instructions to train your own ProStruct model can be found in: EMNLP18-README.md
 
