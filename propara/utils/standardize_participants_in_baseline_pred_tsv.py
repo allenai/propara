@@ -123,8 +123,9 @@ def read_grid_input(infile_path, outfile_path):
          output_filepath=str(outfile_path))
 
 if __name__ == '__main__':
-    indir = "/tmp/proglobal/"
-    read_grid_input(
-        infile_path=indir+'/proglobal.test.pred.tsv',
-        outfile_path=indir+'/proglobal.test.pred.stdParticipants.tsv'
-    )
+    infile = sys.argv[1]
+    outfile = sys.argv[2]
+    # Example usage:
+    # python propara/utils/standardize_participants_in_baseline_pred_tsv.py /tmp/proglobal/proglobal.test.pred.tsv /tmp/proglobal/proglobal.test.pred.stdParticipants.tsv
+
+    read_grid_input(infile_path=infile, outfile_path=outfile)
