@@ -5,14 +5,15 @@ Depedency graph dataset is available to download at:
 
 Contact: {bhavanad,nikett,peterc}@allenai.org	
 
-If you find these models helpful in your work, please cite:
+If you find this dataset helpful in your work, please cite:
 ```
 @article{xpademnlp2019,
      Title = {Everything Happens for a Reason: Discovering the Purpose of Actions in Procedural Text},
      Author = {Bhavana Dalvi, Niket Tandon, Antoine Bosselut, Wen-tau Yih and Peter Clark},
      journal = {EMNLP},
      Year = {2019}
-}
+}```
+
 
 The XPAD Dependency Graph Dataset	
 ==================================
