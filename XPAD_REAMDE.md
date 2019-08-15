@@ -1,9 +1,8 @@
 # EMNLP 2019 Update
 
-**Paper: Everything Happens for a Reason: Discovering the Purpose of Actions in Procedural Text, **
-         
-	 **Bhavana Dalvi*, Niket Tandon*, Antoine Bosselut, Wen-tau Yih and Peter Clark**
-       (camera ready link coming up soon)
+**Paper:** Everything Happens for a Reason: Discovering the Purpose of Actions in Procedural Text,
+           Bhavana Dalvi*, Niket Tandon*, Antoine Bosselut, Wen-tau Yih and Peter Clark
+           (camera ready link coming up soon)
        
 Depedency graph dataset is available to download at:
 [link](https://docs.google.com/spreadsheets/d/1UOqqJGstexgtWxMiNU090ALo9Dbd2Z7i4t441_FRk44/edit?usp=sharing)
