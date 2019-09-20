@@ -37,7 +37,7 @@ def convert_tsv_to_json(infile_path: str, outfile_path: str):
                 continue
 
             participants = next(group)[3:]
-            prompt = next(group)[2]
+            prompt = next(group)[2].split("PROMPT: ")[-1]
 
             # states[i][j] is the state of the i-th participant at time j
             states = [[] for _ in participants]
@@ -58,6 +58,7 @@ def convert_tsv_to_json(infile_path: str, outfile_path: str):
             # output the paragraph into json format
             out_file.write("{")
             out_file.write("\"para_id\": " + json.dumps(group_id) + ", ")
+            out_file.write("\"prompt\": " + json.dumps(prompt) + ", ")
             out_file.write("\"sentence_texts\": " + json.dumps(sentence_texts) + ", ")
             out_file.write("\"participants\": " + json.dumps(participants) + ", ")
             out_file.write("\"states\": " + json.dumps(states))
@@ -67,3 +68,8 @@ def convert_tsv_to_json(infile_path: str, outfile_path: str):
 if __name__ == '__main__':
     convert_tsv_to_json(infile_path='../../data/emnlp18/grids.v1.train.tsv',
                         outfile_path='../../data/emnlp18/grids.v1.train.json')
+    convert_tsv_to_json(infile_path='../../data/emnlp18/grids.v1.dev.tsv',
+                        outfile_path='../../data/emnlp18/grids.v1.dev.json')
+    convert_tsv_to_json(infile_path='../../data/emnlp18/grids.v1.test.tsv',
+                        outfile_path='../../data/emnlp18/grids.v1.test.json')
+
